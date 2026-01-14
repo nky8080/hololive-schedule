@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-14T17:18:17.613Z",
+  "updatedAt": "2026-01-14T17:48:05.237Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -379,7 +379,7 @@
       "url": "https://www.youtube.com/watch?v=GCLEVv1FWwk",
       "thumbnail": "https://img.youtube.com/vi/GCLEVv1FWwk/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "gigi_murin",
@@ -459,7 +459,7 @@
       "url": "https://www.youtube.com/watch?v=v_n5qsV9pEA",
       "thumbnail": "https://img.youtube.com/vi/v_n5qsV9pEA/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "vestia_zeta",
@@ -469,7 +469,7 @@
       "url": "https://www.youtube.com/watch?v=uT_ks-0mW8Q",
       "thumbnail": "https://img.youtube.com/vi/uT_ks-0mW8Q/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "ayunda_risu",
@@ -829,7 +829,7 @@
       "url": "https://www.youtube.com/watch?v=EzevFrOOQlU",
       "thumbnail": "https://img.youtube.com/vi/EzevFrOOQlU/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "isaki_riona",
