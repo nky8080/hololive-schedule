@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-14T19:30:27.012Z",
+  "updatedAt": "2026-01-14T19:41:36.955Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -369,7 +369,7 @@
       "url": "https://www.youtube.com/watch?v=KqN6_MgWYhg",
       "thumbnail": "https://img.youtube.com/vi/KqN6_MgWYhg/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "takanashi_kiara",
