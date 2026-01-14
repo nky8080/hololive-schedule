@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-14T15:55:02.833Z",
+  "updatedAt": "2026-01-14T16:15:34.864Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -119,7 +119,7 @@
       "url": "https://www.youtube.com/watch?v=LetMxyU2veY",
       "thumbnail": "https://img.youtube.com/vi/LetMxyU2veY/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -412,6 +412,16 @@
       "isLive": false
     },
     {
+      "talentId": "fuwamoco",
+      "talentName": "FUWAMOCO",
+      "groupId": "en_advent",
+      "startTime": "2026-01-15T11:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=-YKFoWx2izY",
+      "thumbnail": "https://img.youtube.com/vi/-YKFoWx2izY/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "ayunda_risu",
       "talentName": "Ayunda Risu",
       "groupId": "id_gen1",
@@ -445,11 +455,11 @@
       "talentId": "vestia_zeta",
       "talentName": "Vestia Zeta",
       "groupId": "id_gen3",
-      "startTime": "2026-01-15T01:00:00+09:00",
+      "startTime": "2026-01-15T00:59:00+09:00",
       "url": "https://www.youtube.com/watch?v=uT_ks-0mW8Q",
       "thumbnail": "https://img.youtube.com/vi/uT_ks-0mW8Q/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "ayunda_risu",
