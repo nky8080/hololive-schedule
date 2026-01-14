@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-14T16:15:34.864Z",
+  "updatedAt": "2026-01-14T16:54:01.162Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -209,7 +209,7 @@
       "url": "https://www.youtube.com/watch?v=vsvCzakUCmQ",
       "thumbnail": "https://img.youtube.com/vi/vsvCzakUCmQ/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "roboco",
@@ -219,7 +219,7 @@
       "url": "https://www.youtube.com/watch?v=GKEx0Uz_t3o",
       "thumbnail": "https://img.youtube.com/vi/GKEx0Uz_t3o/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "azki",
@@ -679,6 +679,16 @@
       "url": "https://www.youtube.com/watch?v=8_tzb-1GdTs",
       "thumbnail": "https://img.youtube.com/vi/8_tzb-1GdTs/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Flayon",
+      "groupId": "holostars_en",
+      "startTime": "2026-01-15T10:30:00+09:00",
+      "url": "https://www.youtube.com/watch?v=rdr6StABqYs",
+      "thumbnail": "https://img.youtube.com/vi/rdr6StABqYs/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
