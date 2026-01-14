@@ -26,7 +26,7 @@ export default function Home() {
   useEffect(() => {
     async function fetchData() {
       try {
-        const res = await fetch('/schedule.json');
+        const res = await fetch('./schedule.json');
         if (!res.ok) throw new Error('Failed to fetch filtered schedule');
         const data = await res.json();
         setSchedule(data);
