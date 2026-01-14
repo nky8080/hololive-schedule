@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-14T13:06:17.327Z",
+  "updatedAt": "2026-01-14T13:12:49.925Z",
   "streams": [
     {
       "talentId": "roboco",
@@ -372,16 +372,6 @@
       "isLive": true
     },
     {
-      "talentId": "azki",
-      "talentName": "AZKi",
-      "groupId": "gen0",
-      "startTime": "2026-01-14T22:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=an_z-p_rZco",
-      "thumbnail": "https://img.youtube.com/vi/an_z-p_rZco/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
       "talentId": "hakui_koyori",
       "talentName": "Hakui Koyori",
       "groupId": "holoX",
@@ -399,6 +389,16 @@
       "url": "https://www.youtube.com/watch?v=GKEx0Uz_t3o",
       "thumbnail": "https://img.youtube.com/vi/GKEx0Uz_t3o/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
+    },
+    {
+      "talentId": "azki",
+      "talentName": "AZKi",
+      "groupId": "gen0",
+      "startTime": "2026-01-14T22:02:00+09:00",
+      "url": "https://www.youtube.com/watch?v=an_z-p_rZco",
+      "thumbnail": "https://img.youtube.com/vi/an_z-p_rZco/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s88-c-k-c0x00ffffff-no-rj",
       "isLive": true
     },
     {
@@ -640,6 +640,16 @@
       "thumbnail": "https://img.youtube.com/vi/usj5tU5uXyE/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s88-c-k-c0x00ffffff-no-rj",
       "isLive": true
+    },
+    {
+      "talentId": "pavolia_reine",
+      "talentName": "Pavolia Reine",
+      "groupId": "id_gen2",
+      "startTime": "2026-01-14T23:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=v_n5qsV9pEA",
+      "thumbnail": "https://img.youtube.com/vi/v_n5qsV9pEA/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
     },
     {
       "talentId": "ayunda_risu",
