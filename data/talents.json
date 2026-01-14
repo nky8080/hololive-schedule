@@ -1,0 +1,684 @@
+[
+  {
+    "id": "gen0",
+    "name": "Generation 0",
+    "members": [
+      {
+        "id": "tokino_sora",
+        "name": "Tokino Sora",
+        "keywords": [
+          "ときのそら",
+          "Tokino Sora"
+        ],
+        "icon": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s88-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "id": "roboco",
+        "name": "Roboco san",
+        "keywords": [
+          "ロボ子さん",
+          "Roboco san"
+        ],
+        "icon": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s88-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "id": "sakura_miko",
+        "name": "Sakura Miko",
+        "keywords": [
+          "さくらみこ",
+          "Sakura Miko"
+        ],
+        "icon": "https://yt3.ggpht.com/ytc/AIdro_m1Lp9P6-6E3_MuzVwDqT90rXQ7mX4uC9-B_R6n6X9Y=s88-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "id": "hoshimachi_suisei",
+        "name": "Hoshimachi Suisei",
+        "keywords": [
+          "星街すいせい",
+          "Hoshimachi Suisei"
+        ],
+        "icon": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s88-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "id": "azki",
+        "name": "AZKi",
+        "keywords": [
+          "AZKi"
+        ],
+        "icon": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s88-c-k-c0x00ffffff-no-rj"
+      }
+    ]
+  },
+  {
+    "id": "gen1",
+    "name": "Generation 1",
+    "members": [
+      {
+        "id": "aki_rosenthal",
+        "name": "Aki Rosenthal",
+        "keywords": [
+          "アキ・ローゼンタール",
+          "Aki Rosenthal"
+        ]
+      },
+      {
+        "id": "akai_haato",
+        "name": "Akai Haato",
+        "keywords": [
+          "赤井はあと",
+          "Akai Haato"
+        ]
+      },
+      {
+        "id": "shirakami_fubuki",
+        "name": "Shirakami Fubuki",
+        "keywords": [
+          "白上フブキ",
+          "Shirakami Fubuki"
+        ]
+      },
+      {
+        "id": "natsuiro_matsuri",
+        "name": "Natsuiro Matsuri",
+        "keywords": [
+          "夏色まつり",
+          "Natsuiro Matsuri"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gen2",
+    "name": "Generation 2",
+    "members": [
+      {
+        "id": "minato_aqua",
+        "name": "Minato Aqua",
+        "keywords": [
+          "湊あくあ",
+          "Minato Aqua"
+        ]
+      },
+      {
+        "id": "murasaki_shion",
+        "name": "Murasaki Shion",
+        "keywords": [
+          "紫咲シオン",
+          "Murasaki Shion"
+        ]
+      },
+      {
+        "id": "nakiri_ayame",
+        "name": "Nakiri Ayame",
+        "keywords": [
+          "百鬼あやめ",
+          "Nakiri Ayame"
+        ]
+      },
+      {
+        "id": "yuzuki_choco",
+        "name": "Yuzuki Choco",
+        "keywords": [
+          "癒月ちょこ",
+          "Yuzuki Choco"
+        ]
+      },
+      {
+        "id": "oozora_subaru",
+        "name": "Oozora Subaru",
+        "keywords": [
+          "大空スバル",
+          "Oozora Subaru"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gamers",
+    "name": "hololive GAMERS",
+    "members": [
+      {
+        "id": "ookami_mio",
+        "name": "Ookami Mio",
+        "keywords": [
+          "大神ミオ",
+          "Ookami Mio"
+        ]
+      },
+      {
+        "id": "nekomata_okayu",
+        "name": "Nekomata Okayu",
+        "keywords": [
+          "猫又おかゆ",
+          "Nekomata Okayu"
+        ]
+      },
+      {
+        "id": "inugami_korone",
+        "name": "Inugami Korone",
+        "keywords": [
+          "戌神ころね",
+          "Inugami Korone"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gen3",
+    "name": "Generation 3 (Fantasy)",
+    "members": [
+      {
+        "id": "usada_pekora",
+        "name": "Usada Pekora",
+        "keywords": [
+          "兎田ぺこら",
+          "Usada Pekora"
+        ],
+        "icon": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s88-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "id": "shiranui_flare",
+        "name": "Shiranui Flare",
+        "keywords": [
+          "不知火フレア",
+          "Shiranui Flare"
+        ],
+        "icon": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s88-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "id": "shirogane_noel",
+        "name": "Shirogane Noel",
+        "keywords": [
+          "白銀ノエル",
+          "Shirogane Noel"
+        ],
+        "icon": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s88-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "id": "houshou_marine",
+        "name": "Houshou Marine",
+        "keywords": [
+          "宝鍾マリン",
+          "Houshou Marine"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gen4",
+    "name": "Generation 4",
+    "members": [
+      {
+        "id": "amane_kanata",
+        "name": "Amane Kanata",
+        "keywords": [
+          "天音かなた",
+          "Amane Kanata"
+        ]
+      },
+      {
+        "id": "tsunomaki_watame",
+        "name": "Tsunomaki Watame",
+        "keywords": [
+          "角巻わため",
+          "Tsunomaki Watame"
+        ]
+      },
+      {
+        "id": "tokoyami_towa",
+        "name": "Tokoyami Towa",
+        "keywords": [
+          "常闇トワ",
+          "Tokoyami Towa"
+        ]
+      },
+      {
+        "id": "himemori_luna",
+        "name": "Himemori Luna",
+        "keywords": [
+          "姫森ルーナ",
+          "Himemori Luna"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gen5",
+    "name": "Generation 5 (NePolabo)",
+    "members": [
+      {
+        "id": "yukihana_lamy",
+        "name": "Yukihana Lamy",
+        "keywords": [
+          "雪花ラミィ",
+          "Yukihana Lamy"
+        ]
+      },
+      {
+        "id": "momosuzu_nene",
+        "name": "Momosuzu Nene",
+        "keywords": [
+          "桃鈴ねね",
+          "Momosuzu Nene"
+        ]
+      },
+      {
+        "id": "shishiro_botan",
+        "name": "Shishiro Botan",
+        "keywords": [
+          "獅白ぼたん",
+          "Shishiro Botan"
+        ]
+      },
+      {
+        "id": "omaru_polka",
+        "name": "Omaru Polka",
+        "keywords": [
+          "尾丸ポルカ",
+          "Omaru Polka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "holoX",
+    "name": "Secret Society holoX",
+    "members": [
+      {
+        "id": "la_plus",
+        "name": "La+ Darknesss",
+        "keywords": [
+          "ラプラス",
+          "La+"
+        ],
+        "icon": "https://yt3.ggpht.com/6Y5lj4DhikLBo0UqIZ1dT3-D3aYXVPbxUgNTyYiyE_Se8AVxkGAn05D3oc1y3whpzDu-CzEQ=s88-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "id": "takane_lui",
+        "name": "Takane Lui",
+        "keywords": [
+          "鷹嶺ルイ",
+          "Takane Lui"
+        ],
+        "icon": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s88-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "id": "hakui_koyori",
+        "name": "Hakui Koyori",
+        "keywords": [
+          "博衣こより",
+          "Hakui Koyori"
+        ],
+        "icon": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s88-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "id": "sakamata_chloe",
+        "name": "Sakamata Chloe",
+        "keywords": [
+          "沙花叉クロヱ",
+          "Sakamata Chloe"
+        ]
+      },
+      {
+        "id": "kazama_iroha",
+        "name": "Kazama Iroha",
+        "keywords": [
+          "風真いろは",
+          "Kazama Iroha"
+        ],
+        "icon": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg=s88-c-k-c0x00ffffff-no-rj"
+      }
+    ]
+  },
+  {
+    "id": "en_myth",
+    "name": "hololive English -Myth-",
+    "members": [
+      {
+        "id": "mori_calliope",
+        "name": "Mori Calliope",
+        "keywords": [
+          "Calli",
+          "Mori Calliope"
+        ],
+        "icon": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s88-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "id": "takanashi_kiara",
+        "name": "Takanashi Kiara",
+        "keywords": [
+          "Kiara",
+          "Takanashi Kiara"
+        ],
+        "icon": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s88-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "id": "ninomae_inanis",
+        "name": "Ninomae Ina'nis",
+        "keywords": [
+          "Ina",
+          "Ninomae Ina'nis"
+        ],
+        "icon": "https://yt3.ggpht.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ=s88-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "id": "gawr_gura",
+        "name": "Gawr Gura",
+        "keywords": [
+          "Gura",
+          "Gawr Gura"
+        ]
+      },
+      {
+        "id": "watson_amelia",
+        "name": "Watson Amelia",
+        "keywords": [
+          "Amelia",
+          "Watson Amelia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "en_promise",
+    "name": "hololive English -Promise-",
+    "members": [
+      {
+        "id": "irys",
+        "name": "IRyS",
+        "keywords": [
+          "IRyS"
+        ]
+      },
+      {
+        "id": "ceres_fauna",
+        "name": "Ceres Fauna",
+        "keywords": [
+          "Fauna",
+          "Ceres Fauna"
+        ]
+      },
+      {
+        "id": "ouro_kronii",
+        "name": "Ouro Kronii",
+        "keywords": [
+          "Kronii",
+          "Ouro Kronii"
+        ]
+      },
+      {
+        "id": "nanashi_mumei",
+        "name": "Nanashi Mumei",
+        "keywords": [
+          "Mumei",
+          "Nanashi Mumei"
+        ]
+      },
+      {
+        "id": "hakos_baelz",
+        "name": "Hakos Baelz",
+        "keywords": [
+          "Baelz",
+          "Hakos Baelz"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "en_advent",
+    "name": "hololive English -Advent-",
+    "members": [
+      {
+        "id": "shiori_novella",
+        "name": "Shiori Novella",
+        "keywords": [
+          "Shiori",
+          "Shiori Novella"
+        ]
+      },
+      {
+        "id": "koseki_bijou",
+        "name": "Koseki Bijou",
+        "keywords": [
+          "Bijou",
+          "Koseki Bijou"
+        ]
+      },
+      {
+        "id": "nerissa_ravencroft",
+        "name": "Nerissa Ravencroft",
+        "keywords": [
+          "Nerissa",
+          "Nerissa Ravencroft"
+        ]
+      },
+      {
+        "id": "fuwamoco",
+        "name": "FUWAMOCO",
+        "keywords": [
+          "FUWAMOCO"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "en_justice",
+    "name": "hololive English -Justice-",
+    "members": [
+      {
+        "id": "elizabeth_rose_bloodflame",
+        "name": "Elizabeth Rose Bloodflame",
+        "keywords": [
+          "Elizabeth",
+          "Elizabeth Rose Bloodflame"
+        ]
+      },
+      {
+        "id": "gigi_murin",
+        "name": "Gigi Murin",
+        "keywords": [
+          "Gigi",
+          "Gigi Murin"
+        ]
+      },
+      {
+        "id": "cecilia_immergreen",
+        "name": "Cecilia Immergreen",
+        "keywords": [
+          "Cecilia",
+          "Cecilia Immergreen"
+        ]
+      },
+      {
+        "id": "raora_panthera",
+        "name": "Raora Panthera",
+        "keywords": [
+          "Raora",
+          "Raora Panthera"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "id_gen1",
+    "name": "hololive Indonesia 1st Gen",
+    "members": [
+      {
+        "id": "ayunda_risu",
+        "name": "Ayunda Risu",
+        "keywords": [
+          "Risu",
+          "Ayunda Risu"
+        ]
+      },
+      {
+        "id": "moona_hoshinova",
+        "name": "Moona Hoshinova",
+        "keywords": [
+          "Moona",
+          "Moona Hoshinova"
+        ]
+      },
+      {
+        "id": "airani_iofiteen",
+        "name": "Airani Iofifteen",
+        "keywords": [
+          "Iofi",
+          "Airani Iofifteen"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "id_gen2",
+    "name": "hololive Indonesia 2nd Gen",
+    "members": [
+      {
+        "id": "kureiji_ollie",
+        "name": "Kureiji Ollie",
+        "keywords": [
+          "Ollie",
+          "Kureiji Ollie"
+        ]
+      },
+      {
+        "id": "anya_melfissa",
+        "name": "Anya Melfissa",
+        "keywords": [
+          "Anya",
+          "Anya Melfissa"
+        ]
+      },
+      {
+        "id": "pavolia_reine",
+        "name": "Pavolia Reine",
+        "keywords": [
+          "Reine",
+          "Pavolia Reine"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "id_gen3",
+    "name": "hololive Indonesia 3rd Gen",
+    "members": [
+      {
+        "id": "vestia_zeta",
+        "name": "Vestia Zeta",
+        "keywords": [
+          "Zeta",
+          "Vestia Zeta"
+        ]
+      },
+      {
+        "id": "kaela_kovalskia",
+        "name": "Kaela Kovalskia",
+        "keywords": [
+          "Kaela",
+          "Kaela Kovalskia"
+        ]
+      },
+      {
+        "id": "kobo_kanaeru",
+        "name": "Kobo Kanaeru",
+        "keywords": [
+          "Kobo",
+          "Kobo Kanaeru"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "regloss",
+    "name": "ReGLOSS",
+    "members": [
+      {
+        "id": "hiodoshi_ao",
+        "name": "Hiodoshi Ao",
+        "keywords": [
+          "火威青",
+          "Hiodoshi Ao"
+        ]
+      },
+      {
+        "id": "otonose_kanade",
+        "name": "Otonose Kanade",
+        "keywords": [
+          "音乃瀬奏",
+          "Otonose Kanade"
+        ]
+      },
+      {
+        "id": "ichijou_ririka",
+        "name": "Ichijou Ririka",
+        "keywords": [
+          "一条莉々華",
+          "Ichijou Ririka"
+        ]
+      },
+      {
+        "id": "juufuutei_raden",
+        "name": "Juufuutei Raden",
+        "keywords": [
+          "儒烏風亭らでん",
+          "Juufuutei Raden"
+        ]
+      },
+      {
+        "id": "todoroki_hajime",
+        "name": "Todoroki Hajime",
+        "keywords": [
+          "轟はじめ",
+          "Todoroki Hajime"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "flow_glow",
+    "name": "FLOW GLOW",
+    "members": [
+      {
+        "id": "isaki_riona",
+        "name": "Isaki Riona",
+        "keywords": [
+          "響咲リオナ",
+          "Isaki Riona"
+        ]
+      },
+      {
+        "id": "koganei_niko",
+        "name": "Koganei Niko",
+        "keywords": [
+          "虎金妃笑里",
+          "Koganei Niko"
+        ]
+      },
+      {
+        "id": "mizumiya_su",
+        "name": "Mizumiya Su",
+        "keywords": [
+          "水宮枢",
+          "Mizumiya Su"
+        ]
+      },
+      {
+        "id": "rindo_chihaya",
+        "name": "Rindo Chihaya",
+        "keywords": [
+          "輪堂千早",
+          "Rindo Chihaya"
+        ]
+      },
+      {
+        "id": "kikirara_vivi",
+        "name": "Kikirara Vivi",
+        "keywords": [
+          "綺々羅々ヴィヴィ",
+          "Kikirara Vivi"
+        ]
+      }
+    ]
+  }
+]
