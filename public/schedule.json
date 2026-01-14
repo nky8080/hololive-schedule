@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-14T18:17:27.317Z",
+  "updatedAt": "2026-01-14T18:54:36.484Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -239,7 +239,7 @@
       "url": "https://www.youtube.com/watch?v=NrHPCW0AYy8",
       "thumbnail": "https://img.youtube.com/vi/NrHPCW0AYy8/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -449,7 +449,7 @@
       "url": "https://www.youtube.com/watch?v=usj5tU5uXyE",
       "thumbnail": "https://img.youtube.com/vi/usj5tU5uXyE/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "pavolia_reine",
