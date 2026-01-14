@@ -6,8 +6,8 @@ const nextConfig: NextConfig = {
     unoptimized: true,
   },
   // GitHub Pagesでリポジトリ名がパスに含まれる場合は以下を設定
-  // basePath: '/your-repo-name',
-  // assetPrefix: '/your-repo-name',
+  basePath: '/hololive-schedule',
+  assetPrefix: '/hololive-schedule',
 };
 
 export default nextConfig;
