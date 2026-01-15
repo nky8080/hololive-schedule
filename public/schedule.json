@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-15T11:32:43.304Z",
+  "updatedAt": "2026-01-15T11:50:03.238Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -439,6 +439,16 @@
       "url": "https://www.youtube.com/watch?v=0tVST37ZM2Y",
       "thumbnail": "https://img.youtube.com/vi/0tVST37ZM2Y/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "shiranui_flare",
+      "talentName": "Shiranui Flare",
+      "groupId": "gen3",
+      "startTime": "2026-01-15T22:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=KVwBqeN999Q",
+      "thumbnail": "https://img.youtube.com/vi/KVwBqeN999Q/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -1229,6 +1239,16 @@
       "url": "https://www.youtube.com/watch?v=f8zM075FpKM",
       "thumbnail": "https://img.youtube.com/vi/f8zM075FpKM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/bEDo7y7rywqDZpSqS7StN3vxPg4YPEfh_faAf2CENKsk4L9SgrsU0UeClvH-nsPq1i5xNFM89Q=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "輪堂千速",
+      "groupId": "dev_is",
+      "startTime": "2026-01-15T21:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=ZNVBHh9uVmo",
+      "thumbnail": "https://img.youtube.com/vi/ZNVBHh9uVmo/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
