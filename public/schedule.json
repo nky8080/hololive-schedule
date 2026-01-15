@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-15T17:31:54.365Z",
+  "updatedAt": "2026-01-15T18:01:00.412Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -362,16 +362,6 @@
       "isLive": false
     },
     {
-      "talentId": "takanashi_kiara",
-      "talentName": "Takanashi Kiara",
-      "groupId": "en_myth",
-      "startTime": "2026-01-16T05:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=cdajviMTckA",
-      "thumbnail": "https://img.youtube.com/vi/cdajviMTckA/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
       "talentId": "shiori_novella",
       "talentName": "Shiori Novella",
       "groupId": "en_advent",
@@ -379,6 +369,16 @@
       "url": "https://www.youtube.com/watch?v=NNXn2ctCJT8",
       "thumbnail": "https://img.youtube.com/vi/NNXn2ctCJT8/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "takanashi_kiara",
+      "talentName": "Takanashi Kiara",
+      "groupId": "en_myth",
+      "startTime": "2026-01-16T05:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=cdajviMTckA",
+      "thumbnail": "https://img.youtube.com/vi/cdajviMTckA/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -919,6 +919,16 @@
       "url": "https://www.youtube.com/watch?v=RfH_nDFkRtc",
       "thumbnail": "https://img.youtube.com/vi/RfH_nDFkRtc/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "holoAN room",
+      "groupId": "official",
+      "startTime": "2026-01-16T12:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=70iYVeYrnBY",
+      "thumbnail": "https://img.youtube.com/vi/70iYVeYrnBY/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/bLqkQmKBq5rRp53-TLpg1wa9Bn0aFwmjsnZ6LTPgq0NjJSs2304Rm61481alRP8mTdyNLFiJ9c0=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     }
   ]
