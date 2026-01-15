@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-15T21:50:24.053Z",
+  "updatedAt": "2026-01-15T22:11:09.598Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -245,11 +245,11 @@
       "talentId": "hakui_koyori",
       "talentName": "Hakui Koyori",
       "groupId": "holoX",
-      "startTime": "2026-01-16T06:45:00+09:00",
+      "startTime": "2026-01-16T06:55:00+09:00",
       "url": "https://www.youtube.com/watch?v=u9eHi7Ht9oM",
       "thumbnail": "https://img.youtube.com/vi/u9eHi7Ht9oM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "hakui_koyori",
@@ -415,11 +415,11 @@
       "talentId": "gigi_murin",
       "talentName": "Gigi Murin",
       "groupId": "en_justice",
-      "startTime": "2026-01-16T07:00:00+09:00",
+      "startTime": "2026-01-16T07:03:00+09:00",
       "url": "https://www.youtube.com/watch?v=3aB_RFbJXgY",
       "thumbnail": "https://img.youtube.com/vi/3aB_RFbJXgY/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "ouro_kronii",
