@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-15T10:12:05.113Z",
+  "updatedAt": "2026-01-15T10:42:21.597Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -359,7 +359,7 @@
       "url": "https://www.youtube.com/watch?v=suBKarSmkAk",
       "thumbnail": "https://img.youtube.com/vi/suBKarSmkAk/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "usada_pekora",
