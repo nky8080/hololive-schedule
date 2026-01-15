@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-15T04:39:22.106Z",
+  "updatedAt": "2026-01-15T05:02:22.070Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -292,13 +292,13 @@
       "isLive": false
     },
     {
-      "talentId": "nekomata_okayu",
-      "talentName": "Nekomata Okayu",
-      "groupId": "gamers",
+      "talentId": "omaru_polka",
+      "talentName": "Omaru Polka",
+      "groupId": "gen5",
       "startTime": "2026-01-15T22:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=0tVST37ZM2Y",
-      "thumbnail": "https://img.youtube.com/vi/0tVST37ZM2Y/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s88-c-k-c0x00ffffff-no-rj",
+      "url": "https://www.youtube.com/watch?v=weg-_3XLJL0",
+      "thumbnail": "https://img.youtube.com/vi/weg-_3XLJL0/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -312,13 +312,13 @@
       "isLive": false
     },
     {
-      "talentId": "omaru_polka",
-      "talentName": "Omaru Polka",
-      "groupId": "gen5",
+      "talentId": "nekomata_okayu",
+      "talentName": "Nekomata Okayu",
+      "groupId": "gamers",
       "startTime": "2026-01-15T22:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=weg-_3XLJL0",
-      "thumbnail": "https://img.youtube.com/vi/weg-_3XLJL0/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s88-c-k-c0x00ffffff-no-rj",
+      "url": "https://www.youtube.com/watch?v=0tVST37ZM2Y",
+      "thumbnail": "https://img.youtube.com/vi/0tVST37ZM2Y/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -630,6 +630,16 @@
       "thumbnail": "https://img.youtube.com/vi/YeIDdJqPpKY/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "アルランディス",
+      "groupId": "holostars_jp",
+      "startTime": "2026-01-15T14:01:00+09:00",
+      "url": "https://www.youtube.com/watch?v=ztG__GDnqcM",
+      "thumbnail": "https://img.youtube.com/vi/ztG__GDnqcM/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
     },
     {
       "talentId": "unknown",
@@ -949,6 +959,16 @@
       "url": "https://www.youtube.com/watch?v=P5MDJbAYQqo",
       "thumbnail": "https://img.youtube.com/vi/P5MDJbAYQqo/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/bLqkQmKBq5rRp53-TLpg1wa9Bn0aFwmjsnZ6LTPgq0NjJSs2304Rm61481alRP8mTdyNLFiJ9c0=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "shiori_novella",
+      "talentName": "Shiori Novella",
+      "groupId": "en_advent",
+      "startTime": "2026-01-16T05:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=NNXn2ctCJT8",
+      "thumbnail": "https://img.youtube.com/vi/NNXn2ctCJT8/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     }
   ]
