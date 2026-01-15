@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-15T23:31:59.000Z",
+  "updatedAt": "2026-01-15T23:49:09.995Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -382,16 +382,6 @@
       "isLive": false
     },
     {
-      "talentId": "shiori_novella",
-      "talentName": "Shiori Novella",
-      "groupId": "en_advent",
-      "startTime": "2026-01-16T05:54:00+09:00",
-      "url": "https://www.youtube.com/watch?v=NNXn2ctCJT8",
-      "thumbnail": "https://img.youtube.com/vi/NNXn2ctCJT8/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
       "talentId": "takanashi_kiara",
       "talentName": "Takanashi Kiara",
       "groupId": "en_myth",
@@ -400,6 +390,16 @@
       "thumbnail": "https://img.youtube.com/vi/cdajviMTckA/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s88-c-k-c0x00ffffff-no-rj",
       "isLive": true
+    },
+    {
+      "talentId": "shiori_novella",
+      "talentName": "Shiori Novella",
+      "groupId": "en_advent",
+      "startTime": "2026-01-16T05:54:00+09:00",
+      "url": "https://www.youtube.com/watch?v=NNXn2ctCJT8",
+      "thumbnail": "https://img.youtube.com/vi/NNXn2ctCJT8/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
     },
     {
       "talentId": "elizabeth_rose_bloodflame",
@@ -459,6 +459,16 @@
       "url": "https://www.youtube.com/watch?v=3kFgHIeJ1IA",
       "thumbnail": "https://img.youtube.com/vi/3kFgHIeJ1IA/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "mori_calliope",
+      "talentName": "Mori Calliope",
+      "groupId": "en_myth",
+      "startTime": "2026-01-17T09:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=gxQiDiOSbqU",
+      "thumbnail": "https://img.youtube.com/vi/gxQiDiOSbqU/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
