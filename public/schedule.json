@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-15T16:20:15.308Z",
+  "updatedAt": "2026-01-15T16:59:47.565Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -149,7 +149,7 @@
       "url": "https://www.youtube.com/watch?v=-iL6DxDGoj8",
       "thumbnail": "https://img.youtube.com/vi/-iL6DxDGoj8/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "shirogane_noel",
@@ -189,7 +189,7 @@
       "url": "https://www.youtube.com/watch?v=lZqTR0k7DZA",
       "thumbnail": "https://img.youtube.com/vi/lZqTR0k7DZA/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "nekomata_okayu",
@@ -670,6 +670,16 @@
       "thumbnail": "https://img.youtube.com/vi/t2eLw1TCTco/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s88-c-k-c0x00ffffff-no-rj",
       "isLive": true
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Hakka",
+      "groupId": "holostars_en",
+      "startTime": "2026-01-16T09:15:00+09:00",
+      "url": "https://www.youtube.com/watch?v=TEn3oNtqBAA",
+      "thumbnail": "https://img.youtube.com/vi/TEn3oNtqBAA/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
     },
     {
       "talentId": "unknown",
