@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-15T13:50:56.841Z",
+  "updatedAt": "2026-01-15T14:14:24.082Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -419,7 +419,7 @@
       "url": "https://www.youtube.com/watch?v=MmlndpRdNLg",
       "thumbnail": "https://img.youtube.com/vi/MmlndpRdNLg/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "tokino_sora",
@@ -729,7 +729,7 @@
       "url": "https://www.youtube.com/watch?v=VYSAfYJ6FhI",
       "thumbnail": "https://img.youtube.com/vi/VYSAfYJ6FhI/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "pavolia_reine",
@@ -739,7 +739,7 @@
       "url": "https://www.youtube.com/watch?v=-f8asurr8_E",
       "thumbnail": "https://img.youtube.com/vi/-f8asurr8_E/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "ayunda_risu",
@@ -1085,11 +1085,11 @@
       "talentId": "unknown",
       "talentName": "Hakka",
       "groupId": "holostars_en",
-      "startTime": "2026-01-15T23:00:00+09:00",
+      "startTime": "2026-01-15T23:01:00+09:00",
       "url": "https://www.youtube.com/watch?v=Ky5bJ7V4PC0",
       "thumbnail": "https://img.youtube.com/vi/Ky5bJ7V4PC0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "isaki_riona",
@@ -1269,7 +1269,7 @@
       "url": "https://www.youtube.com/watch?v=cJ8bg4oeo_8",
       "thumbnail": "https://img.youtube.com/vi/cJ8bg4oeo_8/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -1299,7 +1299,7 @@
       "url": "https://www.youtube.com/watch?v=ZNVBHh9uVmo",
       "thumbnail": "https://img.youtube.com/vi/ZNVBHh9uVmo/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "kikirara_vivi",
@@ -1329,7 +1329,7 @@
       "url": "https://www.youtube.com/watch?v=moAONlsUWEQ",
       "thumbnail": "https://img.youtube.com/vi/moAONlsUWEQ/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "ichijou_ririka",
