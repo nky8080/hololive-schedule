@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-15T06:17:07.261Z",
+  "updatedAt": "2026-01-15T06:54:25.471Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -532,6 +532,16 @@
       "isLive": false
     },
     {
+      "talentId": "vestia_zeta",
+      "talentName": "Vestia Zeta",
+      "groupId": "id_gen3",
+      "startTime": "2026-01-15T19:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=d_CGjzYyHZc",
+      "thumbnail": "https://img.youtube.com/vi/d_CGjzYyHZc/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "ayunda_risu",
       "talentName": "Ayunda Risu",
       "groupId": "id_gen1",
@@ -972,6 +982,16 @@
       "isLive": false
     },
     {
+      "talentId": "isaki_riona",
+      "talentName": "Isaki Riona",
+      "groupId": "flow_glow",
+      "startTime": "2026-01-15T16:30:00+09:00",
+      "url": "https://www.youtube.com/watch?v=n0WT_Ox88cs",
+      "thumbnail": "https://img.youtube.com/vi/n0WT_Ox88cs/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "kikirara_vivi",
       "talentName": "Kikirara Vivi",
       "groupId": "flow_glow",
@@ -979,6 +999,16 @@
       "url": "https://www.youtube.com/watch?v=_9kqR75lk90",
       "thumbnail": "https://img.youtube.com/vi/_9kqR75lk90/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "ichijou_ririka",
+      "talentName": "Ichijou Ririka",
+      "groupId": "regloss",
+      "startTime": "2026-01-15T21:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=lzDigswqcs4",
+      "thumbnail": "https://img.youtube.com/vi/lzDigswqcs4/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
