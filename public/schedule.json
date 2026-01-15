@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-15T03:59:19.383Z",
+  "updatedAt": "2026-01-15T04:39:22.106Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -292,13 +292,13 @@
       "isLive": false
     },
     {
-      "talentId": "omaru_polka",
-      "talentName": "Omaru Polka",
-      "groupId": "gen5",
+      "talentId": "nekomata_okayu",
+      "talentName": "Nekomata Okayu",
+      "groupId": "gamers",
       "startTime": "2026-01-15T22:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=weg-_3XLJL0",
-      "thumbnail": "https://img.youtube.com/vi/weg-_3XLJL0/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s88-c-k-c0x00ffffff-no-rj",
+      "url": "https://www.youtube.com/watch?v=0tVST37ZM2Y",
+      "thumbnail": "https://img.youtube.com/vi/0tVST37ZM2Y/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -312,13 +312,13 @@
       "isLive": false
     },
     {
-      "talentId": "nekomata_okayu",
-      "talentName": "Nekomata Okayu",
-      "groupId": "gamers",
+      "talentId": "omaru_polka",
+      "talentName": "Omaru Polka",
+      "groupId": "gen5",
       "startTime": "2026-01-15T22:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=0tVST37ZM2Y",
-      "thumbnail": "https://img.youtube.com/vi/0tVST37ZM2Y/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s88-c-k-c0x00ffffff-no-rj",
+      "url": "https://www.youtube.com/watch?v=weg-_3XLJL0",
+      "thumbnail": "https://img.youtube.com/vi/weg-_3XLJL0/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -439,7 +439,7 @@
       "url": "https://www.youtube.com/watch?v=sRY0uQSxW9o",
       "thumbnail": "https://img.youtube.com/vi/sRY0uQSxW9o/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "fuwamoco",
@@ -449,7 +449,7 @@
       "url": "https://www.youtube.com/watch?v=-YKFoWx2izY",
       "thumbnail": "https://img.youtube.com/vi/-YKFoWx2izY/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "nerissa_ravencroft",
@@ -459,7 +459,7 @@
       "url": "https://www.youtube.com/watch?v=isUJOwfPeQU",
       "thumbnail": "https://img.youtube.com/vi/isUJOwfPeQU/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "ouro_kronii",
@@ -783,6 +783,16 @@
     },
     {
       "talentId": "unknown",
+      "talentName": "Bettel",
+      "groupId": "holostars_en",
+      "startTime": "2026-01-15T13:03:00+09:00",
+      "url": "https://www.youtube.com/watch?v=luW4-gSNK54",
+      "thumbnail": "https://img.youtube.com/vi/luW4-gSNK54/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/kv71-xuB9kzbU7Bi4qsmkRXHc3wAgEU4rhllRnmGH4H23T825BKdGqEAcagTSE9r8BdsnG4lqQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
       "talentName": "Jurard",
       "groupId": "holostars_en",
       "startTime": "2026-01-15T20:00:00+09:00",
@@ -919,7 +929,7 @@
       "url": "https://www.youtube.com/watch?v=xYTP5V1qjF0",
       "thumbnail": "https://img.youtube.com/vi/xYTP5V1qjF0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "kikirara_vivi",
