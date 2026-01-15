@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-15T14:14:24.082Z",
+  "updatedAt": "2026-01-15T14:42:44.386Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -745,7 +745,7 @@
       "talentId": "ayunda_risu",
       "talentName": "Ayunda Risu",
       "groupId": "id_gen1",
-      "startTime": "2026-01-15T23:15:00+09:00",
+      "startTime": "2026-01-15T23:14:00+09:00",
       "url": "https://www.youtube.com/watch?v=-C4ajHH9Pr0",
       "thumbnail": "https://img.youtube.com/vi/-C4ajHH9Pr0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s88-c-k-c0x00ffffff-no-rj",
@@ -755,11 +755,11 @@
       "talentId": "kobo_kanaeru",
       "talentName": "Kobo Kanaeru",
       "groupId": "id_gen3",
-      "startTime": "2026-01-15T23:30:00+09:00",
+      "startTime": "2026-01-15T23:34:00+09:00",
       "url": "https://www.youtube.com/watch?v=RIUypj6ayXI",
       "thumbnail": "https://img.youtube.com/vi/RIUypj6ayXI/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "unknown",
@@ -919,7 +919,7 @@
       "url": "https://www.youtube.com/watch?v=OoUafWxBLpY",
       "thumbnail": "https://img.youtube.com/vi/OoUafWxBLpY/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -929,6 +929,26 @@
       "url": "https://www.youtube.com/watch?v=3OI1E6KaboM",
       "thumbnail": "https://img.youtube.com/vi/3OI1E6KaboM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "荒咬オウガ",
+      "groupId": "holostars_jp",
+      "startTime": "2026-01-16T16:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=8PuZOockO64",
+      "thumbnail": "https://img.youtube.com/vi/8PuZOockO64/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "アルランディス",
+      "groupId": "holostars_jp",
+      "startTime": "2026-01-16T20:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=s8uEDYrr3Q4",
+      "thumbnail": "https://img.youtube.com/vi/s8uEDYrr3Q4/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -1090,6 +1110,16 @@
       "thumbnail": "https://img.youtube.com/vi/Ky5bJ7V4PC0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s88-c-k-c0x00ffffff-no-rj",
       "isLive": true
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Syrios",
+      "groupId": "holostars_en",
+      "startTime": "2026-01-16T00:30:00+09:00",
+      "url": "https://www.youtube.com/watch?v=t2eLw1TCTco",
+      "thumbnail": "https://img.youtube.com/vi/t2eLw1TCTco/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
     },
     {
       "talentId": "isaki_riona",
