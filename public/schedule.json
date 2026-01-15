@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-15T07:16:16.050Z",
+  "updatedAt": "2026-01-15T07:43:13.431Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -989,7 +989,7 @@
       "url": "https://www.youtube.com/watch?v=n0WT_Ox88cs",
       "thumbnail": "https://img.youtube.com/vi/n0WT_Ox88cs/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "kikirara_vivi",
