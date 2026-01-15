@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-15T05:53:40.311Z",
+  "updatedAt": "2026-01-15T06:17:07.261Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -262,6 +262,16 @@
       "isLive": false
     },
     {
+      "talentId": "hakui_koyori",
+      "talentName": "Hakui Koyori",
+      "groupId": "holoX",
+      "startTime": "2026-01-15T19:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=Z85mJVV7xbo",
+      "thumbnail": "https://img.youtube.com/vi/Z85mJVV7xbo/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "unknown",
       "talentName": "ホロライブ",
       "groupId": "hololive_jp",
@@ -272,13 +282,13 @@
       "isLive": false
     },
     {
-      "talentId": "hakui_koyori",
-      "talentName": "Hakui Koyori",
-      "groupId": "holoX",
-      "startTime": "2026-01-15T19:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=Z85mJVV7xbo",
-      "thumbnail": "https://img.youtube.com/vi/Z85mJVV7xbo/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s88-c-k-c0x00ffffff-no-rj",
+      "talentId": "tokoyami_towa",
+      "talentName": "Tokoyami Towa",
+      "groupId": "gen4",
+      "startTime": "2026-01-15T20:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=-iL6DxDGoj8",
+      "thumbnail": "https://img.youtube.com/vi/-iL6DxDGoj8/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -649,6 +659,16 @@
       "url": "https://www.youtube.com/watch?v=ztG__GDnqcM",
       "thumbnail": "https://img.youtube.com/vi/ztG__GDnqcM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "夕刻ロベル",
+      "groupId": "holostars_jp",
+      "startTime": "2026-01-15T14:59:00+09:00",
+      "url": "https://www.youtube.com/watch?v=pstMm7Za7DM",
+      "thumbnail": "https://img.youtube.com/vi/pstMm7Za7DM/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s88-c-k-c0x00ffffff-no-rj",
       "isLive": true
     },
     {
