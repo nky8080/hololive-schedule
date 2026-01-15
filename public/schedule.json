@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-15T15:50:10.369Z",
+  "updatedAt": "2026-01-15T16:20:15.308Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -672,6 +672,16 @@
       "isLive": true
     },
     {
+      "talentId": "unknown",
+      "talentName": "Shinri",
+      "groupId": "holostars_en",
+      "startTime": "2026-01-16T10:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=DdOxZ2ndz0M",
+      "thumbnail": "https://img.youtube.com/vi/DdOxZ2ndz0M/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/GkDmDWOfKfFkcVmG3-ECCRMeFR4bXlWBvuGO3xu3Ud68kVTWssXpn5q266BmtXvcHuzc5Ib2iFQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "isaki_riona",
       "talentName": "Isaki Riona",
       "groupId": "flow_glow",
@@ -789,7 +799,7 @@
       "url": "https://www.youtube.com/watch?v=hm3dbxWT07I",
       "thumbnail": "https://img.youtube.com/vi/hm3dbxWT07I/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "mizumiya_su",
@@ -819,6 +829,16 @@
       "url": "https://www.youtube.com/watch?v=Y8zhAkgf1nM",
       "thumbnail": "https://img.youtube.com/vi/Y8zhAkgf1nM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "juufuutei_raden",
+      "talentName": "Juufuutei Raden",
+      "groupId": "regloss",
+      "startTime": "2026-01-16T22:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=RfH_nDFkRtc",
+      "thumbnail": "https://img.youtube.com/vi/RfH_nDFkRtc/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     }
   ]
