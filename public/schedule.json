@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-16T21:49:36.740Z",
+  "updatedAt": "2026-01-16T22:10:22.819Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -342,6 +342,16 @@
       "isLive": false
     },
     {
+      "talentId": "usada_pekora",
+      "talentName": "Usada Pekora",
+      "groupId": "gen3",
+      "startTime": "2026-01-18T23:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=PNqxIkL3Y7Q",
+      "thumbnail": "https://img.youtube.com/vi/PNqxIkL3Y7Q/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "shirogane_noel",
       "talentName": "Shirogane Noel",
       "groupId": "gen3",
@@ -352,16 +362,6 @@
       "isLive": false
     },
     {
-      "talentId": "takanashi_kiara",
-      "talentName": "Takanashi Kiara",
-      "groupId": "en_myth",
-      "startTime": "2026-01-16T05:54:00+09:00",
-      "url": "https://www.youtube.com/watch?v=cdajviMTckA",
-      "thumbnail": "https://img.youtube.com/vi/cdajviMTckA/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
       "talentId": "shiori_novella",
       "talentName": "Shiori Novella",
       "groupId": "en_advent",
@@ -369,6 +369,16 @@
       "url": "https://www.youtube.com/watch?v=NNXn2ctCJT8",
       "thumbnail": "https://img.youtube.com/vi/NNXn2ctCJT8/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "takanashi_kiara",
+      "talentName": "Takanashi Kiara",
+      "groupId": "en_myth",
+      "startTime": "2026-01-16T05:54:00+09:00",
+      "url": "https://www.youtube.com/watch?v=cdajviMTckA",
+      "thumbnail": "https://img.youtube.com/vi/cdajviMTckA/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -613,22 +623,22 @@
     },
     {
       "talentId": "unknown",
-      "talentName": "アルランディス",
-      "groupId": "holostars_jp",
-      "startTime": "2026-01-17T13:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=WbWtPTdowxc",
-      "thumbnail": "https://img.youtube.com/vi/WbWtPTdowxc/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
-      "talentId": "unknown",
       "talentName": "夕刻ロベル",
       "groupId": "holostars_jp",
       "startTime": "2026-01-17T13:00:00+09:00",
       "url": "https://www.youtube.com/watch?v=YnbLC1Idp9U",
       "thumbnail": "https://img.youtube.com/vi/YnbLC1Idp9U/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "アルランディス",
+      "groupId": "holostars_jp",
+      "startTime": "2026-01-17T13:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=WbWtPTdowxc",
+      "thumbnail": "https://img.youtube.com/vi/WbWtPTdowxc/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -948,6 +958,16 @@
       "startTime": "2026-01-17T17:55:00+09:00",
       "url": "https://www.youtube.com/watch?v=BwKRAOqBgAI",
       "thumbnail": "https://img.youtube.com/vi/BwKRAOqBgAI/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "kikirara_vivi",
+      "talentName": "Kikirara Vivi",
+      "groupId": "flow_glow",
+      "startTime": "2026-01-17T21:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=MBbX6gIhszw",
+      "thumbnail": "https://img.youtube.com/vi/MBbX6gIhszw/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
