@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-16T20:50:47.045Z",
+  "updatedAt": "2026-01-16T21:10:16.912Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -240,6 +240,16 @@
       "thumbnail": "https://img.youtube.com/vi/d3jngrVr4zM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s88-c-k-c0x00ffffff-no-rj",
       "isLive": true
+    },
+    {
+      "talentId": "tsunomaki_watame",
+      "talentName": "Tsunomaki Watame",
+      "groupId": "gen4",
+      "startTime": "2026-01-17T06:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=YMtDWAGW2dE",
+      "thumbnail": "https://img.youtube.com/vi/YMtDWAGW2dE/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
     },
     {
       "talentId": "oozora_subaru",
