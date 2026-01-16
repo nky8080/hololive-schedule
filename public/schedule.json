@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-16T15:15:13.746Z",
+  "updatedAt": "2026-01-16T15:38:57.687Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -189,7 +189,7 @@
       "url": "https://www.youtube.com/watch?v=Ul5Vp0C-awY",
       "thumbnail": "https://img.youtube.com/vi/Ul5Vp0C-awY/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "tsunomaki_watame",
@@ -723,6 +723,26 @@
     },
     {
       "talentId": "unknown",
+      "talentName": "Hakka",
+      "groupId": "holostars_en",
+      "startTime": "2026-01-17T09:15:00+09:00",
+      "url": "https://www.youtube.com/watch?v=KTc-t99LmaM",
+      "thumbnail": "https://img.youtube.com/vi/KTc-t99LmaM/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Shinri",
+      "groupId": "holostars_en",
+      "startTime": "2026-01-17T10:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=nrM36bIB1AM",
+      "thumbnail": "https://img.youtube.com/vi/nrM36bIB1AM/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/GkDmDWOfKfFkcVmG3-ECCRMeFR4bXlWBvuGO3xu3Ud68kVTWssXpn5q266BmtXvcHuzc5Ib2iFQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
       "talentName": "Octavio",
       "groupId": "holostars_en",
       "startTime": "2026-01-17T21:00:00+09:00",
@@ -839,7 +859,7 @@
       "url": "https://www.youtube.com/watch?v=Liho_Jo0y08",
       "thumbnail": "https://img.youtube.com/vi/Liho_Jo0y08/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "mizumiya_su",
