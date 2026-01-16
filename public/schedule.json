@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-16T16:14:17.864Z",
+  "updatedAt": "2026-01-16T16:47:10.487Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -219,7 +219,7 @@
       "url": "https://www.youtube.com/watch?v=ywaTzpY0YC0",
       "thumbnail": "https://img.youtube.com/vi/ywaTzpY0YC0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "tokino_sora",
@@ -489,7 +489,7 @@
       "url": "https://www.youtube.com/watch?v=KVsiD02eLkM",
       "thumbnail": "https://img.youtube.com/vi/KVsiD02eLkM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "ayunda_risu",
@@ -879,7 +879,7 @@
       "url": "https://www.youtube.com/watch?v=GXZkXI2HRBU",
       "thumbnail": "https://img.youtube.com/vi/GXZkXI2HRBU/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "isaki_riona",
