@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-15T23:49:09.995Z",
+  "updatedAt": "2026-01-16T00:50:00.289Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -382,16 +382,6 @@
       "isLive": false
     },
     {
-      "talentId": "takanashi_kiara",
-      "talentName": "Takanashi Kiara",
-      "groupId": "en_myth",
-      "startTime": "2026-01-16T05:54:00+09:00",
-      "url": "https://www.youtube.com/watch?v=cdajviMTckA",
-      "thumbnail": "https://img.youtube.com/vi/cdajviMTckA/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
-    },
-    {
       "talentId": "shiori_novella",
       "talentName": "Shiori Novella",
       "groupId": "en_advent",
@@ -399,6 +389,16 @@
       "url": "https://www.youtube.com/watch?v=NNXn2ctCJT8",
       "thumbnail": "https://img.youtube.com/vi/NNXn2ctCJT8/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "takanashi_kiara",
+      "talentName": "Takanashi Kiara",
+      "groupId": "en_myth",
+      "startTime": "2026-01-16T05:54:00+09:00",
+      "url": "https://www.youtube.com/watch?v=cdajviMTckA",
+      "thumbnail": "https://img.youtube.com/vi/cdajviMTckA/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -425,11 +425,11 @@
       "talentId": "shiori_novella",
       "talentName": "Shiori Novella",
       "groupId": "en_advent",
-      "startTime": "2026-01-16T09:00:00+09:00",
+      "startTime": "2026-01-16T08:57:00+09:00",
       "url": "https://www.youtube.com/watch?v=94yqrB-WjpY",
       "thumbnail": "https://img.youtube.com/vi/94yqrB-WjpY/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "koseki_bijou",
@@ -633,6 +633,16 @@
     },
     {
       "talentId": "unknown",
+      "talentName": "岸堂天真",
+      "groupId": "holostars_jp",
+      "startTime": "2026-01-16T09:39:00+09:00",
+      "url": "https://www.youtube.com/watch?v=U-McXR7ZqP0",
+      "thumbnail": "https://img.youtube.com/vi/U-McXR7ZqP0/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
+    },
+    {
+      "talentId": "unknown",
       "talentName": "荒咬オウガ",
       "groupId": "holostars_jp",
       "startTime": "2026-01-16T16:00:00+09:00",
@@ -765,10 +775,20 @@
       "talentId": "unknown",
       "talentName": "Hakka",
       "groupId": "holostars_en",
-      "startTime": "2026-01-16T09:15:00+09:00",
+      "startTime": "2026-01-16T09:19:00+09:00",
       "url": "https://www.youtube.com/watch?v=TEn3oNtqBAA",
       "thumbnail": "https://img.youtube.com/vi/TEn3oNtqBAA/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Crimzon",
+      "groupId": "holostars_en",
+      "startTime": "2026-01-16T10:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=X-f9i4glrOM",
+      "thumbnail": "https://img.youtube.com/vi/X-f9i4glrOM/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
