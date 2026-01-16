@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-16T16:47:10.487Z",
+  "updatedAt": "2026-01-16T17:15:23.454Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -332,16 +332,6 @@
       "isLive": false
     },
     {
-      "talentId": "shiori_novella",
-      "talentName": "Shiori Novella",
-      "groupId": "en_advent",
-      "startTime": "2026-01-16T05:54:00+09:00",
-      "url": "https://www.youtube.com/watch?v=NNXn2ctCJT8",
-      "thumbnail": "https://img.youtube.com/vi/NNXn2ctCJT8/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
       "talentId": "takanashi_kiara",
       "talentName": "Takanashi Kiara",
       "groupId": "en_myth",
@@ -349,6 +339,16 @@
       "url": "https://www.youtube.com/watch?v=cdajviMTckA",
       "thumbnail": "https://img.youtube.com/vi/cdajviMTckA/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "shiori_novella",
+      "talentName": "Shiori Novella",
+      "groupId": "en_advent",
+      "startTime": "2026-01-16T05:54:00+09:00",
+      "url": "https://www.youtube.com/watch?v=NNXn2ctCJT8",
+      "thumbnail": "https://img.youtube.com/vi/NNXn2ctCJT8/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -509,7 +509,7 @@
       "url": "https://www.youtube.com/watch?v=ycMf86NMPf4",
       "thumbnail": "https://img.youtube.com/vi/ycMf86NMPf4/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "kureiji_ollie",
@@ -589,6 +589,16 @@
       "url": "https://www.youtube.com/watch?v=YnbLC1Idp9U",
       "thumbnail": "https://img.youtube.com/vi/YnbLC1Idp9U/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "水無世燐央",
+      "groupId": "holostars_jp",
+      "startTime": "2026-01-17T14:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=k3-hMhmTols",
+      "thumbnail": "https://img.youtube.com/vi/k3-hMhmTols/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
