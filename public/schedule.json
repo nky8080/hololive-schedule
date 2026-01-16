@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-16T09:55:59.229Z",
+  "updatedAt": "2026-01-16T10:13:08.254Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -320,6 +320,16 @@
       "thumbnail": "https://img.youtube.com/vi/N-3UgvDcWUA/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": true
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "ホロライブ",
+      "groupId": "hololive_jp",
+      "startTime": "2026-01-16T19:01:00+09:00",
+      "url": "https://www.youtube.com/watch?v=V3cytOKDrPY",
+      "thumbnail": "https://img.youtube.com/vi/V3cytOKDrPY/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -715,11 +725,11 @@
       "talentId": "ayunda_risu",
       "talentName": "Ayunda Risu",
       "groupId": "id_gen1",
-      "startTime": "2026-01-16T19:00:00+09:00",
+      "startTime": "2026-01-16T19:01:00+09:00",
       "url": "https://www.youtube.com/watch?v=Y-SgDZHgRKk",
       "thumbnail": "https://img.youtube.com/vi/Y-SgDZHgRKk/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "kobo_kanaeru",
@@ -1289,7 +1299,7 @@
       "url": "https://www.youtube.com/watch?v=Y8zhAkgf1nM",
       "thumbnail": "https://img.youtube.com/vi/Y8zhAkgf1nM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "kikirara_vivi",
