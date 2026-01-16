@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-16T08:15:26.474Z",
+  "updatedAt": "2026-01-16T08:46:27.975Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -272,6 +272,16 @@
       "isLive": false
     },
     {
+      "talentId": "momosuzu_nene",
+      "talentName": "Momosuzu Nene",
+      "groupId": "gen5",
+      "startTime": "2026-01-16T17:30:00+09:00",
+      "url": "https://www.youtube.com/watch?v=_g3KsDQtoFY",
+      "thumbnail": "https://img.youtube.com/vi/_g3KsDQtoFY/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "unknown",
       "talentName": "宝鐘マリン",
       "groupId": "hololive_jp",
@@ -472,16 +482,6 @@
       "isLive": false
     },
     {
-      "talentId": "shiori_novella",
-      "talentName": "Shiori Novella",
-      "groupId": "en_advent",
-      "startTime": "2026-01-16T05:54:00+09:00",
-      "url": "https://www.youtube.com/watch?v=NNXn2ctCJT8",
-      "thumbnail": "https://img.youtube.com/vi/NNXn2ctCJT8/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
       "talentId": "takanashi_kiara",
       "talentName": "Takanashi Kiara",
       "groupId": "en_myth",
@@ -489,6 +489,16 @@
       "url": "https://www.youtube.com/watch?v=cdajviMTckA",
       "thumbnail": "https://img.youtube.com/vi/cdajviMTckA/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "shiori_novella",
+      "talentName": "Shiori Novella",
+      "groupId": "en_advent",
+      "startTime": "2026-01-16T05:54:00+09:00",
+      "url": "https://www.youtube.com/watch?v=NNXn2ctCJT8",
+      "thumbnail": "https://img.youtube.com/vi/NNXn2ctCJT8/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -672,6 +682,16 @@
       "isLive": false
     },
     {
+      "talentId": "kobo_kanaeru",
+      "talentName": "Kobo Kanaeru",
+      "groupId": "id_gen3",
+      "startTime": "2026-01-16T22:30:00+09:00",
+      "url": "https://www.youtube.com/watch?v=KVsiD02eLkM",
+      "thumbnail": "https://img.youtube.com/vi/KVsiD02eLkM/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "kureiji_ollie",
       "talentName": "Kureiji Ollie",
       "groupId": "id_gen2",
@@ -779,7 +799,7 @@
       "url": "https://www.youtube.com/watch?v=8PuZOockO64",
       "thumbnail": "https://img.youtube.com/vi/8PuZOockO64/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
