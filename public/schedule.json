@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-16T13:48:14.590Z",
+  "updatedAt": "2026-01-16T14:13:34.092Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -449,17 +449,17 @@
       "url": "https://www.youtube.com/watch?v=ywaTzpY0YC0",
       "thumbnail": "https://img.youtube.com/vi/ywaTzpY0YC0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "tokino_sora",
       "talentName": "Tokino Sora",
       "groupId": "gen0",
-      "startTime": "2026-01-16T23:00:00+09:00",
+      "startTime": "2026-01-16T23:03:00+09:00",
       "url": "https://www.youtube.com/watch?v=eGSH2wbMFag",
       "thumbnail": "https://img.youtube.com/vi/eGSH2wbMFag/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "oozora_subaru",
@@ -802,24 +802,24 @@
       "isLive": true
     },
     {
-      "talentId": "pavolia_reine",
-      "talentName": "Pavolia Reine",
-      "groupId": "id_gen2",
-      "startTime": "2026-01-16T23:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=ycMf86NMPf4",
-      "thumbnail": "https://img.youtube.com/vi/ycMf86NMPf4/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
       "talentId": "ayunda_risu",
       "talentName": "Ayunda Risu",
       "groupId": "id_gen1",
-      "startTime": "2026-01-16T23:00:00+09:00",
+      "startTime": "2026-01-16T22:59:00+09:00",
       "url": "https://www.youtube.com/watch?v=Uv-hBuJkcdM",
       "thumbnail": "https://img.youtube.com/vi/Uv-hBuJkcdM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
+    },
+    {
+      "talentId": "pavolia_reine",
+      "talentName": "Pavolia Reine",
+      "groupId": "id_gen2",
+      "startTime": "2026-01-16T23:01:00+09:00",
+      "url": "https://www.youtube.com/watch?v=ycMf86NMPf4",
+      "thumbnail": "https://img.youtube.com/vi/ycMf86NMPf4/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
     },
     {
       "talentId": "kureiji_ollie",
@@ -939,7 +939,7 @@
       "url": "https://www.youtube.com/watch?v=s8uEDYrr3Q4",
       "thumbnail": "https://img.youtube.com/vi/s8uEDYrr3Q4/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -1189,7 +1189,7 @@
       "url": "https://www.youtube.com/watch?v=0QjfPC2Df1g",
       "thumbnail": "https://img.youtube.com/vi/0QjfPC2Df1g/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/EA7rVsjrX8vvWUcCw-tEiLj4mrTZK3pvCdRmq07ylzGLBvMRL0FyU6rnMvk6-4umPUWJm8TeNg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
