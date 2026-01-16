@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-16T14:13:34.092Z",
+  "updatedAt": "2026-01-16T14:41:19.434Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -319,7 +319,7 @@
       "url": "https://www.youtube.com/watch?v=N-3UgvDcWUA",
       "thumbnail": "https://img.youtube.com/vi/N-3UgvDcWUA/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -399,7 +399,7 @@
       "url": "https://www.youtube.com/watch?v=xgOd35OEH_k",
       "thumbnail": "https://img.youtube.com/vi/xgOd35OEH_k/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "nekomata_okayu",
@@ -439,7 +439,7 @@
       "url": "https://www.youtube.com/watch?v=liSDffz-7ZE",
       "thumbnail": "https://img.youtube.com/vi/liSDffz-7ZE/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "ookami_mio",
@@ -949,7 +949,7 @@
       "url": "https://www.youtube.com/watch?v=-8p2TMVKluc",
       "thumbnail": "https://img.youtube.com/vi/-8p2TMVKluc/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -1439,7 +1439,7 @@
       "url": "https://www.youtube.com/watch?v=RfH_nDFkRtc",
       "thumbnail": "https://img.youtube.com/vi/RfH_nDFkRtc/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "isaki_riona",
