@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-16T22:51:34.813Z",
+  "updatedAt": "2026-01-16T23:09:47.411Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -465,11 +465,11 @@
       "talentId": "shiori_novella",
       "talentName": "Shiori Novella",
       "groupId": "en_advent",
-      "startTime": "2026-01-17T08:00:00+09:00",
+      "startTime": "2026-01-17T07:55:00+09:00",
       "url": "https://www.youtube.com/watch?v=EzP8PoJDKDo",
       "thumbnail": "https://img.youtube.com/vi/EzP8PoJDKDo/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "koseki_bijou",
