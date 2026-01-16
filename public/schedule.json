@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-16T14:41:19.434Z",
+  "updatedAt": "2026-01-16T14:56:29.815Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -369,7 +369,7 @@
       "url": "https://www.youtube.com/watch?v=R3e06tBi2VQ",
       "thumbnail": "https://img.youtube.com/vi/R3e06tBi2VQ/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "usada_pekora",
@@ -959,6 +959,16 @@
       "url": "https://www.youtube.com/watch?v=YnbLC1Idp9U",
       "thumbnail": "https://img.youtube.com/vi/YnbLC1Idp9U/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "アルランディス",
+      "groupId": "holostars_jp",
+      "startTime": "2026-01-17T14:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=WbWtPTdowxc",
+      "thumbnail": "https://img.youtube.com/vi/WbWtPTdowxc/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
