@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-16T09:45:19.327Z",
+  "updatedAt": "2026-01-16T09:55:59.229Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -312,6 +312,16 @@
       "isLive": false
     },
     {
+      "talentId": "tokoyami_towa",
+      "talentName": "Tokoyami Towa",
+      "groupId": "gen4",
+      "startTime": "2026-01-16T18:49:00+09:00",
+      "url": "https://www.youtube.com/watch?v=N-3UgvDcWUA",
+      "thumbnail": "https://img.youtube.com/vi/N-3UgvDcWUA/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
+    },
+    {
       "talentId": "unknown",
       "talentName": "宝鐘マリン",
       "groupId": "hololive_jp",
@@ -329,16 +339,6 @@
       "url": "https://www.youtube.com/watch?v=DdcuNAx4S4I",
       "thumbnail": "https://img.youtube.com/vi/DdcuNAx4S4I/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
-      "talentId": "tokoyami_towa",
-      "talentName": "Tokoyami Towa",
-      "groupId": "gen4",
-      "startTime": "2026-01-16T20:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=N-3UgvDcWUA",
-      "thumbnail": "https://img.youtube.com/vi/N-3UgvDcWUA/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
