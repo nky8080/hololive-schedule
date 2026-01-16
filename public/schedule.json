@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-16T09:15:48.893Z",
+  "updatedAt": "2026-01-16T09:45:19.327Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -302,6 +302,16 @@
       "isLive": false
     },
     {
+      "talentId": "usada_pekora",
+      "talentName": "Usada Pekora",
+      "groupId": "gen3",
+      "startTime": "2026-01-16T18:34:00+09:00",
+      "url": "https://www.youtube.com/watch?v=1_krNTdwI1g",
+      "thumbnail": "https://img.youtube.com/vi/1_krNTdwI1g/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "unknown",
       "talentName": "宝鐘マリン",
       "groupId": "hololive_jp",
@@ -312,16 +322,6 @@
       "isLive": false
     },
     {
-      "talentId": "tokoyami_towa",
-      "talentName": "Tokoyami Towa",
-      "groupId": "gen4",
-      "startTime": "2026-01-16T20:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=N-3UgvDcWUA",
-      "thumbnail": "https://img.youtube.com/vi/N-3UgvDcWUA/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
       "talentId": "azki",
       "talentName": "AZKi",
       "groupId": "gen0",
@@ -329,6 +329,16 @@
       "url": "https://www.youtube.com/watch?v=DdcuNAx4S4I",
       "thumbnail": "https://img.youtube.com/vi/DdcuNAx4S4I/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "tokoyami_towa",
+      "talentName": "Tokoyami Towa",
+      "groupId": "gen4",
+      "startTime": "2026-01-16T20:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=N-3UgvDcWUA",
+      "thumbnail": "https://img.youtube.com/vi/N-3UgvDcWUA/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -835,11 +845,11 @@
       "talentId": "unknown",
       "talentName": "アルランディス",
       "groupId": "holostars_jp",
-      "startTime": "2026-01-16T20:00:00+09:00",
+      "startTime": "2026-01-16T18:37:00+09:00",
       "url": "https://www.youtube.com/watch?v=s8uEDYrr3Q4",
       "thumbnail": "https://img.youtube.com/vi/s8uEDYrr3Q4/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "unknown",
