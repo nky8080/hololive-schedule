@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-16T10:13:08.254Z",
+  "updatedAt": "2026-01-16T10:42:42.172Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -332,6 +332,16 @@
       "isLive": false
     },
     {
+      "talentId": "shiranui_flare",
+      "talentName": "Shiranui Flare",
+      "groupId": "gen3",
+      "startTime": "2026-01-16T19:24:00+09:00",
+      "url": "https://www.youtube.com/watch?v=5jHts1pwkdU",
+      "thumbnail": "https://img.youtube.com/vi/5jHts1pwkdU/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "unknown",
       "talentName": "宝鐘マリン",
       "groupId": "hololive_jp",
@@ -372,16 +382,6 @@
       "isLive": false
     },
     {
-      "talentId": "shirogane_noel",
-      "talentName": "Shirogane Noel",
-      "groupId": "gen3",
-      "startTime": "2026-01-16T22:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=xgOd35OEH_k",
-      "thumbnail": "https://img.youtube.com/vi/xgOd35OEH_k/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
       "talentId": "oozora_subaru",
       "talentName": "Oozora Subaru",
       "groupId": "gen2",
@@ -389,6 +389,16 @@
       "url": "https://www.youtube.com/watch?v=Ul5Vp0C-awY",
       "thumbnail": "https://img.youtube.com/vi/Ul5Vp0C-awY/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "shirogane_noel",
+      "talentName": "Shirogane Noel",
+      "groupId": "gen3",
+      "startTime": "2026-01-16T22:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=xgOd35OEH_k",
+      "thumbnail": "https://img.youtube.com/vi/xgOd35OEH_k/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -419,6 +429,16 @@
       "url": "https://www.youtube.com/watch?v=sgVnMqR_dzA",
       "thumbnail": "https://img.youtube.com/vi/sgVnMqR_dzA/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "hakui_koyori",
+      "talentName": "Hakui Koyori",
+      "groupId": "holoX",
+      "startTime": "2026-01-17T11:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=QRh5DyohiFA",
+      "thumbnail": "https://img.youtube.com/vi/QRh5DyohiFA/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
