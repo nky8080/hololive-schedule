@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-16T05:53:15.340Z",
+  "updatedAt": "2026-01-16T06:17:12.891Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -469,7 +469,7 @@
       "url": "https://www.youtube.com/watch?v=3kFgHIeJ1IA",
       "thumbnail": "https://img.youtube.com/vi/3kFgHIeJ1IA/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "irys",
@@ -879,7 +879,7 @@
       "url": "https://www.youtube.com/watch?v=W33U8Np9f60",
       "thumbnail": "https://img.youtube.com/vi/W33U8Np9f60/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/12Y9I0cP0EqJe4Wpkm19p_MythjFqYcMZRC3vN4bYPSzE9ANTIFXOhZdfP1TQpAi4Thw741twyg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -899,7 +899,7 @@
       "url": "https://www.youtube.com/watch?v=DdOxZ2ndz0M",
       "thumbnail": "https://img.youtube.com/vi/DdOxZ2ndz0M/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/GkDmDWOfKfFkcVmG3-ECCRMeFR4bXlWBvuGO3xu3Ud68kVTWssXpn5q266BmtXvcHuzc5Ib2iFQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
