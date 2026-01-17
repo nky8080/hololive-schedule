@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-17T05:50:00.692Z",
+  "updatedAt": "2026-01-17T06:15:08.803Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -290,6 +290,16 @@
       "thumbnail": "https://img.youtube.com/vi/juw7u66mTes/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s88-c-k-c0x00ffffff-no-rj",
       "isLive": true
+    },
+    {
+      "talentId": "tokino_sora",
+      "talentName": "Tokino Sora",
+      "groupId": "gen0",
+      "startTime": "2026-01-17T15:30:00+09:00",
+      "url": "https://www.youtube.com/watch?v=IDhPxHEcSHM",
+      "thumbnail": "https://img.youtube.com/vi/IDhPxHEcSHM/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -945,16 +955,6 @@
       "talentId": "unknown",
       "talentName": "Octavio",
       "groupId": "holostars_en",
-      "startTime": "2026-01-17T09:26:00+09:00",
-      "url": "https://www.youtube.com/watch?v=JVEIUfI3-yE",
-      "thumbnail": "https://img.youtube.com/vi/JVEIUfI3-yE/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
-      "talentId": "unknown",
-      "talentName": "Octavio",
-      "groupId": "holostars_en",
       "startTime": "2026-01-17T10:00:00+09:00",
       "url": "https://www.youtube.com/watch?v=66BvxMgXQqY",
       "thumbnail": "https://img.youtube.com/vi/66BvxMgXQqY/mqdefault.jpg",
@@ -989,7 +989,7 @@
       "url": "https://www.youtube.com/watch?v=nrM36bIB1AM",
       "thumbnail": "https://img.youtube.com/vi/nrM36bIB1AM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/GkDmDWOfKfFkcVmG3-ECCRMeFR4bXlWBvuGO3xu3Ud68kVTWssXpn5q266BmtXvcHuzc5Ib2iFQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
