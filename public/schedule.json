@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-17T15:09:24.538Z",
+  "updatedAt": "2026-01-17T15:30:44.415Z",
   "streams": [
     {
       "talentId": "roboco",
@@ -149,7 +149,7 @@
       "url": "https://www.youtube.com/watch?v=lTWhDuf8EAM",
       "thumbnail": "https://img.youtube.com/vi/lTWhDuf8EAM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "hoshimachi_suisei",
@@ -269,6 +269,16 @@
       "url": "https://www.youtube.com/watch?v=sToAKM1fl_M",
       "thumbnail": "https://img.youtube.com/vi/sToAKM1fl_M/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "kazama_iroha",
+      "talentName": "Kazama Iroha",
+      "groupId": "holoX",
+      "startTime": "2026-01-18T14:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=Idyi3JeIz8M",
+      "thumbnail": "https://img.youtube.com/vi/Idyi3JeIz8M/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -422,16 +432,6 @@
       "isLive": false
     },
     {
-      "talentId": "mori_calliope",
-      "talentName": "Mori Calliope",
-      "groupId": "en_myth",
-      "startTime": "2026-01-18T10:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=hwHsg37H65g",
-      "thumbnail": "https://img.youtube.com/vi/hwHsg37H65g/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
       "talentId": "hakos_baelz",
       "talentName": "Hakos Baelz",
       "groupId": "en_promise",
@@ -449,6 +449,16 @@
       "url": "https://www.youtube.com/watch?v=uku2evQBo9o",
       "thumbnail": "https://img.youtube.com/vi/uku2evQBo9o/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "mori_calliope",
+      "talentName": "Mori Calliope",
+      "groupId": "en_myth",
+      "startTime": "2026-01-18T10:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=hwHsg37H65g",
+      "thumbnail": "https://img.youtube.com/vi/hwHsg37H65g/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -670,16 +680,6 @@
       "thumbnail": "https://img.youtube.com/vi/nrM36bIB1AM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/GkDmDWOfKfFkcVmG3-ECCRMeFR4bXlWBvuGO3xu3Ud68kVTWssXpn5q266BmtXvcHuzc5Ib2iFQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
-    },
-    {
-      "talentId": "unknown",
-      "talentName": "Octavio",
-      "groupId": "holostars_en",
-      "startTime": "2026-01-17T21:03:00+09:00",
-      "url": "https://www.youtube.com/watch?v=nFoKdkjP2GI",
-      "thumbnail": "https://img.youtube.com/vi/nFoKdkjP2GI/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
     },
     {
       "talentId": "unknown",
