@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-17T04:49:17.733Z",
+  "updatedAt": "2026-01-17T05:11:31.762Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -499,7 +499,7 @@
       "url": "https://www.youtube.com/watch?v=zPVPxCzw_x0",
       "thumbnail": "https://img.youtube.com/vi/zPVPxCzw_x0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "shiori_novella",
@@ -749,7 +749,7 @@
       "url": "https://www.youtube.com/watch?v=k3-hMhmTols",
       "thumbnail": "https://img.youtube.com/vi/k3-hMhmTols/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "unknown",
@@ -919,7 +919,7 @@
       "url": "https://www.youtube.com/watch?v=KTc-t99LmaM",
       "thumbnail": "https://img.youtube.com/vi/KTc-t99LmaM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -1159,7 +1159,7 @@
       "url": "https://www.youtube.com/watch?v=wuRUEoAX5rk",
       "thumbnail": "https://img.youtube.com/vi/wuRUEoAX5rk/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "kikirara_vivi",
