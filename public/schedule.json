@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-17T16:36:00.982Z",
+  "updatedAt": "2026-01-17T16:51:46.818Z",
   "streams": [
     {
       "talentId": "roboco",
@@ -439,7 +439,7 @@
       "url": "https://www.youtube.com/watch?v=UU9Lmel_1kU",
       "thumbnail": "https://img.youtube.com/vi/UU9Lmel_1kU/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "takanashi_kiara",
@@ -549,7 +549,7 @@
       "url": "https://www.youtube.com/watch?v=O1zIUOWmhyg",
       "thumbnail": "https://img.youtube.com/vi/O1zIUOWmhyg/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -899,7 +899,7 @@
       "url": "https://www.youtube.com/watch?v=Dvvk4v_BzPc",
       "thumbnail": "https://img.youtube.com/vi/Dvvk4v_BzPc/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "ichijou_ririka",
