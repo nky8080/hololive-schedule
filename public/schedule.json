@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-17T17:08:09.923Z",
+  "updatedAt": "2026-01-17T17:29:33.403Z",
   "streams": [
     {
       "talentId": "roboco",
@@ -239,7 +239,7 @@
       "url": "https://www.youtube.com/watch?v=XoT04W6LBtQ",
       "thumbnail": "https://img.youtube.com/vi/XoT04W6LBtQ/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "azki",
@@ -609,7 +609,7 @@
       "url": "https://www.youtube.com/watch?v=WVRsjHxR8JQ",
       "thumbnail": "https://img.youtube.com/vi/WVRsjHxR8JQ/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
