@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-17T10:09:31.473Z",
+  "updatedAt": "2026-01-17T10:34:39.647Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -289,7 +289,7 @@
       "url": "https://www.youtube.com/watch?v=juw7u66mTes",
       "thumbnail": "https://img.youtube.com/vi/juw7u66mTes/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "tokino_sora",
@@ -389,7 +389,7 @@
       "url": "https://www.youtube.com/watch?v=Rop3hoatYis",
       "thumbnail": "https://img.youtube.com/vi/Rop3hoatYis/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "nekomata_okayu",
@@ -860,6 +860,16 @@
       "thumbnail": "https://img.youtube.com/vi/k3-hMhmTols/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s88-c-k-c0x00ffffff-no-rj",
       "isLive": true
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "夜十神封魔",
+      "groupId": "holostars_jp",
+      "startTime": "2026-01-17T19:15:00+09:00",
+      "url": "https://www.youtube.com/watch?v=xSdUKknBpKM",
+      "thumbnail": "https://img.youtube.com/vi/xSdUKknBpKM/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
     },
     {
       "talentId": "unknown",
