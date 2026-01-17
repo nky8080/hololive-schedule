@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-17T16:10:30.001Z",
+  "updatedAt": "2026-01-17T16:36:00.982Z",
   "streams": [
     {
       "talentId": "roboco",
@@ -242,16 +242,6 @@
       "isLive": true
     },
     {
-      "talentId": "hakui_koyori",
-      "talentName": "Hakui Koyori",
-      "groupId": "holoX",
-      "startTime": "2026-01-18T10:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=5NDBnkV-BCs",
-      "thumbnail": "https://img.youtube.com/vi/5NDBnkV-BCs/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
       "talentId": "azki",
       "talentName": "AZKi",
       "groupId": "gen0",
@@ -259,6 +249,16 @@
       "url": "https://www.youtube.com/watch?v=5DGAWXiIoMA",
       "thumbnail": "https://img.youtube.com/vi/5DGAWXiIoMA/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "hakui_koyori",
+      "talentName": "Hakui Koyori",
+      "groupId": "holoX",
+      "startTime": "2026-01-18T10:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=5NDBnkV-BCs",
+      "thumbnail": "https://img.youtube.com/vi/5NDBnkV-BCs/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -312,16 +312,6 @@
       "isLive": false
     },
     {
-      "talentId": "nekomata_okayu",
-      "talentName": "Nekomata Okayu",
-      "groupId": "gamers",
-      "startTime": "2026-01-18T20:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=XFzTa26IGb4",
-      "thumbnail": "https://img.youtube.com/vi/XFzTa26IGb4/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
       "talentId": "shirakami_fubuki",
       "talentName": "Shirakami Fubuki",
       "groupId": "gen1",
@@ -329,6 +319,16 @@
       "url": "https://www.youtube.com/watch?v=fe9lEStyqrY",
       "thumbnail": "https://img.youtube.com/vi/fe9lEStyqrY/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "nekomata_okayu",
+      "talentName": "Nekomata Okayu",
+      "groupId": "gamers",
+      "startTime": "2026-01-18T20:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=XFzTa26IGb4",
+      "thumbnail": "https://img.youtube.com/vi/XFzTa26IGb4/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -869,7 +869,7 @@
       "url": "https://www.youtube.com/watch?v=MBbX6gIhszw",
       "thumbnail": "https://img.youtube.com/vi/MBbX6gIhszw/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -900,6 +900,16 @@
       "thumbnail": "https://img.youtube.com/vi/Dvvk4v_BzPc/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s88-c-k-c0x00ffffff-no-rj",
       "isLive": true
+    },
+    {
+      "talentId": "ichijou_ririka",
+      "talentName": "Ichijou Ririka",
+      "groupId": "regloss",
+      "startTime": "2026-01-18T11:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=MQ4HsteNn6I",
+      "thumbnail": "https://img.youtube.com/vi/MQ4HsteNn6I/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
     },
     {
       "talentId": "unknown",
