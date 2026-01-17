@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-17T11:26:46.544Z",
+  "updatedAt": "2026-01-17T11:35:45.131Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -1299,7 +1299,7 @@
       "url": "https://www.youtube.com/watch?v=BwKRAOqBgAI",
       "thumbnail": "https://img.youtube.com/vi/BwKRAOqBgAI/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "isaki_riona",
