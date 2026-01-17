@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-17T13:37:49.985Z",
+  "updatedAt": "2026-01-17T13:49:42.253Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -369,7 +369,7 @@
       "url": "https://www.youtube.com/watch?v=xvTOaEbwa78",
       "thumbnail": "https://img.youtube.com/vi/xvTOaEbwa78/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "kazama_iroha",
@@ -675,7 +675,7 @@
       "talentId": "raora_panthera",
       "talentName": "Raora Panthera",
       "groupId": "en_justice",
-      "startTime": "2026-01-17T23:00:00+09:00",
+      "startTime": "2026-01-17T23:15:00+09:00",
       "url": "https://www.youtube.com/watch?v=UU9Lmel_1kU",
       "thumbnail": "https://img.youtube.com/vi/UU9Lmel_1kU/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s88-c-k-c0x00ffffff-no-rj",
