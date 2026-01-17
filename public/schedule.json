@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-16T23:48:54.698Z",
+  "updatedAt": "2026-01-17T00:46:27.296Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -252,6 +252,16 @@
       "isLive": false
     },
     {
+      "talentId": "shiranui_flare",
+      "talentName": "Shiranui Flare",
+      "groupId": "gen3",
+      "startTime": "2026-01-17T08:57:00+09:00",
+      "url": "https://www.youtube.com/watch?v=H9G54QY_1h0",
+      "thumbnail": "https://img.youtube.com/vi/H9G54QY_1h0/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "oozora_subaru",
       "talentName": "Oozora Subaru",
       "groupId": "gen2",
@@ -319,6 +329,16 @@
       "url": "https://www.youtube.com/watch?v=-MJEAKwhrV0",
       "thumbnail": "https://img.youtube.com/vi/-MJEAKwhrV0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "himemori_luna",
+      "talentName": "Himemori Luna",
+      "groupId": "gen4",
+      "startTime": "2026-01-17T22:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=MG7KfMOYUyI",
+      "thumbnail": "https://img.youtube.com/vi/MG7KfMOYUyI/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -475,11 +495,11 @@
       "talentId": "koseki_bijou",
       "talentName": "Koseki Bijou",
       "groupId": "en_advent",
-      "startTime": "2026-01-17T09:00:00+09:00",
+      "startTime": "2026-01-17T08:55:00+09:00",
       "url": "https://www.youtube.com/watch?v=__zG4XaE0bE",
       "thumbnail": "https://img.youtube.com/vi/__zG4XaE0bE/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "mori_calliope",
@@ -783,9 +803,29 @@
     },
     {
       "talentId": "unknown",
-      "talentName": "Octavio",
+      "talentName": "Goldbullet",
       "groupId": "holostars_en",
       "startTime": "2026-01-17T09:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=J6Js22KJzZw",
+      "thumbnail": "https://img.youtube.com/vi/J6Js22KJzZw/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/pP_ShozRg9Hn8dyB4D8ODtdI9ShTY3AMOKui418InNDz9jwGYIRRH6bxdl7KX55SjmFMZlMUvg=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Crimzon",
+      "groupId": "holostars_en",
+      "startTime": "2026-01-17T09:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=WTJoxBJGNX8",
+      "thumbnail": "https://img.youtube.com/vi/WTJoxBJGNX8/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Octavio",
+      "groupId": "holostars_en",
+      "startTime": "2026-01-17T09:01:00+09:00",
       "url": "https://www.youtube.com/watch?v=Va9KWgixdwI",
       "thumbnail": "https://img.youtube.com/vi/Va9KWgixdwI/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s88-c-k-c0x00ffffff-no-rj",
@@ -795,10 +835,50 @@
       "talentId": "unknown",
       "talentName": "Hakka",
       "groupId": "holostars_en",
-      "startTime": "2026-01-17T09:15:00+09:00",
+      "startTime": "2026-01-17T09:16:00+09:00",
       "url": "https://www.youtube.com/watch?v=KTc-t99LmaM",
       "thumbnail": "https://img.youtube.com/vi/KTc-t99LmaM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Octavio",
+      "groupId": "holostars_en",
+      "startTime": "2026-01-17T09:16:00+09:00",
+      "url": "https://www.youtube.com/watch?v=AYLJI-q_4TY",
+      "thumbnail": "https://img.youtube.com/vi/AYLJI-q_4TY/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Octavio",
+      "groupId": "holostars_en",
+      "startTime": "2026-01-17T09:19:00+09:00",
+      "url": "https://www.youtube.com/watch?v=ACBwb1aAkUs",
+      "thumbnail": "https://img.youtube.com/vi/ACBwb1aAkUs/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Octavio",
+      "groupId": "holostars_en",
+      "startTime": "2026-01-17T09:26:00+09:00",
+      "url": "https://www.youtube.com/watch?v=JVEIUfI3-yE",
+      "thumbnail": "https://img.youtube.com/vi/JVEIUfI3-yE/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Crimzon",
+      "groupId": "holostars_en",
+      "startTime": "2026-01-17T10:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=0nB932gp9uE",
+      "thumbnail": "https://img.youtube.com/vi/0nB932gp9uE/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
