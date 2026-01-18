@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-18T08:13:26.350Z",
+  "updatedAt": "2026-01-18T08:40:36.541Z",
   "streams": [
     {
       "talentId": "roboco",
@@ -359,7 +359,17 @@
       "url": "https://www.youtube.com/watch?v=XJJXk28ivwY",
       "thumbnail": "https://img.youtube.com/vi/XJJXk28ivwY/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
+    },
+    {
+      "talentId": "takane_lui",
+      "talentName": "Takane Lui",
+      "groupId": "holoX",
+      "startTime": "2026-01-18T17:22:00+09:00",
+      "url": "https://www.youtube.com/watch?v=b4WGTxzF7q0",
+      "thumbnail": "https://img.youtube.com/vi/b4WGTxzF7q0/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
     },
     {
       "talentId": "shishiro_botan",
