@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-18T17:48:34.660Z",
+  "updatedAt": "2026-01-18T18:13:25.669Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -439,7 +439,7 @@
       "url": "https://www.youtube.com/watch?v=3Lh1oqL8BOY",
       "thumbnail": "https://img.youtube.com/vi/3Lh1oqL8BOY/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "kobo_kanaeru",
@@ -449,7 +449,7 @@
       "url": "https://www.youtube.com/watch?v=GoRYuIcfh2s",
       "thumbnail": "https://img.youtube.com/vi/GoRYuIcfh2s/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -739,6 +739,16 @@
       "url": "https://www.youtube.com/watch?v=TLE8Wq5ixCM",
       "thumbnail": "https://img.youtube.com/vi/TLE8Wq5ixCM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "mizumiya_su",
+      "talentName": "Mizumiya Su",
+      "groupId": "flow_glow",
+      "startTime": "2026-01-19T23:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=0lyCMKVtwSQ",
+      "thumbnail": "https://img.youtube.com/vi/0lyCMKVtwSQ/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
