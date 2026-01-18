@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-18T05:37:59.414Z",
+  "updatedAt": "2026-01-18T05:52:03.266Z",
   "streams": [
     {
       "talentId": "roboco",
@@ -599,6 +599,16 @@
       "url": "https://www.youtube.com/watch?v=cViQfTlggtQ",
       "thumbnail": "https://img.youtube.com/vi/cViQfTlggtQ/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "cecilia_immergreen",
+      "talentName": "Cecilia Immergreen",
+      "groupId": "en_justice",
+      "startTime": "2026-01-19T03:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=uo-z38gdrQw",
+      "thumbnail": "https://img.youtube.com/vi/uo-z38gdrQw/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
