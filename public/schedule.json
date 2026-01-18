@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-18T18:54:56.116Z",
+  "updatedAt": "2026-01-18T19:07:34.357Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -365,11 +365,11 @@
       "talentId": "elizabeth_rose_bloodflame",
       "talentName": "Elizabeth Rose Bloodflame",
       "groupId": "en_justice",
-      "startTime": "2026-01-19T04:00:00+09:00",
+      "startTime": "2026-01-19T03:58:00+09:00",
       "url": "https://www.youtube.com/watch?v=AzCXbFjrse4",
       "thumbnail": "https://img.youtube.com/vi/AzCXbFjrse4/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "mori_calliope",
@@ -499,6 +499,16 @@
       "url": "https://www.youtube.com/watch?v=fmcElcSPRbc",
       "thumbnail": "https://img.youtube.com/vi/fmcElcSPRbc/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "羽継烏有",
+      "groupId": "holostars_jp",
+      "startTime": "2026-01-19T04:15:00+09:00",
+      "url": "https://www.youtube.com/watch?v=Z_e6NRhDCUE",
+      "thumbnail": "https://img.youtube.com/vi/Z_e6NRhDCUE/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
