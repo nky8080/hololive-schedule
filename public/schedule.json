@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-18T11:46:35.022Z",
+  "updatedAt": "2026-01-18T12:17:46.887Z",
   "streams": [
     {
       "talentId": "roboco",
@@ -445,17 +445,17 @@
       "talentId": "unknown",
       "talentName": "宝鐘マリン",
       "groupId": "hololive_jp",
-      "startTime": "2026-01-18T21:00:00+09:00",
+      "startTime": "2026-01-18T20:59:00+09:00",
       "url": "https://www.youtube.com/watch?v=Er1YIT7q8Kk",
       "thumbnail": "https://img.youtube.com/vi/Er1YIT7q8Kk/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "usada_pekora",
       "talentName": "Usada Pekora",
       "groupId": "gen3",
-      "startTime": "2026-01-18T23:00:00+09:00",
+      "startTime": "2026-01-18T22:00:00+09:00",
       "url": "https://www.youtube.com/watch?v=PNqxIkL3Y7Q",
       "thumbnail": "https://img.youtube.com/vi/PNqxIkL3Y7Q/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s88-c-k-c0x00ffffff-no-rj",
@@ -879,7 +879,7 @@
       "url": "https://www.youtube.com/watch?v=fmcElcSPRbc",
       "thumbnail": "https://img.youtube.com/vi/fmcElcSPRbc/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "unknown",
