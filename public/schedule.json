@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-18T10:50:16.629Z",
+  "updatedAt": "2026-01-18T11:07:57.632Z",
   "streams": [
     {
       "talentId": "roboco",
@@ -422,16 +422,6 @@
       "isLive": false
     },
     {
-      "talentId": "nekomata_okayu",
-      "talentName": "Nekomata Okayu",
-      "groupId": "gamers",
-      "startTime": "2026-01-18T20:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=XFzTa26IGb4",
-      "thumbnail": "https://img.youtube.com/vi/XFzTa26IGb4/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
       "talentId": "shirakami_fubuki",
       "talentName": "Shirakami Fubuki",
       "groupId": "gen1",
@@ -439,7 +429,17 @@
       "url": "https://www.youtube.com/watch?v=fe9lEStyqrY",
       "thumbnail": "https://img.youtube.com/vi/fe9lEStyqrY/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
+    },
+    {
+      "talentId": "nekomata_okayu",
+      "talentName": "Nekomata Okayu",
+      "groupId": "gamers",
+      "startTime": "2026-01-18T20:02:00+09:00",
+      "url": "https://www.youtube.com/watch?v=XFzTa26IGb4",
+      "thumbnail": "https://img.youtube.com/vi/XFzTa26IGb4/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
     },
     {
       "talentId": "unknown",
@@ -1009,7 +1009,7 @@
       "url": "https://www.youtube.com/watch?v=EId8pmfnKSc",
       "thumbnail": "https://img.youtube.com/vi/EId8pmfnKSc/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/EA7rVsjrX8vvWUcCw-tEiLj4mrTZK3pvCdRmq07ylzGLBvMRL0FyU6rnMvk6-4umPUWJm8TeNg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "kikirara_vivi",
@@ -1249,7 +1249,7 @@
       "url": "https://www.youtube.com/watch?v=Q36NN6eZjD8",
       "thumbnail": "https://img.youtube.com/vi/Q36NN6eZjD8/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "unknown",
@@ -1258,6 +1258,16 @@
       "startTime": "2026-01-17T20:01:00+09:00",
       "url": "https://www.youtube.com/watch?v=tu_g56LImMg",
       "thumbnail": "https://img.youtube.com/vi/tu_g56LImMg/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/auWUDx657AsLAGf8xx-NDUgiWGd9DOxM9qTYI_nMCZktK7OOdz_CT0xYSLKONO2H8IzlUkaEig=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "ホロカ公式",
+      "groupId": "official",
+      "startTime": "2026-01-18T20:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=Z_vwqP-6Gs4",
+      "thumbnail": "https://img.youtube.com/vi/Z_vwqP-6Gs4/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/auWUDx657AsLAGf8xx-NDUgiWGd9DOxM9qTYI_nMCZktK7OOdz_CT0xYSLKONO2H8IzlUkaEig=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     }
