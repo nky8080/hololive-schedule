@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-18T11:34:18.830Z",
+  "updatedAt": "2026-01-18T11:46:35.022Z",
   "streams": [
     {
       "talentId": "roboco",
@@ -749,7 +749,7 @@
       "url": "https://www.youtube.com/watch?v=gNQ5SiJmVLQ",
       "thumbnail": "https://img.youtube.com/vi/gNQ5SiJmVLQ/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "kobo_kanaeru",
