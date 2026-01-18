@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-18T15:30:30.499Z",
+  "updatedAt": "2026-01-18T15:48:30.609Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -479,7 +479,7 @@
       "url": "https://www.youtube.com/watch?v=BjQS5qlOm-s",
       "thumbnail": "https://img.youtube.com/vi/BjQS5qlOm-s/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -719,7 +719,7 @@
       "url": "https://www.youtube.com/watch?v=l50k8OosXqk",
       "thumbnail": "https://img.youtube.com/vi/l50k8OosXqk/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "kikirara_vivi",
@@ -739,6 +739,16 @@
       "url": "https://www.youtube.com/watch?v=TLE8Wq5ixCM",
       "thumbnail": "https://img.youtube.com/vi/TLE8Wq5ixCM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "ichijou_ririka",
+      "talentName": "Ichijou Ririka",
+      "groupId": "regloss",
+      "startTime": "2026-01-19T23:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=yjUo38OhU84",
+      "thumbnail": "https://img.youtube.com/vi/yjUo38OhU84/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
