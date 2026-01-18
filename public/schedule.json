@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-18T04:06:28.446Z",
+  "updatedAt": "2026-01-18T04:51:12.817Z",
   "streams": [
     {
       "talentId": "roboco",
@@ -319,7 +319,7 @@
       "url": "https://www.youtube.com/watch?v=EmNtGGcyOzg",
       "thumbnail": "https://img.youtube.com/vi/EmNtGGcyOzg/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "kazama_iroha",
@@ -735,11 +735,11 @@
       "talentId": "unknown",
       "talentName": "岸堂天真",
       "groupId": "holostars_jp",
-      "startTime": "2026-01-18T13:00:00+09:00",
+      "startTime": "2026-01-18T13:06:00+09:00",
       "url": "https://www.youtube.com/watch?v=eycWQ35jZSs",
       "thumbnail": "https://img.youtube.com/vi/eycWQ35jZSs/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "unknown",
@@ -849,7 +849,7 @@
       "url": "https://www.youtube.com/watch?v=132Q_j2z5mY",
       "thumbnail": "https://img.youtube.com/vi/132Q_j2z5mY/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -889,7 +889,7 @@
       "url": "https://www.youtube.com/watch?v=NnjT7kPGN4A",
       "thumbnail": "https://img.youtube.com/vi/NnjT7kPGN4A/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
