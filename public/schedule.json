@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-18T23:09:38.485Z",
+  "updatedAt": "2026-01-18T23:29:56.782Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -385,11 +385,11 @@
       "talentId": "mori_calliope",
       "talentName": "Mori Calliope",
       "groupId": "en_myth",
-      "startTime": "2026-01-19T08:05:00+09:00",
+      "startTime": "2026-01-19T08:08:00+09:00",
       "url": "https://www.youtube.com/watch?v=J3-9qQ7stOk",
       "thumbnail": "https://img.youtube.com/vi/J3-9qQ7stOk/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "ouro_kronii",
