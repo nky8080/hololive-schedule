@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-18T15:48:30.609Z",
+  "updatedAt": "2026-01-18T16:11:03.591Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -345,11 +345,11 @@
       "talentId": "takanashi_kiara",
       "talentName": "Takanashi Kiara",
       "groupId": "en_myth",
-      "startTime": "2026-01-19T01:00:00+09:00",
+      "startTime": "2026-01-19T01:02:00+09:00",
       "url": "https://www.youtube.com/watch?v=cViQfTlggtQ",
       "thumbnail": "https://img.youtube.com/vi/cViQfTlggtQ/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "cecilia_immergreen",
@@ -595,7 +595,7 @@
       "talentId": "unknown",
       "talentName": "Flayon",
       "groupId": "holostars_en",
-      "startTime": "2026-01-19T10:30:00+09:00",
+      "startTime": "2026-01-19T10:00:00+09:00",
       "url": "https://www.youtube.com/watch?v=__AhaESWwjc",
       "thumbnail": "https://img.youtube.com/vi/__AhaESWwjc/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s88-c-k-c0x00ffffff-no-rj",
