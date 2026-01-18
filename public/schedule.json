@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-18T22:33:19.742Z",
+  "updatedAt": "2026-01-18T22:50:07.923Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -369,7 +369,7 @@
       "url": "https://www.youtube.com/watch?v=uo-z38gdrQw",
       "thumbnail": "https://img.youtube.com/vi/uo-z38gdrQw/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "elizabeth_rose_bloodflame",
