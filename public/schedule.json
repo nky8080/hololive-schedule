@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-18T15:09:06.549Z",
+  "updatedAt": "2026-01-18T15:30:30.499Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -582,6 +582,26 @@
       "isLive": false
     },
     {
+      "talentId": "unknown",
+      "talentName": "Hakka",
+      "groupId": "holostars_en",
+      "startTime": "2026-01-19T09:15:00+09:00",
+      "url": "https://www.youtube.com/watch?v=GDEgZ9FA64U",
+      "thumbnail": "https://img.youtube.com/vi/GDEgZ9FA64U/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Flayon",
+      "groupId": "holostars_en",
+      "startTime": "2026-01-19T10:30:00+09:00",
+      "url": "https://www.youtube.com/watch?v=__AhaESWwjc",
+      "thumbnail": "https://img.youtube.com/vi/__AhaESWwjc/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "ichijou_ririka",
       "talentName": "Ichijou Ririka",
       "groupId": "regloss",
@@ -689,7 +709,7 @@
       "url": "https://www.youtube.com/watch?v=GQ2IFNnP-Ds",
       "thumbnail": "https://img.youtube.com/vi/GQ2IFNnP-Ds/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "mizumiya_su",
