@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-18T21:08:52.039Z",
+  "updatedAt": "2026-01-18T21:28:35.133Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -379,7 +379,7 @@
       "url": "https://www.youtube.com/watch?v=AzCXbFjrse4",
       "thumbnail": "https://img.youtube.com/vi/AzCXbFjrse4/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "mori_calliope",
