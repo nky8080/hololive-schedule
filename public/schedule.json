@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-18T07:31:22.034Z",
+  "updatedAt": "2026-01-18T07:46:39.192Z",
   "streams": [
     {
       "talentId": "roboco",
@@ -359,7 +359,7 @@
       "url": "https://www.youtube.com/watch?v=XJJXk28ivwY",
       "thumbnail": "https://img.youtube.com/vi/XJJXk28ivwY/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "shishiro_botan",
@@ -605,7 +605,7 @@
       "talentId": "fuwamoco",
       "talentName": "FUWAMOCO",
       "groupId": "en_advent",
-      "startTime": "2026-01-18T16:45:00+09:00",
+      "startTime": "2026-01-18T16:50:00+09:00",
       "url": "https://www.youtube.com/watch?v=GyFiWsuW7K0",
       "thumbnail": "https://img.youtube.com/vi/GyFiWsuW7K0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s88-c-k-c0x00ffffff-no-rj",
@@ -699,6 +699,16 @@
       "url": "https://www.youtube.com/watch?v=gNQ5SiJmVLQ",
       "thumbnail": "https://img.youtube.com/vi/gNQ5SiJmVLQ/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "kobo_kanaeru",
+      "talentName": "Kobo Kanaeru",
+      "groupId": "id_gen3",
+      "startTime": "2026-01-18T22:30:00+09:00",
+      "url": "https://www.youtube.com/watch?v=GoRYuIcfh2s",
+      "thumbnail": "https://img.youtube.com/vi/GoRYuIcfh2s/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
