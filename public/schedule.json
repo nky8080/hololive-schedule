@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-18T05:14:39.952Z",
+  "updatedAt": "2026-01-18T05:37:59.414Z",
   "streams": [
     {
       "talentId": "roboco",
@@ -372,16 +372,6 @@
       "isLive": false
     },
     {
-      "talentId": "shirakami_fubuki",
-      "talentName": "Shirakami Fubuki",
-      "groupId": "gen1",
-      "startTime": "2026-01-18T20:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=fe9lEStyqrY",
-      "thumbnail": "https://img.youtube.com/vi/fe9lEStyqrY/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
       "talentId": "nekomata_okayu",
       "talentName": "Nekomata Okayu",
       "groupId": "gamers",
@@ -389,6 +379,16 @@
       "url": "https://www.youtube.com/watch?v=XFzTa26IGb4",
       "thumbnail": "https://img.youtube.com/vi/XFzTa26IGb4/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "shirakami_fubuki",
+      "talentName": "Shirakami Fubuki",
+      "groupId": "gen1",
+      "startTime": "2026-01-18T20:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=fe9lEStyqrY",
+      "thumbnail": "https://img.youtube.com/vi/fe9lEStyqrY/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -569,7 +569,7 @@
       "url": "https://www.youtube.com/watch?v=Z0AT2Robu8s",
       "thumbnail": "https://img.youtube.com/vi/Z0AT2Robu8s/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "ouro_kronii",
@@ -618,6 +618,16 @@
       "startTime": "2026-01-19T08:00:00+09:00",
       "url": "https://www.youtube.com/watch?v=J3-9qQ7stOk",
       "thumbnail": "https://img.youtube.com/vi/J3-9qQ7stOk/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "mori_calliope",
+      "talentName": "Mori Calliope",
+      "groupId": "en_myth",
+      "startTime": "2026-01-19T22:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=Nj_Zf3_uc_0",
+      "thumbnail": "https://img.youtube.com/vi/Nj_Zf3_uc_0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
@@ -739,7 +749,7 @@
       "url": "https://www.youtube.com/watch?v=eycWQ35jZSs",
       "thumbnail": "https://img.youtube.com/vi/eycWQ35jZSs/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
