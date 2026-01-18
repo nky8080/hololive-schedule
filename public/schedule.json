@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-18T16:11:03.591Z",
+  "updatedAt": "2026-01-18T16:37:42.166Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -139,7 +139,7 @@
       "url": "https://www.youtube.com/watch?v=jxGjbr94ETQ",
       "thumbnail": "https://img.youtube.com/vi/jxGjbr94ETQ/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -429,7 +429,7 @@
       "url": "https://www.youtube.com/watch?v=iKOlKyo4UJA",
       "thumbnail": "https://img.youtube.com/vi/iKOlKyo4UJA/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "kureiji_ollie",
@@ -729,7 +729,7 @@
       "url": "https://www.youtube.com/watch?v=diG18qJBT2E",
       "thumbnail": "https://img.youtube.com/vi/diG18qJBT2E/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "todoroki_hajime",
