@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-18T04:51:12.817Z",
+  "updatedAt": "2026-01-18T05:14:39.952Z",
   "streams": [
     {
       "talentId": "roboco",
@@ -289,7 +289,7 @@
       "url": "https://www.youtube.com/watch?v=5NDBnkV-BCs",
       "thumbnail": "https://img.youtube.com/vi/5NDBnkV-BCs/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "azki",
@@ -325,11 +325,11 @@
       "talentId": "kazama_iroha",
       "talentName": "Kazama Iroha",
       "groupId": "holoX",
-      "startTime": "2026-01-18T14:00:00+09:00",
+      "startTime": "2026-01-18T14:01:00+09:00",
       "url": "https://www.youtube.com/watch?v=Idyi3JeIz8M",
       "thumbnail": "https://img.youtube.com/vi/Idyi3JeIz8M/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "shirakami_fubuki",
@@ -745,20 +745,30 @@
       "talentId": "unknown",
       "talentName": "アルランディス",
       "groupId": "holostars_jp",
-      "startTime": "2026-01-18T14:00:00+09:00",
+      "startTime": "2026-01-18T14:01:00+09:00",
       "url": "https://www.youtube.com/watch?v=aWX680mtkWo",
       "thumbnail": "https://img.youtube.com/vi/aWX680mtkWo/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "unknown",
       "talentName": "水無世燐央",
       "groupId": "holostars_jp",
-      "startTime": "2026-01-18T14:00:00+09:00",
+      "startTime": "2026-01-18T14:02:00+09:00",
       "url": "https://www.youtube.com/watch?v=BjQS5qlOm-s",
       "thumbnail": "https://img.youtube.com/vi/BjQS5qlOm-s/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "花咲みやび",
+      "groupId": "holostars_jp",
+      "startTime": "2026-01-18T15:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=E6d7S7iw8uQ",
+      "thumbnail": "https://img.youtube.com/vi/E6d7S7iw8uQ/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -1079,7 +1089,7 @@
       "url": "https://www.youtube.com/watch?v=2gGL_0qrcK4",
       "thumbnail": "https://img.youtube.com/vi/2gGL_0qrcK4/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "todoroki_hajime",
