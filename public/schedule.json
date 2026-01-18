@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-18T06:48:10.650Z",
+  "updatedAt": "2026-01-18T07:11:31.672Z",
   "streams": [
     {
       "talentId": "roboco",
@@ -319,7 +319,7 @@
       "url": "https://www.youtube.com/watch?v=EmNtGGcyOzg",
       "thumbnail": "https://img.youtube.com/vi/EmNtGGcyOzg/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "kazama_iroha",
