@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-19T08:18:21.001Z",
+  "updatedAt": "2026-01-19T08:53:57.283Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -252,13 +252,13 @@
       "isLive": false
     },
     {
-      "talentId": "shirogane_noel",
-      "talentName": "Shirogane Noel",
-      "groupId": "gen3",
+      "talentId": "hakui_koyori",
+      "talentName": "Hakui Koyori",
+      "groupId": "holoX",
       "startTime": "2026-01-19T19:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=gIUs1gM0kj4",
-      "thumbnail": "https://img.youtube.com/vi/gIUs1gM0kj4/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s88-c-k-c0x00ffffff-no-rj",
+      "url": "https://www.youtube.com/watch?v=oDVRkjszTto",
+      "thumbnail": "https://img.youtube.com/vi/oDVRkjszTto/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -269,6 +269,16 @@
       "url": "https://www.youtube.com/watch?v=XKinG1fDCpE",
       "thumbnail": "https://img.youtube.com/vi/XKinG1fDCpE/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "shirogane_noel",
+      "talentName": "Shirogane Noel",
+      "groupId": "gen3",
+      "startTime": "2026-01-19T19:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=gIUs1gM0kj4",
+      "thumbnail": "https://img.youtube.com/vi/gIUs1gM0kj4/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -288,6 +298,16 @@
       "startTime": "2026-01-19T20:00:00+09:00",
       "url": "https://www.youtube.com/watch?v=t6Mv3P1AsT4",
       "thumbnail": "https://img.youtube.com/vi/t6Mv3P1AsT4/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "usada_pekora",
+      "talentName": "Usada Pekora",
+      "groupId": "gen3",
+      "startTime": "2026-01-19T21:30:00+09:00",
+      "url": "https://www.youtube.com/watch?v=BwlVfZXlNDc",
+      "thumbnail": "https://img.youtube.com/vi/BwlVfZXlNDc/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
@@ -640,6 +660,26 @@
       "thumbnail": "https://img.youtube.com/vi/Z_e6NRhDCUE/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "夜十神封魔",
+      "groupId": "holostars_jp",
+      "startTime": "2026-01-19T17:19:00+09:00",
+      "url": "https://www.youtube.com/watch?v=hv1UBp8ProI",
+      "thumbnail": "https://img.youtube.com/vi/hv1UBp8ProI/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "岸堂天真",
+      "groupId": "holostars_jp",
+      "startTime": "2026-01-19T17:46:00+09:00",
+      "url": "https://www.youtube.com/watch?v=A-AMNEyLF_0",
+      "thumbnail": "https://img.youtube.com/vi/A-AMNEyLF_0/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
     },
     {
       "talentId": "unknown",
