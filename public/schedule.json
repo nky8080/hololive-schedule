@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-19T07:54:12.245Z",
+  "updatedAt": "2026-01-19T08:18:21.001Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -239,6 +239,16 @@
       "url": "https://www.youtube.com/watch?v=w8ogzWFXSqE",
       "thumbnail": "https://img.youtube.com/vi/w8ogzWFXSqE/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "hakui_koyori",
+      "talentName": "Hakui Koyori",
+      "groupId": "holoX",
+      "startTime": "2026-01-19T17:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=HwX9U00_fI8",
+      "thumbnail": "https://img.youtube.com/vi/HwX9U00_fI8/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -989,6 +999,36 @@
       "url": "https://www.youtube.com/watch?v=diG18qJBT2E",
       "thumbnail": "https://img.youtube.com/vi/diG18qJBT2E/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "mizumiya_su",
+      "talentName": "Mizumiya Su",
+      "groupId": "flow_glow",
+      "startTime": "2026-01-19T17:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=FkPFUpr1bwc",
+      "thumbnail": "https://img.youtube.com/vi/FkPFUpr1bwc/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "kikirara_vivi",
+      "talentName": "Kikirara Vivi",
+      "groupId": "flow_glow",
+      "startTime": "2026-01-19T17:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=wAQ-yOUPxQ4",
+      "thumbnail": "https://img.youtube.com/vi/wAQ-yOUPxQ4/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "todoroki_hajime",
+      "talentName": "Todoroki Hajime",
+      "groupId": "regloss",
+      "startTime": "2026-01-19T17:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=g4HcHl78aks",
+      "thumbnail": "https://img.youtube.com/vi/g4HcHl78aks/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
