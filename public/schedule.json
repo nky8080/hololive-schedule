@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-19T14:17:16.206Z",
+  "updatedAt": "2026-01-19T14:50:53.013Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -402,6 +402,16 @@
       "isLive": true
     },
     {
+      "talentId": "unknown",
+      "talentName": "アキロゼ",
+      "groupId": "hololive_jp",
+      "startTime": "2026-01-19T23:50:00+09:00",
+      "url": "https://www.youtube.com/watch?v=EOj0uvq45lk",
+      "thumbnail": "https://img.youtube.com/vi/EOj0uvq45lk/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "hakui_koyori",
       "talentName": "Hakui Koyori",
       "groupId": "holoX",
@@ -409,6 +419,26 @@
       "url": "https://www.youtube.com/watch?v=OJoJBtkMfo8",
       "thumbnail": "https://img.youtube.com/vi/OJoJBtkMfo8/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "hakui_koyori",
+      "talentName": "Hakui Koyori",
+      "groupId": "holoX",
+      "startTime": "2026-01-20T18:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=3ZHHhpRYu9k",
+      "thumbnail": "https://img.youtube.com/vi/3ZHHhpRYu9k/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "nekomata_okayu",
+      "talentName": "Nekomata Okayu",
+      "groupId": "gamers",
+      "startTime": "2026-01-20T22:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=2GbdFtxM6_k",
+      "thumbnail": "https://img.youtube.com/vi/2GbdFtxM6_k/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -612,13 +642,13 @@
       "isLive": true
     },
     {
-      "talentId": "koseki_bijou",
-      "talentName": "Koseki Bijou",
-      "groupId": "en_advent",
+      "talentId": "mori_calliope",
+      "talentName": "Mori Calliope",
+      "groupId": "en_myth",
       "startTime": "2026-01-20T09:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=xZbGXk9fgmE",
-      "thumbnail": "https://img.youtube.com/vi/xZbGXk9fgmE/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s88-c-k-c0x00ffffff-no-rj",
+      "url": "https://www.youtube.com/watch?v=8Xli4rP_Rnw",
+      "thumbnail": "https://img.youtube.com/vi/8Xli4rP_Rnw/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -632,13 +662,13 @@
       "isLive": false
     },
     {
-      "talentId": "mori_calliope",
-      "talentName": "Mori Calliope",
-      "groupId": "en_myth",
+      "talentId": "koseki_bijou",
+      "talentName": "Koseki Bijou",
+      "groupId": "en_advent",
       "startTime": "2026-01-20T09:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=8Xli4rP_Rnw",
-      "thumbnail": "https://img.youtube.com/vi/8Xli4rP_Rnw/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s88-c-k-c0x00ffffff-no-rj",
+      "url": "https://www.youtube.com/watch?v=xZbGXk9fgmE",
+      "thumbnail": "https://img.youtube.com/vi/xZbGXk9fgmE/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -699,7 +729,7 @@
       "url": "https://www.youtube.com/watch?v=pTyU90n_gLQ",
       "thumbnail": "https://img.youtube.com/vi/pTyU90n_gLQ/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "kureiji_ollie",
@@ -843,22 +873,22 @@
     },
     {
       "talentId": "unknown",
-      "talentName": "水無世燐央",
-      "groupId": "holostars_jp",
-      "startTime": "2026-01-20T20:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=2-JLW_7LSQo",
-      "thumbnail": "https://img.youtube.com/vi/2-JLW_7LSQo/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
-      "talentId": "unknown",
       "talentName": "アルランディス",
       "groupId": "holostars_jp",
       "startTime": "2026-01-20T20:00:00+09:00",
       "url": "https://www.youtube.com/watch?v=tFfyd_dOaDY",
       "thumbnail": "https://img.youtube.com/vi/tFfyd_dOaDY/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "水無世燐央",
+      "groupId": "holostars_jp",
+      "startTime": "2026-01-20T20:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=2-JLW_7LSQo",
+      "thumbnail": "https://img.youtube.com/vi/2-JLW_7LSQo/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -1370,6 +1400,16 @@
       "thumbnail": "https://img.youtube.com/vi/0lyCMKVtwSQ/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s88-c-k-c0x00ffffff-no-rj",
       "isLive": true
+    },
+    {
+      "talentId": "todoroki_hajime",
+      "talentName": "Todoroki Hajime",
+      "groupId": "regloss",
+      "startTime": "2026-01-20T22:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=clr06yng-Ps",
+      "thumbnail": "https://img.youtube.com/vi/clr06yng-Ps/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
     },
     {
       "talentId": "isaki_riona",
