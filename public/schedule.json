@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-19T15:56:36.729Z",
+  "updatedAt": "2026-01-19T16:18:41.609Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -329,7 +329,7 @@
       "url": "https://www.youtube.com/watch?v=Nj_Zf3_uc_0",
       "thumbnail": "https://img.youtube.com/vi/Nj_Zf3_uc_0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "takanashi_kiara",
@@ -339,7 +339,7 @@
       "url": "https://www.youtube.com/watch?v=0VqBsEpwEt8",
       "thumbnail": "https://img.youtube.com/vi/0VqBsEpwEt8/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "hakos_baelz",
@@ -469,7 +469,7 @@
       "url": "https://www.youtube.com/watch?v=cjhMFMIEymc",
       "thumbnail": "https://img.youtube.com/vi/cjhMFMIEymc/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -819,7 +819,7 @@
       "url": "https://www.youtube.com/watch?v=QNs0xKeDCEA",
       "thumbnail": "https://img.youtube.com/vi/QNs0xKeDCEA/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "mizumiya_su",
@@ -879,16 +879,6 @@
       "url": "https://www.youtube.com/watch?v=J3SZvNxpFxw",
       "thumbnail": "https://img.youtube.com/vi/J3SZvNxpFxw/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/auWUDx657AsLAGf8xx-NDUgiWGd9DOxM9qTYI_nMCZktK7OOdz_CT0xYSLKONO2H8IzlUkaEig=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
-      "talentId": "unknown",
-      "talentName": "holoAN room",
-      "groupId": "official",
-      "startTime": "2026-01-19T22:38:00+09:00",
-      "url": "https://www.youtube.com/watch?v=Zvj1gbQq74Q",
-      "thumbnail": "https://img.youtube.com/vi/Zvj1gbQq74Q/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/bLqkQmKBq5rRp53-TLpg1wa9Bn0aFwmjsnZ6LTPgq0NjJSs2304Rm61481alRP8mTdyNLFiJ9c0=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     }
   ]
