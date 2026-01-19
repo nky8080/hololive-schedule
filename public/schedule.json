@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-19T10:51:51.301Z",
+  "updatedAt": "2026-01-19T11:13:21.406Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -299,7 +299,7 @@
       "url": "https://www.youtube.com/watch?v=XKinG1fDCpE",
       "thumbnail": "https://img.youtube.com/vi/XKinG1fDCpE/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -332,16 +332,6 @@
       "isLive": false
     },
     {
-      "talentId": "usada_pekora",
-      "talentName": "Usada Pekora",
-      "groupId": "gen3",
-      "startTime": "2026-01-19T20:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=t6Mv3P1AsT4",
-      "thumbnail": "https://img.youtube.com/vi/t6Mv3P1AsT4/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
       "talentId": "shirakami_fubuki",
       "talentName": "Shirakami Fubuki",
       "groupId": "gen1",
@@ -349,7 +339,17 @@
       "url": "https://www.youtube.com/watch?v=V5ZDVs7Hse8",
       "thumbnail": "https://img.youtube.com/vi/V5ZDVs7Hse8/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
+    },
+    {
+      "talentId": "usada_pekora",
+      "talentName": "Usada Pekora",
+      "groupId": "gen3",
+      "startTime": "2026-01-19T20:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=t6Mv3P1AsT4",
+      "thumbnail": "https://img.youtube.com/vi/t6Mv3P1AsT4/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
     },
     {
       "talentId": "usada_pekora",
@@ -569,7 +569,7 @@
       "url": "https://www.youtube.com/watch?v=RwroMwWaQOk",
       "thumbnail": "https://img.youtube.com/vi/RwroMwWaQOk/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "takanashi_kiara",
@@ -665,11 +665,11 @@
       "talentId": "kobo_kanaeru",
       "talentName": "Kobo Kanaeru",
       "groupId": "id_gen3",
-      "startTime": "2026-01-19T20:00:00+09:00",
+      "startTime": "2026-01-19T20:07:00+09:00",
       "url": "https://www.youtube.com/watch?v=pTyU90n_gLQ",
       "thumbnail": "https://img.youtube.com/vi/pTyU90n_gLQ/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "unknown",
@@ -759,17 +759,17 @@
       "url": "https://www.youtube.com/watch?v=TrOnfQTuoU8",
       "thumbnail": "https://img.youtube.com/vi/TrOnfQTuoU8/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/_XDJ6UWosywfyInhYgP5qk3NUBaVfGEWXIYLun-UfRPELVa8fnmWG50_awBQchn1c3G7ywDk=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
       "talentName": "アステル・レダ",
       "groupId": "holostars_jp",
-      "startTime": "2026-01-19T20:00:00+09:00",
+      "startTime": "2026-01-19T20:03:00+09:00",
       "url": "https://www.youtube.com/watch?v=Q-BewhFEjVk",
       "thumbnail": "https://img.youtube.com/vi/Q-BewhFEjVk/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "unknown",
@@ -1309,6 +1309,16 @@
       "url": "https://www.youtube.com/watch?v=bUE59XXZRxQ",
       "thumbnail": "https://img.youtube.com/vi/bUE59XXZRxQ/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/bLqkQmKBq5rRp53-TLpg1wa9Bn0aFwmjsnZ6LTPgq0NjJSs2304Rm61481alRP8mTdyNLFiJ9c0=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "ホロカ公式",
+      "groupId": "official",
+      "startTime": "2026-01-19T20:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=J3SZvNxpFxw",
+      "thumbnail": "https://img.youtube.com/vi/J3SZvNxpFxw/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/auWUDx657AsLAGf8xx-NDUgiWGd9DOxM9qTYI_nMCZktK7OOdz_CT0xYSLKONO2H8IzlUkaEig=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     }
   ]
