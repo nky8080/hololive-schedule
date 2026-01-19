@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-19T05:00:52.612Z",
+  "updatedAt": "2026-01-19T05:47:01.397Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -242,6 +242,16 @@
       "isLive": false
     },
     {
+      "talentId": "tokoyami_towa",
+      "talentName": "Tokoyami Towa",
+      "groupId": "gen4",
+      "startTime": "2026-01-19T19:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=XKinG1fDCpE",
+      "thumbnail": "https://img.youtube.com/vi/XKinG1fDCpE/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "shirogane_noel",
       "talentName": "Shirogane Noel",
       "groupId": "gen3",
@@ -435,11 +445,11 @@
       "talentId": "irys",
       "talentName": "IRyS",
       "groupId": "en_promise",
-      "startTime": "2026-01-19T14:00:00+09:00",
+      "startTime": "2026-01-19T14:02:00+09:00",
       "url": "https://www.youtube.com/watch?v=RwroMwWaQOk",
       "thumbnail": "https://img.youtube.com/vi/RwroMwWaQOk/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "mori_calliope",
@@ -789,7 +799,17 @@
       "url": "https://www.youtube.com/watch?v=v5MoVofb9QE",
       "thumbnail": "https://img.youtube.com/vi/v5MoVofb9QE/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Jurard",
+      "groupId": "holostars_en",
+      "startTime": "2026-01-20T20:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=DcKiAudV07I",
+      "thumbnail": "https://img.youtube.com/vi/DcKiAudV07I/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/EA7rVsjrX8vvWUcCw-tEiLj4mrTZK3pvCdRmq07ylzGLBvMRL0FyU6rnMvk6-4umPUWJm8TeNg=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
     },
     {
       "talentId": "ichijou_ririka",
