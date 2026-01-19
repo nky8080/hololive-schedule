@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-19T09:53:39.210Z",
+  "updatedAt": "2026-01-19T10:16:34.866Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -282,26 +282,6 @@
       "isLive": false
     },
     {
-      "talentId": "tokoyami_towa",
-      "talentName": "Tokoyami Towa",
-      "groupId": "gen4",
-      "startTime": "2026-01-19T19:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=XKinG1fDCpE",
-      "thumbnail": "https://img.youtube.com/vi/XKinG1fDCpE/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
-      "talentId": "shirogane_noel",
-      "talentName": "Shirogane Noel",
-      "groupId": "gen3",
-      "startTime": "2026-01-19T19:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=gIUs1gM0kj4",
-      "thumbnail": "https://img.youtube.com/vi/gIUs1gM0kj4/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
       "talentId": "hakui_koyori",
       "talentName": "Hakui Koyori",
       "groupId": "holoX",
@@ -309,7 +289,37 @@
       "url": "https://www.youtube.com/watch?v=oDVRkjszTto",
       "thumbnail": "https://img.youtube.com/vi/oDVRkjszTto/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
+    },
+    {
+      "talentId": "tokoyami_towa",
+      "talentName": "Tokoyami Towa",
+      "groupId": "gen4",
+      "startTime": "2026-01-19T19:01:00+09:00",
+      "url": "https://www.youtube.com/watch?v=XKinG1fDCpE",
+      "thumbnail": "https://img.youtube.com/vi/XKinG1fDCpE/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "ホロライブ",
+      "groupId": "hololive_jp",
+      "startTime": "2026-01-19T19:01:00+09:00",
+      "url": "https://www.youtube.com/watch?v=zni3p5YiGbE",
+      "thumbnail": "https://img.youtube.com/vi/zni3p5YiGbE/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
+    },
+    {
+      "talentId": "shirogane_noel",
+      "talentName": "Shirogane Noel",
+      "groupId": "gen3",
+      "startTime": "2026-01-19T19:03:00+09:00",
+      "url": "https://www.youtube.com/watch?v=gIUs1gM0kj4",
+      "thumbnail": "https://img.youtube.com/vi/gIUs1gM0kj4/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
     },
     {
       "talentId": "usada_pekora",
@@ -735,11 +745,11 @@
       "talentId": "unknown",
       "talentName": "ホロスターズ",
       "groupId": "holostars_jp",
-      "startTime": "2026-01-19T19:00:00+09:00",
+      "startTime": "2026-01-19T18:58:00+09:00",
       "url": "https://www.youtube.com/watch?v=TrOnfQTuoU8",
       "thumbnail": "https://img.youtube.com/vi/TrOnfQTuoU8/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/_XDJ6UWosywfyInhYgP5qk3NUBaVfGEWXIYLun-UfRPELVa8fnmWG50_awBQchn1c3G7ywDk=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "unknown",
@@ -1199,7 +1209,7 @@
       "url": "https://www.youtube.com/watch?v=njdDrhEKkO4",
       "thumbnail": "https://img.youtube.com/vi/njdDrhEKkO4/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "todoroki_hajime",
