@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-19T15:43:25.761Z",
+  "updatedAt": "2026-01-19T15:56:36.729Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -159,7 +159,7 @@
       "url": "https://www.youtube.com/watch?v=BwlVfZXlNDc",
       "thumbnail": "https://img.youtube.com/vi/BwlVfZXlNDc/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "omaru_polka",
