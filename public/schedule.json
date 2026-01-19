@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-19T10:16:34.866Z",
+  "updatedAt": "2026-01-19T10:51:51.301Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -320,6 +320,16 @@
       "thumbnail": "https://img.youtube.com/vi/gIUs1gM0kj4/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s88-c-k-c0x00ffffff-no-rj",
       "isLive": true
+    },
+    {
+      "talentId": "takane_lui",
+      "talentName": "Takane Lui",
+      "groupId": "holoX",
+      "startTime": "2026-01-19T19:34:00+09:00",
+      "url": "https://www.youtube.com/watch?v=xjqMNX1vVTM",
+      "thumbnail": "https://img.youtube.com/vi/xjqMNX1vVTM/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
     },
     {
       "talentId": "usada_pekora",
@@ -1210,6 +1220,26 @@
       "thumbnail": "https://img.youtube.com/vi/njdDrhEKkO4/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s88-c-k-c0x00ffffff-no-rj",
       "isLive": true
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "虎金妃笑虎",
+      "groupId": "dev_is",
+      "startTime": "2026-01-19T19:30:00+09:00",
+      "url": "https://www.youtube.com/watch?v=ze_dznsAjgI",
+      "thumbnail": "https://img.youtube.com/vi/ze_dznsAjgI/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/bEDo7y7rywqDZpSqS7StN3vxPg4YPEfh_faAf2CENKsk4L9SgrsU0UeClvH-nsPq1i5xNFM89Q=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "虎金妃笑虎",
+      "groupId": "dev_is",
+      "startTime": "2026-01-19T19:45:00+09:00",
+      "url": "https://www.youtube.com/watch?v=H77JZOOSR50",
+      "thumbnail": "https://img.youtube.com/vi/H77JZOOSR50/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/bEDo7y7rywqDZpSqS7StN3vxPg4YPEfh_faAf2CENKsk4L9SgrsU0UeClvH-nsPq1i5xNFM89Q=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
     },
     {
       "talentId": "todoroki_hajime",
