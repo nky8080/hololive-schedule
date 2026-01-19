@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-19T06:21:45.203Z",
+  "updatedAt": "2026-01-19T07:01:14.421Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -259,6 +259,16 @@
       "url": "https://www.youtube.com/watch?v=gIUs1gM0kj4",
       "thumbnail": "https://img.youtube.com/vi/gIUs1gM0kj4/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "usada_pekora",
+      "talentName": "Usada Pekora",
+      "groupId": "gen3",
+      "startTime": "2026-01-19T20:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=t6Mv3P1AsT4",
+      "thumbnail": "https://img.youtube.com/vi/t6Mv3P1AsT4/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -528,6 +538,16 @@
       "startTime": "2026-01-18T23:25:00+09:00",
       "url": "https://www.youtube.com/watch?v=GoRYuIcfh2s",
       "thumbnail": "https://img.youtube.com/vi/GoRYuIcfh2s/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "kobo_kanaeru",
+      "talentName": "Kobo Kanaeru",
+      "groupId": "id_gen3",
+      "startTime": "2026-01-19T20:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=pTyU90n_gLQ",
+      "thumbnail": "https://img.youtube.com/vi/pTyU90n_gLQ/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
@@ -948,6 +968,16 @@
       "startTime": "2026-01-18T23:13:00+09:00",
       "url": "https://www.youtube.com/watch?v=diG18qJBT2E",
       "thumbnail": "https://img.youtube.com/vi/diG18qJBT2E/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "kikirara_vivi",
+      "talentName": "Kikirara Vivi",
+      "groupId": "flow_glow",
+      "startTime": "2026-01-19T18:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=D0rGHsuAg7M",
+      "thumbnail": "https://img.youtube.com/vi/D0rGHsuAg7M/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
