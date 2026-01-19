@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-19T22:52:35.949Z",
+  "updatedAt": "2026-01-19T23:10:16.088Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -209,7 +209,7 @@
       "url": "https://www.youtube.com/watch?v=OJoJBtkMfo8",
       "thumbnail": "https://img.youtube.com/vi/OJoJBtkMfo8/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "hakui_koyori",
