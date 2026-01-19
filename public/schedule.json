@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-19T11:50:53.711Z",
+  "updatedAt": "2026-01-19T12:21:33.231Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -769,7 +769,7 @@
       "url": "https://www.youtube.com/watch?v=A-AMNEyLF_0",
       "thumbnail": "https://img.youtube.com/vi/A-AMNEyLF_0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -790,6 +790,16 @@
       "thumbnail": "https://img.youtube.com/vi/Q-BewhFEjVk/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s88-c-k-c0x00ffffff-no-rj",
       "isLive": true
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "荒咬オウガ",
+      "groupId": "holostars_jp",
+      "startTime": "2026-01-19T22:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=cjhMFMIEymc",
+      "thumbnail": "https://img.youtube.com/vi/cjhMFMIEymc/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -1003,6 +1013,16 @@
     },
     {
       "talentId": "unknown",
+      "talentName": "Hakka",
+      "groupId": "holostars_en",
+      "startTime": "2026-01-19T21:15:00+09:00",
+      "url": "https://www.youtube.com/watch?v=QDIsp3JJUaU",
+      "thumbnail": "https://img.youtube.com/vi/QDIsp3JJUaU/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
+    },
+    {
+      "talentId": "unknown",
       "talentName": "Octavio",
       "groupId": "holostars_en",
       "startTime": "2026-01-20T10:00:00+09:00",
@@ -1189,7 +1209,7 @@
       "url": "https://www.youtube.com/watch?v=D0rGHsuAg7M",
       "thumbnail": "https://img.youtube.com/vi/D0rGHsuAg7M/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
