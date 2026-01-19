@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-19T11:13:21.406Z",
+  "updatedAt": "2026-01-19T11:34:15.785Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -352,6 +352,16 @@
       "isLive": true
     },
     {
+      "talentId": "natsuiro_matsuri",
+      "talentName": "Natsuiro Matsuri",
+      "groupId": "gen1",
+      "startTime": "2026-01-19T20:30:00+09:00",
+      "url": "https://www.youtube.com/watch?v=Udu7G8XiZAE",
+      "thumbnail": "https://img.youtube.com/vi/Udu7G8XiZAE/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "usada_pekora",
       "talentName": "Usada Pekora",
       "groupId": "gen3",
@@ -670,6 +680,16 @@
       "thumbnail": "https://img.youtube.com/vi/pTyU90n_gLQ/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B=s88-c-k-c0x00ffffff-no-rj",
       "isLive": true
+    },
+    {
+      "talentId": "kureiji_ollie",
+      "talentName": "Kureiji Ollie",
+      "groupId": "id_gen2",
+      "startTime": "2026-01-19T22:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=q0VOWtQ5D3U",
+      "thumbnail": "https://img.youtube.com/vi/q0VOWtQ5D3U/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -1245,11 +1265,11 @@
       "talentId": "todoroki_hajime",
       "talentName": "Todoroki Hajime",
       "groupId": "regloss",
-      "startTime": "2026-01-19T20:30:00+09:00",
+      "startTime": "2026-01-19T20:31:00+09:00",
       "url": "https://www.youtube.com/watch?v=TLE8Wq5ixCM",
       "thumbnail": "https://img.youtube.com/vi/TLE8Wq5ixCM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "mizumiya_su",
