@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-19T20:11:32.972Z",
+  "updatedAt": "2026-01-19T20:36:00.750Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -209,6 +209,16 @@
       "url": "https://www.youtube.com/watch?v=3ZHHhpRYu9k",
       "thumbnail": "https://img.youtube.com/vi/3ZHHhpRYu9k/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "shirogane_noel",
+      "talentName": "Shirogane Noel",
+      "groupId": "gen3",
+      "startTime": "2026-01-20T19:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=ehS3woF5g0o",
+      "thumbnail": "https://img.youtube.com/vi/ehS3woF5g0o/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
