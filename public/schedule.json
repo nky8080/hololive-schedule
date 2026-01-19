@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-19T19:40:44.392Z",
+  "updatedAt": "2026-01-19T19:47:59.537Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -469,6 +469,16 @@
       "url": "https://www.youtube.com/watch?v=cjhMFMIEymc",
       "thumbnail": "https://img.youtube.com/vi/cjhMFMIEymc/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "羽継烏有",
+      "groupId": "holostars_jp",
+      "startTime": "2026-01-20T04:35:00+09:00",
+      "url": "https://www.youtube.com/watch?v=rVKINTo66fs",
+      "thumbnail": "https://img.youtube.com/vi/rVKINTo66fs/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
