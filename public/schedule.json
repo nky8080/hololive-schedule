@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-19T04:12:07.493Z",
+  "updatedAt": "2026-01-19T05:00:52.612Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -282,6 +282,16 @@
       "isLive": false
     },
     {
+      "talentId": "omaru_polka",
+      "talentName": "Omaru Polka",
+      "groupId": "gen5",
+      "startTime": "2026-01-20T22:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=qiDNHYd3EQY",
+      "thumbnail": "https://img.youtube.com/vi/qiDNHYd3EQY/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "takanashi_kiara",
       "talentName": "Takanashi Kiara",
       "groupId": "en_myth",
@@ -419,7 +429,17 @@
       "url": "https://www.youtube.com/watch?v=Qd-H0BUp7FY",
       "thumbnail": "https://img.youtube.com/vi/Qd-H0BUp7FY/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
+    },
+    {
+      "talentId": "irys",
+      "talentName": "IRyS",
+      "groupId": "en_promise",
+      "startTime": "2026-01-19T14:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=RwroMwWaQOk",
+      "thumbnail": "https://img.youtube.com/vi/RwroMwWaQOk/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
     },
     {
       "talentId": "mori_calliope",
@@ -689,7 +709,7 @@
       "url": "https://www.youtube.com/watch?v=GDEgZ9FA64U",
       "thumbnail": "https://img.youtube.com/vi/GDEgZ9FA64U/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -739,7 +759,7 @@
       "url": "https://www.youtube.com/watch?v=__AhaESWwjc",
       "thumbnail": "https://img.youtube.com/vi/__AhaESWwjc/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -949,7 +969,7 @@
       "url": "https://www.youtube.com/watch?v=bUE59XXZRxQ",
       "thumbnail": "https://img.youtube.com/vi/bUE59XXZRxQ/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/bLqkQmKBq5rRp53-TLpg1wa9Bn0aFwmjsnZ6LTPgq0NjJSs2304Rm61481alRP8mTdyNLFiJ9c0=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     }
   ]
 }
