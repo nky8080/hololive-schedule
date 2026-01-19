@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-19T15:15:11.777Z",
+  "updatedAt": "2026-01-19T15:43:25.761Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -189,7 +189,7 @@
       "url": "https://www.youtube.com/watch?v=EOj0uvq45lk",
       "thumbnail": "https://img.youtube.com/vi/EOj0uvq45lk/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "hakui_koyori",
@@ -345,11 +345,11 @@
       "talentId": "hakos_baelz",
       "talentName": "Hakos Baelz",
       "groupId": "en_promise",
-      "startTime": "2026-01-20T00:15:00+09:00",
+      "startTime": "2026-01-20T00:29:00+09:00",
       "url": "https://www.youtube.com/watch?v=Ggu4yIltoQY",
       "thumbnail": "https://img.youtube.com/vi/Ggu4yIltoQY/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "koseki_bijou",
