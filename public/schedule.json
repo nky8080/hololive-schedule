@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-20T17:21:36.293Z",
+  "updatedAt": "2026-01-20T17:51:03.384Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -159,7 +159,7 @@
       "url": "https://www.youtube.com/watch?v=2GbdFtxM6_k",
       "thumbnail": "https://img.youtube.com/vi/2GbdFtxM6_k/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "tokoyami_towa",
@@ -309,7 +309,7 @@
       "url": "https://www.youtube.com/watch?v=kOXd_LaAvFI",
       "thumbnail": "https://img.youtube.com/vi/kOXd_LaAvFI/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "gigi_murin",
