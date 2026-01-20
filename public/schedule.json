@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-20T19:35:55.583Z",
+  "updatedAt": "2026-01-20T20:33:28.101Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -312,6 +312,16 @@
       "isLive": false
     },
     {
+      "talentId": "elizabeth_rose_bloodflame",
+      "talentName": "Elizabeth Rose Bloodflame",
+      "groupId": "en_justice",
+      "startTime": "2026-01-21T05:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=OacYUpW1G10",
+      "thumbnail": "https://img.youtube.com/vi/OacYUpW1G10/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "gigi_murin",
       "talentName": "Gigi Murin",
       "groupId": "en_justice",
@@ -319,6 +329,26 @@
       "url": "https://www.youtube.com/watch?v=Wxwa4tjHrK4",
       "thumbnail": "https://img.youtube.com/vi/Wxwa4tjHrK4/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "koseki_bijou",
+      "talentName": "Koseki Bijou",
+      "groupId": "en_advent",
+      "startTime": "2026-01-21T09:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=ZV-uAi7FJKs",
+      "thumbnail": "https://img.youtube.com/vi/ZV-uAi7FJKs/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "takanashi_kiara",
+      "talentName": "Takanashi Kiara",
+      "groupId": "en_myth",
+      "startTime": "2026-01-22T04:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=tt8DlzOq2d0",
+      "thumbnail": "https://img.youtube.com/vi/tt8DlzOq2d0/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
