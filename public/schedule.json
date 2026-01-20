@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-20T11:14:59.089Z",
+  "updatedAt": "2026-01-20T11:35:53.169Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -279,7 +279,7 @@
       "url": "https://www.youtube.com/watch?v=ehS3woF5g0o",
       "thumbnail": "https://img.youtube.com/vi/ehS3woF5g0o/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "sakura_miko",
@@ -619,7 +619,7 @@
       "url": "https://www.youtube.com/watch?v=D--nfo0jFhc",
       "thumbnail": "https://img.youtube.com/vi/D--nfo0jFhc/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "kureiji_ollie",
