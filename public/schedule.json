@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-20T21:49:24.381Z",
+  "updatedAt": "2026-01-20T22:11:16.195Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -335,11 +335,11 @@
       "talentId": "gigi_murin",
       "talentName": "Gigi Murin",
       "groupId": "en_justice",
-      "startTime": "2026-01-21T07:00:00+09:00",
+      "startTime": "2026-01-21T07:02:00+09:00",
       "url": "https://www.youtube.com/watch?v=Wxwa4tjHrK4",
       "thumbnail": "https://img.youtube.com/vi/Wxwa4tjHrK4/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "koseki_bijou",
@@ -649,7 +649,7 @@
       "url": "https://www.youtube.com/watch?v=cKncT8o3zj0",
       "thumbnail": "https://img.youtube.com/vi/cKncT8o3zj0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/kv71-xuB9kzbU7Bi4qsmkRXHc3wAgEU4rhllRnmGH4H23T825BKdGqEAcagTSE9r8BdsnG4lqQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "unknown",
@@ -789,7 +789,7 @@
       "url": "https://www.youtube.com/watch?v=Qj7D9ZSXyJ0",
       "thumbnail": "https://img.youtube.com/vi/Qj7D9ZSXyJ0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "ichijou_ririka",
