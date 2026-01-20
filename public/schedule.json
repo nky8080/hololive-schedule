@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-20T05:20:04.223Z",
+  "updatedAt": "2026-01-20T05:49:58.623Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -419,7 +419,7 @@
       "url": "https://www.youtube.com/watch?v=8Xli4rP_Rnw",
       "thumbnail": "https://img.youtube.com/vi/8Xli4rP_Rnw/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "koseki_bijou",
@@ -429,7 +429,7 @@
       "url": "https://www.youtube.com/watch?v=xZbGXk9fgmE",
       "thumbnail": "https://img.youtube.com/vi/xZbGXk9fgmE/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "nerissa_ravencroft",
@@ -459,6 +459,16 @@
       "url": "https://www.youtube.com/watch?v=Xr7TgSGCCIs",
       "thumbnail": "https://img.youtube.com/vi/Xr7TgSGCCIs/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "mori_calliope",
+      "talentName": "Mori Calliope",
+      "groupId": "en_myth",
+      "startTime": "2026-01-20T22:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=kOXd_LaAvFI",
+      "thumbnail": "https://img.youtube.com/vi/kOXd_LaAvFI/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
