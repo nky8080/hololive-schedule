@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-20T02:54:14.272Z",
+  "updatedAt": "2026-01-20T04:01:19.601Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -242,6 +242,16 @@
       "isLive": false
     },
     {
+      "talentId": "shirakami_fubuki",
+      "talentName": "Shirakami Fubuki",
+      "groupId": "gen1",
+      "startTime": "2026-01-20T21:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=JIHfEsGlMfw",
+      "thumbnail": "https://img.youtube.com/vi/JIHfEsGlMfw/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "oozora_subaru",
       "talentName": "Oozora Subaru",
       "groupId": "gen2",
@@ -429,7 +439,7 @@
       "url": "https://www.youtube.com/watch?v=fLVJWc6jlUY",
       "thumbnail": "https://img.youtube.com/vi/fLVJWc6jlUY/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "ouro_kronii",
@@ -439,7 +449,7 @@
       "url": "https://www.youtube.com/watch?v=Xr7TgSGCCIs",
       "thumbnail": "https://img.youtube.com/vi/Xr7TgSGCCIs/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "kobo_kanaeru",
@@ -779,7 +789,7 @@
       "url": "https://www.youtube.com/watch?v=QBGHzPG1F4U",
       "thumbnail": "https://img.youtube.com/vi/QBGHzPG1F4U/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -789,7 +799,7 @@
       "url": "https://www.youtube.com/watch?v=VeIq2z5CuRA",
       "thumbnail": "https://img.youtube.com/vi/VeIq2z5CuRA/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "unknown",
