@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-20T11:35:53.169Z",
+  "updatedAt": "2026-01-20T11:52:22.536Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -769,6 +769,16 @@
       "url": "https://www.youtube.com/watch?v=smBZTGcfalg",
       "thumbnail": "https://img.youtube.com/vi/smBZTGcfalg/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "夕刻ロベル",
+      "groupId": "holostars_jp",
+      "startTime": "2026-01-21T19:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=9EIQTOVoffI",
+      "thumbnail": "https://img.youtube.com/vi/9EIQTOVoffI/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
