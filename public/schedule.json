@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-20T20:33:28.101Z",
+  "updatedAt": "2026-01-20T20:58:26.024Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -342,6 +342,16 @@
       "isLive": false
     },
     {
+      "talentId": "raora_panthera",
+      "talentName": "Raora Panthera",
+      "groupId": "en_justice",
+      "startTime": "2026-01-21T13:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=yOTPmHs0-ME",
+      "thumbnail": "https://img.youtube.com/vi/yOTPmHs0-ME/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "takanashi_kiara",
       "talentName": "Takanashi Kiara",
       "groupId": "en_myth",
@@ -513,6 +523,16 @@
     },
     {
       "talentId": "unknown",
+      "talentName": "羽継烏有",
+      "groupId": "holostars_jp",
+      "startTime": "2026-01-21T18:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=051wFpMi8Ss",
+      "thumbnail": "https://img.youtube.com/vi/051wFpMi8Ss/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
       "talentName": "夕刻ロベル",
       "groupId": "holostars_jp",
       "startTime": "2026-01-21T19:00:00+09:00",
@@ -609,7 +629,7 @@
       "url": "https://www.youtube.com/watch?v=DcKiAudV07I",
       "thumbnail": "https://img.youtube.com/vi/DcKiAudV07I/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/EA7rVsjrX8vvWUcCw-tEiLj4mrTZK3pvCdRmq07ylzGLBvMRL0FyU6rnMvk6-4umPUWJm8TeNg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
