@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-20T07:23:48.117Z",
+  "updatedAt": "2026-01-20T07:46:06.164Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -209,6 +209,16 @@
       "url": "https://www.youtube.com/watch?v=OJoJBtkMfo8",
       "thumbnail": "https://img.youtube.com/vi/OJoJBtkMfo8/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "tokoyami_towa",
+      "talentName": "Tokoyami Towa",
+      "groupId": "gen4",
+      "startTime": "2026-01-20T16:22:00+09:00",
+      "url": "https://www.youtube.com/watch?v=CQMoGlILAMw",
+      "thumbnail": "https://img.youtube.com/vi/CQMoGlILAMw/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
