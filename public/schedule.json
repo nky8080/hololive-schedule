@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-20T16:20:19.290Z",
+  "updatedAt": "2026-01-20T16:56:25.342Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -219,7 +219,7 @@
       "url": "https://www.youtube.com/watch?v=cu4Xj9I2b2M",
       "thumbnail": "https://img.youtube.com/vi/cu4Xj9I2b2M/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "himemori_luna",
@@ -362,6 +362,16 @@
       "isLive": true
     },
     {
+      "talentId": "vestia_zeta",
+      "talentName": "Vestia Zeta",
+      "groupId": "id_gen3",
+      "startTime": "2026-01-21T11:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=vngRSCMOUmU",
+      "thumbnail": "https://img.youtube.com/vi/vngRSCMOUmU/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "unknown",
       "talentName": "羽継烏有",
       "groupId": "holostars_jp",
@@ -439,6 +449,16 @@
       "url": "https://www.youtube.com/watch?v=smBZTGcfalg",
       "thumbnail": "https://img.youtube.com/vi/smBZTGcfalg/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "アステル・レダ",
+      "groupId": "holostars_jp",
+      "startTime": "2026-01-21T02:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=mmZGVRcBoRY",
+      "thumbnail": "https://img.youtube.com/vi/mmZGVRcBoRY/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
