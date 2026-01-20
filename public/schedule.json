@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-20T09:51:46.908Z",
+  "updatedAt": "2026-01-20T10:15:56.469Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -279,7 +279,7 @@
       "url": "https://www.youtube.com/watch?v=ehS3woF5g0o",
       "thumbnail": "https://img.youtube.com/vi/ehS3woF5g0o/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "sakura_miko",
