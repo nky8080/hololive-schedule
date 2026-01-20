@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-20T15:51:54.854Z",
+  "updatedAt": "2026-01-20T16:20:19.290Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -179,7 +179,7 @@
       "url": "https://www.youtube.com/watch?v=pkVIiaRvxrI",
       "thumbnail": "https://img.youtube.com/vi/pkVIiaRvxrI/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "usada_pekora",
@@ -189,7 +189,7 @@
       "url": "https://www.youtube.com/watch?v=bPMkgB1D9_8",
       "thumbnail": "https://img.youtube.com/vi/bPMkgB1D9_8/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "ookami_mio",
@@ -199,7 +199,7 @@
       "url": "https://www.youtube.com/watch?v=lVV9VRQX40Q",
       "thumbnail": "https://img.youtube.com/vi/lVV9VRQX40Q/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "tsunomaki_watame",
@@ -389,7 +389,7 @@
       "url": "https://www.youtube.com/watch?v=tFfyd_dOaDY",
       "thumbnail": "https://img.youtube.com/vi/tFfyd_dOaDY/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -459,6 +459,16 @@
       "url": "https://www.youtube.com/watch?v=9EIQTOVoffI",
       "thumbnail": "https://img.youtube.com/vi/9EIQTOVoffI/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "アルランディス",
+      "groupId": "holostars_jp",
+      "startTime": "2026-01-21T20:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=bGb_dzvBvO0",
+      "thumbnail": "https://img.youtube.com/vi/bGb_dzvBvO0/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
