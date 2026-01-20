@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-20T06:58:14.611Z",
+  "updatedAt": "2026-01-20T07:23:48.117Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -525,11 +525,11 @@
       "talentId": "pavolia_reine",
       "talentName": "Pavolia Reine",
       "groupId": "id_gen2",
-      "startTime": "2026-01-20T16:00:00+09:00",
+      "startTime": "2026-01-20T16:01:00+09:00",
       "url": "https://www.youtube.com/watch?v=D--nfo0jFhc",
       "thumbnail": "https://img.youtube.com/vi/D--nfo0jFhc/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "unknown",
@@ -839,7 +839,7 @@
       "url": "https://www.youtube.com/watch?v=2EcL9vh2B4o",
       "thumbnail": "https://img.youtube.com/vi/2EcL9vh2B4o/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/GkDmDWOfKfFkcVmG3-ECCRMeFR4bXlWBvuGO3xu3Ud68kVTWssXpn5q266BmtXvcHuzc5Ib2iFQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
