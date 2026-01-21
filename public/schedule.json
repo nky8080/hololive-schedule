@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-21T17:34:11.799Z",
+  "updatedAt": "2026-01-21T18:22:54.317Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -169,7 +169,7 @@
       "url": "https://www.youtube.com/watch?v=iPOEbfOtP4o",
       "thumbnail": "https://img.youtube.com/vi/iPOEbfOtP4o/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "nekomata_okayu",
@@ -335,11 +335,11 @@
       "talentId": "cecilia_immergreen",
       "talentName": "Cecilia Immergreen",
       "groupId": "en_justice",
-      "startTime": "2026-01-22T03:00:00+09:00",
+      "startTime": "2026-01-22T03:01:00+09:00",
       "url": "https://www.youtube.com/watch?v=HdHI3lQ9EvY",
       "thumbnail": "https://img.youtube.com/vi/HdHI3lQ9EvY/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "takanashi_kiara",
@@ -545,11 +545,11 @@
       "talentId": "unknown",
       "talentName": "アステル・レダ",
       "groupId": "holostars_jp",
-      "startTime": "2026-01-22T02:30:00+09:00",
+      "startTime": "2026-01-22T02:34:00+09:00",
       "url": "https://www.youtube.com/watch?v=epT-eMzGyLw",
       "thumbnail": "https://img.youtube.com/vi/epT-eMzGyLw/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "unknown",
@@ -669,6 +669,16 @@
       "url": "https://www.youtube.com/watch?v=sDdpIRF6aZw",
       "thumbnail": "https://img.youtube.com/vi/sDdpIRF6aZw/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Hakka",
+      "groupId": "holostars_en",
+      "startTime": "2026-01-22T09:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=CaukHCowK5g",
+      "thumbnail": "https://img.youtube.com/vi/CaukHCowK5g/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
