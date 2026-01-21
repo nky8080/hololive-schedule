@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-21T22:59:25.592Z",
+  "updatedAt": "2026-01-21T23:23:09.397Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -219,7 +219,7 @@
       "url": "https://www.youtube.com/watch?v=F1pAcjNzCSw",
       "thumbnail": "https://img.youtube.com/vi/F1pAcjNzCSw/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "takane_lui",
@@ -395,11 +395,11 @@
       "talentId": "gigi_murin",
       "talentName": "Gigi Murin",
       "groupId": "en_justice",
-      "startTime": "2026-01-22T08:00:00+09:00",
+      "startTime": "2026-01-22T08:02:00+09:00",
       "url": "https://www.youtube.com/watch?v=15bIXbY7AVQ",
       "thumbnail": "https://img.youtube.com/vi/15bIXbY7AVQ/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "koseki_bijou",
@@ -439,6 +439,16 @@
       "url": "https://www.youtube.com/watch?v=wqfPCn3JVW8",
       "thumbnail": "https://img.youtube.com/vi/wqfPCn3JVW8/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "takanashi_kiara",
+      "talentName": "Takanashi Kiara",
+      "groupId": "en_myth",
+      "startTime": "2026-01-23T03:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=RBKQWxGmGOc",
+      "thumbnail": "https://img.youtube.com/vi/RBKQWxGmGOc/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
