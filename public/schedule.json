@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-21T10:49:26.874Z",
+  "updatedAt": "2026-01-21T11:14:51.187Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -349,7 +349,7 @@
       "url": "https://www.youtube.com/watch?v=xgH8kD_VnqI",
       "thumbnail": "https://img.youtube.com/vi/xgH8kD_VnqI/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "shirakami_fubuki",
@@ -799,7 +799,7 @@
       "url": "https://www.youtube.com/watch?v=051wFpMi8Ss",
       "thumbnail": "https://img.youtube.com/vi/051wFpMi8Ss/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -825,11 +825,11 @@
       "talentId": "unknown",
       "talentName": "アルランディス",
       "groupId": "holostars_jp",
-      "startTime": "2026-01-21T20:00:00+09:00",
+      "startTime": "2026-01-21T19:58:00+09:00",
       "url": "https://www.youtube.com/watch?v=bGb_dzvBvO0",
       "thumbnail": "https://img.youtube.com/vi/bGb_dzvBvO0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "unknown",
@@ -1219,7 +1219,7 @@
       "url": "https://www.youtube.com/watch?v=Lwv20AgHesc",
       "thumbnail": "https://img.youtube.com/vi/Lwv20AgHesc/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "isaki_riona",
@@ -1245,11 +1245,11 @@
       "talentId": "unknown",
       "talentName": "FLOW GLOW",
       "groupId": "dev_is",
-      "startTime": "2026-01-21T20:00:00+09:00",
+      "startTime": "2026-01-21T19:58:00+09:00",
       "url": "https://www.youtube.com/watch?v=njP4gkV3eJw",
       "thumbnail": "https://img.youtube.com/vi/njP4gkV3eJw/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/f9oGulIUN9RbJyNpc-WT3d5aJGJ_9p1Mug3WV6ZkBBQtImvYSusfmMbW03KMY8jZf1kJsHu3jOs=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "todoroki_hajime",
@@ -1329,6 +1329,16 @@
       "url": "https://www.youtube.com/watch?v=kaC1EHEI2UU",
       "thumbnail": "https://img.youtube.com/vi/kaC1EHEI2UU/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/bLqkQmKBq5rRp53-TLpg1wa9Bn0aFwmjsnZ6LTPgq0NjJSs2304Rm61481alRP8mTdyNLFiJ9c0=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "ホロカ公式",
+      "groupId": "official",
+      "startTime": "2026-01-21T20:01:00+09:00",
+      "url": "https://www.youtube.com/watch?v=pb--aYAA61s",
+      "thumbnail": "https://img.youtube.com/vi/pb--aYAA61s/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/auWUDx657AsLAGf8xx-NDUgiWGd9DOxM9qTYI_nMCZktK7OOdz_CT0xYSLKONO2H8IzlUkaEig=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     }
   ]
