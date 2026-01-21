@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-21T20:53:52.592Z",
+  "updatedAt": "2026-01-21T21:18:32.208Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -202,6 +202,26 @@
       "isLive": false
     },
     {
+      "talentId": "tsunomaki_watame",
+      "talentName": "Tsunomaki Watame",
+      "groupId": "gen4",
+      "startTime": "2026-01-22T06:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=02jYfCtVuIM",
+      "thumbnail": "https://img.youtube.com/vi/02jYfCtVuIM/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "omaru_polka",
+      "talentName": "Omaru Polka",
+      "groupId": "gen5",
+      "startTime": "2026-01-22T06:01:00+09:00",
+      "url": "https://www.youtube.com/watch?v=F1pAcjNzCSw",
+      "thumbnail": "https://img.youtube.com/vi/F1pAcjNzCSw/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
+    },
+    {
       "talentId": "takane_lui",
       "talentName": "Takane Lui",
       "groupId": "holoX",
@@ -365,11 +385,11 @@
       "talentId": "shiori_novella",
       "talentName": "Shiori Novella",
       "groupId": "en_advent",
-      "startTime": "2026-01-22T06:00:00+09:00",
+      "startTime": "2026-01-22T05:58:00+09:00",
       "url": "https://www.youtube.com/watch?v=6N9afVYAR98",
       "thumbnail": "https://img.youtube.com/vi/6N9afVYAR98/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "gigi_murin",
