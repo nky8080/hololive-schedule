@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-21T05:48:59.981Z",
+  "updatedAt": "2026-01-21T06:18:49.235Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -605,11 +605,11 @@
       "talentId": "unknown",
       "talentName": "夜十神封魔",
       "groupId": "holostars_jp",
-      "startTime": "2026-01-21T15:00:00+09:00",
+      "startTime": "2026-01-21T14:56:00+09:00",
       "url": "https://www.youtube.com/watch?v=amUcrCnFPZE",
       "thumbnail": "https://img.youtube.com/vi/amUcrCnFPZE/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "unknown",
@@ -739,7 +739,7 @@
       "url": "https://www.youtube.com/watch?v=qBRuhk6iRtQ",
       "thumbnail": "https://img.youtube.com/vi/qBRuhk6iRtQ/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -809,7 +809,7 @@
       "url": "https://www.youtube.com/watch?v=X_AsuqxSaZk",
       "thumbnail": "https://img.youtube.com/vi/X_AsuqxSaZk/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
