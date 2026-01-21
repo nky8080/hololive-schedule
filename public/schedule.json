@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-21T02:52:58.236Z",
+  "updatedAt": "2026-01-21T04:01:05.928Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -239,7 +239,7 @@
       "url": "https://www.youtube.com/watch?v=MlMWKTGJQRM",
       "thumbnail": "https://img.youtube.com/vi/MlMWKTGJQRM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "himemori_luna",
@@ -369,7 +369,7 @@
       "url": "https://www.youtube.com/watch?v=ZV-uAi7FJKs",
       "thumbnail": "https://img.youtube.com/vi/ZV-uAi7FJKs/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "raora_panthera",
@@ -389,6 +389,16 @@
       "url": "https://www.youtube.com/watch?v=tt8DlzOq2d0",
       "thumbnail": "https://img.youtube.com/vi/tt8DlzOq2d0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "shiori_novella",
+      "talentName": "Shiori Novella",
+      "groupId": "en_advent",
+      "startTime": "2026-01-22T06:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=6N9afVYAR98",
+      "thumbnail": "https://img.youtube.com/vi/6N9afVYAR98/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -449,7 +459,7 @@
       "url": "https://www.youtube.com/watch?v=vngRSCMOUmU",
       "thumbnail": "https://img.youtube.com/vi/vngRSCMOUmU/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -745,20 +755,30 @@
       "talentId": "unknown",
       "talentName": "Octavio",
       "groupId": "holostars_en",
-      "startTime": "2026-01-21T12:00:00+09:00",
+      "startTime": "2026-01-21T12:03:00+09:00",
       "url": "https://www.youtube.com/watch?v=OHZXJ2P9qEg",
       "thumbnail": "https://img.youtube.com/vi/OHZXJ2P9qEg/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "unknown",
       "talentName": "Syrios",
       "groupId": "holostars_en",
-      "startTime": "2026-01-21T12:00:00+09:00",
+      "startTime": "2026-01-21T12:09:00+09:00",
       "url": "https://www.youtube.com/watch?v=X_AsuqxSaZk",
       "thumbnail": "https://img.youtube.com/vi/X_AsuqxSaZk/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Jurard",
+      "groupId": "holostars_en",
+      "startTime": "2026-01-21T20:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=U0jOWdWgxO0",
+      "thumbnail": "https://img.youtube.com/vi/U0jOWdWgxO0/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/EA7rVsjrX8vvWUcCw-tEiLj4mrTZK3pvCdRmq07ylzGLBvMRL0FyU6rnMvk6-4umPUWJm8TeNg=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -892,6 +912,16 @@
       "isLive": false
     },
     {
+      "talentId": "otonose_kanade",
+      "talentName": "Otonose Kanade",
+      "groupId": "regloss",
+      "startTime": "2026-01-21T18:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=wupqEtASHXk",
+      "thumbnail": "https://img.youtube.com/vi/wupqEtASHXk/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "unknown",
       "talentName": "FLOW GLOW",
       "groupId": "dev_is",
@@ -955,11 +985,11 @@
       "talentId": "unknown",
       "talentName": "holoAN room",
       "groupId": "official",
-      "startTime": "2026-01-21T12:00:00+09:00",
+      "startTime": "2026-01-21T11:58:00+09:00",
       "url": "https://www.youtube.com/watch?v=kaC1EHEI2UU",
       "thumbnail": "https://img.youtube.com/vi/kaC1EHEI2UU/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/bLqkQmKBq5rRp53-TLpg1wa9Bn0aFwmjsnZ6LTPgq0NjJSs2304Rm61481alRP8mTdyNLFiJ9c0=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     }
   ]
 }
