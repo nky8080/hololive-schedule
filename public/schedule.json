@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-21T20:27:08.984Z",
+  "updatedAt": "2026-01-21T20:53:52.592Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -349,7 +349,7 @@
       "url": "https://www.youtube.com/watch?v=HdHI3lQ9EvY",
       "thumbnail": "https://img.youtube.com/vi/HdHI3lQ9EvY/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "takanashi_kiara",
@@ -569,7 +569,7 @@
       "url": "https://www.youtube.com/watch?v=epT-eMzGyLw",
       "thumbnail": "https://img.youtube.com/vi/epT-eMzGyLw/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -709,6 +709,16 @@
       "url": "https://www.youtube.com/watch?v=sDdpIRF6aZw",
       "thumbnail": "https://img.youtube.com/vi/sDdpIRF6aZw/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Crimzon",
+      "groupId": "holostars_en",
+      "startTime": "2026-01-22T10:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=AHLUA73l2QM",
+      "thumbnail": "https://img.youtube.com/vi/AHLUA73l2QM/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
