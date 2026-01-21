@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-21T07:26:17.041Z",
+  "updatedAt": "2026-01-21T07:47:21.926Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -610,6 +610,16 @@
       "thumbnail": "https://img.youtube.com/vi/amUcrCnFPZE/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s88-c-k-c0x00ffffff-no-rj",
       "isLive": true
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "奏手イヅル",
+      "groupId": "holostars_jp",
+      "startTime": "2026-01-21T18:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=8xv85zhmJ5Q",
+      "thumbnail": "https://img.youtube.com/vi/8xv85zhmJ5Q/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
     },
     {
       "talentId": "unknown",
