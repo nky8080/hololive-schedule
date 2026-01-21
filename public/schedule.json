@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-21T00:50:40.800Z",
+  "updatedAt": "2026-01-21T02:52:58.236Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -235,7 +235,7 @@
       "talentId": "tokoyami_towa",
       "talentName": "Tokoyami Towa",
       "groupId": "gen4",
-      "startTime": "2026-01-21T12:00:00+09:00",
+      "startTime": "2026-01-21T12:30:00+09:00",
       "url": "https://www.youtube.com/watch?v=MlMWKTGJQRM",
       "thumbnail": "https://img.youtube.com/vi/MlMWKTGJQRM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s88-c-k-c0x00ffffff-no-rj",
@@ -249,6 +249,16 @@
       "url": "https://www.youtube.com/watch?v=xgXrqm-5RC8",
       "thumbnail": "https://img.youtube.com/vi/xgXrqm-5RC8/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "shishiro_botan",
+      "talentName": "Shishiro Botan",
+      "groupId": "gen5",
+      "startTime": "2026-01-21T20:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=xgH8kD_VnqI",
+      "thumbnail": "https://img.youtube.com/vi/xgH8kD_VnqI/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -439,7 +449,7 @@
       "url": "https://www.youtube.com/watch?v=vngRSCMOUmU",
       "thumbnail": "https://img.youtube.com/vi/vngRSCMOUmU/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "unknown",
@@ -539,7 +549,7 @@
       "url": "https://www.youtube.com/watch?v=Eg4qYKBnzoI",
       "thumbnail": "https://img.youtube.com/vi/Eg4qYKBnzoI/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -549,7 +559,7 @@
       "url": "https://www.youtube.com/watch?v=HA1avqf5muQ",
       "thumbnail": "https://img.youtube.com/vi/HA1avqf5muQ/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -669,7 +679,7 @@
       "url": "https://www.youtube.com/watch?v=cKncT8o3zj0",
       "thumbnail": "https://img.youtube.com/vi/cKncT8o3zj0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/kv71-xuB9kzbU7Bi4qsmkRXHc3wAgEU4rhllRnmGH4H23T825BKdGqEAcagTSE9r8BdsnG4lqQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -683,13 +693,53 @@
     },
     {
       "talentId": "unknown",
-      "talentName": "Shinri",
+      "talentName": "Bettel",
       "groupId": "holostars_en",
       "startTime": "2026-01-21T10:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=0rdEG3igeGs",
+      "thumbnail": "https://img.youtube.com/vi/0rdEG3igeGs/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/kv71-xuB9kzbU7Bi4qsmkRXHc3wAgEU4rhllRnmGH4H23T825BKdGqEAcagTSE9r8BdsnG4lqQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Jurard",
+      "groupId": "holostars_en",
+      "startTime": "2026-01-21T10:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=YD_N06eKnzc",
+      "thumbnail": "https://img.youtube.com/vi/YD_N06eKnzc/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/EA7rVsjrX8vvWUcCw-tEiLj4mrTZK3pvCdRmq07ylzGLBvMRL0FyU6rnMvk6-4umPUWJm8TeNg=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Octavio",
+      "groupId": "holostars_en",
+      "startTime": "2026-01-21T10:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=kbYniQcx0Z0",
+      "thumbnail": "https://img.youtube.com/vi/kbYniQcx0Z0/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Hakka",
+      "groupId": "holostars_en",
+      "startTime": "2026-01-21T10:01:00+09:00",
+      "url": "https://www.youtube.com/watch?v=u-ToTJwS_pE",
+      "thumbnail": "https://img.youtube.com/vi/u-ToTJwS_pE/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Shinri",
+      "groupId": "holostars_en",
+      "startTime": "2026-01-21T10:02:00+09:00",
       "url": "https://www.youtube.com/watch?v=jMPjlibwQpg",
       "thumbnail": "https://img.youtube.com/vi/jMPjlibwQpg/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/GkDmDWOfKfFkcVmG3-ECCRMeFR4bXlWBvuGO3xu3Ud68kVTWssXpn5q266BmtXvcHuzc5Ib2iFQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "unknown",
@@ -699,6 +749,16 @@
       "url": "https://www.youtube.com/watch?v=OHZXJ2P9qEg",
       "thumbnail": "https://img.youtube.com/vi/OHZXJ2P9qEg/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Syrios",
+      "groupId": "holostars_en",
+      "startTime": "2026-01-21T12:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=X_AsuqxSaZk",
+      "thumbnail": "https://img.youtube.com/vi/X_AsuqxSaZk/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
