@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-20T23:51:39.094Z",
+  "updatedAt": "2026-01-21T00:50:40.800Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -349,17 +349,17 @@
       "url": "https://www.youtube.com/watch?v=Wxwa4tjHrK4",
       "thumbnail": "https://img.youtube.com/vi/Wxwa4tjHrK4/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "koseki_bijou",
       "talentName": "Koseki Bijou",
       "groupId": "en_advent",
-      "startTime": "2026-01-21T09:00:00+09:00",
+      "startTime": "2026-01-21T08:57:00+09:00",
       "url": "https://www.youtube.com/watch?v=ZV-uAi7FJKs",
       "thumbnail": "https://img.youtube.com/vi/ZV-uAi7FJKs/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "raora_panthera",
@@ -675,11 +675,11 @@
       "talentId": "unknown",
       "talentName": "Hakka",
       "groupId": "holostars_en",
-      "startTime": "2026-01-21T09:15:00+09:00",
+      "startTime": "2026-01-21T09:17:00+09:00",
       "url": "https://www.youtube.com/watch?v=qBRuhk6iRtQ",
       "thumbnail": "https://img.youtube.com/vi/qBRuhk6iRtQ/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "unknown",
@@ -819,7 +819,7 @@
       "url": "https://www.youtube.com/watch?v=Qj7D9ZSXyJ0",
       "thumbnail": "https://img.youtube.com/vi/Qj7D9ZSXyJ0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "ichijou_ririka",
@@ -855,7 +855,7 @@
       "talentId": "kikirara_vivi",
       "talentName": "Kikirara Vivi",
       "groupId": "flow_glow",
-      "startTime": "2026-01-21T21:30:00+09:00",
+      "startTime": "2026-01-21T21:45:00+09:00",
       "url": "https://www.youtube.com/watch?v=gd9em7b4P04",
       "thumbnail": "https://img.youtube.com/vi/gd9em7b4P04/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s88-c-k-c0x00ffffff-no-rj",
