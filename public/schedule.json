@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-21T18:22:54.317Z",
+  "updatedAt": "2026-01-21T19:03:10.307Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -212,6 +212,16 @@
       "isLive": false
     },
     {
+      "talentId": "himemori_luna",
+      "talentName": "Himemori Luna",
+      "groupId": "gen4",
+      "startTime": "2026-01-22T19:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=6UYuWimhTxU",
+      "thumbnail": "https://img.youtube.com/vi/6UYuWimhTxU/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "azki",
       "talentName": "AZKi",
       "groupId": "gen0",
@@ -232,13 +242,13 @@
       "isLive": false
     },
     {
-      "talentId": "himemori_luna",
-      "talentName": "Himemori Luna",
-      "groupId": "gen4",
-      "startTime": "2026-01-22T19:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=6UYuWimhTxU",
-      "thumbnail": "https://img.youtube.com/vi/6UYuWimhTxU/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s88-c-k-c0x00ffffff-no-rj",
+      "talentId": "nekomata_okayu",
+      "talentName": "Nekomata Okayu",
+      "groupId": "gamers",
+      "startTime": "2026-01-22T20:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=c0cT6ZkH2lE",
+      "thumbnail": "https://img.youtube.com/vi/c0cT6ZkH2lE/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -345,11 +355,11 @@
       "talentId": "takanashi_kiara",
       "talentName": "Takanashi Kiara",
       "groupId": "en_myth",
-      "startTime": "2026-01-22T04:00:00+09:00",
+      "startTime": "2026-01-22T04:01:00+09:00",
       "url": "https://www.youtube.com/watch?v=tt8DlzOq2d0",
       "thumbnail": "https://img.youtube.com/vi/tt8DlzOq2d0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "shiori_novella",
@@ -382,6 +392,16 @@
       "isLive": false
     },
     {
+      "talentId": "nerissa_ravencroft",
+      "talentName": "Nerissa Ravencroft",
+      "groupId": "en_advent",
+      "startTime": "2026-01-22T10:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=QarAqDV_wjI",
+      "thumbnail": "https://img.youtube.com/vi/QarAqDV_wjI/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "mori_calliope",
       "talentName": "Mori Calliope",
       "groupId": "en_myth",
@@ -392,13 +412,13 @@
       "isLive": false
     },
     {
-      "talentId": "nerissa_ravencroft",
-      "talentName": "Nerissa Ravencroft",
-      "groupId": "en_advent",
-      "startTime": "2026-01-22T10:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=QarAqDV_wjI",
-      "thumbnail": "https://img.youtube.com/vi/QarAqDV_wjI/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ=s88-c-k-c0x00ffffff-no-rj",
+      "talentId": "irys",
+      "talentName": "IRyS",
+      "groupId": "en_promise",
+      "startTime": "2026-01-22T13:30:00+09:00",
+      "url": "https://www.youtube.com/watch?v=wqfPCn3JVW8",
+      "thumbnail": "https://img.youtube.com/vi/wqfPCn3JVW8/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -889,7 +909,7 @@
       "url": "https://www.youtube.com/watch?v=qJ5vc3qBN_0",
       "thumbnail": "https://img.youtube.com/vi/qJ5vc3qBN_0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "kikirara_vivi",
