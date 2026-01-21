@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-21T22:13:32.808Z",
+  "updatedAt": "2026-01-21T22:44:57.554Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -379,7 +379,7 @@
       "url": "https://www.youtube.com/watch?v=tt8DlzOq2d0",
       "thumbnail": "https://img.youtube.com/vi/tt8DlzOq2d0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "shiori_novella",
