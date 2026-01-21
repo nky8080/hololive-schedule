@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-21T04:01:05.928Z",
+  "updatedAt": "2026-01-21T04:54:02.176Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -375,11 +375,11 @@
       "talentId": "raora_panthera",
       "talentName": "Raora Panthera",
       "groupId": "en_justice",
-      "startTime": "2026-01-21T13:00:00+09:00",
+      "startTime": "2026-01-21T13:03:00+09:00",
       "url": "https://www.youtube.com/watch?v=yOTPmHs0-ME",
       "thumbnail": "https://img.youtube.com/vi/yOTPmHs0-ME/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "takanashi_kiara",
@@ -573,6 +573,16 @@
     },
     {
       "talentId": "unknown",
+      "talentName": "夜十神封魔",
+      "groupId": "holostars_jp",
+      "startTime": "2026-01-21T15:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=amUcrCnFPZE",
+      "thumbnail": "https://img.youtube.com/vi/amUcrCnFPZE/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
       "talentName": "羽継烏有",
       "groupId": "holostars_jp",
       "startTime": "2026-01-21T18:00:00+09:00",
@@ -759,7 +769,7 @@
       "url": "https://www.youtube.com/watch?v=OHZXJ2P9qEg",
       "thumbnail": "https://img.youtube.com/vi/OHZXJ2P9qEg/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -862,16 +872,6 @@
       "isLive": false
     },
     {
-      "talentId": "todoroki_hajime",
-      "talentName": "Todoroki Hajime",
-      "groupId": "regloss",
-      "startTime": "2026-01-20T22:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=clr06yng-Ps",
-      "thumbnail": "https://img.youtube.com/vi/clr06yng-Ps/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
       "talentId": "isaki_riona",
       "talentName": "Isaki Riona",
       "groupId": "flow_glow",
@@ -879,6 +879,16 @@
       "url": "https://www.youtube.com/watch?v=esTMy7egONc",
       "thumbnail": "https://img.youtube.com/vi/esTMy7egONc/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "todoroki_hajime",
+      "talentName": "Todoroki Hajime",
+      "groupId": "regloss",
+      "startTime": "2026-01-20T22:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=clr06yng-Ps",
+      "thumbnail": "https://img.youtube.com/vi/clr06yng-Ps/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -935,7 +945,7 @@
       "talentId": "todoroki_hajime",
       "talentName": "Todoroki Hajime",
       "groupId": "regloss",
-      "startTime": "2026-01-21T20:00:00+09:00",
+      "startTime": "2026-01-21T21:00:00+09:00",
       "url": "https://www.youtube.com/watch?v=FwkMz5q3dIY",
       "thumbnail": "https://img.youtube.com/vi/FwkMz5q3dIY/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q=s88-c-k-c0x00ffffff-no-rj",
@@ -989,7 +999,7 @@
       "url": "https://www.youtube.com/watch?v=kaC1EHEI2UU",
       "thumbnail": "https://img.youtube.com/vi/kaC1EHEI2UU/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/bLqkQmKBq5rRp53-TLpg1wa9Bn0aFwmjsnZ6LTPgq0NjJSs2304Rm61481alRP8mTdyNLFiJ9c0=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     }
   ]
 }
