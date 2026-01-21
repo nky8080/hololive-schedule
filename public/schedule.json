@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-21T05:20:12.791Z",
+  "updatedAt": "2026-01-21T05:48:59.981Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -272,6 +272,16 @@
       "isLive": false
     },
     {
+      "talentId": "nekomata_okayu",
+      "talentName": "Nekomata Okayu",
+      "groupId": "gamers",
+      "startTime": "2026-01-21T22:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=89_f9g7rOs4",
+      "thumbnail": "https://img.youtube.com/vi/89_f9g7rOs4/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "hakos_baelz",
       "talentName": "Hakos Baelz",
       "groupId": "en_promise",
@@ -379,7 +389,17 @@
       "url": "https://www.youtube.com/watch?v=yOTPmHs0-ME",
       "thumbnail": "https://img.youtube.com/vi/yOTPmHs0-ME/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
+    },
+    {
+      "talentId": "mori_calliope",
+      "talentName": "Mori Calliope",
+      "groupId": "en_myth",
+      "startTime": "2026-01-21T22:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=C0T-FU7LEq4",
+      "thumbnail": "https://img.youtube.com/vi/C0T-FU7LEq4/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
     },
     {
       "talentId": "mori_calliope",
