@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-22T17:50:51.771Z",
+  "updatedAt": "2026-01-22T18:16:11.342Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -259,7 +259,7 @@
       "url": "https://www.youtube.com/watch?v=n1RC1QFydU8",
       "thumbnail": "https://img.youtube.com/vi/n1RC1QFydU8/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "usada_pekora",
@@ -515,21 +515,21 @@
       "talentId": "shiori_novella",
       "talentName": "Shiori Novella",
       "groupId": "en_advent",
-      "startTime": "2026-01-23T03:00:00+09:00",
+      "startTime": "2026-01-23T02:53:00+09:00",
       "url": "https://www.youtube.com/watch?v=Na_GO9Ng1CU",
       "thumbnail": "https://img.youtube.com/vi/Na_GO9Ng1CU/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "takanashi_kiara",
       "talentName": "Takanashi Kiara",
       "groupId": "en_myth",
-      "startTime": "2026-01-23T03:00:00+09:00",
+      "startTime": "2026-01-23T02:59:00+09:00",
       "url": "https://www.youtube.com/watch?v=RBKQWxGmGOc",
       "thumbnail": "https://img.youtube.com/vi/RBKQWxGmGOc/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "cecilia_immergreen",
@@ -539,7 +539,7 @@
       "url": "https://www.youtube.com/watch?v=py5rWfnxwbw",
       "thumbnail": "https://img.youtube.com/vi/py5rWfnxwbw/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "gigi_murin",
@@ -895,10 +895,20 @@
       "talentId": "unknown",
       "talentName": "Crimzon",
       "groupId": "holostars_en",
-      "startTime": "2026-01-23T03:00:00+09:00",
+      "startTime": "2026-01-23T03:01:00+09:00",
       "url": "https://www.youtube.com/watch?v=WMb9IsMJRJ8",
       "thumbnail": "https://img.youtube.com/vi/WMb9IsMJRJ8/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Shinri",
+      "groupId": "holostars_en",
+      "startTime": "2026-01-23T10:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=JSvnvv6N_5o",
+      "thumbnail": "https://img.youtube.com/vi/JSvnvv6N_5o/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/GkDmDWOfKfFkcVmG3-ECCRMeFR4bXlWBvuGO3xu3Ud68kVTWssXpn5q266BmtXvcHuzc5Ib2iFQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -913,12 +923,12 @@
     },
     {
       "talentId": "unknown",
-      "talentName": "Shinri",
+      "talentName": "Flayon",
       "groupId": "holostars_en",
-      "startTime": "2026-01-23T10:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=JSvnvv6N_5o",
-      "thumbnail": "https://img.youtube.com/vi/JSvnvv6N_5o/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/GkDmDWOfKfFkcVmG3-ECCRMeFR4bXlWBvuGO3xu3Ud68kVTWssXpn5q266BmtXvcHuzc5Ib2iFQ=s88-c-k-c0x00ffffff-no-rj",
+      "startTime": "2026-01-23T12:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=8BkmavFNGf4",
+      "thumbnail": "https://img.youtube.com/vi/8BkmavFNGf4/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
