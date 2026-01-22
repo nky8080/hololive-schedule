@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-22T14:28:51.541Z",
+  "updatedAt": "2026-01-22T14:55:21.016Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -429,7 +429,7 @@
       "url": "https://www.youtube.com/watch?v=q_6GvsZf6bw",
       "thumbnail": "https://img.youtube.com/vi/q_6GvsZf6bw/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "sakura_miko",
@@ -1213,6 +1213,16 @@
     },
     {
       "talentId": "unknown",
+      "talentName": "Shinri",
+      "groupId": "holostars_en",
+      "startTime": "2026-01-23T10:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=JSvnvv6N_5o",
+      "thumbnail": "https://img.youtube.com/vi/JSvnvv6N_5o/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/GkDmDWOfKfFkcVmG3-ECCRMeFR4bXlWBvuGO3xu3Ud68kVTWssXpn5q266BmtXvcHuzc5Ib2iFQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
       "talentName": "Jurard",
       "groupId": "holostars_en",
       "startTime": "2026-01-23T20:00:00+09:00",
@@ -1519,7 +1529,7 @@
       "url": "https://www.youtube.com/watch?v=QAlvB_qs5XA",
       "thumbnail": "https://img.youtube.com/vi/QAlvB_qs5XA/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "ichijou_ririka",
