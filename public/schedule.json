@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-22T19:51:52.749Z",
+  "updatedAt": "2026-01-22T20:13:00.087Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -519,7 +519,7 @@
       "url": "https://www.youtube.com/watch?v=Na_GO9Ng1CU",
       "thumbnail": "https://img.youtube.com/vi/Na_GO9Ng1CU/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "takanashi_kiara",
@@ -589,6 +589,16 @@
       "url": "https://www.youtube.com/watch?v=-loM8WEB73c",
       "thumbnail": "https://img.youtube.com/vi/-loM8WEB73c/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "shiori_novella",
+      "talentName": "Shiori Novella",
+      "groupId": "en_advent",
+      "startTime": "2026-01-23T13:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=HOUkMMMzNZQ",
+      "thumbnail": "https://img.youtube.com/vi/HOUkMMMzNZQ/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -750,6 +760,16 @@
       "thumbnail": "https://img.youtube.com/vi/9GpRKXMVlyI/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "羽継烏有",
+      "groupId": "holostars_jp",
+      "startTime": "2026-01-23T05:05:00+09:00",
+      "url": "https://www.youtube.com/watch?v=inNHg47_Gqs",
+      "thumbnail": "https://img.youtube.com/vi/inNHg47_Gqs/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
     },
     {
       "talentId": "unknown",
