@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-22T11:52:12.806Z",
+  "updatedAt": "2026-01-22T12:22:24.545Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -369,7 +369,7 @@
       "url": "https://www.youtube.com/watch?v=c0cT6ZkH2lE",
       "thumbnail": "https://img.youtube.com/vi/c0cT6ZkH2lE/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "sakura_miko",
@@ -389,17 +389,17 @@
       "url": "https://www.youtube.com/watch?v=27ADf_yCT-w",
       "thumbnail": "https://img.youtube.com/vi/27ADf_yCT-w/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "usada_pekora",
       "talentName": "Usada Pekora",
       "groupId": "gen3",
-      "startTime": "2026-01-22T21:00:00+09:00",
+      "startTime": "2026-01-22T21:01:00+09:00",
       "url": "https://www.youtube.com/watch?v=QIVIS_PLtxs",
       "thumbnail": "https://img.youtube.com/vi/QIVIS_PLtxs/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "oozora_subaru",
