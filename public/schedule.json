@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-22T22:54:31.169Z",
+  "updatedAt": "2026-01-22T23:10:46.304Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -955,11 +955,11 @@
       "talentId": "unknown",
       "talentName": "Syrios",
       "groupId": "holostars_en",
-      "startTime": "2026-01-23T08:00:00+09:00",
+      "startTime": "2026-01-23T08:03:00+09:00",
       "url": "https://www.youtube.com/watch?v=sLCJDwxyNuw",
       "thumbnail": "https://img.youtube.com/vi/sLCJDwxyNuw/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "unknown",
