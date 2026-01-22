@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-22T22:11:49.160Z",
+  "updatedAt": "2026-01-22T22:37:57.746Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -549,7 +549,7 @@
       "url": "https://www.youtube.com/watch?v=RBKQWxGmGOc",
       "thumbnail": "https://img.youtube.com/vi/RBKQWxGmGOc/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "cecilia_immergreen",
@@ -559,7 +559,7 @@
       "url": "https://www.youtube.com/watch?v=py5rWfnxwbw",
       "thumbnail": "https://img.youtube.com/vi/py5rWfnxwbw/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "gigi_murin",
@@ -939,6 +939,16 @@
       "url": "https://www.youtube.com/watch?v=WMb9IsMJRJ8",
       "thumbnail": "https://img.youtube.com/vi/WMb9IsMJRJ8/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Syrios",
+      "groupId": "holostars_en",
+      "startTime": "2026-01-23T08:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=sLCJDwxyNuw",
+      "thumbnail": "https://img.youtube.com/vi/sLCJDwxyNuw/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
