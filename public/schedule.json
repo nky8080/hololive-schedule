@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-22T08:16:09.232Z",
+  "updatedAt": "2026-01-22T08:54:47.001Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -272,16 +272,6 @@
       "isLive": false
     },
     {
-      "talentId": "azki",
-      "talentName": "AZKi",
-      "groupId": "gen0",
-      "startTime": "2026-01-22T19:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=Lkjv4BnUTlY",
-      "thumbnail": "https://img.youtube.com/vi/Lkjv4BnUTlY/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
       "talentId": "omaru_polka",
       "talentName": "Omaru Polka",
       "groupId": "gen5",
@@ -289,6 +279,16 @@
       "url": "https://www.youtube.com/watch?v=e9MMrp6QVEI",
       "thumbnail": "https://img.youtube.com/vi/e9MMrp6QVEI/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "azki",
+      "talentName": "AZKi",
+      "groupId": "gen0",
+      "startTime": "2026-01-22T19:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=Lkjv4BnUTlY",
+      "thumbnail": "https://img.youtube.com/vi/Lkjv4BnUTlY/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -739,7 +739,7 @@
       "url": "https://www.youtube.com/watch?v=cPNijycGjYM",
       "thumbnail": "https://img.youtube.com/vi/cPNijycGjYM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -1159,6 +1159,16 @@
       "url": "https://www.youtube.com/watch?v=XfRK_hVGGvM",
       "thumbnail": "https://img.youtube.com/vi/XfRK_hVGGvM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "juufuutei_raden",
+      "talentName": "Juufuutei Raden",
+      "groupId": "regloss",
+      "startTime": "2026-01-22T17:45:00+09:00",
+      "url": "https://www.youtube.com/watch?v=S6paBfR7HXY",
+      "thumbnail": "https://img.youtube.com/vi/S6paBfR7HXY/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
