@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-22T18:16:11.342Z",
+  "updatedAt": "2026-01-22T18:56:20.348Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -219,7 +219,7 @@
       "url": "https://www.youtube.com/watch?v=-i1kocJQ_VU",
       "thumbnail": "https://img.youtube.com/vi/-i1kocJQ_VU/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "oozora_subaru",
@@ -925,7 +925,7 @@
       "talentId": "unknown",
       "talentName": "Flayon",
       "groupId": "holostars_en",
-      "startTime": "2026-01-23T12:00:00+09:00",
+      "startTime": "2026-01-23T11:00:00+09:00",
       "url": "https://www.youtube.com/watch?v=8BkmavFNGf4",
       "thumbnail": "https://img.youtube.com/vi/8BkmavFNGf4/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s88-c-k-c0x00ffffff-no-rj",
@@ -1109,6 +1109,16 @@
       "url": "https://www.youtube.com/watch?v=gqdcDmyzCxs",
       "thumbnail": "https://img.youtube.com/vi/gqdcDmyzCxs/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "輪堂千速",
+      "groupId": "dev_is",
+      "startTime": "2026-01-23T07:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=TwSuKy6uliw",
+      "thumbnail": "https://img.youtube.com/vi/TwSuKy6uliw/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
