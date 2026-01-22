@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-22T07:21:29.304Z",
+  "updatedAt": "2026-01-22T07:45:50.565Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -232,13 +232,13 @@
       "isLive": false
     },
     {
-      "talentId": "takane_lui",
-      "talentName": "Takane Lui",
-      "groupId": "holoX",
+      "talentId": "omaru_polka",
+      "talentName": "Omaru Polka",
+      "groupId": "gen5",
       "startTime": "2026-01-22T18:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=eIVO5op2noE",
-      "thumbnail": "https://img.youtube.com/vi/eIVO5op2noE/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s88-c-k-c0x00ffffff-no-rj",
+      "url": "https://www.youtube.com/watch?v=Hgv0qxF7WhY",
+      "thumbnail": "https://img.youtube.com/vi/Hgv0qxF7WhY/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -249,6 +249,36 @@
       "url": "https://www.youtube.com/watch?v=JLr5KOqllaA",
       "thumbnail": "https://img.youtube.com/vi/JLr5KOqllaA/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/6Y5lj4DhikLBo0UqIZ1dT3-D3aYXVPbxUgNTyYiyE_Se8AVxkGAn05D3oc1y3whpzDu-CzEQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "takane_lui",
+      "talentName": "Takane Lui",
+      "groupId": "holoX",
+      "startTime": "2026-01-22T18:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=eIVO5op2noE",
+      "thumbnail": "https://img.youtube.com/vi/eIVO5op2noE/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "shirakami_fubuki",
+      "talentName": "Shirakami Fubuki",
+      "groupId": "gen1",
+      "startTime": "2026-01-22T18:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=uISNTlyW3rc",
+      "thumbnail": "https://img.youtube.com/vi/uISNTlyW3rc/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "omaru_polka",
+      "talentName": "Omaru Polka",
+      "groupId": "gen5",
+      "startTime": "2026-01-22T19:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=e9MMrp6QVEI",
+      "thumbnail": "https://img.youtube.com/vi/e9MMrp6QVEI/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -275,9 +305,9 @@
       "talentId": "omaru_polka",
       "talentName": "Omaru Polka",
       "groupId": "gen5",
-      "startTime": "2026-01-22T19:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=e9MMrp6QVEI",
-      "thumbnail": "https://img.youtube.com/vi/e9MMrp6QVEI/mqdefault.jpg",
+      "startTime": "2026-01-22T19:30:00+09:00",
+      "url": "https://www.youtube.com/watch?v=ui8_CKD7GWE",
+      "thumbnail": "https://img.youtube.com/vi/ui8_CKD7GWE/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
@@ -289,6 +319,16 @@
       "url": "https://www.youtube.com/watch?v=c0cT6ZkH2lE",
       "thumbnail": "https://img.youtube.com/vi/c0cT6ZkH2lE/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "shirakami_fubuki",
+      "talentName": "Shirakami Fubuki",
+      "groupId": "gen1",
+      "startTime": "2026-01-22T21:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=27ADf_yCT-w",
+      "thumbnail": "https://img.youtube.com/vi/27ADf_yCT-w/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
