@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-22T16:57:18.033Z",
+  "updatedAt": "2026-01-22T17:23:15.500Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -659,7 +659,7 @@
       "url": "https://www.youtube.com/watch?v=4ZxLomTx1S8",
       "thumbnail": "https://img.youtube.com/vi/4ZxLomTx1S8/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
