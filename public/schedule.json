@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-22T05:50:03.882Z",
+  "updatedAt": "2026-01-22T06:17:53.255Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -232,16 +232,6 @@
       "isLive": false
     },
     {
-      "talentId": "la_plus",
-      "talentName": "La+ Darknesss",
-      "groupId": "holoX",
-      "startTime": "2026-01-22T18:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=JLr5KOqllaA",
-      "thumbnail": "https://img.youtube.com/vi/JLr5KOqllaA/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/6Y5lj4DhikLBo0UqIZ1dT3-D3aYXVPbxUgNTyYiyE_Se8AVxkGAn05D3oc1y3whpzDu-CzEQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
       "talentId": "takane_lui",
       "talentName": "Takane Lui",
       "groupId": "holoX",
@@ -249,6 +239,16 @@
       "url": "https://www.youtube.com/watch?v=eIVO5op2noE",
       "thumbnail": "https://img.youtube.com/vi/eIVO5op2noE/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "la_plus",
+      "talentName": "La+ Darknesss",
+      "groupId": "holoX",
+      "startTime": "2026-01-22T18:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=JLr5KOqllaA",
+      "thumbnail": "https://img.youtube.com/vi/JLr5KOqllaA/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/6Y5lj4DhikLBo0UqIZ1dT3-D3aYXVPbxUgNTyYiyE_Se8AVxkGAn05D3oc1y3whpzDu-CzEQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -809,7 +809,7 @@
       "url": "https://www.youtube.com/watch?v=sDdpIRF6aZw",
       "thumbnail": "https://img.youtube.com/vi/sDdpIRF6aZw/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -885,11 +885,11 @@
       "talentId": "unknown",
       "talentName": "Jurard",
       "groupId": "holostars_en",
-      "startTime": "2026-01-22T15:00:00+09:00",
+      "startTime": "2026-01-22T14:59:00+09:00",
       "url": "https://www.youtube.com/watch?v=U0jOWdWgxO0",
       "thumbnail": "https://img.youtube.com/vi/U0jOWdWgxO0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/EA7rVsjrX8vvWUcCw-tEiLj4mrTZK3pvCdRmq07ylzGLBvMRL0FyU6rnMvk6-4umPUWJm8TeNg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "mizumiya_su",
@@ -1089,6 +1089,16 @@
       "url": "https://www.youtube.com/watch?v=28rky6O1LAQ",
       "thumbnail": "https://img.youtube.com/vi/28rky6O1LAQ/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "todoroki_hajime",
+      "talentName": "Todoroki Hajime",
+      "groupId": "regloss",
+      "startTime": "2026-01-22T20:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=k0CJ-toM2QA",
+      "thumbnail": "https://img.youtube.com/vi/k0CJ-toM2QA/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
