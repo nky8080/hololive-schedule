@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-22T15:51:45.046Z",
+  "updatedAt": "2026-01-22T16:19:12.301Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -270,6 +270,16 @@
       "thumbnail": "https://img.youtube.com/vi/GTiGR5UVJ-g/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s88-c-k-c0x00ffffff-no-rj",
       "isLive": true
+    },
+    {
+      "talentId": "yuzuki_choco",
+      "talentName": "Yuzuki Choco",
+      "groupId": "gen2",
+      "startTime": "2026-01-23T01:15:00+09:00",
+      "url": "https://www.youtube.com/watch?v=CFaCGcU5lbA",
+      "thumbnail": "https://img.youtube.com/vi/CFaCGcU5lbA/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
     },
     {
       "talentId": "hakui_koyori",
@@ -729,7 +739,7 @@
       "url": "https://www.youtube.com/watch?v=9GpRKXMVlyI",
       "thumbnail": "https://img.youtube.com/vi/9GpRKXMVlyI/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "unknown",
