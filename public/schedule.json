@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-23T09:48:53.611Z",
+  "updatedAt": "2026-01-23T10:13:03.599Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -369,6 +369,26 @@
       "url": "https://www.youtube.com/watch?v=6ctLedzgZHw",
       "thumbnail": "https://img.youtube.com/vi/6ctLedzgZHw/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/jxI6FmNKDpYKXB0puyLhB5gq4JgWFvRT9Rr2C_d3hFT1q0SSOHh3QIUfvSxfTHupTXFnleqI=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "ホロライブ",
+      "groupId": "hololive_jp",
+      "startTime": "2026-01-23T19:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=LsV8F5iZBMw",
+      "thumbnail": "https://img.youtube.com/vi/LsV8F5iZBMw/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "hoshimachi_suisei",
+      "talentName": "Hoshimachi Suisei",
+      "groupId": "gen0",
+      "startTime": "2026-01-23T19:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=Ow9RqZgTi7w",
+      "thumbnail": "https://img.youtube.com/vi/Ow9RqZgTi7w/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -769,7 +789,7 @@
       "url": "https://www.youtube.com/watch?v=w7-geqaMtXo",
       "thumbnail": "https://img.youtube.com/vi/w7-geqaMtXo/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "takanashi_kiara",
