@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-23T18:16:46.304Z",
+  "updatedAt": "2026-01-23T18:55:19.024Z",
   "streams": [
     {
       "talentId": "yuzuki_choco",
@@ -355,7 +355,7 @@
       "talentId": "himemori_luna",
       "talentName": "Himemori Luna",
       "groupId": "gen4",
-      "startTime": "2026-01-24T22:00:00+09:00",
+      "startTime": "2026-01-24T23:00:00+09:00",
       "url": "https://www.youtube.com/watch?v=5xLZ8jt_6IA",
       "thumbnail": "https://img.youtube.com/vi/5xLZ8jt_6IA/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s88-c-k-c0x00ffffff-no-rj",
@@ -522,16 +522,6 @@
       "isLive": false
     },
     {
-      "talentId": "ninomae_inanis",
-      "talentName": "Ninomae Ina'nis",
-      "groupId": "en_myth",
-      "startTime": "2026-01-24T03:15:00+09:00",
-      "url": "https://www.youtube.com/watch?v=XkMHRRvOuZ4",
-      "thumbnail": "https://img.youtube.com/vi/XkMHRRvOuZ4/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
       "talentId": "takanashi_kiara",
       "talentName": "Takanashi Kiara",
       "groupId": "en_myth",
@@ -539,7 +529,17 @@
       "url": "https://www.youtube.com/watch?v=gQw8MDsewkc",
       "thumbnail": "https://img.youtube.com/vi/gQw8MDsewkc/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
+    },
+    {
+      "talentId": "ninomae_inanis",
+      "talentName": "Ninomae Ina'nis",
+      "groupId": "en_myth",
+      "startTime": "2026-01-24T03:17:00+09:00",
+      "url": "https://www.youtube.com/watch?v=XkMHRRvOuZ4",
+      "thumbnail": "https://img.youtube.com/vi/XkMHRRvOuZ4/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
     },
     {
       "talentId": "fuwamoco",
@@ -839,7 +839,7 @@
       "url": "https://www.youtube.com/watch?v=XCKel93Gkh8",
       "thumbnail": "https://img.youtube.com/vi/XCKel93Gkh8/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
