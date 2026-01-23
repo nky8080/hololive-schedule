@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-23T10:44:57.971Z",
+  "updatedAt": "2026-01-23T10:58:34.649Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -1695,11 +1695,11 @@
       "talentId": "unknown",
       "talentName": "ホロカ公式",
       "groupId": "official",
-      "startTime": "2026-01-23T20:00:00+09:00",
+      "startTime": "2026-01-23T19:50:00+09:00",
       "url": "https://www.youtube.com/watch?v=cBBhlB3rUEs",
       "thumbnail": "https://img.youtube.com/vi/cBBhlB3rUEs/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/auWUDx657AsLAGf8xx-NDUgiWGd9DOxM9qTYI_nMCZktK7OOdz_CT0xYSLKONO2H8IzlUkaEig=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     }
   ]
 }
