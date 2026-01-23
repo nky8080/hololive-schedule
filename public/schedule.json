@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-23T13:53:03.436Z",
+  "updatedAt": "2026-01-23T14:15:11.671Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -972,24 +972,24 @@
       "isLive": true
     },
     {
-      "talentId": "airani_iofiteen",
-      "talentName": "Airani Iofifteen",
-      "groupId": "id_gen1",
-      "startTime": "2026-01-23T23:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=qXHFJbLnliY",
-      "thumbnail": "https://img.youtube.com/vi/qXHFJbLnliY/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
       "talentId": "kobo_kanaeru",
       "talentName": "Kobo Kanaeru",
       "groupId": "id_gen3",
-      "startTime": "2026-01-23T23:00:00+09:00",
+      "startTime": "2026-01-23T22:59:00+09:00",
       "url": "https://www.youtube.com/watch?v=kLZDtUGm0Xs",
       "thumbnail": "https://img.youtube.com/vi/kLZDtUGm0Xs/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
+    },
+    {
+      "talentId": "airani_iofiteen",
+      "talentName": "Airani Iofifteen",
+      "groupId": "id_gen1",
+      "startTime": "2026-01-23T23:01:00+09:00",
+      "url": "https://www.youtube.com/watch?v=qXHFJbLnliY",
+      "thumbnail": "https://img.youtube.com/vi/qXHFJbLnliY/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
     },
     {
       "talentId": "kureiji_ollie",
@@ -1159,6 +1159,16 @@
       "url": "https://www.youtube.com/watch?v=rV1aJxn56DM",
       "thumbnail": "https://img.youtube.com/vi/rV1aJxn56DM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "アステル・レダ",
+      "groupId": "holostars_jp",
+      "startTime": "2026-01-24T02:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=y6be0CUzRC4",
+      "thumbnail": "https://img.youtube.com/vi/y6be0CUzRC4/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -1729,7 +1739,7 @@
       "url": "https://www.youtube.com/watch?v=LOk0ZDyEYzA",
       "thumbnail": "https://img.youtube.com/vi/LOk0ZDyEYzA/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "mizumiya_su",
