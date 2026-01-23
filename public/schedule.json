@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-23T22:08:53.235Z",
+  "updatedAt": "2026-01-23T22:33:29.392Z",
   "streams": [
     {
       "talentId": "yuzuki_choco",
@@ -209,7 +209,7 @@
       "url": "https://www.youtube.com/watch?v=7EwKdWeZDrk",
       "thumbnail": "https://img.youtube.com/vi/7EwKdWeZDrk/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "oozora_subaru",
@@ -1059,6 +1059,16 @@
       "url": "https://www.youtube.com/watch?v=0GkMiAxEplo",
       "thumbnail": "https://img.youtube.com/vi/0GkMiAxEplo/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/EA7rVsjrX8vvWUcCw-tEiLj4mrTZK3pvCdRmq07ylzGLBvMRL0FyU6rnMvk6-4umPUWJm8TeNg=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Hakka",
+      "groupId": "holostars_en",
+      "startTime": "2026-01-24T09:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=5FJd4G1ayA0",
+      "thumbnail": "https://img.youtube.com/vi/5FJd4G1ayA0/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
