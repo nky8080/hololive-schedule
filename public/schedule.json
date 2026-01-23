@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-22T23:50:39.096Z",
+  "updatedAt": "2026-01-23T00:50:29.697Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -585,11 +585,11 @@
       "talentId": "koseki_bijou",
       "talentName": "Koseki Bijou",
       "groupId": "en_advent",
-      "startTime": "2026-01-23T09:00:00+09:00",
+      "startTime": "2026-01-23T09:01:00+09:00",
       "url": "https://www.youtube.com/watch?v=xz9TnYz75U8",
       "thumbnail": "https://img.youtube.com/vi/xz9TnYz75U8/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "nerissa_ravencroft",
@@ -1199,7 +1199,7 @@
       "url": "https://www.youtube.com/watch?v=TwSuKy6uliw",
       "thumbnail": "https://img.youtube.com/vi/TwSuKy6uliw/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "mizumiya_su",
