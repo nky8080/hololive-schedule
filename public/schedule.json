@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-23T19:48:46.231Z",
+  "updatedAt": "2026-01-23T20:12:29.541Z",
   "streams": [
     {
       "talentId": "yuzuki_choco",
@@ -272,13 +272,13 @@
       "isLive": false
     },
     {
-      "talentId": "hakui_koyori",
-      "talentName": "Hakui Koyori",
-      "groupId": "holoX",
+      "talentId": "omaru_polka",
+      "talentName": "Omaru Polka",
+      "groupId": "gen5",
       "startTime": "2026-01-24T17:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=PklDKPScUGg",
-      "thumbnail": "https://img.youtube.com/vi/PklDKPScUGg/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s88-c-k-c0x00ffffff-no-rj",
+      "url": "https://www.youtube.com/watch?v=GktSLCmCLVk",
+      "thumbnail": "https://img.youtube.com/vi/GktSLCmCLVk/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -302,13 +302,13 @@
       "isLive": false
     },
     {
-      "talentId": "omaru_polka",
-      "talentName": "Omaru Polka",
-      "groupId": "gen5",
+      "talentId": "hakui_koyori",
+      "talentName": "Hakui Koyori",
+      "groupId": "holoX",
       "startTime": "2026-01-24T17:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=GktSLCmCLVk",
-      "thumbnail": "https://img.youtube.com/vi/GktSLCmCLVk/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s88-c-k-c0x00ffffff-no-rj",
+      "url": "https://www.youtube.com/watch?v=PklDKPScUGg",
+      "thumbnail": "https://img.youtube.com/vi/PklDKPScUGg/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -652,6 +652,16 @@
       "isLive": false
     },
     {
+      "talentId": "shiori_novella",
+      "talentName": "Shiori Novella",
+      "groupId": "en_advent",
+      "startTime": "2026-01-24T20:45:00+09:00",
+      "url": "https://www.youtube.com/watch?v=9WCnRRYFwps",
+      "thumbnail": "https://img.youtube.com/vi/9WCnRRYFwps/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "fuwamoco",
       "talentName": "FUWAMOCO",
       "groupId": "en_advent",
@@ -863,13 +873,13 @@
     },
     {
       "talentId": "unknown",
-      "talentName": "アルランディス",
+      "talentName": "羽継烏有",
       "groupId": "holostars_jp",
-      "startTime": "2026-01-24T14:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=zbcafnXBsDs",
-      "thumbnail": "https://img.youtube.com/vi/zbcafnXBsDs/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "startTime": "2026-01-24T04:58:00+09:00",
+      "url": "https://www.youtube.com/watch?v=cnUvLLnwurc",
+      "thumbnail": "https://img.youtube.com/vi/cnUvLLnwurc/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
     },
     {
       "talentId": "unknown",
@@ -879,6 +889,16 @@
       "url": "https://www.youtube.com/watch?v=wakEUsOVrVM",
       "thumbnail": "https://img.youtube.com/vi/wakEUsOVrVM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "アルランディス",
+      "groupId": "holostars_jp",
+      "startTime": "2026-01-24T14:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=zbcafnXBsDs",
+      "thumbnail": "https://img.youtube.com/vi/zbcafnXBsDs/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
