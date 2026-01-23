@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-23T14:44:37.234Z",
+  "updatedAt": "2026-01-23T14:59:39.454Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -419,7 +419,7 @@
       "url": "https://www.youtube.com/watch?v=-8ixesV3f90",
       "thumbnail": "https://img.youtube.com/vi/-8ixesV3f90/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "shishiro_botan",
@@ -449,7 +449,7 @@
       "url": "https://www.youtube.com/watch?v=XN6PeRw4Kzo",
       "thumbnail": "https://img.youtube.com/vi/XN6PeRw4Kzo/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "tokino_sora",
@@ -1440,16 +1440,6 @@
       "thumbnail": "https://img.youtube.com/vi/8BkmavFNGf4/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
-    },
-    {
-      "talentId": "unknown",
-      "talentName": "Jurard",
-      "groupId": "holostars_en",
-      "startTime": "2026-01-23T21:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=0GkMiAxEplo",
-      "thumbnail": "https://img.youtube.com/vi/0GkMiAxEplo/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/EA7rVsjrX8vvWUcCw-tEiLj4mrTZK3pvCdRmq07ylzGLBvMRL0FyU6rnMvk6-4umPUWJm8TeNg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
     },
     {
       "talentId": "unknown",
