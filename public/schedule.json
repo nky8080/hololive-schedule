@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-23T22:51:04.086Z",
+  "updatedAt": "2026-01-23T23:11:05.994Z",
   "streams": [
     {
       "talentId": "yuzuki_choco",
@@ -239,6 +239,16 @@
       "url": "https://www.youtube.com/watch?v=V5Mt1hNonIg",
       "thumbnail": "https://img.youtube.com/vi/V5Mt1hNonIg/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "usada_pekora",
+      "talentName": "Usada Pekora",
+      "groupId": "gen3",
+      "startTime": "2026-01-24T12:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=pgHNaZo_Vcs",
+      "thumbnail": "https://img.youtube.com/vi/pgHNaZo_Vcs/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -575,7 +585,7 @@
       "talentId": "fuwamoco",
       "talentName": "FUWAMOCO",
       "groupId": "en_advent",
-      "startTime": "2026-01-24T09:00:00+09:00",
+      "startTime": "2026-01-24T10:00:00+09:00",
       "url": "https://www.youtube.com/watch?v=aNq_RB-r_dw",
       "thumbnail": "https://img.youtube.com/vi/aNq_RB-r_dw/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s88-c-k-c0x00ffffff-no-rj",
@@ -913,22 +923,22 @@
     },
     {
       "talentId": "unknown",
-      "talentName": "アルランディス",
-      "groupId": "holostars_jp",
-      "startTime": "2026-01-24T14:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=zbcafnXBsDs",
-      "thumbnail": "https://img.youtube.com/vi/zbcafnXBsDs/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
-      "talentId": "unknown",
       "talentName": "水無世燐央",
       "groupId": "holostars_jp",
       "startTime": "2026-01-24T14:00:00+09:00",
       "url": "https://www.youtube.com/watch?v=wakEUsOVrVM",
       "thumbnail": "https://img.youtube.com/vi/wakEUsOVrVM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "アルランディス",
+      "groupId": "holostars_jp",
+      "startTime": "2026-01-24T14:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=zbcafnXBsDs",
+      "thumbnail": "https://img.youtube.com/vi/zbcafnXBsDs/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -1073,22 +1083,22 @@
     },
     {
       "talentId": "unknown",
-      "talentName": "Shinri",
-      "groupId": "holostars_en",
-      "startTime": "2026-01-24T10:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=YixIKCeIcm8",
-      "thumbnail": "https://img.youtube.com/vi/YixIKCeIcm8/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/GkDmDWOfKfFkcVmG3-ECCRMeFR4bXlWBvuGO3xu3Ud68kVTWssXpn5q266BmtXvcHuzc5Ib2iFQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
-      "talentId": "unknown",
       "talentName": "Octavio",
       "groupId": "holostars_en",
       "startTime": "2026-01-24T10:00:00+09:00",
       "url": "https://www.youtube.com/watch?v=joSqqMiMstI",
       "thumbnail": "https://img.youtube.com/vi/joSqqMiMstI/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Shinri",
+      "groupId": "holostars_en",
+      "startTime": "2026-01-24T10:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=YixIKCeIcm8",
+      "thumbnail": "https://img.youtube.com/vi/YixIKCeIcm8/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/GkDmDWOfKfFkcVmG3-ECCRMeFR4bXlWBvuGO3xu3Ud68kVTWssXpn5q266BmtXvcHuzc5Ib2iFQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
