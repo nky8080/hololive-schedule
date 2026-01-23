@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-23T10:58:34.649Z",
+  "updatedAt": "2026-01-23T11:18:13.105Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -395,11 +395,11 @@
       "talentId": "hakui_koyori",
       "talentName": "Hakui Koyori",
       "groupId": "holoX",
-      "startTime": "2026-01-23T20:00:00+09:00",
+      "startTime": "2026-01-23T19:59:00+09:00",
       "url": "https://www.youtube.com/watch?v=0zYRf27uWZg",
       "thumbnail": "https://img.youtube.com/vi/0zYRf27uWZg/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "usada_pekora",
@@ -1089,7 +1089,7 @@
       "url": "https://www.youtube.com/watch?v=WLgTfnPXh_k",
       "thumbnail": "https://img.youtube.com/vi/WLgTfnPXh_k/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "unknown",
