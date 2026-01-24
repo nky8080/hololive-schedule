@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-24T19:46:27.647Z",
+  "updatedAt": "2026-01-24T20:10:29.506Z",
   "streams": [
     {
       "talentId": "tokino_sora",
@@ -1010,6 +1010,16 @@
       "thumbnail": "https://img.youtube.com/vi/yGVpGZfum-0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s88-c-k-c0x00ffffff-no-rj",
       "isLive": true
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Bettel",
+      "groupId": "holostars_en",
+      "startTime": "2026-01-25T07:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=ZPhkSSLg4-I",
+      "thumbnail": "https://img.youtube.com/vi/ZPhkSSLg4-I/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/kv71-xuB9kzbU7Bi4qsmkRXHc3wAgEU4rhllRnmGH4H23T825BKdGqEAcagTSE9r8BdsnG4lqQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
     },
     {
       "talentId": "unknown",
