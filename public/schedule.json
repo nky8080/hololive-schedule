@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-24T11:08:30.602Z",
+  "updatedAt": "2026-01-24T11:27:41.785Z",
   "streams": [
     {
       "talentId": "yuzuki_choco",
@@ -865,11 +865,11 @@
       "talentId": "irys",
       "talentName": "IRyS",
       "groupId": "en_promise",
-      "startTime": "2026-01-24T20:00:00+09:00",
+      "startTime": "2026-01-24T20:10:00+09:00",
       "url": "https://www.youtube.com/watch?v=VZYURAON7bY",
       "thumbnail": "https://img.youtube.com/vi/VZYURAON7bY/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "koseki_bijou",
@@ -1065,11 +1065,11 @@
       "talentId": "kureiji_ollie",
       "talentName": "Kureiji Ollie",
       "groupId": "id_gen2",
-      "startTime": "2026-01-24T19:55:00+09:00",
+      "startTime": "2026-01-24T20:08:00+09:00",
       "url": "https://www.youtube.com/watch?v=dLstJwQcQu8",
       "thumbnail": "https://img.youtube.com/vi/dLstJwQcQu8/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "airani_iofiteen",
@@ -1730,6 +1730,16 @@
       "thumbnail": "https://img.youtube.com/vi/QJtri9x77s0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s88-c-k-c0x00ffffff-no-rj",
       "isLive": true
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "虎金妃笑虎",
+      "groupId": "dev_is",
+      "startTime": "2026-01-24T20:15:00+09:00",
+      "url": "https://www.youtube.com/watch?v=MvKmHeKOiK0",
+      "thumbnail": "https://img.youtube.com/vi/MvKmHeKOiK0/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/bEDo7y7rywqDZpSqS7StN3vxPg4YPEfh_faAf2CENKsk4L9SgrsU0UeClvH-nsPq1i5xNFM89Q=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
     },
     {
       "talentId": "unknown",
