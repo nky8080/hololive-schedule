@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-24T13:51:50.085Z",
+  "updatedAt": "2026-01-24T14:09:37.728Z",
   "streams": [
     {
       "talentId": "yuzuki_choco",
@@ -525,11 +525,11 @@
       "talentId": "himemori_luna",
       "talentName": "Himemori Luna",
       "groupId": "gen4",
-      "startTime": "2026-01-24T23:00:00+09:00",
+      "startTime": "2026-01-24T22:57:00+09:00",
       "url": "https://www.youtube.com/watch?v=5xLZ8jt_6IA",
       "thumbnail": "https://img.youtube.com/vi/5xLZ8jt_6IA/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "shirogane_noel",
