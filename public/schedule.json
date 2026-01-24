@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-24T22:50:10.945Z",
+  "updatedAt": "2026-01-24T23:09:50.174Z",
   "streams": [
     {
       "talentId": "tokino_sora",
@@ -1018,16 +1018,6 @@
       "startTime": "2026-01-24T11:01:00+09:00",
       "url": "https://www.youtube.com/watch?v=tokG6WUEO4U",
       "thumbnail": "https://img.youtube.com/vi/tokG6WUEO4U/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
-      "talentId": "unknown",
-      "talentName": "Octavio",
-      "groupId": "holostars_en",
-      "startTime": "2026-01-24T21:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=K6V6wWlWF0w",
-      "thumbnail": "https://img.youtube.com/vi/K6V6wWlWF0w/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
