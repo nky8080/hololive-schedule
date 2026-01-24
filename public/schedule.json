@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-24T07:11:22.386Z",
+  "updatedAt": "2026-01-24T07:31:03.683Z",
   "streams": [
     {
       "talentId": "yuzuki_choco",
@@ -959,6 +959,16 @@
       "url": "https://www.youtube.com/watch?v=DaIHXuZ92Ks",
       "thumbnail": "https://img.youtube.com/vi/DaIHXuZ92Ks/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "ayunda_risu",
+      "talentName": "Ayunda Risu",
+      "groupId": "id_gen1",
+      "startTime": "2026-01-24T16:13:00+09:00",
+      "url": "https://www.youtube.com/watch?v=HmIGc87J9Kg",
+      "thumbnail": "https://img.youtube.com/vi/HmIGc87J9Kg/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
