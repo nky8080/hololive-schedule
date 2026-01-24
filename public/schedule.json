@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-24T20:49:48.534Z",
+  "updatedAt": "2026-01-24T21:08:50.672Z",
   "streams": [
     {
       "talentId": "tokino_sora",
@@ -319,6 +319,16 @@
       "url": "https://www.youtube.com/watch?v=NNQTW7Ytc9w",
       "thumbnail": "https://img.youtube.com/vi/NNQTW7Ytc9w/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "tsunomaki_watame",
+      "talentName": "Tsunomaki Watame",
+      "groupId": "gen4",
+      "startTime": "2026-01-25T06:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=QvV1Eui7M9A",
+      "thumbnail": "https://img.youtube.com/vi/QvV1Eui7M9A/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
