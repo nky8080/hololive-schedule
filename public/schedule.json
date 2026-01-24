@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-24T09:10:42.086Z",
+  "updatedAt": "2026-01-24T09:32:24.126Z",
   "streams": [
     {
       "talentId": "yuzuki_choco",
@@ -445,11 +445,11 @@
       "talentId": "shiranui_flare",
       "talentName": "Shiranui Flare",
       "groupId": "gen3",
-      "startTime": "2026-01-24T18:15:00+09:00",
+      "startTime": "2026-01-24T18:23:00+09:00",
       "url": "https://www.youtube.com/watch?v=sjsOPvkSQoY",
       "thumbnail": "https://img.youtube.com/vi/sjsOPvkSQoY/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "azki",
