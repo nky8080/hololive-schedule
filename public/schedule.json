@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-24T10:10:12.399Z",
+  "updatedAt": "2026-01-24T10:35:36.100Z",
   "streams": [
     {
       "talentId": "yuzuki_choco",
@@ -1702,6 +1702,16 @@
       "isLive": true
     },
     {
+      "talentId": "ichijou_ririka",
+      "talentName": "Ichijou Ririka",
+      "groupId": "regloss",
+      "startTime": "2026-01-24T19:25:00+09:00",
+      "url": "https://www.youtube.com/watch?v=hzh2q88f9yg",
+      "thumbnail": "https://img.youtube.com/vi/hzh2q88f9yg/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
+    },
+    {
       "talentId": "kikirara_vivi",
       "talentName": "Kikirara Vivi",
       "groupId": "flow_glow",
@@ -1709,16 +1719,6 @@
       "url": "https://www.youtube.com/watch?v=QJtri9x77s0",
       "thumbnail": "https://img.youtube.com/vi/QJtri9x77s0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
-      "talentId": "ichijou_ririka",
-      "talentName": "Ichijou Ririka",
-      "groupId": "regloss",
-      "startTime": "2026-01-24T19:30:00+09:00",
-      "url": "https://www.youtube.com/watch?v=hzh2q88f9yg",
-      "thumbnail": "https://img.youtube.com/vi/hzh2q88f9yg/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
