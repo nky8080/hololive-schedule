@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-24T23:41:15.884Z",
+  "updatedAt": "2026-01-24T23:48:41.564Z",
   "streams": [
     {
       "talentId": "tokino_sora",
@@ -639,7 +639,7 @@
       "url": "https://www.youtube.com/watch?v=NI7EXn7nbno",
       "thumbnail": "https://img.youtube.com/vi/NI7EXn7nbno/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "nerissa_ravencroft",
