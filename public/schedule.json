@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-24T14:32:59.704Z",
+  "updatedAt": "2026-01-24T14:50:14.593Z",
   "streams": [
     {
       "talentId": "yuzuki_choco",
@@ -389,7 +389,7 @@
       "url": "https://www.youtube.com/watch?v=EOK_TT85Xb0",
       "thumbnail": "https://img.youtube.com/vi/EOK_TT85Xb0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "omaru_polka",
@@ -839,7 +839,7 @@
       "url": "https://www.youtube.com/watch?v=F301cd486sk",
       "thumbnail": "https://img.youtube.com/vi/F301cd486sk/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "ninomae_inanis",
@@ -859,7 +859,7 @@
       "url": "https://www.youtube.com/watch?v=VZYURAON7bY",
       "thumbnail": "https://img.youtube.com/vi/VZYURAON7bY/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "shiori_novella",
@@ -1059,7 +1059,7 @@
       "url": "https://www.youtube.com/watch?v=eUhpA6H6hG8",
       "thumbnail": "https://img.youtube.com/vi/eUhpA6H6hG8/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "pavolia_reine",
@@ -1739,16 +1739,6 @@
       "url": "https://www.youtube.com/watch?v=2eusL8eFpIw",
       "thumbnail": "https://img.youtube.com/vi/2eusL8eFpIw/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/f9oGulIUN9RbJyNpc-WT3d5aJGJ_9p1Mug3WV6ZkBBQtImvYSusfmMbW03KMY8jZf1kJsHu3jOs=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
-      "talentId": "isaki_riona",
-      "talentName": "Isaki Riona",
-      "groupId": "flow_glow",
-      "startTime": "2026-01-24T18:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=5B4vTMLt_xA",
-      "thumbnail": "https://img.youtube.com/vi/5B4vTMLt_xA/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
