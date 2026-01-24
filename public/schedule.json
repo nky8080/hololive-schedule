@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-24T20:10:29.506Z",
+  "updatedAt": "2026-01-24T20:33:01.271Z",
   "streams": [
     {
       "talentId": "tokino_sora",
@@ -352,6 +352,16 @@
       "isLive": false
     },
     {
+      "talentId": "oozora_subaru",
+      "talentName": "Oozora Subaru",
+      "groupId": "gen2",
+      "startTime": "2026-01-25T13:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=KCqhUYZZZmU",
+      "thumbnail": "https://img.youtube.com/vi/KCqhUYZZZmU/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "kazama_iroha",
       "talentName": "Kazama Iroha",
       "groupId": "holoX",
@@ -622,6 +632,26 @@
       "isLive": false
     },
     {
+      "talentId": "nerissa_ravencroft",
+      "talentName": "Nerissa Ravencroft",
+      "groupId": "en_advent",
+      "startTime": "2026-01-25T10:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=7W0wJMTsioQ",
+      "thumbnail": "https://img.youtube.com/vi/7W0wJMTsioQ/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "fuwamoco",
+      "talentName": "FUWAMOCO",
+      "groupId": "en_advent",
+      "startTime": "2026-01-25T10:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=ZVicyPxraUM",
+      "thumbnail": "https://img.youtube.com/vi/ZVicyPxraUM/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "shiori_novella",
       "talentName": "Shiori Novella",
       "groupId": "en_advent",
@@ -639,26 +669,6 @@
       "url": "https://www.youtube.com/watch?v=nCMkgKHy1zo",
       "thumbnail": "https://img.youtube.com/vi/nCMkgKHy1zo/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
-      "talentId": "fuwamoco",
-      "talentName": "FUWAMOCO",
-      "groupId": "en_advent",
-      "startTime": "2026-01-25T10:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=ZVicyPxraUM",
-      "thumbnail": "https://img.youtube.com/vi/ZVicyPxraUM/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
-      "talentId": "nerissa_ravencroft",
-      "talentName": "Nerissa Ravencroft",
-      "groupId": "en_advent",
-      "startTime": "2026-01-25T10:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=7W0wJMTsioQ",
-      "thumbnail": "https://img.youtube.com/vi/7W0wJMTsioQ/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
