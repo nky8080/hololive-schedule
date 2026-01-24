@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-24T22:09:33.242Z",
+  "updatedAt": "2026-01-24T22:33:23.150Z",
   "streams": [
     {
       "talentId": "tokino_sora",
@@ -1039,7 +1039,7 @@
       "url": "https://www.youtube.com/watch?v=yGVpGZfum-0",
       "thumbnail": "https://img.youtube.com/vi/yGVpGZfum-0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
