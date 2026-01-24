@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-24T09:48:38.241Z",
+  "updatedAt": "2026-01-24T10:10:12.399Z",
   "streams": [
     {
       "talentId": "yuzuki_choco",
@@ -1009,7 +1009,7 @@
       "url": "https://www.youtube.com/watch?v=qa3VfuRCv24",
       "thumbnail": "https://img.youtube.com/vi/qa3VfuRCv24/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "vestia_zeta",
@@ -1669,7 +1669,7 @@
       "url": "https://www.youtube.com/watch?v=RuSlkUkKf9g",
       "thumbnail": "https://img.youtube.com/vi/RuSlkUkKf9g/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
