@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-24T15:31:32.210Z",
+  "updatedAt": "2026-01-24T15:48:35.245Z",
   "streams": [
     {
       "talentId": "tokino_sora",
@@ -309,17 +309,17 @@
       "url": "https://www.youtube.com/watch?v=5xLZ8jt_6IA",
       "thumbnail": "https://img.youtube.com/vi/5xLZ8jt_6IA/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "yuzuki_choco",
       "talentName": "Yuzuki Choco",
       "groupId": "gen2",
-      "startTime": "2026-01-25T00:30:00+09:00",
+      "startTime": "2026-01-25T00:31:00+09:00",
       "url": "https://www.youtube.com/watch?v=NNQTW7Ytc9w",
       "thumbnail": "https://img.youtube.com/vi/NNQTW7Ytc9w/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "shirogane_noel",
@@ -589,6 +589,16 @@
       "url": "https://www.youtube.com/watch?v=3hLF9TRZ4n0",
       "thumbnail": "https://img.youtube.com/vi/3hLF9TRZ4n0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "cecilia_immergreen",
+      "talentName": "Cecilia Immergreen",
+      "groupId": "en_justice",
+      "startTime": "2026-01-25T01:30:00+09:00",
+      "url": "https://www.youtube.com/watch?v=XQo_19VFEhE",
+      "thumbnail": "https://img.youtube.com/vi/XQo_19VFEhE/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
