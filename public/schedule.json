@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-24T07:31:03.683Z",
+  "updatedAt": "2026-01-24T07:47:11.812Z",
   "streams": [
     {
       "talentId": "yuzuki_choco",
@@ -275,11 +275,11 @@
       "talentId": "tokoyami_towa",
       "talentName": "Tokoyami Towa",
       "groupId": "gen4",
-      "startTime": "2026-01-24T16:40:00+09:00",
+      "startTime": "2026-01-24T16:35:00+09:00",
       "url": "https://www.youtube.com/watch?v=4L-Ixbhkosw",
       "thumbnail": "https://img.youtube.com/vi/4L-Ixbhkosw/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "ookami_mio",
@@ -342,6 +342,16 @@
       "isLive": false
     },
     {
+      "talentId": "kazama_iroha",
+      "talentName": "Kazama Iroha",
+      "groupId": "holoX",
+      "startTime": "2026-01-24T16:50:00+09:00",
+      "url": "https://www.youtube.com/watch?v=Q4blP6-m3IM",
+      "thumbnail": "https://img.youtube.com/vi/Q4blP6-m3IM/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "hakui_koyori",
       "talentName": "Hakui Koyori",
       "groupId": "holoX",
@@ -369,16 +379,6 @@
       "url": "https://www.youtube.com/watch?v=5OPqPN8T8R8",
       "thumbnail": "https://img.youtube.com/vi/5OPqPN8T8R8/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
-      "talentId": "kazama_iroha",
-      "talentName": "Kazama Iroha",
-      "groupId": "holoX",
-      "startTime": "2026-01-24T16:50:00+09:00",
-      "url": "https://www.youtube.com/watch?v=Q4blP6-m3IM",
-      "thumbnail": "https://img.youtube.com/vi/Q4blP6-m3IM/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -752,6 +752,16 @@
       "isLive": false
     },
     {
+      "talentId": "cecilia_immergreen",
+      "talentName": "Cecilia Immergreen",
+      "groupId": "en_justice",
+      "startTime": "2026-01-24T16:55:00+09:00",
+      "url": "https://www.youtube.com/watch?v=dseMOUHzdng",
+      "thumbnail": "https://img.youtube.com/vi/dseMOUHzdng/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "hakos_baelz",
       "talentName": "Hakos Baelz",
       "groupId": "en_promise",
@@ -769,16 +779,6 @@
       "url": "https://www.youtube.com/watch?v=PBemDvS_Ueg",
       "thumbnail": "https://img.youtube.com/vi/PBemDvS_Ueg/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
-      "talentId": "cecilia_immergreen",
-      "talentName": "Cecilia Immergreen",
-      "groupId": "en_justice",
-      "startTime": "2026-01-24T17:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=dseMOUHzdng",
-      "thumbnail": "https://img.youtube.com/vi/dseMOUHzdng/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
