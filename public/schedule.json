@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-24T16:10:57.488Z",
+  "updatedAt": "2026-01-24T16:38:33.072Z",
   "streams": [
     {
       "talentId": "tokino_sora",
@@ -319,7 +319,7 @@
       "url": "https://www.youtube.com/watch?v=NNQTW7Ytc9w",
       "thumbnail": "https://img.youtube.com/vi/NNQTW7Ytc9w/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "shirogane_noel",
@@ -599,7 +599,7 @@
       "url": "https://www.youtube.com/watch?v=XQo_19VFEhE",
       "thumbnail": "https://img.youtube.com/vi/XQo_19VFEhE/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "gigi_murin",
