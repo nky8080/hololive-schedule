@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-24T10:35:36.100Z",
+  "updatedAt": "2026-01-24T10:51:27.375Z",
   "streams": [
     {
       "talentId": "yuzuki_choco",
@@ -452,26 +452,6 @@
       "isLive": true
     },
     {
-      "talentId": "azki",
-      "talentName": "AZKi",
-      "groupId": "gen0",
-      "startTime": "2026-01-24T20:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=WGhCQA7styw",
-      "thumbnail": "https://img.youtube.com/vi/WGhCQA7styw/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
-      "talentId": "shirogane_noel",
-      "talentName": "Shirogane Noel",
-      "groupId": "gen3",
-      "startTime": "2026-01-24T20:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=gIzTlhI9TpM",
-      "thumbnail": "https://img.youtube.com/vi/gIzTlhI9TpM/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
       "talentId": "tokino_sora",
       "talentName": "Tokino Sora",
       "groupId": "gen0",
@@ -489,6 +469,26 @@
       "url": "https://www.youtube.com/watch?v=QlMahC0HfPU",
       "thumbnail": "https://img.youtube.com/vi/QlMahC0HfPU/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "azki",
+      "talentName": "AZKi",
+      "groupId": "gen0",
+      "startTime": "2026-01-24T20:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=WGhCQA7styw",
+      "thumbnail": "https://img.youtube.com/vi/WGhCQA7styw/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "shirogane_noel",
+      "talentName": "Shirogane Noel",
+      "groupId": "gen3",
+      "startTime": "2026-01-24T20:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=gIzTlhI9TpM",
+      "thumbnail": "https://img.youtube.com/vi/gIzTlhI9TpM/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -865,7 +865,7 @@
       "talentId": "irys",
       "talentName": "IRyS",
       "groupId": "en_promise",
-      "startTime": "2026-01-24T20:00:00+09:00",
+      "startTime": "2026-01-24T20:30:00+09:00",
       "url": "https://www.youtube.com/watch?v=VZYURAON7bY",
       "thumbnail": "https://img.youtube.com/vi/VZYURAON7bY/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s88-c-k-c0x00ffffff-no-rj",
@@ -1055,11 +1055,11 @@
       "talentId": "pavolia_reine",
       "talentName": "Pavolia Reine",
       "groupId": "id_gen2",
-      "startTime": "2026-01-24T19:30:00+09:00",
+      "startTime": "2026-01-24T19:38:00+09:00",
       "url": "https://www.youtube.com/watch?v=-QfuQ8uuCFM",
       "thumbnail": "https://img.youtube.com/vi/-QfuQ8uuCFM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "airani_iofiteen",
@@ -1715,11 +1715,11 @@
       "talentId": "kikirara_vivi",
       "talentName": "Kikirara Vivi",
       "groupId": "flow_glow",
-      "startTime": "2026-01-24T19:30:00+09:00",
+      "startTime": "2026-01-24T19:36:00+09:00",
       "url": "https://www.youtube.com/watch?v=QJtri9x77s0",
       "thumbnail": "https://img.youtube.com/vi/QJtri9x77s0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "unknown",
