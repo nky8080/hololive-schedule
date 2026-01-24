@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-24T13:05:29.128Z",
+  "updatedAt": "2026-01-24T13:41:05.818Z",
   "streams": [
     {
       "talentId": "yuzuki_choco",
@@ -1092,6 +1092,16 @@
       "isLive": true
     },
     {
+      "talentId": "moona_hoshinova",
+      "talentName": "Moona Hoshinova",
+      "groupId": "id_gen1",
+      "startTime": "2026-01-24T22:19:00+09:00",
+      "url": "https://www.youtube.com/watch?v=DzNZYoT-C5w",
+      "thumbnail": "https://img.youtube.com/vi/DzNZYoT-C5w/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
+    },
+    {
       "talentId": "anya_melfissa",
       "talentName": "Anya Melfissa",
       "groupId": "id_gen2",
@@ -1229,7 +1239,7 @@
       "url": "https://www.youtube.com/watch?v=wakEUsOVrVM",
       "thumbnail": "https://img.youtube.com/vi/wakEUsOVrVM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -1245,11 +1255,11 @@
       "talentId": "unknown",
       "talentName": "アルランディス",
       "groupId": "holostars_jp",
-      "startTime": "2026-01-24T22:00:00+09:00",
+      "startTime": "2026-01-24T22:02:00+09:00",
       "url": "https://www.youtube.com/watch?v=vi5w5IoRtlM",
       "thumbnail": "https://img.youtube.com/vi/vi5w5IoRtlM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "unknown",
@@ -1479,6 +1489,16 @@
       "url": "https://www.youtube.com/watch?v=HrUQmEQx-aI",
       "thumbnail": "https://img.youtube.com/vi/HrUQmEQx-aI/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Jurard",
+      "groupId": "holostars_en",
+      "startTime": "2026-01-25T14:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=-ENtJ1Y3rjE",
+      "thumbnail": "https://img.youtube.com/vi/-ENtJ1Y3rjE/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/EA7rVsjrX8vvWUcCw-tEiLj4mrTZK3pvCdRmq07ylzGLBvMRL0FyU6rnMvk6-4umPUWJm8TeNg=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
