@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-24T10:51:27.375Z",
+  "updatedAt": "2026-01-24T11:08:30.602Z",
   "streams": [
     {
       "talentId": "yuzuki_choco",
@@ -455,31 +455,21 @@
       "talentId": "tokino_sora",
       "talentName": "Tokino Sora",
       "groupId": "gen0",
-      "startTime": "2026-01-24T20:00:00+09:00",
+      "startTime": "2026-01-24T19:49:00+09:00",
       "url": "https://www.youtube.com/watch?v=grviBm7ywek",
       "thumbnail": "https://img.youtube.com/vi/grviBm7ywek/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "roboco",
       "talentName": "Roboco san",
       "groupId": "gen0",
-      "startTime": "2026-01-24T20:00:00+09:00",
+      "startTime": "2026-01-24T19:58:00+09:00",
       "url": "https://www.youtube.com/watch?v=QlMahC0HfPU",
       "thumbnail": "https://img.youtube.com/vi/QlMahC0HfPU/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
-      "talentId": "azki",
-      "talentName": "AZKi",
-      "groupId": "gen0",
-      "startTime": "2026-01-24T20:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=WGhCQA7styw",
-      "thumbnail": "https://img.youtube.com/vi/WGhCQA7styw/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "shirogane_noel",
@@ -489,7 +479,17 @@
       "url": "https://www.youtube.com/watch?v=gIzTlhI9TpM",
       "thumbnail": "https://img.youtube.com/vi/gIzTlhI9TpM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
+    },
+    {
+      "talentId": "azki",
+      "talentName": "AZKi",
+      "groupId": "gen0",
+      "startTime": "2026-01-24T20:02:00+09:00",
+      "url": "https://www.youtube.com/watch?v=WGhCQA7styw",
+      "thumbnail": "https://img.youtube.com/vi/WGhCQA7styw/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
     },
     {
       "talentId": "hoshimachi_suisei",
@@ -865,7 +865,7 @@
       "talentId": "irys",
       "talentName": "IRyS",
       "groupId": "en_promise",
-      "startTime": "2026-01-24T20:30:00+09:00",
+      "startTime": "2026-01-24T20:00:00+09:00",
       "url": "https://www.youtube.com/watch?v=VZYURAON7bY",
       "thumbnail": "https://img.youtube.com/vi/VZYURAON7bY/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s88-c-k-c0x00ffffff-no-rj",
@@ -1029,7 +1029,7 @@
       "url": "https://www.youtube.com/watch?v=mC-GhYR1ggs",
       "thumbnail": "https://img.youtube.com/vi/mC-GhYR1ggs/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "ayunda_risu",
@@ -1060,6 +1060,16 @@
       "thumbnail": "https://img.youtube.com/vi/-QfuQ8uuCFM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s88-c-k-c0x00ffffff-no-rj",
       "isLive": true
+    },
+    {
+      "talentId": "kureiji_ollie",
+      "talentName": "Kureiji Ollie",
+      "groupId": "id_gen2",
+      "startTime": "2026-01-24T19:55:00+09:00",
+      "url": "https://www.youtube.com/watch?v=dLstJwQcQu8",
+      "thumbnail": "https://img.youtube.com/vi/dLstJwQcQu8/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
     },
     {
       "talentId": "airani_iofiteen",
