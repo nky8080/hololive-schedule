@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-25T11:27:58.681Z",
+  "updatedAt": "2026-01-25T11:37:41.495Z",
   "streams": [
     {
       "talentId": "tokino_sora",
@@ -1710,6 +1710,16 @@
       "thumbnail": "https://img.youtube.com/vi/liN71arWIkE/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": true
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "虎金妃笑虎",
+      "groupId": "dev_is",
+      "startTime": "2026-01-25T20:30:00+09:00",
+      "url": "https://www.youtube.com/watch?v=SOCnVOEqJOI",
+      "thumbnail": "https://img.youtube.com/vi/SOCnVOEqJOI/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/bEDo7y7rywqDZpSqS7StN3vxPg4YPEfh_faAf2CENKsk4L9SgrsU0UeClvH-nsPq1i5xNFM89Q=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
     },
     {
       "talentId": "otonose_kanade",
