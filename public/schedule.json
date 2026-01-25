@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-25T17:31:29.524Z",
+  "updatedAt": "2026-01-25T17:49:16.970Z",
   "streams": [
     {
       "talentId": "yuzuki_choco",
@@ -259,7 +259,7 @@
       "url": "https://www.youtube.com/watch?v=1Hf0O4Du6ss",
       "thumbnail": "https://img.youtube.com/vi/1Hf0O4Du6ss/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "kazama_iroha",
@@ -420,6 +420,16 @@
       "thumbnail": "https://img.youtube.com/vi/KaT3vd4ZEx0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s88-c-k-c0x00ffffff-no-rj",
       "isLive": true
+    },
+    {
+      "talentId": "elizabeth_rose_bloodflame",
+      "talentName": "Elizabeth Rose Bloodflame",
+      "groupId": "en_justice",
+      "startTime": "2026-01-26T04:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=qA2OJjsQ0YE",
+      "thumbnail": "https://img.youtube.com/vi/qA2OJjsQ0YE/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
     },
     {
       "talentId": "unknown",
