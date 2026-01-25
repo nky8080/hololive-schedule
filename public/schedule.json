@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-25T06:52:38.887Z",
+  "updatedAt": "2026-01-25T07:16:15.057Z",
   "streams": [
     {
       "talentId": "tokino_sora",
@@ -389,7 +389,7 @@
       "url": "https://www.youtube.com/watch?v=V_rsFsfbxzM",
       "thumbnail": "https://img.youtube.com/vi/V_rsFsfbxzM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "shishiro_botan",
@@ -1059,7 +1059,7 @@
       "url": "https://www.youtube.com/watch?v=PwsYNMVAces",
       "thumbnail": "https://img.youtube.com/vi/PwsYNMVAces/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -1469,6 +1469,16 @@
       "url": "https://www.youtube.com/watch?v=NPHphVyYleY",
       "thumbnail": "https://img.youtube.com/vi/NPHphVyYleY/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "ichijou_ririka",
+      "talentName": "Ichijou Ririka",
+      "groupId": "regloss",
+      "startTime": "2026-01-25T19:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=liN71arWIkE",
+      "thumbnail": "https://img.youtube.com/vi/liN71arWIkE/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
