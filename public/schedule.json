@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-25T08:13:39.226Z",
+  "updatedAt": "2026-01-25T08:42:43.159Z",
   "streams": [
     {
       "talentId": "tokino_sora",
@@ -349,7 +349,7 @@
       "url": "https://www.youtube.com/watch?v=GXn-bvlL0Gk",
       "thumbnail": "https://img.youtube.com/vi/GXn-bvlL0Gk/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "usada_pekora",
@@ -395,11 +395,11 @@
       "talentId": "ookami_mio",
       "talentName": "Ookami Mio",
       "groupId": "gamers",
-      "startTime": "2026-01-25T17:30:00+09:00",
+      "startTime": "2026-01-25T17:32:00+09:00",
       "url": "https://www.youtube.com/watch?v=7CHMbv1gi3Q",
       "thumbnail": "https://img.youtube.com/vi/7CHMbv1gi3Q/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "himemori_luna",
@@ -419,6 +419,16 @@
       "url": "https://www.youtube.com/watch?v=14ZwgfpXkCU",
       "thumbnail": "https://img.youtube.com/vi/14ZwgfpXkCU/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "hakui_koyori",
+      "talentName": "Hakui Koyori",
+      "groupId": "holoX",
+      "startTime": "2026-01-25T19:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=A_NYhOe8gT0",
+      "thumbnail": "https://img.youtube.com/vi/A_NYhOe8gT0/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -935,11 +945,11 @@
       "talentId": "ayunda_risu",
       "talentName": "Ayunda Risu",
       "groupId": "id_gen1",
-      "startTime": "2026-01-25T17:30:00+09:00",
+      "startTime": "2026-01-25T17:28:00+09:00",
       "url": "https://www.youtube.com/watch?v=kmqhMTHTbpc",
       "thumbnail": "https://img.youtube.com/vi/kmqhMTHTbpc/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "airani_iofiteen",
