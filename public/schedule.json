@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-25T15:48:59.776Z",
+  "updatedAt": "2026-01-25T16:11:42.025Z",
   "streams": [
     {
       "talentId": "yuzuki_choco",
@@ -269,7 +269,7 @@
       "url": "https://www.youtube.com/watch?v=xixYYhZHors",
       "thumbnail": "https://img.youtube.com/vi/xixYYhZHors/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "ookami_mio",
@@ -650,6 +650,16 @@
       "thumbnail": "https://img.youtube.com/vi/_YmG4TsNNe0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s88-c-k-c0x00ffffff-no-rj",
       "isLive": true
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "岸堂天真",
+      "groupId": "holostars_jp",
+      "startTime": "2026-01-26T07:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=a3QTiMZnj1A",
+      "thumbnail": "https://img.youtube.com/vi/a3QTiMZnj1A/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
     },
     {
       "talentId": "unknown",
