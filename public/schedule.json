@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-25T10:36:21.360Z",
+  "updatedAt": "2026-01-25T10:52:06.756Z",
   "streams": [
     {
       "talentId": "tokino_sora",
@@ -1690,6 +1690,16 @@
       "thumbnail": "https://img.youtube.com/vi/liN71arWIkE/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": true
+    },
+    {
+      "talentId": "otonose_kanade",
+      "talentName": "Otonose Kanade",
+      "groupId": "regloss",
+      "startTime": "2026-01-25T21:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=1Eh-MM26_Ok",
+      "thumbnail": "https://img.youtube.com/vi/1Eh-MM26_Ok/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
     },
     {
       "talentId": "mizumiya_su",
