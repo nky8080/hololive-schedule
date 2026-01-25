@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-25T10:52:06.756Z",
+  "updatedAt": "2026-01-25T11:08:12.554Z",
   "streams": [
     {
       "talentId": "tokino_sora",
@@ -99,6 +99,16 @@
       "url": "https://www.youtube.com/watch?v=4L-Ixbhkosw",
       "thumbnail": "https://img.youtube.com/vi/4L-Ixbhkosw/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "shirakami_fubuki",
+      "talentName": "Shirakami Fubuki",
+      "groupId": "gen1",
+      "startTime": "2026-01-24T16:49:00+09:00",
+      "url": "https://www.youtube.com/watch?v=n9gxMQ8VSxM",
+      "thumbnail": "https://img.youtube.com/vi/n9gxMQ8VSxM/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -485,21 +495,21 @@
       "talentId": "shirakami_fubuki",
       "talentName": "Shirakami Fubuki",
       "groupId": "gen1",
-      "startTime": "2026-01-25T20:00:00+09:00",
+      "startTime": "2026-01-25T20:02:00+09:00",
       "url": "https://www.youtube.com/watch?v=r9b8XlkzZQI",
       "thumbnail": "https://img.youtube.com/vi/r9b8XlkzZQI/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "nekomata_okayu",
       "talentName": "Nekomata Okayu",
       "groupId": "gamers",
-      "startTime": "2026-01-25T20:00:00+09:00",
+      "startTime": "2026-01-25T20:03:00+09:00",
       "url": "https://www.youtube.com/watch?v=X7zsuwCLQn4",
       "thumbnail": "https://img.youtube.com/vi/X7zsuwCLQn4/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "shiranui_flare",
@@ -1019,7 +1029,7 @@
       "url": "https://www.youtube.com/watch?v=kmqhMTHTbpc",
       "thumbnail": "https://img.youtube.com/vi/kmqhMTHTbpc/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "airani_iofiteen",
