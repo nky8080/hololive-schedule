@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-25T06:17:33.744Z",
+  "updatedAt": "2026-01-25T06:52:38.887Z",
   "streams": [
     {
       "talentId": "tokino_sora",
@@ -1029,7 +1029,7 @@
       "url": "https://www.youtube.com/watch?v=zpJAr67jVRk",
       "thumbnail": "https://img.youtube.com/vi/zpJAr67jVRk/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -1073,6 +1073,16 @@
     },
     {
       "talentId": "unknown",
+      "talentName": "アルランディス",
+      "groupId": "holostars_jp",
+      "startTime": "2026-01-25T16:15:00+09:00",
+      "url": "https://www.youtube.com/watch?v=G8U01ZtVKw0",
+      "thumbnail": "https://img.youtube.com/vi/G8U01ZtVKw0/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
       "talentName": "羽継烏有",
       "groupId": "holostars_jp",
       "startTime": "2026-01-25T21:00:00+09:00",
@@ -1089,6 +1099,16 @@
       "url": "https://www.youtube.com/watch?v=w9whFOAuHeo",
       "thumbnail": "https://img.youtube.com/vi/w9whFOAuHeo/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "アステル・レダ",
+      "groupId": "holostars_jp",
+      "startTime": "2026-01-26T00:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=_YmG4TsNNe0",
+      "thumbnail": "https://img.youtube.com/vi/_YmG4TsNNe0/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
