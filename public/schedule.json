@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-25T14:09:33.847Z",
+  "updatedAt": "2026-01-25T14:33:09.813Z",
   "streams": [
     {
       "talentId": "tokino_sora",
@@ -499,7 +499,7 @@
       "url": "https://www.youtube.com/watch?v=r9b8XlkzZQI",
       "thumbnail": "https://img.youtube.com/vi/r9b8XlkzZQI/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "nekomata_okayu",
@@ -509,7 +509,7 @@
       "url": "https://www.youtube.com/watch?v=X7zsuwCLQn4",
       "thumbnail": "https://img.youtube.com/vi/X7zsuwCLQn4/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "oozora_subaru",
@@ -1279,7 +1279,7 @@
       "url": "https://www.youtube.com/watch?v=M7PqHhT61ws",
       "thumbnail": "https://img.youtube.com/vi/M7PqHhT61ws/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -1299,7 +1299,7 @@
       "url": "https://www.youtube.com/watch?v=8D9Z0qOigZw",
       "thumbnail": "https://img.youtube.com/vi/8D9Z0qOigZw/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -1309,7 +1309,7 @@
       "url": "https://www.youtube.com/watch?v=L7Fz-YfqmvY",
       "thumbnail": "https://img.youtube.com/vi/L7Fz-YfqmvY/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
