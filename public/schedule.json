@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-25T18:46:40.604Z",
+  "updatedAt": "2026-01-25T19:08:52.347Z",
   "streams": [
     {
       "talentId": "yuzuki_choco",
@@ -425,11 +425,11 @@
       "talentId": "elizabeth_rose_bloodflame",
       "talentName": "Elizabeth Rose Bloodflame",
       "groupId": "en_justice",
-      "startTime": "2026-01-26T04:00:00+09:00",
+      "startTime": "2026-01-26T04:03:00+09:00",
       "url": "https://www.youtube.com/watch?v=qA2OJjsQ0YE",
       "thumbnail": "https://img.youtube.com/vi/qA2OJjsQ0YE/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "unknown",
