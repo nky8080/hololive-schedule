@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-25T10:10:27.749Z",
+  "updatedAt": "2026-01-25T10:36:21.360Z",
   "streams": [
     {
       "talentId": "tokino_sora",
@@ -1449,7 +1449,7 @@
       "url": "https://www.youtube.com/watch?v=-ENtJ1Y3rjE",
       "thumbnail": "https://img.youtube.com/vi/-ENtJ1Y3rjE/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/EA7rVsjrX8vvWUcCw-tEiLj4mrTZK3pvCdRmq07ylzGLBvMRL0FyU6rnMvk6-4umPUWJm8TeNg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "mizumiya_su",
