@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-25T14:33:09.813Z",
+  "updatedAt": "2026-01-25T14:50:45.839Z",
   "streams": [
     {
       "talentId": "tokino_sora",
@@ -575,11 +575,11 @@
       "talentId": "tokino_sora",
       "talentName": "Tokino Sora",
       "groupId": "gen0",
-      "startTime": "2026-01-25T23:30:00+09:00",
+      "startTime": "2026-01-25T23:32:00+09:00",
       "url": "https://www.youtube.com/watch?v=1Hf0O4Du6ss",
       "thumbnail": "https://img.youtube.com/vi/1Hf0O4Du6ss/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "kazama_iroha",
@@ -915,7 +915,7 @@
       "talentId": "takanashi_kiara",
       "talentName": "Takanashi Kiara",
       "groupId": "en_myth",
-      "startTime": "2026-01-26T00:00:00+09:00",
+      "startTime": "2026-01-26T00:30:00+09:00",
       "url": "https://www.youtube.com/watch?v=KaT3vd4ZEx0",
       "thumbnail": "https://img.youtube.com/vi/KaT3vd4ZEx0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s88-c-k-c0x00ffffff-no-rj",
@@ -1319,6 +1319,16 @@
       "url": "https://www.youtube.com/watch?v=w9whFOAuHeo",
       "thumbnail": "https://img.youtube.com/vi/w9whFOAuHeo/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "奏手イヅル",
+      "groupId": "holostars_jp",
+      "startTime": "2026-01-25T23:45:00+09:00",
+      "url": "https://www.youtube.com/watch?v=rGnjuCxuPZI",
+      "thumbnail": "https://img.youtube.com/vi/rGnjuCxuPZI/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": true
     },
     {
