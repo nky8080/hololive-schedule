@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-25T21:48:45.632Z",
+  "updatedAt": "2026-01-25T22:09:43.191Z",
   "streams": [
     {
       "talentId": "yuzuki_choco",
@@ -292,6 +292,16 @@
       "isLive": false
     },
     {
+      "talentId": "himemori_luna",
+      "talentName": "Himemori Luna",
+      "groupId": "gen4",
+      "startTime": "2026-01-26T19:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=ZRT4ZyKK7fc",
+      "thumbnail": "https://img.youtube.com/vi/ZRT4ZyKK7fc/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "hakui_koyori",
       "talentName": "Hakui Koyori",
       "groupId": "holoX",
@@ -302,13 +312,13 @@
       "isLive": false
     },
     {
-      "talentId": "himemori_luna",
-      "talentName": "Himemori Luna",
+      "talentId": "tsunomaki_watame",
+      "talentName": "Tsunomaki Watame",
       "groupId": "gen4",
-      "startTime": "2026-01-26T19:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=ZRT4ZyKK7fc",
-      "thumbnail": "https://img.youtube.com/vi/ZRT4ZyKK7fc/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s88-c-k-c0x00ffffff-no-rj",
+      "startTime": "2026-01-26T20:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=dJB1-7YYKLA",
+      "thumbnail": "https://img.youtube.com/vi/dJB1-7YYKLA/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -675,11 +685,11 @@
       "talentId": "unknown",
       "talentName": "岸堂天真",
       "groupId": "holostars_jp",
-      "startTime": "2026-01-26T07:00:00+09:00",
+      "startTime": "2026-01-26T07:02:00+09:00",
       "url": "https://www.youtube.com/watch?v=a3QTiMZnj1A",
       "thumbnail": "https://img.youtube.com/vi/a3QTiMZnj1A/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "unknown",
@@ -699,6 +709,16 @@
       "url": "https://www.youtube.com/watch?v=r6PZo_JobZQ",
       "thumbnail": "https://img.youtube.com/vi/r6PZo_JobZQ/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "羽継烏有",
+      "groupId": "holostars_jp",
+      "startTime": "2026-01-26T18:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=rybVE2sZz8A",
+      "thumbnail": "https://img.youtube.com/vi/rybVE2sZz8A/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -825,11 +845,11 @@
       "talentId": "unknown",
       "talentName": "Bettel",
       "groupId": "holostars_en",
-      "startTime": "2026-01-26T07:00:00+09:00",
+      "startTime": "2026-01-26T07:04:00+09:00",
       "url": "https://www.youtube.com/watch?v=i5J_Z2g1PXg",
       "thumbnail": "https://img.youtube.com/vi/i5J_Z2g1PXg/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/kv71-xuB9kzbU7Bi4qsmkRXHc3wAgEU4rhllRnmGH4H23T825BKdGqEAcagTSE9r8BdsnG4lqQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "unknown",
