@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-25T11:08:12.554Z",
+  "updatedAt": "2026-01-25T11:27:58.681Z",
   "streams": [
     {
       "talentId": "tokino_sora",
@@ -379,7 +379,7 @@
       "url": "https://www.youtube.com/watch?v=KCqhUYZZZmU",
       "thumbnail": "https://img.youtube.com/vi/KCqhUYZZZmU/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "kazama_iroha",
@@ -389,7 +389,7 @@
       "url": "https://www.youtube.com/watch?v=XO_GoBe800E",
       "thumbnail": "https://img.youtube.com/vi/XO_GoBe800E/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "omaru_polka",
@@ -509,6 +509,16 @@
       "url": "https://www.youtube.com/watch?v=X7zsuwCLQn4",
       "thumbnail": "https://img.youtube.com/vi/X7zsuwCLQn4/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
+    },
+    {
+      "talentId": "oozora_subaru",
+      "talentName": "Oozora Subaru",
+      "groupId": "gen2",
+      "startTime": "2026-01-25T20:10:00+09:00",
+      "url": "https://www.youtube.com/watch?v=iaw9dcP7D2g",
+      "thumbnail": "https://img.youtube.com/vi/iaw9dcP7D2g/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s88-c-k-c0x00ffffff-no-rj",
       "isLive": true
     },
     {
