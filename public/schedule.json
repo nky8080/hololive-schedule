@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-25T09:49:49.682Z",
+  "updatedAt": "2026-01-25T10:10:27.749Z",
   "streams": [
     {
       "talentId": "tokino_sora",
@@ -479,6 +479,16 @@
       "url": "https://www.youtube.com/watch?v=A_NYhOe8gT0",
       "thumbnail": "https://img.youtube.com/vi/A_NYhOe8gT0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
+    },
+    {
+      "talentId": "shirakami_fubuki",
+      "talentName": "Shirakami Fubuki",
+      "groupId": "gen1",
+      "startTime": "2026-01-25T20:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=r9b8XlkzZQI",
+      "thumbnail": "https://img.youtube.com/vi/r9b8XlkzZQI/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -492,13 +502,13 @@
       "isLive": false
     },
     {
-      "talentId": "shirakami_fubuki",
-      "talentName": "Shirakami Fubuki",
-      "groupId": "gen1",
-      "startTime": "2026-01-25T20:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=r9b8XlkzZQI",
-      "thumbnail": "https://img.youtube.com/vi/r9b8XlkzZQI/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s88-c-k-c0x00ffffff-no-rj",
+      "talentId": "shiranui_flare",
+      "talentName": "Shiranui Flare",
+      "groupId": "gen3",
+      "startTime": "2026-01-25T21:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=diLXbmEInOw",
+      "thumbnail": "https://img.youtube.com/vi/diLXbmEInOw/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -1015,11 +1025,11 @@
       "talentId": "airani_iofiteen",
       "talentName": "Airani Iofifteen",
       "groupId": "id_gen1",
-      "startTime": "2026-01-25T19:00:00+09:00",
+      "startTime": "2026-01-25T19:01:00+09:00",
       "url": "https://www.youtube.com/watch?v=yvxoANDQJ_Q",
       "thumbnail": "https://img.youtube.com/vi/yvxoANDQJ_Q/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "ayunda_risu",
@@ -1675,11 +1685,11 @@
       "talentId": "ichijou_ririka",
       "talentName": "Ichijou Ririka",
       "groupId": "regloss",
-      "startTime": "2026-01-25T19:00:00+09:00",
+      "startTime": "2026-01-25T19:02:00+09:00",
       "url": "https://www.youtube.com/watch?v=liN71arWIkE",
       "thumbnail": "https://img.youtube.com/vi/liN71arWIkE/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "mizumiya_su",
