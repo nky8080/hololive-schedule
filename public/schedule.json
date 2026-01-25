@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-25T13:53:41.351Z",
+  "updatedAt": "2026-01-25T14:09:33.847Z",
   "streams": [
     {
       "talentId": "tokino_sora",
@@ -552,13 +552,33 @@
       "isLive": true
     },
     {
+      "talentId": "roboco",
+      "talentName": "Roboco san",
+      "groupId": "gen0",
+      "startTime": "2026-01-25T23:01:00+09:00",
+      "url": "https://www.youtube.com/watch?v=HBfrEdVqSW4",
+      "thumbnail": "https://img.youtube.com/vi/HBfrEdVqSW4/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
+    },
+    {
       "talentId": "yuzuki_choco",
       "talentName": "Yuzuki Choco",
       "groupId": "gen2",
-      "startTime": "2026-01-25T23:00:00+09:00",
+      "startTime": "2026-01-25T23:04:00+09:00",
       "url": "https://www.youtube.com/watch?v=L4jzcG97sbg",
       "thumbnail": "https://img.youtube.com/vi/L4jzcG97sbg/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
+    },
+    {
+      "talentId": "tokino_sora",
+      "talentName": "Tokino Sora",
+      "groupId": "gen0",
+      "startTime": "2026-01-25T23:30:00+09:00",
+      "url": "https://www.youtube.com/watch?v=1Hf0O4Du6ss",
+      "thumbnail": "https://img.youtube.com/vi/1Hf0O4Du6ss/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -1105,11 +1125,11 @@
       "talentId": "airani_iofiteen",
       "talentName": "Airani Iofifteen",
       "groupId": "id_gen1",
-      "startTime": "2026-01-25T23:00:00+09:00",
+      "startTime": "2026-01-25T23:01:00+09:00",
       "url": "https://www.youtube.com/watch?v=rY94jI0CLkc",
       "thumbnail": "https://img.youtube.com/vi/rY94jI0CLkc/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "ayunda_risu",
