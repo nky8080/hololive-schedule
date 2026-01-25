@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-25T15:31:59.752Z",
+  "updatedAt": "2026-01-25T15:48:59.776Z",
   "streams": [
     {
       "talentId": "yuzuki_choco",
@@ -239,7 +239,7 @@
       "url": "https://www.youtube.com/watch?v=HBfrEdVqSW4",
       "thumbnail": "https://img.youtube.com/vi/HBfrEdVqSW4/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "yuzuki_choco",
@@ -269,7 +269,7 @@
       "url": "https://www.youtube.com/watch?v=xixYYhZHors",
       "thumbnail": "https://img.youtube.com/vi/xixYYhZHors/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "ookami_mio",
@@ -415,11 +415,11 @@
       "talentId": "takanashi_kiara",
       "talentName": "Takanashi Kiara",
       "groupId": "en_myth",
-      "startTime": "2026-01-26T00:30:00+09:00",
+      "startTime": "2026-01-26T00:31:00+09:00",
       "url": "https://www.youtube.com/watch?v=KaT3vd4ZEx0",
       "thumbnail": "https://img.youtube.com/vi/KaT3vd4ZEx0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "unknown",
@@ -629,7 +629,7 @@
       "url": "https://www.youtube.com/watch?v=w9whFOAuHeo",
       "thumbnail": "https://img.youtube.com/vi/w9whFOAuHeo/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -793,6 +793,16 @@
     },
     {
       "talentId": "unknown",
+      "talentName": "Jurard",
+      "groupId": "holostars_en",
+      "startTime": "2026-01-26T15:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=R3X2zFvzmjI",
+      "thumbnail": "https://img.youtube.com/vi/R3X2zFvzmjI/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/EA7rVsjrX8vvWUcCw-tEiLj4mrTZK3pvCdRmq07ylzGLBvMRL0FyU6rnMvk6-4umPUWJm8TeNg=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
       "talentName": "輪堂千速",
       "groupId": "dev_is",
       "startTime": "2026-01-25T12:00:00+09:00",
@@ -909,7 +919,7 @@
       "url": "https://www.youtube.com/watch?v=1Eh-MM26_Ok",
       "thumbnail": "https://img.youtube.com/vi/1Eh-MM26_Ok/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "mizumiya_su",
