@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-26T18:18:23.149Z",
+  "updatedAt": "2026-01-26T18:57:26.965Z",
   "streams": [
     {
       "talentId": "kazama_iroha",
@@ -209,7 +209,7 @@
       "url": "https://www.youtube.com/watch?v=A1eKiRkcg4M",
       "thumbnail": "https://img.youtube.com/vi/A1eKiRkcg4M/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "hakui_koyori",
@@ -329,16 +329,6 @@
       "url": "https://www.youtube.com/watch?v=Jvcq3GPnPdU",
       "thumbnail": "https://img.youtube.com/vi/Jvcq3GPnPdU/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
-      "talentId": "takanashi_kiara",
-      "talentName": "Takanashi Kiara",
-      "groupId": "en_myth",
-      "startTime": "2026-01-27T03:15:00+09:00",
-      "url": "https://www.youtube.com/watch?v=asVSKUV52wE",
-      "thumbnail": "https://img.youtube.com/vi/asVSKUV52wE/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
