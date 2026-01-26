@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-26T16:18:21.612Z",
+  "updatedAt": "2026-01-26T16:57:36.004Z",
   "streams": [
     {
       "talentId": "kazama_iroha",
@@ -119,7 +119,7 @@
       "url": "https://www.youtube.com/watch?v=yhXTR-0Ej2Y",
       "thumbnail": "https://img.youtube.com/vi/yhXTR-0Ej2Y/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "tsunomaki_watame",
@@ -199,7 +199,7 @@
       "url": "https://www.youtube.com/watch?v=ufWbX5JYKwg",
       "thumbnail": "https://img.youtube.com/vi/ufWbX5JYKwg/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "hakui_koyori",
@@ -469,7 +469,7 @@
       "url": "https://www.youtube.com/watch?v=eL1aFhi4lrk",
       "thumbnail": "https://img.youtube.com/vi/eL1aFhi4lrk/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -589,7 +589,7 @@
       "url": "https://www.youtube.com/watch?v=R3X2zFvzmjI",
       "thumbnail": "https://img.youtube.com/vi/R3X2zFvzmjI/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/EA7rVsjrX8vvWUcCw-tEiLj4mrTZK3pvCdRmq07ylzGLBvMRL0FyU6rnMvk6-4umPUWJm8TeNg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
