@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-26T06:20:52.621Z",
+  "updatedAt": "2026-01-26T06:59:07.185Z",
   "streams": [
     {
       "talentId": "yuzuki_choco",
@@ -519,6 +519,16 @@
       "url": "https://www.youtube.com/watch?v=ZiAZ_ThG3Fc",
       "thumbnail": "https://img.youtube.com/vi/ZiAZ_ThG3Fc/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/RhkoXVesjeO80YBwpSvFz_WtaEptXbXLZ0JncX9zzI4q9eYzlgOnNapKkFd5mzjj1kVTUHytJA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "mori_calliope",
+      "talentName": "Mori Calliope",
+      "groupId": "en_myth",
+      "startTime": "2026-01-26T15:54:00+09:00",
+      "url": "https://www.youtube.com/watch?v=e7Pa5KUb6Ks",
+      "thumbnail": "https://img.youtube.com/vi/e7Pa5KUb6Ks/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
