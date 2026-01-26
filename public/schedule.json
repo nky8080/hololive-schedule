@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-26T19:52:35.913Z",
+  "updatedAt": "2026-01-26T20:13:00.474Z",
   "streams": [
     {
       "talentId": "kazama_iroha",
@@ -649,6 +649,16 @@
       "url": "https://www.youtube.com/watch?v=1X-Pdf5Ypgg",
       "thumbnail": "https://img.youtube.com/vi/1X-Pdf5Ypgg/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/12Y9I0cP0EqJe4Wpkm19p_MythjFqYcMZRC3vN4bYPSzE9ANTIFXOhZdfP1TQpAi4Thw741twyg=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Octavio",
+      "groupId": "holostars_en",
+      "startTime": "2026-01-27T09:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=ZreCctGxUXE",
+      "thumbnail": "https://img.youtube.com/vi/ZreCctGxUXE/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
