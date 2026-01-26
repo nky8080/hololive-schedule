@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-26T04:23:09.411Z",
+  "updatedAt": "2026-01-26T05:07:12.082Z",
   "streams": [
     {
       "talentId": "yuzuki_choco",
@@ -759,7 +759,7 @@
       "url": "https://www.youtube.com/watch?v=NvN9QtKCXlE",
       "thumbnail": "https://img.youtube.com/vi/NvN9QtKCXlE/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
