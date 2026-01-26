@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-26T09:53:00.980Z",
+  "updatedAt": "2026-01-26T10:15:30.408Z",
   "streams": [
     {
       "talentId": "yuzuki_choco",
@@ -355,21 +355,31 @@
       "talentId": "himemori_luna",
       "talentName": "Himemori Luna",
       "groupId": "gen4",
-      "startTime": "2026-01-26T19:00:00+09:00",
+      "startTime": "2026-01-26T18:57:00+09:00",
       "url": "https://www.youtube.com/watch?v=ZRT4ZyKK7fc",
       "thumbnail": "https://img.youtube.com/vi/ZRT4ZyKK7fc/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "ホロライブ",
+      "groupId": "hololive_jp",
+      "startTime": "2026-01-26T19:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=3-RjC4M1Jbw",
+      "thumbnail": "https://img.youtube.com/vi/3-RjC4M1Jbw/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
       "talentId": "hakui_koyori",
       "talentName": "Hakui Koyori",
       "groupId": "holoX",
-      "startTime": "2026-01-26T19:00:00+09:00",
+      "startTime": "2026-01-26T19:01:00+09:00",
       "url": "https://www.youtube.com/watch?v=yhXTR-0Ej2Y",
       "thumbnail": "https://img.youtube.com/vi/yhXTR-0Ej2Y/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "tsunomaki_watame",
@@ -875,11 +885,11 @@
       "talentId": "unknown",
       "talentName": "アルランディス",
       "groupId": "holostars_jp",
-      "startTime": "2026-01-26T19:00:00+09:00",
+      "startTime": "2026-01-26T19:01:00+09:00",
       "url": "https://www.youtube.com/watch?v=--swbALKJGk",
       "thumbnail": "https://img.youtube.com/vi/--swbALKJGk/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "unknown",
