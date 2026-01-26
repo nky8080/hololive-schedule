@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-26T15:17:43.318Z",
+  "updatedAt": "2026-01-26T15:49:34.379Z",
   "streams": [
     {
       "talentId": "kazama_iroha",
@@ -159,7 +159,7 @@
       "url": "https://www.youtube.com/watch?v=YmSE5EPbcug",
       "thumbnail": "https://img.youtube.com/vi/YmSE5EPbcug/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "omaru_polka",
@@ -449,7 +449,7 @@
       "url": "https://www.youtube.com/watch?v=Fv7Q5aLsPXk",
       "thumbnail": "https://img.youtube.com/vi/Fv7Q5aLsPXk/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -479,7 +479,7 @@
       "url": "https://www.youtube.com/watch?v=WCoonovJCOI",
       "thumbnail": "https://img.youtube.com/vi/WCoonovJCOI/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -720,6 +720,16 @@
       "thumbnail": "https://img.youtube.com/vi/FZTp5LrH2kM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s88-c-k-c0x00ffffff-no-rj",
       "isLive": true
+    },
+    {
+      "talentId": "todoroki_hajime",
+      "talentName": "Todoroki Hajime",
+      "groupId": "regloss",
+      "startTime": "2026-01-27T18:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=5YUTmK5l_04",
+      "thumbnail": "https://img.youtube.com/vi/5YUTmK5l_04/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
     },
     {
       "talentId": "unknown",
