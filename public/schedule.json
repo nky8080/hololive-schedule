@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-26T19:19:16.542Z",
+  "updatedAt": "2026-01-26T19:42:08.685Z",
   "streams": [
     {
       "talentId": "kazama_iroha",
@@ -219,6 +219,16 @@
       "url": "https://www.youtube.com/watch?v=ksO_9gZ2rmQ",
       "thumbnail": "https://img.youtube.com/vi/ksO_9gZ2rmQ/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "nekomata_okayu",
+      "talentName": "Nekomata Okayu",
+      "groupId": "gamers",
+      "startTime": "2026-01-27T18:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=s7PUbFaZ2BU",
+      "thumbnail": "https://img.youtube.com/vi/s7PUbFaZ2BU/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
