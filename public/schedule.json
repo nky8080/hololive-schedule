@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-26T10:15:30.408Z",
+  "updatedAt": "2026-01-26T10:49:40.905Z",
   "streams": [
     {
       "talentId": "yuzuki_choco",
@@ -309,7 +309,7 @@
       "url": "https://www.youtube.com/watch?v=RWI6YD-i3oo",
       "thumbnail": "https://img.youtube.com/vi/RWI6YD-i3oo/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "shishiro_botan",
@@ -1329,6 +1329,16 @@
       "url": "https://www.youtube.com/watch?v=W5sQTD6OXi0",
       "thumbnail": "https://img.youtube.com/vi/W5sQTD6OXi0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "虎金妃笑虎",
+      "groupId": "dev_is",
+      "startTime": "2026-01-26T19:35:00+09:00",
+      "url": "https://www.youtube.com/watch?v=sN6GtF4zGH8",
+      "thumbnail": "https://img.youtube.com/vi/sN6GtF4zGH8/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/bEDo7y7rywqDZpSqS7StN3vxPg4YPEfh_faAf2CENKsk4L9SgrsU0UeClvH-nsPq1i5xNFM89Q=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
