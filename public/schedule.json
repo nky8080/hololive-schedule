@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-26T22:53:49.845Z",
+  "updatedAt": "2026-01-26T23:11:14.889Z",
   "streams": [
     {
       "talentId": "kazama_iroha",
@@ -239,7 +239,7 @@
       "url": "https://www.youtube.com/watch?v=srP7qWXQrIg",
       "thumbnail": "https://img.youtube.com/vi/srP7qWXQrIg/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "nekomata_okayu",
