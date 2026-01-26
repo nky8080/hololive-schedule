@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-26T11:50:11.618Z",
+  "updatedAt": "2026-01-26T12:21:46.384Z",
   "streams": [
     {
       "talentId": "yuzuki_choco",
@@ -395,11 +395,11 @@
       "talentId": "la_plus",
       "talentName": "La+ Darknesss",
       "groupId": "holoX",
-      "startTime": "2026-01-26T21:00:00+09:00",
+      "startTime": "2026-01-26T20:57:00+09:00",
       "url": "https://www.youtube.com/watch?v=7Yu1A-M5SIc",
       "thumbnail": "https://img.youtube.com/vi/7Yu1A-M5SIc/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/6Y5lj4DhikLBo0UqIZ1dT3-D3aYXVPbxUgNTyYiyE_Se8AVxkGAn05D3oc1y3whpzDu-CzEQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "usada_pekora",
@@ -725,10 +725,20 @@
       "talentId": "unknown",
       "talentName": "holo ID",
       "groupId": "hololive_id",
-      "startTime": "2026-01-26T21:00:00+09:00",
+      "startTime": "2026-01-26T20:59:00+09:00",
       "url": "https://www.youtube.com/watch?v=lzCJ46SvMlQ",
       "thumbnail": "https://img.youtube.com/vi/lzCJ46SvMlQ/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_nqRoQYVOioAVLFHDrRP_y8Ri4zAUoq3kxEdHrQQLyrp44=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
+    },
+    {
+      "talentId": "ayunda_risu",
+      "talentName": "Ayunda Risu",
+      "groupId": "id_gen1",
+      "startTime": "2026-01-26T21:30:00+09:00",
+      "url": "https://www.youtube.com/watch?v=-aRnzL84gzw",
+      "thumbnail": "https://img.youtube.com/vi/-aRnzL84gzw/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -883,23 +893,13 @@
     },
     {
       "talentId": "unknown",
-      "talentName": "夕刻ロベル",
-      "groupId": "holostars_jp",
-      "startTime": "2026-01-26T18:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=r6PZo_JobZQ",
-      "thumbnail": "https://img.youtube.com/vi/r6PZo_JobZQ/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
-      "talentId": "unknown",
       "talentName": "羽継烏有",
       "groupId": "holostars_jp",
       "startTime": "2026-01-26T18:03:00+09:00",
       "url": "https://www.youtube.com/watch?v=rybVE2sZz8A",
       "thumbnail": "https://img.youtube.com/vi/rybVE2sZz8A/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
