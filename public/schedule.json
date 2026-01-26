@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-26T10:49:40.905Z",
+  "updatedAt": "2026-01-26T11:12:56.435Z",
   "streams": [
     {
       "talentId": "yuzuki_choco",
@@ -389,7 +389,7 @@
       "url": "https://www.youtube.com/watch?v=dJB1-7YYKLA",
       "thumbnail": "https://img.youtube.com/vi/dJB1-7YYKLA/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "la_plus",
@@ -399,6 +399,16 @@
       "url": "https://www.youtube.com/watch?v=7Yu1A-M5SIc",
       "thumbnail": "https://img.youtube.com/vi/7Yu1A-M5SIc/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/6Y5lj4DhikLBo0UqIZ1dT3-D3aYXVPbxUgNTyYiyE_Se8AVxkGAn05D3oc1y3whpzDu-CzEQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "usada_pekora",
+      "talentName": "Usada Pekora",
+      "groupId": "gen3",
+      "startTime": "2026-01-26T22:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=YmSE5EPbcug",
+      "thumbnail": "https://img.youtube.com/vi/YmSE5EPbcug/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -705,11 +715,11 @@
       "talentId": "vestia_zeta",
       "talentName": "Vestia Zeta",
       "groupId": "id_gen3",
-      "startTime": "2026-01-26T20:00:00+09:00",
+      "startTime": "2026-01-26T20:02:00+09:00",
       "url": "https://www.youtube.com/watch?v=NXtytx5eWN8",
       "thumbnail": "https://img.youtube.com/vi/NXtytx5eWN8/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "unknown",
@@ -719,6 +729,16 @@
       "url": "https://www.youtube.com/watch?v=lzCJ46SvMlQ",
       "thumbnail": "https://img.youtube.com/vi/lzCJ46SvMlQ/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_nqRoQYVOioAVLFHDrRP_y8Ri4zAUoq3kxEdHrQQLyrp44=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "pavolia_reine",
+      "talentName": "Pavolia Reine",
+      "groupId": "id_gen2",
+      "startTime": "2026-01-26T22:30:00+09:00",
+      "url": "https://www.youtube.com/watch?v=s3i7PrNLGLY",
+      "thumbnail": "https://img.youtube.com/vi/s3i7PrNLGLY/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
