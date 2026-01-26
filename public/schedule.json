@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-26T15:49:34.379Z",
+  "updatedAt": "2026-01-26T16:18:21.612Z",
   "streams": [
     {
       "talentId": "kazama_iroha",
@@ -613,6 +613,16 @@
     },
     {
       "talentId": "unknown",
+      "talentName": "Shinri",
+      "groupId": "holostars_en",
+      "startTime": "2026-01-27T10:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=i9-PQtTvwbI",
+      "thumbnail": "https://img.youtube.com/vi/i9-PQtTvwbI/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/GkDmDWOfKfFkcVmG3-ECCRMeFR4bXlWBvuGO3xu3Ud68kVTWssXpn5q266BmtXvcHuzc5Ib2iFQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
       "talentName": "輪堂千速",
       "groupId": "dev_is",
       "startTime": "2026-01-26T16:30:00+09:00",
@@ -709,7 +719,7 @@
       "url": "https://www.youtube.com/watch?v=zbskCEyCdQM",
       "thumbnail": "https://img.youtube.com/vi/zbskCEyCdQM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "juufuutei_raden",
