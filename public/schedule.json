@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-26T23:11:14.889Z",
+  "updatedAt": "2026-01-26T23:34:24.574Z",
   "streams": [
     {
       "talentId": "kazama_iroha",
@@ -229,7 +229,7 @@
       "url": "https://www.youtube.com/watch?v=ksO_9gZ2rmQ",
       "thumbnail": "https://img.youtube.com/vi/ksO_9gZ2rmQ/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "omaru_polka",
