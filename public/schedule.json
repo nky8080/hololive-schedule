@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-26T17:50:42.160Z",
+  "updatedAt": "2026-01-26T18:18:23.149Z",
   "streams": [
     {
       "talentId": "kazama_iroha",
@@ -429,7 +429,7 @@
       "url": "https://www.youtube.com/watch?v=Nlk9lLzFV_M",
       "thumbnail": "https://img.youtube.com/vi/Nlk9lLzFV_M/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -649,7 +649,7 @@
       "url": "https://www.youtube.com/watch?v=1X-Pdf5Ypgg",
       "thumbnail": "https://img.youtube.com/vi/1X-Pdf5Ypgg/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/12Y9I0cP0EqJe4Wpkm19p_MythjFqYcMZRC3vN4bYPSzE9ANTIFXOhZdfP1TQpAi4Thw741twyg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
