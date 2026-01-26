@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-26T03:07:07.914Z",
+  "updatedAt": "2026-01-26T04:23:09.411Z",
   "streams": [
     {
       "talentId": "yuzuki_choco",
@@ -292,6 +292,16 @@
       "isLive": false
     },
     {
+      "talentId": "unknown",
+      "talentName": "ホロライブ",
+      "groupId": "hololive_jp",
+      "startTime": "2026-01-26T18:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=N7Ese188mcE",
+      "thumbnail": "https://img.youtube.com/vi/N7Ese188mcE/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "himemori_luna",
       "talentName": "Himemori Luna",
       "groupId": "gen4",
@@ -489,7 +499,17 @@
       "url": "https://www.youtube.com/watch?v=ZiAZ_ThG3Fc",
       "thumbnail": "https://img.youtube.com/vi/ZiAZ_ThG3Fc/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/RhkoXVesjeO80YBwpSvFz_WtaEptXbXLZ0JncX9zzI4q9eYzlgOnNapKkFd5mzjj1kVTUHytJA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
+    },
+    {
+      "talentId": "shiori_novella",
+      "talentName": "Shiori Novella",
+      "groupId": "en_advent",
+      "startTime": "2026-01-27T06:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=1GcsFS7zfko",
+      "thumbnail": "https://img.youtube.com/vi/1GcsFS7zfko/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
     },
     {
       "talentId": "mori_calliope",
@@ -939,7 +959,7 @@
       "url": "https://www.youtube.com/watch?v=sYMfoplCIdA",
       "thumbnail": "https://img.youtube.com/vi/sYMfoplCIdA/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -1109,7 +1129,7 @@
       "url": "https://www.youtube.com/watch?v=ynFfbnKkDXc",
       "thumbnail": "https://img.youtube.com/vi/ynFfbnKkDXc/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/bLqkQmKBq5rRp53-TLpg1wa9Bn0aFwmjsnZ6LTPgq0NjJSs2304Rm61481alRP8mTdyNLFiJ9c0=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     }
   ]
 }
