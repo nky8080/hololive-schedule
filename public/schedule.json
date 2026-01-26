@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-25T23:49:43.668Z",
+  "updatedAt": "2026-01-26T00:54:13.844Z",
   "streams": [
     {
       "talentId": "yuzuki_choco",
@@ -289,7 +289,7 @@
       "url": "https://www.youtube.com/watch?v=xvbG7J_EgU0",
       "thumbnail": "https://img.youtube.com/vi/xvbG7J_EgU0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "himemori_luna",
@@ -450,6 +450,26 @@
       "thumbnail": "https://img.youtube.com/vi/qA2OJjsQ0YE/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s88-c-k-c0x00ffffff-no-rj",
       "isLive": true
+    },
+    {
+      "talentId": "shiori_novella",
+      "talentName": "Shiori Novella",
+      "groupId": "en_advent",
+      "startTime": "2026-01-26T08:57:00+09:00",
+      "url": "https://www.youtube.com/watch?v=ADugBAJ4fFg",
+      "thumbnail": "https://img.youtube.com/vi/ADugBAJ4fFg/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "koseki_bijou",
+      "talentName": "Koseki Bijou",
+      "groupId": "en_advent",
+      "startTime": "2026-01-26T11:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=pmlucNPuIGw",
+      "thumbnail": "https://img.youtube.com/vi/pmlucNPuIGw/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -849,7 +869,7 @@
       "url": "https://www.youtube.com/watch?v=i5J_Z2g1PXg",
       "thumbnail": "https://img.youtube.com/vi/i5J_Z2g1PXg/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/kv71-xuB9kzbU7Bi4qsmkRXHc3wAgEU4rhllRnmGH4H23T825BKdGqEAcagTSE9r8BdsnG4lqQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
