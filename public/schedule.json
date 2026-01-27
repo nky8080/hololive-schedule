@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-27T09:21:11.744Z",
+  "updatedAt": "2026-01-27T09:52:24.649Z",
   "streams": [
     {
       "talentId": "kazama_iroha",
@@ -352,13 +352,13 @@
       "isLive": false
     },
     {
-      "talentId": "azki",
-      "talentName": "AZKi",
-      "groupId": "gen0",
-      "startTime": "2026-01-27T22:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=Ozv6ffaVlbg",
-      "thumbnail": "https://img.youtube.com/vi/Ozv6ffaVlbg/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s88-c-k-c0x00ffffff-no-rj",
+      "talentId": "usada_pekora",
+      "talentName": "Usada Pekora",
+      "groupId": "gen3",
+      "startTime": "2026-01-27T21:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=4ZJZMG8my8g",
+      "thumbnail": "https://img.youtube.com/vi/4ZJZMG8my8g/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -369,6 +369,16 @@
       "url": "https://www.youtube.com/watch?v=9NQ71fyNU0g",
       "thumbnail": "https://img.youtube.com/vi/9NQ71fyNU0g/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "azki",
+      "talentName": "AZKi",
+      "groupId": "gen0",
+      "startTime": "2026-01-27T22:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=Ozv6ffaVlbg",
+      "thumbnail": "https://img.youtube.com/vi/Ozv6ffaVlbg/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -889,7 +899,7 @@
       "url": "https://www.youtube.com/watch?v=i9-PQtTvwbI",
       "thumbnail": "https://img.youtube.com/vi/i9-PQtTvwbI/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/GkDmDWOfKfFkcVmG3-ECCRMeFR4bXlWBvuGO3xu3Ud68kVTWssXpn5q266BmtXvcHuzc5Ib2iFQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -1049,7 +1059,17 @@
       "url": "https://www.youtube.com/watch?v=5YUTmK5l_04",
       "thumbnail": "https://img.youtube.com/vi/5YUTmK5l_04/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
+    },
+    {
+      "talentId": "otonose_kanade",
+      "talentName": "Otonose Kanade",
+      "groupId": "regloss",
+      "startTime": "2026-01-27T18:33:00+09:00",
+      "url": "https://www.youtube.com/watch?v=kOXE2lqIErc",
+      "thumbnail": "https://img.youtube.com/vi/kOXE2lqIErc/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
     },
     {
       "talentId": "kikirara_vivi",
