@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-27T10:15:17.168Z",
+  "updatedAt": "2026-01-27T10:49:04.075Z",
   "streams": [
     {
       "talentId": "kazama_iroha",
@@ -299,7 +299,7 @@
       "url": "https://www.youtube.com/watch?v=s7PUbFaZ2BU",
       "thumbnail": "https://img.youtube.com/vi/s7PUbFaZ2BU/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "tsunomaki_watame",
@@ -923,6 +923,26 @@
     },
     {
       "talentId": "unknown",
+      "talentName": "Octavio",
+      "groupId": "holostars_en",
+      "startTime": "2026-01-27T19:17:00+09:00",
+      "url": "https://www.youtube.com/watch?v=UiHaaL80Xc8",
+      "thumbnail": "https://img.youtube.com/vi/UiHaaL80Xc8/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Octavio",
+      "groupId": "holostars_en",
+      "startTime": "2026-01-27T19:21:00+09:00",
+      "url": "https://www.youtube.com/watch?v=zs8fx4b0zbc",
+      "thumbnail": "https://img.youtube.com/vi/zs8fx4b0zbc/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
       "talentName": "輪堂千速",
       "groupId": "dev_is",
       "startTime": "2026-01-26T16:30:00+09:00",
@@ -1089,6 +1109,16 @@
       "url": "https://www.youtube.com/watch?v=kOXE2lqIErc",
       "thumbnail": "https://img.youtube.com/vi/kOXE2lqIErc/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "虎金妃笑虎",
+      "groupId": "dev_is",
+      "startTime": "2026-01-27T19:30:00+09:00",
+      "url": "https://www.youtube.com/watch?v=vJHPrtuc8XE",
+      "thumbnail": "https://img.youtube.com/vi/vJHPrtuc8XE/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/bEDo7y7rywqDZpSqS7StN3vxPg4YPEfh_faAf2CENKsk4L9SgrsU0UeClvH-nsPq1i5xNFM89Q=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
