@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-27T21:50:41.182Z",
+  "updatedAt": "2026-01-27T22:11:53.958Z",
   "streams": [
     {
       "talentId": "roboco",
@@ -355,7 +355,7 @@
       "talentId": "fuwamoco",
       "talentName": "FUWAMOCO",
       "groupId": "en_advent",
-      "startTime": "2026-01-28T09:00:00+09:00",
+      "startTime": "2026-01-28T10:00:00+09:00",
       "url": "https://www.youtube.com/watch?v=_k7wgiTfSbw",
       "thumbnail": "https://img.youtube.com/vi/_k7wgiTfSbw/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s88-c-k-c0x00ffffff-no-rj",
@@ -365,7 +365,7 @@
       "talentId": "fuwamoco",
       "talentName": "FUWAMOCO",
       "groupId": "en_advent",
-      "startTime": "2026-01-28T09:00:00+09:00",
+      "startTime": "2026-01-28T10:00:00+09:00",
       "url": "https://www.youtube.com/watch?v=ampJcdSN6bk",
       "thumbnail": "https://img.youtube.com/vi/ampJcdSN6bk/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s88-c-k-c0x00ffffff-no-rj",
@@ -599,7 +599,7 @@
       "url": "https://www.youtube.com/watch?v=tEcmlAmk7eQ",
       "thumbnail": "https://img.youtube.com/vi/tEcmlAmk7eQ/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/kv71-xuB9kzbU7Bi4qsmkRXHc3wAgEU4rhllRnmGH4H23T825BKdGqEAcagTSE9r8BdsnG4lqQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "unknown",
