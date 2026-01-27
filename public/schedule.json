@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-27T16:16:14.174Z",
+  "updatedAt": "2026-01-27T16:53:44.503Z",
   "streams": [
     {
       "talentId": "roboco",
@@ -199,7 +199,7 @@
       "url": "https://www.youtube.com/watch?v=Ozv6ffaVlbg",
       "thumbnail": "https://img.youtube.com/vi/Ozv6ffaVlbg/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "omaru_polka",
@@ -359,6 +359,26 @@
       "url": "https://www.youtube.com/watch?v=KCDnFUTR36U",
       "thumbnail": "https://img.youtube.com/vi/KCDnFUTR36U/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "koseki_bijou",
+      "talentName": "Koseki Bijou",
+      "groupId": "en_advent",
+      "startTime": "2026-01-28T11:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=fz9gU5lyLW4",
+      "thumbnail": "https://img.youtube.com/vi/fz9gU5lyLW4/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "fuwamoco",
+      "talentName": "FUWAMOCO",
+      "groupId": "en_advent",
+      "startTime": "2026-01-29T11:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=BA5p8ZScYz8",
+      "thumbnail": "https://img.youtube.com/vi/BA5p8ZScYz8/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -549,6 +569,16 @@
       "url": "https://www.youtube.com/watch?v=eC7TB5fefTc",
       "thumbnail": "https://img.youtube.com/vi/eC7TB5fefTc/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Hakka",
+      "groupId": "holostars_en",
+      "startTime": "2026-01-28T09:15:00+09:00",
+      "url": "https://www.youtube.com/watch?v=YJR3k_W0HjQ",
+      "thumbnail": "https://img.youtube.com/vi/YJR3k_W0HjQ/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
