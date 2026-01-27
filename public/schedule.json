@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-27T15:49:42.691Z",
+  "updatedAt": "2026-01-27T16:16:14.174Z",
   "streams": [
     {
       "talentId": "roboco",
@@ -129,7 +129,7 @@
       "url": "https://www.youtube.com/watch?v=aDySl0CINNg",
       "thumbnail": "https://img.youtube.com/vi/aDySl0CINNg/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "shirogane_noel",
@@ -139,7 +139,7 @@
       "url": "https://www.youtube.com/watch?v=kpxgFnoVSu0",
       "thumbnail": "https://img.youtube.com/vi/kpxgFnoVSu0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "shirakami_fubuki",
@@ -219,7 +219,7 @@
       "url": "https://www.youtube.com/watch?v=9AZjtJJDvXU",
       "thumbnail": "https://img.youtube.com/vi/9AZjtJJDvXU/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "natsuiro_matsuri",
@@ -439,7 +439,7 @@
       "url": "https://www.youtube.com/watch?v=GWBrQGB6SBc",
       "thumbnail": "https://img.youtube.com/vi/GWBrQGB6SBc/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -639,7 +639,7 @@
       "url": "https://www.youtube.com/watch?v=4rNFpTU0k7U",
       "thumbnail": "https://img.youtube.com/vi/4rNFpTU0k7U/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     }
   ]
 }
