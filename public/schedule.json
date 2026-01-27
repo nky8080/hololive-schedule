@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-27T16:53:44.503Z",
+  "updatedAt": "2026-01-27T17:19:11.339Z",
   "streams": [
     {
       "talentId": "roboco",
@@ -179,7 +179,7 @@
       "url": "https://www.youtube.com/watch?v=4ZJZMG8my8g",
       "thumbnail": "https://img.youtube.com/vi/4ZJZMG8my8g/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "oozora_subaru",
@@ -409,16 +409,6 @@
       "url": "https://www.youtube.com/watch?v=t1mNz53ZAD4",
       "thumbnail": "https://img.youtube.com/vi/t1mNz53ZAD4/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
-    },
-    {
-      "talentId": "kureiji_ollie",
-      "talentName": "Kureiji Ollie",
-      "groupId": "id_gen2",
-      "startTime": "2026-01-28T00:35:00+09:00",
-      "url": "https://www.youtube.com/watch?v=ibkQYdvqjBI",
-      "thumbnail": "https://img.youtube.com/vi/ibkQYdvqjBI/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s88-c-k-c0x00ffffff-no-rj",
       "isLive": true
     },
     {
@@ -659,7 +649,7 @@
       "url": "https://www.youtube.com/watch?v=YIaxo-i5g7Y",
       "thumbnail": "https://img.youtube.com/vi/YIaxo-i5g7Y/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "ichijou_ririka",
