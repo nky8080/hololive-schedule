@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-27T19:53:29.216Z",
+  "updatedAt": "2026-01-27T20:12:01.543Z",
   "streams": [
     {
       "talentId": "roboco",
@@ -569,6 +569,16 @@
       "url": "https://www.youtube.com/watch?v=eC7TB5fefTc",
       "thumbnail": "https://img.youtube.com/vi/eC7TB5fefTc/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Altare",
+      "groupId": "holostars_en",
+      "startTime": "2026-01-28T09:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=gTFEtL_-NM0",
+      "thumbnail": "https://img.youtube.com/vi/gTFEtL_-NM0/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/12Y9I0cP0EqJe4Wpkm19p_MythjFqYcMZRC3vN4bYPSzE9ANTIFXOhZdfP1TQpAi4Thw741twyg=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
