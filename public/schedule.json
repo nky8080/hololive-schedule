@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-27T14:00:03.495Z",
+  "updatedAt": "2026-01-27T14:30:21.034Z",
   "streams": [
     {
       "talentId": "kazama_iroha",
@@ -419,6 +419,16 @@
       "url": "https://www.youtube.com/watch?v=OH1iy-fhB4M",
       "thumbnail": "https://img.youtube.com/vi/OH1iy-fhB4M/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "roboco",
+      "talentName": "Roboco san",
+      "groupId": "gen0",
+      "startTime": "2026-01-28T00:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=d2GD2woAzdc",
+      "thumbnail": "https://img.youtube.com/vi/d2GD2woAzdc/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -1225,11 +1235,11 @@
       "talentId": "ichijou_ririka",
       "talentName": "Ichijou Ririka",
       "groupId": "regloss",
-      "startTime": "2026-01-27T23:00:00+09:00",
+      "startTime": "2026-01-27T23:01:00+09:00",
       "url": "https://www.youtube.com/watch?v=4rNFpTU0k7U",
       "thumbnail": "https://img.youtube.com/vi/4rNFpTU0k7U/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "unknown",
