@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-27T14:30:21.034Z",
+  "updatedAt": "2026-01-27T14:58:12.834Z",
   "streams": [
     {
       "talentId": "kazama_iroha",
@@ -559,7 +559,7 @@
       "url": "https://www.youtube.com/watch?v=8ye2bcQoIpI",
       "thumbnail": "https://img.youtube.com/vi/8ye2bcQoIpI/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "shiori_novella",
@@ -700,6 +700,16 @@
       "thumbnail": "https://img.youtube.com/vi/ZNSrC8btpj8/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s88-c-k-c0x00ffffff-no-rj",
       "isLive": true
+    },
+    {
+      "talentId": "pavolia_reine",
+      "talentName": "Pavolia Reine",
+      "groupId": "id_gen2",
+      "startTime": "2026-01-28T00:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=t1mNz53ZAD4",
+      "thumbnail": "https://img.youtube.com/vi/t1mNz53ZAD4/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
     },
     {
       "talentId": "unknown",
