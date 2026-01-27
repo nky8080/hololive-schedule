@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-27T20:12:01.543Z",
+  "updatedAt": "2026-01-27T20:36:46.348Z",
   "streams": [
     {
       "talentId": "roboco",
@@ -569,6 +569,16 @@
       "url": "https://www.youtube.com/watch?v=eC7TB5fefTc",
       "thumbnail": "https://img.youtube.com/vi/eC7TB5fefTc/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Bettel",
+      "groupId": "holostars_en",
+      "startTime": "2026-01-28T07:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=tEcmlAmk7eQ",
+      "thumbnail": "https://img.youtube.com/vi/tEcmlAmk7eQ/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/kv71-xuB9kzbU7Bi4qsmkRXHc3wAgEU4rhllRnmGH4H23T825BKdGqEAcagTSE9r8BdsnG4lqQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
