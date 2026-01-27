@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-26T23:52:28.870Z",
+  "updatedAt": "2026-01-27T00:53:02.383Z",
   "streams": [
     {
       "talentId": "kazama_iroha",
@@ -239,7 +239,7 @@
       "url": "https://www.youtube.com/watch?v=srP7qWXQrIg",
       "thumbnail": "https://img.youtube.com/vi/srP7qWXQrIg/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "nekomata_okayu",
@@ -673,12 +673,42 @@
     },
     {
       "talentId": "unknown",
-      "talentName": "Octavio",
+      "talentName": "Crimzon",
       "groupId": "holostars_en",
       "startTime": "2026-01-27T09:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=6BV60ruUtuU",
+      "thumbnail": "https://img.youtube.com/vi/6BV60ruUtuU/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Jurard",
+      "groupId": "holostars_en",
+      "startTime": "2026-01-27T09:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=f-k2j_wYYXg",
+      "thumbnail": "https://img.youtube.com/vi/f-k2j_wYYXg/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/EA7rVsjrX8vvWUcCw-tEiLj4mrTZK3pvCdRmq07ylzGLBvMRL0FyU6rnMvk6-4umPUWJm8TeNg=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Octavio",
+      "groupId": "holostars_en",
+      "startTime": "2026-01-27T09:03:00+09:00",
       "url": "https://www.youtube.com/watch?v=ZreCctGxUXE",
       "thumbnail": "https://img.youtube.com/vi/ZreCctGxUXE/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Goldbullet",
+      "groupId": "holostars_en",
+      "startTime": "2026-01-27T09:07:00+09:00",
+      "url": "https://www.youtube.com/watch?v=Xi7KeKk0dds",
+      "thumbnail": "https://img.youtube.com/vi/Xi7KeKk0dds/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/pP_ShozRg9Hn8dyB4D8ODtdI9ShTY3AMOKui418InNDz9jwGYIRRH6bxdl7KX55SjmFMZlMUvg=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
