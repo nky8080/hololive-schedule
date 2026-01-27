@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-27T04:07:09.682Z",
+  "updatedAt": "2026-01-27T04:55:34.863Z",
   "streams": [
     {
       "talentId": "kazama_iroha",
@@ -390,6 +390,16 @@
       "thumbnail": "https://img.youtube.com/vi/8aA0pTwqQd4/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s88-c-k-c0x00ffffff-no-rj",
       "isLive": true
+    },
+    {
+      "talentId": "fuwamoco",
+      "talentName": "FUWAMOCO",
+      "groupId": "en_advent",
+      "startTime": "2026-01-27T20:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=8ye2bcQoIpI",
+      "thumbnail": "https://img.youtube.com/vi/8ye2bcQoIpI/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
     },
     {
       "talentId": "shiori_novella",
