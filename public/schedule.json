@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-27T05:18:38.009Z",
+  "updatedAt": "2026-01-27T05:48:06.499Z",
   "streams": [
     {
       "talentId": "kazama_iroha",
@@ -252,16 +252,6 @@
       "isLive": false
     },
     {
-      "talentId": "shirogane_noel",
-      "talentName": "Shirogane Noel",
-      "groupId": "gen3",
-      "startTime": "2026-01-27T20:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=kpxgFnoVSu0",
-      "thumbnail": "https://img.youtube.com/vi/kpxgFnoVSu0/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
       "talentId": "hakui_koyori",
       "talentName": "Hakui Koyori",
       "groupId": "holoX",
@@ -269,6 +259,16 @@
       "url": "https://www.youtube.com/watch?v=aDySl0CINNg",
       "thumbnail": "https://img.youtube.com/vi/aDySl0CINNg/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "shirogane_noel",
+      "talentName": "Shirogane Noel",
+      "groupId": "gen3",
+      "startTime": "2026-01-27T20:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=kpxgFnoVSu0",
+      "thumbnail": "https://img.youtube.com/vi/kpxgFnoVSu0/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -409,6 +409,26 @@
       "url": "https://www.youtube.com/watch?v=PjNA1DXkn5M",
       "thumbnail": "https://img.youtube.com/vi/PjNA1DXkn5M/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "fuwamoco",
+      "talentName": "FUWAMOCO",
+      "groupId": "en_advent",
+      "startTime": "2026-01-28T09:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=_k7wgiTfSbw",
+      "thumbnail": "https://img.youtube.com/vi/_k7wgiTfSbw/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "fuwamoco",
+      "talentName": "FUWAMOCO",
+      "groupId": "en_advent",
+      "startTime": "2026-01-28T09:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=ampJcdSN6bk",
+      "thumbnail": "https://img.youtube.com/vi/ampJcdSN6bk/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
