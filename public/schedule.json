@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-27T06:18:32.154Z",
+  "updatedAt": "2026-01-27T06:57:37.126Z",
   "streams": [
     {
       "talentId": "kazama_iroha",
@@ -600,6 +600,16 @@
       "thumbnail": "https://img.youtube.com/vi/3NyloVJF8T0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s88-c-k-c0x00ffffff-no-rj",
       "isLive": true
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "アルランディス",
+      "groupId": "holostars_jp",
+      "startTime": "2026-01-27T20:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=GmBQJF9U--c",
+      "thumbnail": "https://img.youtube.com/vi/GmBQJF9U--c/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
     },
     {
       "talentId": "unknown",
