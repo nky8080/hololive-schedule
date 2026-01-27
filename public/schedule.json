@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-27T17:50:03.944Z",
+  "updatedAt": "2026-01-27T18:21:06.098Z",
   "streams": [
     {
       "talentId": "roboco",
@@ -419,7 +419,7 @@
       "url": "https://www.youtube.com/watch?v=t1mNz53ZAD4",
       "thumbnail": "https://img.youtube.com/vi/t1mNz53ZAD4/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
