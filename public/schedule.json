@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-27T11:35:30.380Z",
+  "updatedAt": "2026-01-27T11:53:08.845Z",
   "streams": [
     {
       "talentId": "kazama_iroha",
@@ -639,6 +639,16 @@
       "url": "https://www.youtube.com/watch?v=Nlk9lLzFV_M",
       "thumbnail": "https://img.youtube.com/vi/Nlk9lLzFV_M/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "ayunda_risu",
+      "talentName": "Ayunda Risu",
+      "groupId": "id_gen1",
+      "startTime": "2026-01-27T21:30:00+09:00",
+      "url": "https://www.youtube.com/watch?v=KTCOhxaQVjY",
+      "thumbnail": "https://img.youtube.com/vi/KTCOhxaQVjY/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
