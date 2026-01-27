@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-27T22:11:53.958Z",
+  "updatedAt": "2026-01-27T22:36:12.741Z",
   "streams": [
     {
       "talentId": "roboco",
@@ -719,6 +719,16 @@
       "url": "https://www.youtube.com/watch?v=4rNFpTU0k7U",
       "thumbnail": "https://img.youtube.com/vi/4rNFpTU0k7U/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "isaki_riona",
+      "talentName": "Isaki Riona",
+      "groupId": "flow_glow",
+      "startTime": "2026-01-28T18:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=6vKhN2MVpE8",
+      "thumbnail": "https://img.youtube.com/vi/6vKhN2MVpE8/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     }
   ]
