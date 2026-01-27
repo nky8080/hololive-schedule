@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-27T15:26:45.695Z",
+  "updatedAt": "2026-01-27T15:49:42.691Z",
   "streams": [
     {
       "talentId": "roboco",
@@ -189,7 +189,7 @@
       "url": "https://www.youtube.com/watch?v=ZHQr2tLMraw",
       "thumbnail": "https://img.youtube.com/vi/ZHQr2tLMraw/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "azki",
@@ -379,7 +379,7 @@
       "url": "https://www.youtube.com/watch?v=ZNSrC8btpj8",
       "thumbnail": "https://img.youtube.com/vi/ZNSrC8btpj8/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "pavolia_reine",
@@ -389,6 +389,16 @@
       "url": "https://www.youtube.com/watch?v=t1mNz53ZAD4",
       "thumbnail": "https://img.youtube.com/vi/t1mNz53ZAD4/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
+    },
+    {
+      "talentId": "kureiji_ollie",
+      "talentName": "Kureiji Ollie",
+      "groupId": "id_gen2",
+      "startTime": "2026-01-28T00:35:00+09:00",
+      "url": "https://www.youtube.com/watch?v=ibkQYdvqjBI",
+      "thumbnail": "https://img.youtube.com/vi/ibkQYdvqjBI/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s88-c-k-c0x00ffffff-no-rj",
       "isLive": true
     },
     {
