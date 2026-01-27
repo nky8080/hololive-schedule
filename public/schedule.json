@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-27T07:22:59.371Z",
+  "updatedAt": "2026-01-27T07:46:21.810Z",
   "streams": [
     {
       "talentId": "kazama_iroha",
@@ -909,6 +909,16 @@
       "url": "https://www.youtube.com/watch?v=FZTp5LrH2kM",
       "thumbnail": "https://img.youtube.com/vi/FZTp5LrH2kM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "輪堂千速",
+      "groupId": "dev_is",
+      "startTime": "2026-01-27T16:30:00+09:00",
+      "url": "https://www.youtube.com/watch?v=Khr0_sltDrc",
+      "thumbnail": "https://img.youtube.com/vi/Khr0_sltDrc/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
