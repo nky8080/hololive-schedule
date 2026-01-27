@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-27T22:36:12.741Z",
+  "updatedAt": "2026-01-27T22:53:37.984Z",
   "streams": [
     {
       "talentId": "roboco",
@@ -480,6 +480,16 @@
       "thumbnail": "https://img.youtube.com/vi/GWBrQGB6SBc/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "羽継烏有",
+      "groupId": "holostars_jp",
+      "startTime": "2026-01-28T07:45:00+09:00",
+      "url": "https://www.youtube.com/watch?v=xtggDWE8tbk",
+      "thumbnail": "https://img.youtube.com/vi/xtggDWE8tbk/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
     },
     {
       "talentId": "unknown",
