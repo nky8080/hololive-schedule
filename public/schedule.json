@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-28T10:16:34.328Z",
+  "updatedAt": "2026-01-28T10:52:03.789Z",
   "streams": [
     {
       "talentId": "roboco",
@@ -469,6 +469,16 @@
       "url": "https://www.youtube.com/watch?v=V0cHplOpSAM",
       "thumbnail": "https://img.youtube.com/vi/V0cHplOpSAM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "nekomata_okayu",
+      "talentName": "Nekomata Okayu",
+      "groupId": "gamers",
+      "startTime": "2026-01-29T22:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=ZS63TAMx-Lg",
+      "thumbnail": "https://img.youtube.com/vi/ZS63TAMx-Lg/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -1149,6 +1159,16 @@
       "url": "https://www.youtube.com/watch?v=zMasyo49xak",
       "thumbnail": "https://img.youtube.com/vi/zMasyo49xak/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "虎金妃笑虎",
+      "groupId": "dev_is",
+      "startTime": "2026-01-28T19:30:00+09:00",
+      "url": "https://www.youtube.com/watch?v=6ZpvXVh8eEY",
+      "thumbnail": "https://img.youtube.com/vi/6ZpvXVh8eEY/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/bEDo7y7rywqDZpSqS7StN3vxPg4YPEfh_faAf2CENKsk4L9SgrsU0UeClvH-nsPq1i5xNFM89Q=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
