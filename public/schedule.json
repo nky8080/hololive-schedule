@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-28T05:48:50.190Z",
+  "updatedAt": "2026-01-28T06:19:27.079Z",
   "streams": [
     {
       "talentId": "roboco",
@@ -322,6 +322,16 @@
       "isLive": false
     },
     {
+      "talentId": "shirogane_noel",
+      "talentName": "Shirogane Noel",
+      "groupId": "gen3",
+      "startTime": "2026-01-28T20:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=jGNx4pmD75E",
+      "thumbnail": "https://img.youtube.com/vi/jGNx4pmD75E/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "unknown",
       "talentName": "宝鐘マリン",
       "groupId": "hololive_jp",
@@ -599,7 +609,7 @@
       "url": "https://www.youtube.com/watch?v=eQSZhRlgk8Y",
       "thumbnail": "https://img.youtube.com/vi/eQSZhRlgk8Y/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -609,6 +619,16 @@
       "url": "https://www.youtube.com/watch?v=TzQRWS2OvZM",
       "thumbnail": "https://img.youtube.com/vi/TzQRWS2OvZM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "花咲みやび",
+      "groupId": "holostars_jp",
+      "startTime": "2026-01-28T23:30:00+09:00",
+      "url": "https://www.youtube.com/watch?v=pHjn3WkFALg",
+      "thumbnail": "https://img.youtube.com/vi/pHjn3WkFALg/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
