@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-28T11:35:01.637Z",
+  "updatedAt": "2026-01-28T11:52:10.983Z",
   "streams": [
     {
       "talentId": "roboco",
@@ -1179,6 +1179,16 @@
       "url": "https://www.youtube.com/watch?v=-iaU8rHoxFU",
       "thumbnail": "https://img.youtube.com/vi/-iaU8rHoxFU/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "juufuutei_raden",
+      "talentName": "Juufuutei Raden",
+      "groupId": "regloss",
+      "startTime": "2026-01-28T23:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=WXGp-9o3hYo",
+      "thumbnail": "https://img.youtube.com/vi/WXGp-9o3hYo/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
