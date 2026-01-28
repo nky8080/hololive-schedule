@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-28T06:19:27.079Z",
+  "updatedAt": "2026-01-28T06:57:38.530Z",
   "streams": [
     {
       "talentId": "roboco",
@@ -439,7 +439,7 @@
       "url": "https://www.youtube.com/watch?v=fz9gU5lyLW4",
       "thumbnail": "https://img.youtube.com/vi/fz9gU5lyLW4/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "mori_calliope",
@@ -459,7 +459,7 @@
       "url": "https://www.youtube.com/watch?v=GK2YLZExE4c",
       "thumbnail": "https://img.youtube.com/vi/GK2YLZExE4c/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "ouro_kronii",
