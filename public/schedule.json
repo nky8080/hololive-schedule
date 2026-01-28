@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-28T06:57:38.530Z",
+  "updatedAt": "2026-01-28T07:21:24.888Z",
   "streams": [
     {
       "talentId": "roboco",
@@ -269,6 +269,16 @@
       "url": "https://www.youtube.com/watch?v=dAMpaU5d8Gg",
       "thumbnail": "https://img.youtube.com/vi/dAMpaU5d8Gg/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "natsuiro_matsuri",
+      "talentName": "Natsuiro Matsuri",
+      "groupId": "gen1",
+      "startTime": "2026-01-28T19:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=obVVHKZAJXQ",
+      "thumbnail": "https://img.youtube.com/vi/obVVHKZAJXQ/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
