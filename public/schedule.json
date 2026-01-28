@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-28T18:21:51.698Z",
+  "updatedAt": "2026-01-28T18:57:29.948Z",
   "streams": [
     {
       "talentId": "tokino_sora",
@@ -239,7 +239,7 @@
       "url": "https://www.youtube.com/watch?v=pP11CaOyVGE",
       "thumbnail": "https://img.youtube.com/vi/pP11CaOyVGE/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "shiranui_flare",
