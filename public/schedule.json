@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-28T11:52:10.983Z",
+  "updatedAt": "2026-01-28T12:22:30.193Z",
   "streams": [
     {
       "talentId": "roboco",
@@ -369,7 +369,7 @@
       "url": "https://www.youtube.com/watch?v=6k5IOoNDP44",
       "thumbnail": "https://img.youtube.com/vi/6k5IOoNDP44/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "sakura_miko",
@@ -379,7 +379,7 @@
       "url": "https://www.youtube.com/watch?v=IMA3LJq732E",
       "thumbnail": "https://img.youtube.com/vi/IMA3LJq732E/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "usada_pekora",
@@ -450,6 +450,16 @@
       "thumbnail": "https://img.youtube.com/vi/BMg2T_otuic/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s88-c-k-c0x00ffffff-no-rj",
       "isLive": true
+    },
+    {
+      "talentId": "shiranui_flare",
+      "talentName": "Shiranui Flare",
+      "groupId": "gen3",
+      "startTime": "2026-01-28T22:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=RPFnGIGXNzY",
+      "thumbnail": "https://img.youtube.com/vi/RPFnGIGXNzY/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
     },
     {
       "talentId": "nekomata_okayu",
@@ -685,11 +695,11 @@
       "talentId": "vestia_zeta",
       "talentName": "Vestia Zeta",
       "groupId": "id_gen3",
-      "startTime": "2026-01-28T21:00:00+09:00",
+      "startTime": "2026-01-28T21:01:00+09:00",
       "url": "https://www.youtube.com/watch?v=_nMDPpvX5PE",
       "thumbnail": "https://img.youtube.com/vi/_nMDPpvX5PE/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "unknown",
@@ -983,6 +993,16 @@
     },
     {
       "talentId": "unknown",
+      "talentName": "Octavio",
+      "groupId": "holostars_en",
+      "startTime": "2026-01-29T12:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=vudXm_zfbPM",
+      "thumbnail": "https://img.youtube.com/vi/vudXm_zfbPM/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
       "talentName": "輪堂千速",
       "groupId": "dev_is",
       "startTime": "2026-01-27T16:30:00+09:00",
@@ -1175,11 +1195,11 @@
       "talentId": "ichijou_ririka",
       "talentName": "Ichijou Ririka",
       "groupId": "regloss",
-      "startTime": "2026-01-28T21:00:00+09:00",
+      "startTime": "2026-01-28T21:01:00+09:00",
       "url": "https://www.youtube.com/watch?v=-iaU8rHoxFU",
       "thumbnail": "https://img.youtube.com/vi/-iaU8rHoxFU/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "juufuutei_raden",
