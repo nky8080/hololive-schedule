@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-28T13:26:21.821Z",
+  "updatedAt": "2026-01-28T14:00:34.825Z",
   "streams": [
     {
       "talentId": "roboco",
@@ -472,6 +472,16 @@
       "isLive": true
     },
     {
+      "talentId": "tokino_sora",
+      "talentName": "Tokino Sora",
+      "groupId": "gen0",
+      "startTime": "2026-01-28T23:30:00+09:00",
+      "url": "https://www.youtube.com/watch?v=5G8e4dIUaTU",
+      "thumbnail": "https://img.youtube.com/vi/5G8e4dIUaTU/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "hakui_koyori",
       "talentName": "Hakui Koyori",
       "groupId": "holoX",
@@ -700,6 +710,16 @@
       "thumbnail": "https://img.youtube.com/vi/_nMDPpvX5PE/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s88-c-k-c0x00ffffff-no-rj",
       "isLive": true
+    },
+    {
+      "talentId": "pavolia_reine",
+      "talentName": "Pavolia Reine",
+      "groupId": "id_gen2",
+      "startTime": "2026-01-28T23:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=MRkR0fF5_fs",
+      "thumbnail": "https://img.youtube.com/vi/MRkR0fF5_fs/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -989,6 +1009,16 @@
       "url": "https://www.youtube.com/watch?v=-98xmic1EQ4",
       "thumbnail": "https://img.youtube.com/vi/-98xmic1EQ4/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Crimzon",
+      "groupId": "holostars_en",
+      "startTime": "2026-01-29T10:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=2apqjMyxnwg",
+      "thumbnail": "https://img.youtube.com/vi/2apqjMyxnwg/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
