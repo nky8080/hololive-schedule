@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-28T20:15:44.899Z",
+  "updatedAt": "2026-01-28T20:53:25.323Z",
   "streams": [
     {
       "talentId": "tokino_sora",
@@ -422,6 +422,16 @@
       "isLive": false
     },
     {
+      "talentId": "ouro_kronii",
+      "talentName": "Ouro Kronii",
+      "groupId": "en_promise",
+      "startTime": "2026-01-29T11:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=ddTZjenjNuo",
+      "thumbnail": "https://img.youtube.com/vi/ddTZjenjNuo/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "fuwamoco",
       "talentName": "FUWAMOCO",
       "groupId": "en_advent",
@@ -715,7 +725,7 @@
       "talentId": "unknown",
       "talentName": "Flayon",
       "groupId": "holostars_en",
-      "startTime": "2026-01-29T11:00:00+09:00",
+      "startTime": "2026-01-29T12:00:00+09:00",
       "url": "https://www.youtube.com/watch?v=3ti4r5KGE7Q",
       "thumbnail": "https://img.youtube.com/vi/3ti4r5KGE7Q/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s88-c-k-c0x00ffffff-no-rj",
