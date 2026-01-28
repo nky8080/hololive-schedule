@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-28T15:20:11.638Z",
+  "updatedAt": "2026-01-28T15:55:15.809Z",
   "streams": [
     {
       "talentId": "tokino_sora",
@@ -169,7 +169,7 @@
       "url": "https://www.youtube.com/watch?v=cz_ThZ_2CxM",
       "thumbnail": "https://img.youtube.com/vi/cz_ThZ_2CxM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -179,7 +179,7 @@
       "url": "https://www.youtube.com/watch?v=o6r_n6eC52w",
       "thumbnail": "https://img.youtube.com/vi/o6r_n6eC52w/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "tsunomaki_watame",
@@ -199,7 +199,7 @@
       "url": "https://www.youtube.com/watch?v=FTWnZaZpC0U",
       "thumbnail": "https://img.youtube.com/vi/FTWnZaZpC0U/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "oozora_subaru",
@@ -209,7 +209,7 @@
       "url": "https://www.youtube.com/watch?v=1NNlT4vARPs",
       "thumbnail": "https://img.youtube.com/vi/1NNlT4vARPs/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "shirogane_noel",
@@ -219,7 +219,7 @@
       "url": "https://www.youtube.com/watch?v=jGNx4pmD75E",
       "thumbnail": "https://img.youtube.com/vi/jGNx4pmD75E/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "shishiro_botan",
@@ -249,7 +249,7 @@
       "url": "https://www.youtube.com/watch?v=RPFnGIGXNzY",
       "thumbnail": "https://img.youtube.com/vi/RPFnGIGXNzY/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "tokino_sora",
@@ -529,7 +529,7 @@
       "url": "https://www.youtube.com/watch?v=BSjBElxXEfg",
       "thumbnail": "https://img.youtube.com/vi/BSjBElxXEfg/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -539,7 +539,7 @@
       "url": "https://www.youtube.com/watch?v=TzQRWS2OvZM",
       "thumbnail": "https://img.youtube.com/vi/TzQRWS2OvZM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -549,7 +549,7 @@
       "url": "https://www.youtube.com/watch?v=pHjn3WkFALg",
       "thumbnail": "https://img.youtube.com/vi/pHjn3WkFALg/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -799,7 +799,7 @@
       "url": "https://www.youtube.com/watch?v=-iaU8rHoxFU",
       "thumbnail": "https://img.youtube.com/vi/-iaU8rHoxFU/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "juufuutei_raden",
