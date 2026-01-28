@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-28T07:21:24.888Z",
+  "updatedAt": "2026-01-28T07:44:33.800Z",
   "streams": [
     {
       "talentId": "roboco",
@@ -259,6 +259,16 @@
       "url": "https://www.youtube.com/watch?v=351kiz-Bhl4",
       "thumbnail": "https://img.youtube.com/vi/351kiz-Bhl4/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "sakura_miko",
+      "talentName": "Sakura Miko",
+      "groupId": "gen0",
+      "startTime": "2026-01-28T19:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=IMA3LJq732E",
+      "thumbnail": "https://img.youtube.com/vi/IMA3LJq732E/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -918,6 +928,16 @@
       "startTime": "2026-01-28T12:00:00+09:00",
       "url": "https://www.youtube.com/watch?v=-vNay_otT5c",
       "thumbnail": "https://img.youtube.com/vi/-vNay_otT5c/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "輪堂千速",
+      "groupId": "dev_is",
+      "startTime": "2026-01-28T16:30:00+09:00",
+      "url": "https://www.youtube.com/watch?v=w6TzduYtRoA",
+      "thumbnail": "https://img.youtube.com/vi/w6TzduYtRoA/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
