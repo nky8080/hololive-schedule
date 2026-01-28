@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-28T12:22:30.193Z",
+  "updatedAt": "2026-01-28T13:26:21.821Z",
   "streams": [
     {
       "talentId": "roboco",
@@ -452,16 +452,6 @@
       "isLive": true
     },
     {
-      "talentId": "shiranui_flare",
-      "talentName": "Shiranui Flare",
-      "groupId": "gen3",
-      "startTime": "2026-01-28T22:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=RPFnGIGXNzY",
-      "thumbnail": "https://img.youtube.com/vi/RPFnGIGXNzY/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
       "talentId": "nekomata_okayu",
       "talentName": "Nekomata Okayu",
       "groupId": "gamers",
@@ -469,7 +459,17 @@
       "url": "https://www.youtube.com/watch?v=pP11CaOyVGE",
       "thumbnail": "https://img.youtube.com/vi/pP11CaOyVGE/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
+    },
+    {
+      "talentId": "shiranui_flare",
+      "talentName": "Shiranui Flare",
+      "groupId": "gen3",
+      "startTime": "2026-01-28T22:04:00+09:00",
+      "url": "https://www.youtube.com/watch?v=RPFnGIGXNzY",
+      "thumbnail": "https://img.youtube.com/vi/RPFnGIGXNzY/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
     },
     {
       "talentId": "hakui_koyori",
@@ -799,7 +799,7 @@
       "url": "https://www.youtube.com/watch?v=TzQRWS2OvZM",
       "thumbnail": "https://img.youtube.com/vi/TzQRWS2OvZM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "unknown",
