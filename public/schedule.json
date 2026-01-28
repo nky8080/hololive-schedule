@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-28T17:02:56.145Z",
+  "updatedAt": "2026-01-28T17:47:35.400Z",
   "streams": [
     {
       "talentId": "tokino_sora",
@@ -129,7 +129,7 @@
       "url": "https://www.youtube.com/watch?v=dAMpaU5d8Gg",
       "thumbnail": "https://img.youtube.com/vi/dAMpaU5d8Gg/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -389,7 +389,7 @@
       "url": "https://www.youtube.com/watch?v=xkkDFKku_8A",
       "thumbnail": "https://img.youtube.com/vi/xkkDFKku_8A/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "takanashi_kiara",
@@ -499,7 +499,7 @@
       "url": "https://www.youtube.com/watch?v=MRkR0fF5_fs",
       "thumbnail": "https://img.youtube.com/vi/MRkR0fF5_fs/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -679,6 +679,16 @@
       "url": "https://www.youtube.com/watch?v=-98xmic1EQ4",
       "thumbnail": "https://img.youtube.com/vi/-98xmic1EQ4/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Hakka",
+      "groupId": "holostars_en",
+      "startTime": "2026-01-29T09:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=URpE110aBJ0",
+      "thumbnail": "https://img.youtube.com/vi/URpE110aBJ0/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
