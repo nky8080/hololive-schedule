@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-28T11:14:33.972Z",
+  "updatedAt": "2026-01-28T11:35:01.637Z",
   "streams": [
     {
       "talentId": "roboco",
@@ -339,7 +339,7 @@
       "url": "https://www.youtube.com/watch?v=obVVHKZAJXQ",
       "thumbnail": "https://img.youtube.com/vi/obVVHKZAJXQ/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "hakui_koyori",
