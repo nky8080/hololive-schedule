@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-28T09:22:59.697Z",
+  "updatedAt": "2026-01-28T09:52:35.925Z",
   "streams": [
     {
       "talentId": "roboco",
@@ -312,6 +312,16 @@
       "isLive": false
     },
     {
+      "talentId": "natsuiro_matsuri",
+      "talentName": "Natsuiro Matsuri",
+      "groupId": "gen1",
+      "startTime": "2026-01-28T18:45:00+09:00",
+      "url": "https://www.youtube.com/watch?v=c4PEvGyHIrE",
+      "thumbnail": "https://img.youtube.com/vi/c4PEvGyHIrE/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "kazama_iroha",
       "talentName": "Kazama Iroha",
       "groupId": "holoX",
@@ -439,6 +449,16 @@
       "url": "https://www.youtube.com/watch?v=pP11CaOyVGE",
       "thumbnail": "https://img.youtube.com/vi/pP11CaOyVGE/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "hakui_koyori",
+      "talentName": "Hakui Koyori",
+      "groupId": "holoX",
+      "startTime": "2026-01-29T19:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=V0cHplOpSAM",
+      "thumbnail": "https://img.youtube.com/vi/V0cHplOpSAM/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -723,9 +743,19 @@
     },
     {
       "talentId": "unknown",
+      "talentName": "奏手イヅル",
+      "groupId": "holostars_jp",
+      "startTime": "2026-01-28T18:30:00+09:00",
+      "url": "https://www.youtube.com/watch?v=UYmM38XmP80",
+      "thumbnail": "https://img.youtube.com/vi/UYmM38XmP80/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
       "talentName": "アルランディス",
       "groupId": "holostars_jp",
-      "startTime": "2026-01-28T19:30:00+09:00",
+      "startTime": "2026-01-28T19:00:00+09:00",
       "url": "https://www.youtube.com/watch?v=BSjBElxXEfg",
       "thumbnail": "https://img.youtube.com/vi/BSjBElxXEfg/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s88-c-k-c0x00ffffff-no-rj",
