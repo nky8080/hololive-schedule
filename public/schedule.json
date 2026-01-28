@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-28T15:55:15.809Z",
+  "updatedAt": "2026-01-28T16:21:40.192Z",
   "streams": [
     {
       "talentId": "tokino_sora",
@@ -282,6 +282,16 @@
       "isLive": false
     },
     {
+      "talentId": "himemori_luna",
+      "talentName": "Himemori Luna",
+      "groupId": "gen4",
+      "startTime": "2026-01-29T22:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=TS-X2U03RIY",
+      "thumbnail": "https://img.youtube.com/vi/TS-X2U03RIY/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "omaru_polka",
       "talentName": "Omaru Polka",
       "groupId": "gen5",
@@ -419,6 +429,16 @@
       "url": "https://www.youtube.com/watch?v=uJ0acHSo8VA",
       "thumbnail": "https://img.youtube.com/vi/uJ0acHSo8VA/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "fuwamoco",
+      "talentName": "FUWAMOCO",
+      "groupId": "en_advent",
+      "startTime": "2026-01-29T13:30:00+09:00",
+      "url": "https://www.youtube.com/watch?v=ZffHEZneXmA",
+      "thumbnail": "https://img.youtube.com/vi/ZffHEZneXmA/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
