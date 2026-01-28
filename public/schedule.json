@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-28T02:56:09.756Z",
+  "updatedAt": "2026-01-28T04:02:11.273Z",
   "streams": [
     {
       "talentId": "roboco",
@@ -292,6 +292,16 @@
       "isLive": false
     },
     {
+      "talentId": "usada_pekora",
+      "talentName": "Usada Pekora",
+      "groupId": "gen3",
+      "startTime": "2026-01-28T20:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=cz_ThZ_2CxM",
+      "thumbnail": "https://img.youtube.com/vi/cz_ThZ_2CxM/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "nerissa_ravencroft",
       "talentName": "Nerissa Ravencroft",
       "groupId": "en_advent",
@@ -389,7 +399,7 @@
       "url": "https://www.youtube.com/watch?v=KCDnFUTR36U",
       "thumbnail": "https://img.youtube.com/vi/KCDnFUTR36U/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "irys",
@@ -405,11 +415,11 @@
       "talentId": "ouro_kronii",
       "talentName": "Ouro Kronii",
       "groupId": "en_promise",
-      "startTime": "2026-01-28T12:00:00+09:00",
+      "startTime": "2026-01-28T12:03:00+09:00",
       "url": "https://www.youtube.com/watch?v=GoigXBw4fO8",
       "thumbnail": "https://img.youtube.com/vi/GoigXBw4fO8/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "raora_panthera",
@@ -439,6 +449,16 @@
       "url": "https://www.youtube.com/watch?v=BA5p8ZScYz8",
       "thumbnail": "https://img.youtube.com/vi/BA5p8ZScYz8/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "shiori_novella",
+      "talentName": "Shiori Novella",
+      "groupId": "en_advent",
+      "startTime": "2026-01-29T11:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=PzHN73RQPQs",
+      "thumbnail": "https://img.youtube.com/vi/PzHN73RQPQs/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -519,7 +539,7 @@
       "url": "https://www.youtube.com/watch?v=xtggDWE8tbk",
       "thumbnail": "https://img.youtube.com/vi/xtggDWE8tbk/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -659,7 +679,7 @@
       "url": "https://www.youtube.com/watch?v=gTFEtL_-NM0",
       "thumbnail": "https://img.youtube.com/vi/gTFEtL_-NM0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/12Y9I0cP0EqJe4Wpkm19p_MythjFqYcMZRC3vN4bYPSzE9ANTIFXOhZdfP1TQpAi4Thw741twyg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -812,6 +832,16 @@
       "isLive": false
     },
     {
+      "talentId": "unknown",
+      "talentName": "輪堂千速",
+      "groupId": "dev_is",
+      "startTime": "2026-01-28T12:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=-vNay_otT5c",
+      "thumbnail": "https://img.youtube.com/vi/-vNay_otT5c/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "isaki_riona",
       "talentName": "Isaki Riona",
       "groupId": "flow_glow",
@@ -825,11 +855,11 @@
       "talentId": "unknown",
       "talentName": "holoAN room",
       "groupId": "official",
-      "startTime": "2026-01-28T12:00:00+09:00",
+      "startTime": "2026-01-28T11:59:00+09:00",
       "url": "https://www.youtube.com/watch?v=Jk1s4E8U0zc",
       "thumbnail": "https://img.youtube.com/vi/Jk1s4E8U0zc/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/bLqkQmKBq5rRp53-TLpg1wa9Bn0aFwmjsnZ6LTPgq0NjJSs2304Rm61481alRP8mTdyNLFiJ9c0=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     }
   ]
 }
