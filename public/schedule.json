@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-28T16:21:40.192Z",
+  "updatedAt": "2026-01-28T17:02:56.145Z",
   "streams": [
     {
       "talentId": "tokino_sora",
@@ -259,7 +259,7 @@
       "url": "https://www.youtube.com/watch?v=5G8e4dIUaTU",
       "thumbnail": "https://img.youtube.com/vi/5G8e4dIUaTU/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "hakui_koyori",
@@ -579,7 +579,7 @@
       "url": "https://www.youtube.com/watch?v=9ogLB3lcVtI",
       "thumbnail": "https://img.youtube.com/vi/9ogLB3lcVtI/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
