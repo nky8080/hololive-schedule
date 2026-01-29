@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-29T21:47:38.768Z",
+  "updatedAt": "2026-01-29T22:15:05.357Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -445,11 +445,11 @@
       "talentId": "ninomae_inanis",
       "talentName": "Ninomae Ina'nis",
       "groupId": "en_myth",
-      "startTime": "2026-01-30T07:00:00+09:00",
+      "startTime": "2026-01-30T07:02:00+09:00",
       "url": "https://www.youtube.com/watch?v=r-BRRVsOkak",
       "thumbnail": "https://img.youtube.com/vi/r-BRRVsOkak/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "gigi_murin",
@@ -775,11 +775,11 @@
       "talentId": "unknown",
       "talentName": "Octavio",
       "groupId": "holostars_en",
-      "startTime": "2026-01-30T07:00:00+09:00",
+      "startTime": "2026-01-30T07:04:00+09:00",
       "url": "https://www.youtube.com/watch?v=_9Dy9iOmskE",
       "thumbnail": "https://img.youtube.com/vi/_9Dy9iOmskE/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "unknown",
