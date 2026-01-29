@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-29T22:15:05.357Z",
+  "updatedAt": "2026-01-29T22:47:28.488Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -472,13 +472,13 @@
       "isLive": false
     },
     {
-      "talentId": "mori_calliope",
-      "talentName": "Mori Calliope",
-      "groupId": "en_myth",
+      "talentId": "fuwamoco",
+      "talentName": "FUWAMOCO",
+      "groupId": "en_advent",
       "startTime": "2026-01-30T10:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=BMKtiMlpW8w",
-      "thumbnail": "https://img.youtube.com/vi/BMKtiMlpW8w/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s88-c-k-c0x00ffffff-no-rj",
+      "url": "https://www.youtube.com/watch?v=_k7wgiTfSbw",
+      "thumbnail": "https://img.youtube.com/vi/_k7wgiTfSbw/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -502,13 +502,23 @@
       "isLive": false
     },
     {
-      "talentId": "fuwamoco",
-      "talentName": "FUWAMOCO",
-      "groupId": "en_advent",
+      "talentId": "mori_calliope",
+      "talentName": "Mori Calliope",
+      "groupId": "en_myth",
       "startTime": "2026-01-30T10:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=_k7wgiTfSbw",
-      "thumbnail": "https://img.youtube.com/vi/_k7wgiTfSbw/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s88-c-k-c0x00ffffff-no-rj",
+      "url": "https://www.youtube.com/watch?v=BMKtiMlpW8w",
+      "thumbnail": "https://img.youtube.com/vi/BMKtiMlpW8w/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "ouro_kronii",
+      "talentName": "Ouro Kronii",
+      "groupId": "en_promise",
+      "startTime": "2026-01-30T11:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=t9FeMg5nWvU",
+      "thumbnail": "https://img.youtube.com/vi/t9FeMg5nWvU/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
