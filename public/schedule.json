@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-29T11:07:51.306Z",
+  "updatedAt": "2026-01-29T11:44:43.682Z",
   "streams": [
     {
       "talentId": "tokino_sora",
@@ -909,7 +909,7 @@
       "url": "https://www.youtube.com/watch?v=uSbnol9EgfE",
       "thumbnail": "https://img.youtube.com/vi/uSbnol9EgfE/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -919,7 +919,7 @@
       "url": "https://www.youtube.com/watch?v=jk6_GOU98po",
       "thumbnail": "https://img.youtube.com/vi/jk6_GOU98po/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -1379,7 +1379,7 @@
       "url": "https://www.youtube.com/watch?v=l2t-2Y_EBFY",
       "thumbnail": "https://img.youtube.com/vi/l2t-2Y_EBFY/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
