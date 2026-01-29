@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-29T15:18:53.630Z",
+  "updatedAt": "2026-01-29T15:57:44.659Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -219,7 +219,7 @@
       "url": "https://www.youtube.com/watch?v=NReD448Vqw8",
       "thumbnail": "https://img.youtube.com/vi/NReD448Vqw8/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "sakura_miko",
@@ -249,7 +249,7 @@
       "url": "https://www.youtube.com/watch?v=2KP6R3S-SAA",
       "thumbnail": "https://img.youtube.com/vi/2KP6R3S-SAA/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "azki",
@@ -289,6 +289,16 @@
       "url": "https://www.youtube.com/watch?v=IVzsv2d-xNg",
       "thumbnail": "https://img.youtube.com/vi/IVzsv2d-xNg/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "nekomata_okayu",
+      "talentName": "Nekomata Okayu",
+      "groupId": "gamers",
+      "startTime": "2026-01-31T21:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=7YhSSeHjLKQ",
+      "thumbnail": "https://img.youtube.com/vi/7YhSSeHjLKQ/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -369,13 +379,13 @@
       "url": "https://www.youtube.com/watch?v=n16krIRy0vY",
       "thumbnail": "https://img.youtube.com/vi/n16krIRy0vY/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "mori_calliope",
       "talentName": "Mori Calliope",
       "groupId": "en_myth",
-      "startTime": "2026-01-30T01:00:00+09:00",
+      "startTime": "2026-01-30T00:45:00+09:00",
       "url": "https://www.youtube.com/watch?v=54G9q-B-L5Q",
       "thumbnail": "https://img.youtube.com/vi/54G9q-B-L5Q/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s88-c-k-c0x00ffffff-no-rj",
@@ -399,6 +409,16 @@
       "url": "https://www.youtube.com/watch?v=qjRpmQrcSYM",
       "thumbnail": "https://img.youtube.com/vi/qjRpmQrcSYM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "ninomae_inanis",
+      "talentName": "Ninomae Ina'nis",
+      "groupId": "en_myth",
+      "startTime": "2026-01-30T07:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=r-BRRVsOkak",
+      "thumbnail": "https://img.youtube.com/vi/r-BRRVsOkak/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -432,16 +452,6 @@
       "isLive": false
     },
     {
-      "talentId": "mori_calliope",
-      "talentName": "Mori Calliope",
-      "groupId": "en_myth",
-      "startTime": "2026-01-30T10:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=BMKtiMlpW8w",
-      "thumbnail": "https://img.youtube.com/vi/BMKtiMlpW8w/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
       "talentId": "fuwamoco",
       "talentName": "FUWAMOCO",
       "groupId": "en_advent",
@@ -449,6 +459,16 @@
       "url": "https://www.youtube.com/watch?v=_k7wgiTfSbw",
       "thumbnail": "https://img.youtube.com/vi/_k7wgiTfSbw/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "mori_calliope",
+      "talentName": "Mori Calliope",
+      "groupId": "en_myth",
+      "startTime": "2026-01-30T10:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=BMKtiMlpW8w",
+      "thumbnail": "https://img.youtube.com/vi/BMKtiMlpW8w/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -579,7 +599,7 @@
       "url": "https://www.youtube.com/watch?v=gLMz3zlx9m0",
       "thumbnail": "https://img.youtube.com/vi/gLMz3zlx9m0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -736,8 +756,8 @@
       "talentName": "Altare",
       "groupId": "holostars_en",
       "startTime": "2026-01-30T09:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=luMzbmtLMuA",
-      "thumbnail": "https://img.youtube.com/vi/luMzbmtLMuA/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=i08YubyCY0Y",
+      "thumbnail": "https://img.youtube.com/vi/i08YubyCY0Y/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/12Y9I0cP0EqJe4Wpkm19p_MythjFqYcMZRC3vN4bYPSzE9ANTIFXOhZdfP1TQpAi4Thw741twyg=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
@@ -746,8 +766,8 @@
       "talentName": "Altare",
       "groupId": "holostars_en",
       "startTime": "2026-01-30T09:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=i08YubyCY0Y",
-      "thumbnail": "https://img.youtube.com/vi/i08YubyCY0Y/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=luMzbmtLMuA",
+      "thumbnail": "https://img.youtube.com/vi/luMzbmtLMuA/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/12Y9I0cP0EqJe4Wpkm19p_MythjFqYcMZRC3vN4bYPSzE9ANTIFXOhZdfP1TQpAi4Thw741twyg=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
