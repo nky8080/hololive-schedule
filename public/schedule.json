@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-29T06:26:14.198Z",
+  "updatedAt": "2026-01-29T07:10:49.277Z",
   "streams": [
     {
       "talentId": "tokino_sora",
@@ -372,13 +372,13 @@
       "isLive": false
     },
     {
-      "talentId": "tsunomaki_watame",
-      "talentName": "Tsunomaki Watame",
-      "groupId": "gen4",
+      "talentId": "nekomata_okayu",
+      "talentName": "Nekomata Okayu",
+      "groupId": "gamers",
       "startTime": "2026-01-29T22:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=STw0erZTYy4",
-      "thumbnail": "https://img.youtube.com/vi/STw0erZTYy4/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s88-c-k-c0x00ffffff-no-rj",
+      "url": "https://www.youtube.com/watch?v=ZS63TAMx-Lg",
+      "thumbnail": "https://img.youtube.com/vi/ZS63TAMx-Lg/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -392,13 +392,13 @@
       "isLive": false
     },
     {
-      "talentId": "nekomata_okayu",
-      "talentName": "Nekomata Okayu",
-      "groupId": "gamers",
+      "talentId": "tsunomaki_watame",
+      "talentName": "Tsunomaki Watame",
+      "groupId": "gen4",
       "startTime": "2026-01-29T22:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=ZS63TAMx-Lg",
-      "thumbnail": "https://img.youtube.com/vi/ZS63TAMx-Lg/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s88-c-k-c0x00ffffff-no-rj",
+      "url": "https://www.youtube.com/watch?v=STw0erZTYy4",
+      "thumbnail": "https://img.youtube.com/vi/STw0erZTYy4/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -779,7 +779,7 @@
       "url": "https://www.youtube.com/watch?v=jk6_GOU98po",
       "thumbnail": "https://img.youtube.com/vi/jk6_GOU98po/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "unknown",
@@ -789,6 +789,16 @@
       "url": "https://www.youtube.com/watch?v=EXhJArMPdAo",
       "thumbnail": "https://img.youtube.com/vi/EXhJArMPdAo/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "水無世燐央",
+      "groupId": "holostars_jp",
+      "startTime": "2026-01-29T23:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=gLMz3zlx9m0",
+      "thumbnail": "https://img.youtube.com/vi/gLMz3zlx9m0/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -959,7 +969,7 @@
       "url": "https://www.youtube.com/watch?v=vudXm_zfbPM",
       "thumbnail": "https://img.youtube.com/vi/vudXm_zfbPM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -986,8 +996,8 @@
       "talentName": "Altare",
       "groupId": "holostars_en",
       "startTime": "2026-01-30T09:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=i08YubyCY0Y",
-      "thumbnail": "https://img.youtube.com/vi/i08YubyCY0Y/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=luMzbmtLMuA",
+      "thumbnail": "https://img.youtube.com/vi/luMzbmtLMuA/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/12Y9I0cP0EqJe4Wpkm19p_MythjFqYcMZRC3vN4bYPSzE9ANTIFXOhZdfP1TQpAi4Thw741twyg=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
@@ -996,8 +1006,8 @@
       "talentName": "Altare",
       "groupId": "holostars_en",
       "startTime": "2026-01-30T09:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=luMzbmtLMuA",
-      "thumbnail": "https://img.youtube.com/vi/luMzbmtLMuA/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=i08YubyCY0Y",
+      "thumbnail": "https://img.youtube.com/vi/i08YubyCY0Y/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/12Y9I0cP0EqJe4Wpkm19p_MythjFqYcMZRC3vN4bYPSzE9ANTIFXOhZdfP1TQpAi4Thw741twyg=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
@@ -1022,16 +1032,6 @@
       "isLive": false
     },
     {
-      "talentId": "kikirara_vivi",
-      "talentName": "Kikirara Vivi",
-      "groupId": "flow_glow",
-      "startTime": "2026-01-28T17:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=-w9zEt8KTWE",
-      "thumbnail": "https://img.youtube.com/vi/-w9zEt8KTWE/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
       "talentId": "mizumiya_su",
       "talentName": "Mizumiya Su",
       "groupId": "flow_glow",
@@ -1039,6 +1039,16 @@
       "url": "https://www.youtube.com/watch?v=W5gLeNhuJZA",
       "thumbnail": "https://img.youtube.com/vi/W5gLeNhuJZA/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "kikirara_vivi",
+      "talentName": "Kikirara Vivi",
+      "groupId": "flow_glow",
+      "startTime": "2026-01-28T17:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=-w9zEt8KTWE",
+      "thumbnail": "https://img.youtube.com/vi/-w9zEt8KTWE/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
