@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-28T23:57:39.827Z",
+  "updatedAt": "2026-01-29T01:24:13.476Z",
   "streams": [
     {
       "talentId": "tokino_sora",
@@ -272,6 +272,26 @@
       "isLive": false
     },
     {
+      "talentId": "omaru_polka",
+      "talentName": "Omaru Polka",
+      "groupId": "gen5",
+      "startTime": "2026-01-29T11:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=XWTGC-rDkgs",
+      "thumbnail": "https://img.youtube.com/vi/XWTGC-rDkgs/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "shirogane_noel",
+      "talentName": "Shirogane Noel",
+      "groupId": "gen3",
+      "startTime": "2026-01-29T17:30:00+09:00",
+      "url": "https://www.youtube.com/watch?v=0fYTHyXTVC0",
+      "thumbnail": "https://img.youtube.com/vi/0fYTHyXTVC0/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "hakui_koyori",
       "talentName": "Hakui Koyori",
       "groupId": "holoX",
@@ -422,13 +442,13 @@
       "isLive": false
     },
     {
-      "talentId": "nerissa_ravencroft",
-      "talentName": "Nerissa Ravencroft",
-      "groupId": "en_advent",
+      "talentId": "ouro_kronii",
+      "talentName": "Ouro Kronii",
+      "groupId": "en_promise",
       "startTime": "2026-01-29T11:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=uJ0acHSo8VA",
-      "thumbnail": "https://img.youtube.com/vi/uJ0acHSo8VA/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ=s88-c-k-c0x00ffffff-no-rj",
+      "url": "https://www.youtube.com/watch?v=ddTZjenjNuo",
+      "thumbnail": "https://img.youtube.com/vi/ddTZjenjNuo/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -442,13 +462,13 @@
       "isLive": false
     },
     {
-      "talentId": "ouro_kronii",
-      "talentName": "Ouro Kronii",
-      "groupId": "en_promise",
+      "talentId": "nerissa_ravencroft",
+      "talentName": "Nerissa Ravencroft",
+      "groupId": "en_advent",
       "startTime": "2026-01-29T11:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=ddTZjenjNuo",
-      "thumbnail": "https://img.youtube.com/vi/ddTZjenjNuo/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s88-c-k-c0x00ffffff-no-rj",
+      "url": "https://www.youtube.com/watch?v=uJ0acHSo8VA",
+      "thumbnail": "https://img.youtube.com/vi/uJ0acHSo8VA/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -725,21 +745,61 @@
       "talentId": "unknown",
       "talentName": "Hakka",
       "groupId": "holostars_en",
-      "startTime": "2026-01-29T09:00:00+09:00",
+      "startTime": "2026-01-29T08:59:00+09:00",
       "url": "https://www.youtube.com/watch?v=URpE110aBJ0",
       "thumbnail": "https://img.youtube.com/vi/URpE110aBJ0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Jurard",
+      "groupId": "holostars_en",
+      "startTime": "2026-01-29T09:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=Ao4R2BbFJbM",
+      "thumbnail": "https://img.youtube.com/vi/Ao4R2BbFJbM/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/EA7rVsjrX8vvWUcCw-tEiLj4mrTZK3pvCdRmq07ylzGLBvMRL0FyU6rnMvk6-4umPUWJm8TeNg=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
       "talentId": "unknown",
       "talentName": "Crimzon",
       "groupId": "holostars_en",
+      "startTime": "2026-01-29T09:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=LIHscoIoxf0",
+      "thumbnail": "https://img.youtube.com/vi/LIHscoIoxf0/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Goldbullet",
+      "groupId": "holostars_en",
+      "startTime": "2026-01-29T09:01:00+09:00",
+      "url": "https://www.youtube.com/watch?v=vZsph9r8j-o",
+      "thumbnail": "https://img.youtube.com/vi/vZsph9r8j-o/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/pP_ShozRg9Hn8dyB4D8ODtdI9ShTY3AMOKui418InNDz9jwGYIRRH6bxdl7KX55SjmFMZlMUvg=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Octavio",
+      "groupId": "holostars_en",
       "startTime": "2026-01-29T10:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=OHFBggfxX7A",
+      "thumbnail": "https://img.youtube.com/vi/OHFBggfxX7A/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Crimzon",
+      "groupId": "holostars_en",
+      "startTime": "2026-01-29T10:02:00+09:00",
       "url": "https://www.youtube.com/watch?v=2apqjMyxnwg",
       "thumbnail": "https://img.youtube.com/vi/2apqjMyxnwg/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "unknown",
@@ -759,6 +819,16 @@
       "url": "https://www.youtube.com/watch?v=vudXm_zfbPM",
       "thumbnail": "https://img.youtube.com/vi/vudXm_zfbPM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Altare",
+      "groupId": "holostars_en",
+      "startTime": "2026-01-29T23:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=YjUQnXJkWcg",
+      "thumbnail": "https://img.youtube.com/vi/YjUQnXJkWcg/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/12Y9I0cP0EqJe4Wpkm19p_MythjFqYcMZRC3vN4bYPSzE9ANTIFXOhZdfP1TQpAi4Thw741twyg=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
