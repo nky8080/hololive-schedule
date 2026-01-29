@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-29T04:56:28.654Z",
+  "updatedAt": "2026-01-29T05:36:33.633Z",
   "streams": [
     {
       "talentId": "tokino_sora",
@@ -299,6 +299,16 @@
       "url": "https://www.youtube.com/watch?v=D4mJQlRQELY",
       "thumbnail": "https://img.youtube.com/vi/D4mJQlRQELY/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "natsuiro_matsuri",
+      "talentName": "Natsuiro Matsuri",
+      "groupId": "gen1",
+      "startTime": "2026-01-29T18:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=MAmeoxzlrn8",
+      "thumbnail": "https://img.youtube.com/vi/MAmeoxzlrn8/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -713,6 +723,16 @@
     },
     {
       "talentId": "unknown",
+      "talentName": "岸堂天真",
+      "groupId": "holostars_jp",
+      "startTime": "2026-01-29T14:06:00+09:00",
+      "url": "https://www.youtube.com/watch?v=5ZFAImGDU-g",
+      "thumbnail": "https://img.youtube.com/vi/5ZFAImGDU-g/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
+    },
+    {
+      "talentId": "unknown",
       "talentName": "夜十神封魔",
       "groupId": "holostars_jp",
       "startTime": "2026-01-29T15:00:00+09:00",
@@ -829,7 +849,7 @@
       "url": "https://www.youtube.com/watch?v=URpE110aBJ0",
       "thumbnail": "https://img.youtube.com/vi/URpE110aBJ0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -909,7 +929,7 @@
       "url": "https://www.youtube.com/watch?v=3ti4r5KGE7Q",
       "thumbnail": "https://img.youtube.com/vi/3ti4r5KGE7Q/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
