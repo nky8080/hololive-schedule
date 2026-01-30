@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-30T20:51:45.750Z",
+  "updatedAt": "2026-01-30T21:17:14.909Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -159,7 +159,17 @@
       "url": "https://www.youtube.com/watch?v=SGtIybn654Q",
       "thumbnail": "https://img.youtube.com/vi/SGtIybn654Q/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
+    },
+    {
+      "talentId": "tsunomaki_watame",
+      "talentName": "Tsunomaki Watame",
+      "groupId": "gen4",
+      "startTime": "2026-01-31T06:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=V1UyzWGwkQA",
+      "thumbnail": "https://img.youtube.com/vi/V1UyzWGwkQA/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
     },
     {
       "talentId": "oozora_subaru",
@@ -455,11 +465,11 @@
       "talentId": "shiori_novella",
       "talentName": "Shiori Novella",
       "groupId": "en_advent",
-      "startTime": "2026-01-31T06:00:00+09:00",
+      "startTime": "2026-01-31T05:57:00+09:00",
       "url": "https://www.youtube.com/watch?v=8_o_a1xEYpY",
       "thumbnail": "https://img.youtube.com/vi/8_o_a1xEYpY/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "gigi_murin",
