@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-30T21:45:44.785Z",
+  "updatedAt": "2026-01-30T22:11:58.154Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -485,11 +485,11 @@
       "talentId": "gigi_murin",
       "talentName": "Gigi Murin",
       "groupId": "en_justice",
-      "startTime": "2026-01-31T07:00:00+09:00",
+      "startTime": "2026-01-31T07:01:00+09:00",
       "url": "https://www.youtube.com/watch?v=jYhF6d5b84c",
       "thumbnail": "https://img.youtube.com/vi/jYhF6d5b84c/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "ninomae_inanis",
@@ -895,11 +895,11 @@
       "talentId": "unknown",
       "talentName": "Bettel",
       "groupId": "holostars_en",
-      "startTime": "2026-01-31T07:00:00+09:00",
+      "startTime": "2026-01-31T06:59:00+09:00",
       "url": "https://www.youtube.com/watch?v=Re1PWnHgPw8",
       "thumbnail": "https://img.youtube.com/vi/Re1PWnHgPw8/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/kv71-xuB9kzbU7Bi4qsmkRXHc3wAgEU4rhllRnmGH4H23T825BKdGqEAcagTSE9r8BdsnG4lqQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "unknown",
