@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-30T08:24:02.287Z",
+  "updatedAt": "2026-01-30T09:02:18.002Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -379,6 +379,16 @@
       "url": "https://www.youtube.com/watch?v=hMl5Rlxh9dY",
       "thumbnail": "https://img.youtube.com/vi/hMl5Rlxh9dY/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "shirogane_noel",
+      "talentName": "Shirogane Noel",
+      "groupId": "gen3",
+      "startTime": "2026-01-31T11:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=CmcU5eJ91tQ",
+      "thumbnail": "https://img.youtube.com/vi/CmcU5eJ91tQ/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -1279,6 +1289,16 @@
       "url": "https://www.youtube.com/watch?v=gvHeYFwfrFo",
       "thumbnail": "https://img.youtube.com/vi/gvHeYFwfrFo/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "輪堂千速",
+      "groupId": "dev_is",
+      "startTime": "2026-01-30T17:31:00+09:00",
+      "url": "https://www.youtube.com/watch?v=qLXf3ngd7YQ",
+      "thumbnail": "https://img.youtube.com/vi/qLXf3ngd7YQ/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
