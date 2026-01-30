@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-30T04:59:46.952Z",
+  "updatedAt": "2026-01-30T05:45:28.304Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -292,12 +292,42 @@
       "isLive": false
     },
     {
+      "talentId": "usada_pekora",
+      "talentName": "Usada Pekora",
+      "groupId": "gen3",
+      "startTime": "2026-01-30T20:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=n8cJt0d4Uz8",
+      "thumbnail": "https://img.youtube.com/vi/n8cJt0d4Uz8/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "omaru_polka",
       "talentName": "Omaru Polka",
       "groupId": "gen5",
       "startTime": "2026-01-30T21:00:00+09:00",
       "url": "https://www.youtube.com/watch?v=zzVcTQOdLZE",
       "thumbnail": "https://img.youtube.com/vi/zzVcTQOdLZE/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "omaru_polka",
+      "talentName": "Omaru Polka",
+      "groupId": "gen5",
+      "startTime": "2026-01-30T22:15:00+09:00",
+      "url": "https://www.youtube.com/watch?v=LyY_LcuTr3c",
+      "thumbnail": "https://img.youtube.com/vi/LyY_LcuTr3c/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "omaru_polka",
+      "talentName": "Omaru Polka",
+      "groupId": "gen5",
+      "startTime": "2026-01-30T22:30:00+09:00",
+      "url": "https://www.youtube.com/watch?v=Czi1kue9VJc",
+      "thumbnail": "https://img.youtube.com/vi/Czi1kue9VJc/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
@@ -529,7 +559,7 @@
       "url": "https://www.youtube.com/watch?v=_k7wgiTfSbw",
       "thumbnail": "https://img.youtube.com/vi/_k7wgiTfSbw/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "koseki_bijou",
@@ -549,7 +579,7 @@
       "url": "https://www.youtube.com/watch?v=t9FeMg5nWvU",
       "thumbnail": "https://img.youtube.com/vi/t9FeMg5nWvU/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "takanashi_kiara",
@@ -769,7 +799,7 @@
       "url": "https://www.youtube.com/watch?v=AgdDALvUx4U",
       "thumbnail": "https://img.youtube.com/vi/AgdDALvUx4U/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
