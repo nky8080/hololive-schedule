@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-30T07:13:27.745Z",
+  "updatedAt": "2026-01-30T07:53:13.523Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -839,6 +839,26 @@
       "url": "https://www.youtube.com/watch?v=AgdDALvUx4U",
       "thumbnail": "https://img.youtube.com/vi/AgdDALvUx4U/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "アステル・レダ",
+      "groupId": "holostars_jp",
+      "startTime": "2026-01-30T17:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=vxjgkos_OL0",
+      "thumbnail": "https://img.youtube.com/vi/vxjgkos_OL0/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "律可",
+      "groupId": "holostars_jp",
+      "startTime": "2026-01-30T21:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=MKc-tkrndOA",
+      "thumbnail": "https://img.youtube.com/vi/MKc-tkrndOA/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
