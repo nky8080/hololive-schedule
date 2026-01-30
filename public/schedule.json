@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-30T11:27:09.446Z",
+  "updatedAt": "2026-01-30T11:48:06.727Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -369,6 +369,16 @@
       "url": "https://www.youtube.com/watch?v=zzVcTQOdLZE",
       "thumbnail": "https://img.youtube.com/vi/zzVcTQOdLZE/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "shirakami_fubuki",
+      "talentName": "Shirakami Fubuki",
+      "groupId": "gen1",
+      "startTime": "2026-01-30T22:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=usYYoWuNjl8",
+      "thumbnail": "https://img.youtube.com/vi/usYYoWuNjl8/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -973,22 +983,22 @@
     },
     {
       "talentId": "unknown",
-      "talentName": "水無世燐央",
-      "groupId": "holostars_jp",
-      "startTime": "2026-01-30T22:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=TWuzq0iSBs0",
-      "thumbnail": "https://img.youtube.com/vi/TWuzq0iSBs0/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
-      "talentId": "unknown",
       "talentName": "アステル・レダ",
       "groupId": "holostars_jp",
       "startTime": "2026-01-30T22:00:00+09:00",
       "url": "https://www.youtube.com/watch?v=JlWNMiuLzS4",
       "thumbnail": "https://img.youtube.com/vi/JlWNMiuLzS4/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "水無世燐央",
+      "groupId": "holostars_jp",
+      "startTime": "2026-01-30T23:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=TWuzq0iSBs0",
+      "thumbnail": "https://img.youtube.com/vi/TWuzq0iSBs0/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
