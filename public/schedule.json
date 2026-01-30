@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-30T19:18:50.869Z",
+  "updatedAt": "2026-01-30T19:50:29.803Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -449,7 +449,7 @@
       "url": "https://www.youtube.com/watch?v=1fR8zn4sslY",
       "thumbnail": "https://img.youtube.com/vi/1fR8zn4sslY/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "shiori_novella",
@@ -1049,7 +1049,7 @@
       "url": "https://www.youtube.com/watch?v=7-QHTyMSqs4",
       "thumbnail": "https://img.youtube.com/vi/7-QHTyMSqs4/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "isaki_riona",
