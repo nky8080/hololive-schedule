@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-30T17:26:56.877Z",
+  "updatedAt": "2026-01-30T17:57:48.906Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -492,6 +492,16 @@
       "isLive": false
     },
     {
+      "talentId": "irys",
+      "talentName": "IRyS",
+      "groupId": "en_promise",
+      "startTime": "2026-01-31T13:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=sJZwiTf80aw",
+      "thumbnail": "https://img.youtube.com/vi/sJZwiTf80aw/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "fuwamoco",
       "talentName": "FUWAMOCO",
       "groupId": "en_advent",
@@ -589,7 +599,7 @@
       "url": "https://www.youtube.com/watch?v=PcXdVklmSTs",
       "thumbnail": "https://img.youtube.com/vi/PcXdVklmSTs/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "vestia_zeta",
@@ -599,7 +609,7 @@
       "url": "https://www.youtube.com/watch?v=CQ0Yf3CZfKM",
       "thumbnail": "https://img.youtube.com/vi/CQ0Yf3CZfKM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -689,7 +699,7 @@
       "url": "https://www.youtube.com/watch?v=JlWNMiuLzS4",
       "thumbnail": "https://img.youtube.com/vi/JlWNMiuLzS4/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
