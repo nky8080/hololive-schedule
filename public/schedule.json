@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-30T09:02:18.002Z",
+  "updatedAt": "2026-01-30T09:54:26.401Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -292,6 +292,26 @@
       "isLive": false
     },
     {
+      "talentId": "takane_lui",
+      "talentName": "Takane Lui",
+      "groupId": "holoX",
+      "startTime": "2026-01-30T18:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=bn--MUZ4bvE",
+      "thumbnail": "https://img.youtube.com/vi/bn--MUZ4bvE/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "natsuiro_matsuri",
+      "talentName": "Natsuiro Matsuri",
+      "groupId": "gen1",
+      "startTime": "2026-01-30T18:45:00+09:00",
+      "url": "https://www.youtube.com/watch?v=6vsufkEruzo",
+      "thumbnail": "https://img.youtube.com/vi/6vsufkEruzo/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "hakui_koyori",
       "talentName": "Hakui Koyori",
       "groupId": "holoX",
@@ -299,6 +319,26 @@
       "url": "https://www.youtube.com/watch?v=lvqmhT5uPno",
       "thumbnail": "https://img.youtube.com/vi/lvqmhT5uPno/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "sakura_miko",
+      "talentName": "Sakura Miko",
+      "groupId": "gen0",
+      "startTime": "2026-01-30T20:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=8SMZxeMSCnA",
+      "thumbnail": "https://img.youtube.com/vi/8SMZxeMSCnA/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "shirogane_noel",
+      "talentName": "Shirogane Noel",
+      "groupId": "gen3",
+      "startTime": "2026-01-30T20:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=AjnWAtFI64g",
+      "thumbnail": "https://img.youtube.com/vi/AjnWAtFI64g/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -879,7 +919,27 @@
       "url": "https://www.youtube.com/watch?v=vxjgkos_OL0",
       "thumbnail": "https://img.youtube.com/vi/vxjgkos_OL0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "アルランディス",
+      "groupId": "holostars_jp",
+      "startTime": "2026-01-30T18:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=4XNbHQz3Ars",
+      "thumbnail": "https://img.youtube.com/vi/4XNbHQz3Ars/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "羽継烏有",
+      "groupId": "holostars_jp",
+      "startTime": "2026-01-30T21:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=dMZyXiFShsA",
+      "thumbnail": "https://img.youtube.com/vi/dMZyXiFShsA/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -1309,6 +1369,16 @@
       "url": "https://www.youtube.com/watch?v=eSgNGInGla4",
       "thumbnail": "https://img.youtube.com/vi/eSgNGInGla4/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "ReGLOSS",
+      "groupId": "dev_is",
+      "startTime": "2026-01-30T18:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=_0H_9NOO8n8",
+      "thumbnail": "https://img.youtube.com/vi/_0H_9NOO8n8/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
