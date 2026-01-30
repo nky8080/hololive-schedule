@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-30T20:15:39.404Z",
+  "updatedAt": "2026-01-30T20:51:45.750Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -869,6 +869,16 @@
       "url": "https://www.youtube.com/watch?v=puJjGVvKJfc",
       "thumbnail": "https://img.youtube.com/vi/puJjGVvKJfc/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Bettel",
+      "groupId": "holostars_en",
+      "startTime": "2026-01-31T07:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=Re1PWnHgPw8",
+      "thumbnail": "https://img.youtube.com/vi/Re1PWnHgPw8/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/kv71-xuB9kzbU7Bi4qsmkRXHc3wAgEU4rhllRnmGH4H23T825BKdGqEAcagTSE9r8BdsnG4lqQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
