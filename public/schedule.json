@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-31T16:46:29.928Z",
+  "updatedAt": "2026-01-31T17:14:29.217Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -562,16 +562,6 @@
       "isLive": false
     },
     {
-      "talentId": "takanashi_kiara",
-      "talentName": "Takanashi Kiara",
-      "groupId": "en_myth",
-      "startTime": "2026-02-01T01:45:00+09:00",
-      "url": "https://www.youtube.com/watch?v=F1uBn-aJq6o",
-      "thumbnail": "https://img.youtube.com/vi/F1uBn-aJq6o/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
       "talentId": "cecilia_immergreen",
       "talentName": "Cecilia Immergreen",
       "groupId": "en_justice",
@@ -619,6 +609,16 @@
       "url": "https://www.youtube.com/watch?v=FvtE-l68-l0",
       "thumbnail": "https://img.youtube.com/vi/FvtE-l68-l0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "takanashi_kiara",
+      "talentName": "Takanashi Kiara",
+      "groupId": "en_myth",
+      "startTime": "2026-02-02T01:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=F1uBn-aJq6o",
+      "thumbnail": "https://img.youtube.com/vi/F1uBn-aJq6o/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -915,7 +915,7 @@
       "talentId": "unknown",
       "talentName": "Jurard",
       "groupId": "holostars_en",
-      "startTime": "2026-02-01T14:00:00+09:00",
+      "startTime": "2026-02-02T14:00:00+09:00",
       "url": "https://www.youtube.com/watch?v=cAHlVMwnYJ4",
       "thumbnail": "https://img.youtube.com/vi/cAHlVMwnYJ4/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/EA7rVsjrX8vvWUcCw-tEiLj4mrTZK3pvCdRmq07ylzGLBvMRL0FyU6rnMvk6-4umPUWJm8TeNg=s88-c-k-c0x00ffffff-no-rj",
