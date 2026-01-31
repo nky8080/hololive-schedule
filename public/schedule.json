@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-31T05:26:21.691Z",
+  "updatedAt": "2026-01-31T05:57:48.696Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -232,6 +232,16 @@
       "isLive": true
     },
     {
+      "talentId": "unknown",
+      "talentName": "宝鐘マリン",
+      "groupId": "hololive_jp",
+      "startTime": "2026-01-31T14:19:00+09:00",
+      "url": "https://www.youtube.com/watch?v=CkgsW5izbjA",
+      "thumbnail": "https://img.youtube.com/vi/CkgsW5izbjA/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "himemori_luna",
       "talentName": "Himemori Luna",
       "groupId": "gen4",
@@ -239,6 +249,16 @@
       "url": "https://www.youtube.com/watch?v=V5CVhe4lozU",
       "thumbnail": "https://img.youtube.com/vi/V5CVhe4lozU/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "tsunomaki_watame",
+      "talentName": "Tsunomaki Watame",
+      "groupId": "gen4",
+      "startTime": "2026-01-31T18:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=HA3YLeI66WU",
+      "thumbnail": "https://img.youtube.com/vi/HA3YLeI66WU/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
