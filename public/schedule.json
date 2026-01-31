@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-31T08:14:44.224Z",
+  "updatedAt": "2026-01-31T08:46:47.344Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -209,7 +209,7 @@
       "url": "https://www.youtube.com/watch?v=Db1eOzFU33g",
       "thumbnail": "https://img.youtube.com/vi/Db1eOzFU33g/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "inugami_korone",
@@ -619,7 +619,7 @@
       "url": "https://www.youtube.com/watch?v=sJZwiTf80aw",
       "thumbnail": "https://img.youtube.com/vi/sJZwiTf80aw/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "fuwamoco",
@@ -909,6 +909,16 @@
       "url": "https://www.youtube.com/watch?v=Q5i23FT67MY",
       "thumbnail": "https://img.youtube.com/vi/Q5i23FT67MY/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "荒咬オウガ",
+      "groupId": "holostars_jp",
+      "startTime": "2026-01-31T22:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=RLcwa8jf7uk",
+      "thumbnail": "https://img.youtube.com/vi/RLcwa8jf7uk/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -1359,6 +1369,16 @@
       "url": "https://www.youtube.com/watch?v=8Q4ZDDx7J6s",
       "thumbnail": "https://img.youtube.com/vi/8Q4ZDDx7J6s/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "ichijou_ririka",
+      "talentName": "Ichijou Ririka",
+      "groupId": "regloss",
+      "startTime": "2026-01-31T19:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=GuDqpist5Bg",
+      "thumbnail": "https://img.youtube.com/vi/GuDqpist5Bg/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
