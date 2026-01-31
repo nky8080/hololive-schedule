@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-31T10:57:53.201Z",
+  "updatedAt": "2026-01-31T11:16:11.367Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -342,26 +342,6 @@
       "isLive": false
     },
     {
-      "talentId": "sakura_miko",
-      "talentName": "Sakura Miko",
-      "groupId": "gen0",
-      "startTime": "2026-01-31T20:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=flJm1zdFjHo",
-      "thumbnail": "https://img.youtube.com/vi/flJm1zdFjHo/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
-      "talentId": "shirogane_noel",
-      "talentName": "Shirogane Noel",
-      "groupId": "gen3",
-      "startTime": "2026-01-31T20:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=dX5NQJWQJmM",
-      "thumbnail": "https://img.youtube.com/vi/dX5NQJWQJmM/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
       "talentId": "unknown",
       "talentName": "ホロライブ",
       "groupId": "hololive_jp",
@@ -375,11 +355,31 @@
       "talentId": "usada_pekora",
       "talentName": "Usada Pekora",
       "groupId": "gen3",
-      "startTime": "2026-01-31T20:00:00+09:00",
+      "startTime": "2026-01-31T20:01:00+09:00",
       "url": "https://www.youtube.com/watch?v=9AQNjyBhjiQ",
       "thumbnail": "https://img.youtube.com/vi/9AQNjyBhjiQ/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
+    },
+    {
+      "talentId": "sakura_miko",
+      "talentName": "Sakura Miko",
+      "groupId": "gen0",
+      "startTime": "2026-01-31T20:02:00+09:00",
+      "url": "https://www.youtube.com/watch?v=flJm1zdFjHo",
+      "thumbnail": "https://img.youtube.com/vi/flJm1zdFjHo/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
+    },
+    {
+      "talentId": "shirogane_noel",
+      "talentName": "Shirogane Noel",
+      "groupId": "gen3",
+      "startTime": "2026-01-31T20:06:00+09:00",
+      "url": "https://www.youtube.com/watch?v=dX5NQJWQJmM",
+      "thumbnail": "https://img.youtube.com/vi/dX5NQJWQJmM/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
     },
     {
       "talentId": "oozora_subaru",
