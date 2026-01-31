@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-31T05:57:48.696Z",
+  "updatedAt": "2026-01-31T06:30:50.046Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -282,6 +282,16 @@
       "isLive": false
     },
     {
+      "talentId": "kazama_iroha",
+      "talentName": "Kazama Iroha",
+      "groupId": "holoX",
+      "startTime": "2026-01-31T19:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=g5baMHkfELs",
+      "thumbnail": "https://img.youtube.com/vi/g5baMHkfELs/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "nekomata_okayu",
       "talentName": "Nekomata Okayu",
       "groupId": "gamers",
@@ -329,6 +339,16 @@
       "url": "https://www.youtube.com/watch?v=Lix7lo46PZY",
       "thumbnail": "https://img.youtube.com/vi/Lix7lo46PZY/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "kazama_iroha",
+      "talentName": "Kazama Iroha",
+      "groupId": "holoX",
+      "startTime": "2026-02-01T14:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=wtzraiO02yg",
+      "thumbnail": "https://img.youtube.com/vi/wtzraiO02yg/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -592,16 +612,6 @@
       "isLive": false
     },
     {
-      "talentId": "elizabeth_rose_bloodflame",
-      "talentName": "Elizabeth Rose Bloodflame",
-      "groupId": "en_justice",
-      "startTime": "2026-01-31T23:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=9d354Nu-awM",
-      "thumbnail": "https://img.youtube.com/vi/9d354Nu-awM/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
       "talentId": "raora_panthera",
       "talentName": "Raora Panthera",
       "groupId": "en_justice",
@@ -609,6 +619,16 @@
       "url": "https://www.youtube.com/watch?v=9PqKKpm5tSM",
       "thumbnail": "https://img.youtube.com/vi/9PqKKpm5tSM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "elizabeth_rose_bloodflame",
+      "talentName": "Elizabeth Rose Bloodflame",
+      "groupId": "en_justice",
+      "startTime": "2026-01-31T23:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=9d354Nu-awM",
+      "thumbnail": "https://img.youtube.com/vi/9d354Nu-awM/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -839,16 +859,6 @@
       "url": "https://www.youtube.com/watch?v=lthTykmsS4M",
       "thumbnail": "https://img.youtube.com/vi/lthTykmsS4M/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
-    },
-    {
-      "talentId": "unknown",
-      "talentName": "羽継烏有",
-      "groupId": "holostars_jp",
-      "startTime": "2026-01-31T21:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=Q5i23FT67MY",
-      "thumbnail": "https://img.youtube.com/vi/Q5i23FT67MY/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -859,6 +869,16 @@
       "url": "https://www.youtube.com/watch?v=nVs9QUVMqE0",
       "thumbnail": "https://img.youtube.com/vi/nVs9QUVMqE0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "羽継烏有",
+      "groupId": "holostars_jp",
+      "startTime": "2026-01-31T21:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=Q5i23FT67MY",
+      "thumbnail": "https://img.youtube.com/vi/Q5i23FT67MY/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
