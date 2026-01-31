@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-31T21:10:48.740Z",
+  "updatedAt": "2026-01-31T21:33:56.776Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -1139,6 +1139,16 @@
       "url": "https://www.youtube.com/watch?v=xRtKhlj0U7E",
       "thumbnail": "https://img.youtube.com/vi/xRtKhlj0U7E/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "mizumiya_su",
+      "talentName": "Mizumiya Su",
+      "groupId": "flow_glow",
+      "startTime": "2026-02-01T22:30:00+09:00",
+      "url": "https://www.youtube.com/watch?v=mblFvhq6-8Y",
+      "thumbnail": "https://img.youtube.com/vi/mblFvhq6-8Y/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     }
   ]
