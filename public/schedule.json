@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-31T20:11:42.229Z",
+  "updatedAt": "2026-01-31T20:38:50.629Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -152,16 +152,6 @@
       "isLive": false
     },
     {
-      "talentId": "kazama_iroha",
-      "talentName": "Kazama Iroha",
-      "groupId": "holoX",
-      "startTime": "2026-01-31T19:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=g5baMHkfELs",
-      "thumbnail": "https://img.youtube.com/vi/g5baMHkfELs/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
       "talentId": "shishiro_botan",
       "talentName": "Shishiro Botan",
       "groupId": "gen5",
@@ -169,6 +159,16 @@
       "url": "https://www.youtube.com/watch?v=eTIk8cXEU3g",
       "thumbnail": "https://img.youtube.com/vi/eTIk8cXEU3g/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "kazama_iroha",
+      "talentName": "Kazama Iroha",
+      "groupId": "holoX",
+      "startTime": "2026-01-31T19:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=g5baMHkfELs",
+      "thumbnail": "https://img.youtube.com/vi/g5baMHkfELs/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -579,6 +579,16 @@
       "url": "https://www.youtube.com/watch?v=D7aNFbUmBkY",
       "thumbnail": "https://img.youtube.com/vi/D7aNFbUmBkY/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "elizabeth_rose_bloodflame",
+      "talentName": "Elizabeth Rose Bloodflame",
+      "groupId": "en_justice",
+      "startTime": "2026-02-01T05:34:00+09:00",
+      "url": "https://www.youtube.com/watch?v=DmMzpKRiR_0",
+      "thumbnail": "https://img.youtube.com/vi/DmMzpKRiR_0/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s88-c-k-c0x00ffffff-no-rj",
       "isLive": true
     },
     {
@@ -909,6 +919,16 @@
       "url": "https://www.youtube.com/watch?v=XrhHE8tsfd4",
       "thumbnail": "https://img.youtube.com/vi/XrhHE8tsfd4/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/12Y9I0cP0EqJe4Wpkm19p_MythjFqYcMZRC3vN4bYPSzE9ANTIFXOhZdfP1TQpAi4Thw741twyg=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Bettel",
+      "groupId": "holostars_en",
+      "startTime": "2026-02-01T06:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=deiEO17P1EA",
+      "thumbnail": "https://img.youtube.com/vi/deiEO17P1EA/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/kv71-xuB9kzbU7Bi4qsmkRXHc3wAgEU4rhllRnmGH4H23T825BKdGqEAcagTSE9r8BdsnG4lqQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
