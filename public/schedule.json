@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-31T11:16:11.367Z",
+  "updatedAt": "2026-01-31T11:39:59.172Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -382,16 +382,6 @@
       "isLive": true
     },
     {
-      "talentId": "oozora_subaru",
-      "talentName": "Oozora Subaru",
-      "groupId": "gen2",
-      "startTime": "2026-01-31T21:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=44YWMS-gb1Y",
-      "thumbnail": "https://img.youtube.com/vi/44YWMS-gb1Y/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
       "talentId": "nekomata_okayu",
       "talentName": "Nekomata Okayu",
       "groupId": "gamers",
@@ -412,13 +402,13 @@
       "isLive": false
     },
     {
-      "talentId": "tsunomaki_watame",
-      "talentName": "Tsunomaki Watame",
-      "groupId": "gen4",
-      "startTime": "2026-01-31T22:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=HTI2jmzSsMU",
-      "thumbnail": "https://img.youtube.com/vi/HTI2jmzSsMU/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s88-c-k-c0x00ffffff-no-rj",
+      "talentId": "oozora_subaru",
+      "talentName": "Oozora Subaru",
+      "groupId": "gen2",
+      "startTime": "2026-01-31T21:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=44YWMS-gb1Y",
+      "thumbnail": "https://img.youtube.com/vi/44YWMS-gb1Y/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -429,6 +419,16 @@
       "url": "https://www.youtube.com/watch?v=BYjTImZWJSY",
       "thumbnail": "https://img.youtube.com/vi/BYjTImZWJSY/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "tsunomaki_watame",
+      "talentName": "Tsunomaki Watame",
+      "groupId": "gen4",
+      "startTime": "2026-01-31T22:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=HTI2jmzSsMU",
+      "thumbnail": "https://img.youtube.com/vi/HTI2jmzSsMU/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -742,6 +742,16 @@
       "isLive": false
     },
     {
+      "talentId": "cecilia_immergreen",
+      "talentName": "Cecilia Immergreen",
+      "groupId": "en_justice",
+      "startTime": "2026-01-31T23:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=1zggtsYuymU",
+      "thumbnail": "https://img.youtube.com/vi/1zggtsYuymU/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "takanashi_kiara",
       "talentName": "Takanashi Kiara",
       "groupId": "en_myth",
@@ -1003,22 +1013,22 @@
     },
     {
       "talentId": "unknown",
-      "talentName": "羽継烏有",
-      "groupId": "holostars_jp",
-      "startTime": "2026-01-31T21:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=Q5i23FT67MY",
-      "thumbnail": "https://img.youtube.com/vi/Q5i23FT67MY/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
-      "talentId": "unknown",
       "talentName": "律可",
       "groupId": "holostars_jp",
       "startTime": "2026-01-31T21:00:00+09:00",
       "url": "https://www.youtube.com/watch?v=nVs9QUVMqE0",
       "thumbnail": "https://img.youtube.com/vi/nVs9QUVMqE0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "羽継烏有",
+      "groupId": "holostars_jp",
+      "startTime": "2026-01-31T21:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=Q5i23FT67MY",
+      "thumbnail": "https://img.youtube.com/vi/Q5i23FT67MY/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -1049,16 +1059,6 @@
       "url": "https://www.youtube.com/watch?v=_9Dy9iOmskE",
       "thumbnail": "https://img.youtube.com/vi/_9Dy9iOmskE/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
-      "talentId": "unknown",
-      "talentName": "Altare",
-      "groupId": "holostars_en",
-      "startTime": "2026-01-30T09:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=luMzbmtLMuA",
-      "thumbnail": "https://img.youtube.com/vi/luMzbmtLMuA/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/12Y9I0cP0EqJe4Wpkm19p_MythjFqYcMZRC3vN4bYPSzE9ANTIFXOhZdfP1TQpAi4Thw741twyg=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -1249,7 +1249,7 @@
       "url": "https://www.youtube.com/watch?v=ylP7U-dPgP4",
       "thumbnail": "https://img.youtube.com/vi/ylP7U-dPgP4/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -1259,6 +1259,16 @@
       "url": "https://www.youtube.com/watch?v=d-lKbrgnv8k",
       "thumbnail": "https://img.youtube.com/vi/d-lKbrgnv8k/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Altare",
+      "groupId": "holostars_en",
+      "startTime": "2026-02-01T00:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=XrhHE8tsfd4",
+      "thumbnail": "https://img.youtube.com/vi/XrhHE8tsfd4/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/12Y9I0cP0EqJe4Wpkm19p_MythjFqYcMZRC3vN4bYPSzE9ANTIFXOhZdfP1TQpAi4Thw741twyg=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
