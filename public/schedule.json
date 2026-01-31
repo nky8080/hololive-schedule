@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-31T10:43:39.564Z",
+  "updatedAt": "2026-01-31T10:57:53.201Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -319,7 +319,7 @@
       "url": "https://www.youtube.com/watch?v=eTIk8cXEU3g",
       "thumbnail": "https://img.youtube.com/vi/eTIk8cXEU3g/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "kazama_iroha",
@@ -715,11 +715,11 @@
       "talentId": "fuwamoco",
       "talentName": "FUWAMOCO",
       "groupId": "en_advent",
-      "startTime": "2026-01-31T20:00:00+09:00",
+      "startTime": "2026-01-31T19:57:00+09:00",
       "url": "https://www.youtube.com/watch?v=yAmjEO-_Wtc",
       "thumbnail": "https://img.youtube.com/vi/yAmjEO-_Wtc/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "raora_panthera",
@@ -1529,6 +1529,16 @@
       "url": "https://www.youtube.com/watch?v=gA7fJidetuU",
       "thumbnail": "https://img.youtube.com/vi/gA7fJidetuU/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/bEDo7y7rywqDZpSqS7StN3vxPg4YPEfh_faAf2CENKsk4L9SgrsU0UeClvH-nsPq1i5xNFM89Q=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "otonose_kanade",
+      "talentName": "Otonose Kanade",
+      "groupId": "regloss",
+      "startTime": "2026-01-31T21:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=zi60qBQOoxQ",
+      "thumbnail": "https://img.youtube.com/vi/zi60qBQOoxQ/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
