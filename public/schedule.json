@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-31T22:55:05.474Z",
+  "updatedAt": "2026-01-31T23:11:00.789Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -592,16 +592,6 @@
       "isLive": false
     },
     {
-      "talentId": "elizabeth_rose_bloodflame",
-      "talentName": "Elizabeth Rose Bloodflame",
-      "groupId": "en_justice",
-      "startTime": "2026-02-01T05:34:00+09:00",
-      "url": "https://www.youtube.com/watch?v=DmMzpKRiR_0",
-      "thumbnail": "https://img.youtube.com/vi/DmMzpKRiR_0/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
-    },
-    {
       "talentId": "gigi_murin",
       "talentName": "Gigi Murin",
       "groupId": "en_justice",
@@ -619,7 +609,7 @@
       "url": "https://www.youtube.com/watch?v=cOeuScIHkng",
       "thumbnail": "https://img.youtube.com/vi/cOeuScIHkng/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "ouro_kronii",
