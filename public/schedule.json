@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-31T04:43:19.195Z",
+  "updatedAt": "2026-01-31T05:26:21.691Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -519,7 +519,7 @@
       "url": "https://www.youtube.com/watch?v=dOEZKCXuR04",
       "thumbnail": "https://img.youtube.com/vi/dOEZKCXuR04/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "koseki_bijou",
@@ -833,6 +833,16 @@
     },
     {
       "talentId": "unknown",
+      "talentName": "律可",
+      "groupId": "holostars_jp",
+      "startTime": "2026-01-31T21:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=nVs9QUVMqE0",
+      "thumbnail": "https://img.youtube.com/vi/nVs9QUVMqE0/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
       "talentName": "水無世燐央",
       "groupId": "holostars_jp",
       "startTime": "2026-01-31T23:00:00+09:00",
@@ -1029,7 +1039,7 @@
       "url": "https://www.youtube.com/watch?v=BD5Mve2X-ck",
       "thumbnail": "https://img.youtube.com/vi/BD5Mve2X-ck/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/GkDmDWOfKfFkcVmG3-ECCRMeFR4bXlWBvuGO3xu3Ud68kVTWssXpn5q266BmtXvcHuzc5Ib2iFQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -1050,6 +1060,16 @@
       "thumbnail": "https://img.youtube.com/vi/ylP7U-dPgP4/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s88-c-k-c0x00ffffff-no-rj",
       "isLive": true
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Octavio",
+      "groupId": "holostars_en",
+      "startTime": "2026-01-31T21:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=d-lKbrgnv8k",
+      "thumbnail": "https://img.youtube.com/vi/d-lKbrgnv8k/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -1245,10 +1265,20 @@
       "talentId": "otonose_kanade",
       "talentName": "Otonose Kanade",
       "groupId": "regloss",
-      "startTime": "2026-01-31T14:00:00+09:00",
+      "startTime": "2026-01-31T14:02:00+09:00",
       "url": "https://www.youtube.com/watch?v=usor-4Aaoe8",
       "thumbnail": "https://img.youtube.com/vi/usor-4Aaoe8/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "輪堂千速",
+      "groupId": "dev_is",
+      "startTime": "2026-01-31T14:04:00+09:00",
+      "url": "https://www.youtube.com/watch?v=bFqNZfN6gGU",
+      "thumbnail": "https://img.youtube.com/vi/bFqNZfN6gGU/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
