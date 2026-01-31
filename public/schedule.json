@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-31T17:54:22.750Z",
+  "updatedAt": "2026-01-31T18:15:36.169Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -89,7 +89,7 @@
       "url": "https://www.youtube.com/watch?v=V5CVhe4lozU",
       "thumbnail": "https://img.youtube.com/vi/V5CVhe4lozU/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "shirakami_fubuki",
@@ -565,11 +565,11 @@
       "talentId": "cecilia_immergreen",
       "talentName": "Cecilia Immergreen",
       "groupId": "en_justice",
-      "startTime": "2026-02-01T03:00:00+09:00",
+      "startTime": "2026-02-01T03:02:00+09:00",
       "url": "https://www.youtube.com/watch?v=D7aNFbUmBkY",
       "thumbnail": "https://img.youtube.com/vi/D7aNFbUmBkY/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "gigi_murin",
@@ -763,6 +763,16 @@
     },
     {
       "talentId": "unknown",
+      "talentName": "夜十神封魔",
+      "groupId": "holostars_jp",
+      "startTime": "2026-02-01T13:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=41vI5GfTaPU",
+      "thumbnail": "https://img.youtube.com/vi/41vI5GfTaPU/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
       "talentName": "アルランディス",
       "groupId": "holostars_jp",
       "startTime": "2026-02-01T15:00:00+09:00",
@@ -893,22 +903,22 @@
     },
     {
       "talentId": "unknown",
-      "talentName": "Shinri",
-      "groupId": "holostars_en",
-      "startTime": "2026-02-01T10:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=1mZbY2A2f7c",
-      "thumbnail": "https://img.youtube.com/vi/1mZbY2A2f7c/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/GkDmDWOfKfFkcVmG3-ECCRMeFR4bXlWBvuGO3xu3Ud68kVTWssXpn5q266BmtXvcHuzc5Ib2iFQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
-      "talentId": "unknown",
       "talentName": "Crimzon",
       "groupId": "holostars_en",
       "startTime": "2026-02-01T10:00:00+09:00",
       "url": "https://www.youtube.com/watch?v=JnOH8_bt218",
       "thumbnail": "https://img.youtube.com/vi/JnOH8_bt218/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Shinri",
+      "groupId": "holostars_en",
+      "startTime": "2026-02-01T10:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=1mZbY2A2f7c",
+      "thumbnail": "https://img.youtube.com/vi/1mZbY2A2f7c/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/GkDmDWOfKfFkcVmG3-ECCRMeFR4bXlWBvuGO3xu3Ud68kVTWssXpn5q266BmtXvcHuzc5Ib2iFQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
