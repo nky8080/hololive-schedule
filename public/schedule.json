@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-31T07:07:04.194Z",
+  "updatedAt": "2026-01-31T07:40:01.472Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -249,6 +249,26 @@
       "url": "https://www.youtube.com/watch?v=V5CVhe4lozU",
       "thumbnail": "https://img.youtube.com/vi/V5CVhe4lozU/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "ookami_mio",
+      "talentName": "Ookami Mio",
+      "groupId": "gamers",
+      "startTime": "2026-01-31T17:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=gDQ45CAkOuw",
+      "thumbnail": "https://img.youtube.com/vi/gDQ45CAkOuw/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "shirakami_fubuki",
+      "talentName": "Shirakami Fubuki",
+      "groupId": "gen1",
+      "startTime": "2026-01-31T17:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=w0s54Wo9dxw",
+      "thumbnail": "https://img.youtube.com/vi/w0s54Wo9dxw/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -739,7 +759,7 @@
       "url": "https://www.youtube.com/watch?v=6Kj-YnEsBGc",
       "thumbnail": "https://img.youtube.com/vi/6Kj-YnEsBGc/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -860,6 +880,16 @@
       "thumbnail": "https://img.youtube.com/vi/lthTykmsS4M/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "岸堂天真",
+      "groupId": "holostars_jp",
+      "startTime": "2026-01-31T16:24:00+09:00",
+      "url": "https://www.youtube.com/watch?v=0Vle-Jkp2xg",
+      "thumbnail": "https://img.youtube.com/vi/0Vle-Jkp2xg/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
     },
     {
       "talentId": "unknown",
