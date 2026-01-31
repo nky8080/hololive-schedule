@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-31T10:11:59.595Z",
+  "updatedAt": "2026-01-31T10:43:39.564Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -189,7 +189,7 @@
       "url": "https://www.youtube.com/watch?v=IVzsv2d-xNg",
       "thumbnail": "https://img.youtube.com/vi/IVzsv2d-xNg/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "shirogane_noel",
@@ -219,7 +219,7 @@
       "url": "https://www.youtube.com/watch?v=b6wZpSmZg-0",
       "thumbnail": "https://img.youtube.com/vi/b6wZpSmZg-0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "oozora_subaru",
@@ -359,6 +359,16 @@
       "url": "https://www.youtube.com/watch?v=dX5NQJWQJmM",
       "thumbnail": "https://img.youtube.com/vi/dX5NQJWQJmM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "ホロライブ",
+      "groupId": "hololive_jp",
+      "startTime": "2026-01-31T20:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=FaaVX7pwRbY",
+      "thumbnail": "https://img.youtube.com/vi/FaaVX7pwRbY/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -1510,6 +1520,16 @@
       "thumbnail": "https://img.youtube.com/vi/7S65lhxeHdE/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s88-c-k-c0x00ffffff-no-rj",
       "isLive": true
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "虎金妃笑虎",
+      "groupId": "dev_is",
+      "startTime": "2026-01-31T19:30:00+09:00",
+      "url": "https://www.youtube.com/watch?v=gA7fJidetuU",
+      "thumbnail": "https://img.youtube.com/vi/gA7fJidetuU/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/bEDo7y7rywqDZpSqS7StN3vxPg4YPEfh_faAf2CENKsk4L9SgrsU0UeClvH-nsPq1i5xNFM89Q=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
     },
     {
       "talentId": "juufuutei_raden",
