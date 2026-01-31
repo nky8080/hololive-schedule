@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-31T15:13:18.072Z",
+  "updatedAt": "2026-01-31T15:37:11.166Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -199,7 +199,7 @@
       "url": "https://www.youtube.com/watch?v=9AQNjyBhjiQ",
       "thumbnail": "https://img.youtube.com/vi/9AQNjyBhjiQ/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "sakura_miko",
@@ -219,7 +219,7 @@
       "url": "https://www.youtube.com/watch?v=dX5NQJWQJmM",
       "thumbnail": "https://img.youtube.com/vi/dX5NQJWQJmM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "hakui_koyori",
@@ -699,7 +699,7 @@
       "url": "https://www.youtube.com/watch?v=IqSIN_4Yre0",
       "thumbnail": "https://img.youtube.com/vi/IqSIN_4Yre0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
