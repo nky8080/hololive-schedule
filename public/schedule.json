@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-31T18:15:36.169Z",
+  "updatedAt": "2026-01-31T18:53:21.814Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -339,7 +339,7 @@
       "url": "https://www.youtube.com/watch?v=jQYtkiclKP0",
       "thumbnail": "https://img.youtube.com/vi/jQYtkiclKP0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "shirogane_noel",
@@ -419,6 +419,16 @@
       "url": "https://www.youtube.com/watch?v=LAQ0gXWbaig",
       "thumbnail": "https://img.youtube.com/vi/LAQ0gXWbaig/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "himemori_luna",
+      "talentName": "Himemori Luna",
+      "groupId": "gen4",
+      "startTime": "2026-02-02T19:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=at5RyShudJI",
+      "thumbnail": "https://img.youtube.com/vi/at5RyShudJI/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
