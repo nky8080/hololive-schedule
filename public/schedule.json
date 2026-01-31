@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-31T17:14:29.217Z",
+  "updatedAt": "2026-01-31T17:40:25.300Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -319,7 +319,7 @@
       "url": "https://www.youtube.com/watch?v=U4PwG0T6hko",
       "thumbnail": "https://img.youtube.com/vi/U4PwG0T6hko/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "roboco",
@@ -649,7 +649,7 @@
       "url": "https://www.youtube.com/watch?v=yGlXki-mU5Q",
       "thumbnail": "https://img.youtube.com/vi/yGlXki-mU5Q/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -1059,7 +1059,7 @@
       "url": "https://www.youtube.com/watch?v=pfxEWz9f1rU",
       "thumbnail": "https://img.youtube.com/vi/pfxEWz9f1rU/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "todoroki_hajime",
