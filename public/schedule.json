@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-01T22:42:21.269Z",
+  "updatedAt": "2026-02-01T22:58:32.072Z",
   "streams": [
     {
       "talentId": "roboco",
@@ -502,6 +502,16 @@
       "isLive": false
     },
     {
+      "talentId": "koseki_bijou",
+      "talentName": "Koseki Bijou",
+      "groupId": "en_advent",
+      "startTime": "2026-02-02T09:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=xL_x8nPNXI8",
+      "thumbnail": "https://img.youtube.com/vi/xL_x8nPNXI8/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "fuwamoco",
       "talentName": "FUWAMOCO",
       "groupId": "en_advent",
@@ -529,6 +539,16 @@
       "url": "https://www.youtube.com/watch?v=GmrC_qF4QJk",
       "thumbnail": "https://img.youtube.com/vi/GmrC_qF4QJk/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/RhkoXVesjeO80YBwpSvFz_WtaEptXbXLZ0JncX9zzI4q9eYzlgOnNapKkFd5mzjj1kVTUHytJA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "takanashi_kiara",
+      "talentName": "Takanashi Kiara",
+      "groupId": "en_myth",
+      "startTime": "2026-02-03T04:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=HVJzVRHgt-U",
+      "thumbnail": "https://img.youtube.com/vi/HVJzVRHgt-U/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -979,16 +999,6 @@
       "url": "https://www.youtube.com/watch?v=0hTiAONu4jM",
       "thumbnail": "https://img.youtube.com/vi/0hTiAONu4jM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/auWUDx657AsLAGf8xx-NDUgiWGd9DOxM9qTYI_nMCZktK7OOdz_CT0xYSLKONO2H8IzlUkaEig=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
-      "talentId": "koseki_bijou",
-      "talentName": "Koseki Bijou",
-      "groupId": "en_advent",
-      "startTime": "2026-02-02T09:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=xL_x8nPNXI8",
-      "thumbnail": "https://img.youtube.com/vi/xL_x8nPNXI8/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
