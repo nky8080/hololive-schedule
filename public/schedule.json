@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-01T15:39:27.698Z",
+  "updatedAt": "2026-02-01T15:54:14.261Z",
   "streams": [
     {
       "talentId": "roboco",
@@ -59,7 +59,7 @@
       "url": "https://www.youtube.com/watch?v=u3LX06MaZOY",
       "thumbnail": "https://img.youtube.com/vi/u3LX06MaZOY/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "usada_pekora",
@@ -289,7 +289,7 @@
       "url": "https://www.youtube.com/watch?v=qcq06pjxhds",
       "thumbnail": "https://img.youtube.com/vi/qcq06pjxhds/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "kazama_iroha",
@@ -879,7 +879,7 @@
       "url": "https://www.youtube.com/watch?v=mblFvhq6-8Y",
       "thumbnail": "https://img.youtube.com/vi/mblFvhq6-8Y/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "isaki_riona",
