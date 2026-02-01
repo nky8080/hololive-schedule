@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-01T18:56:56.038Z",
+  "updatedAt": "2026-02-01T19:18:41.288Z",
   "streams": [
     {
       "talentId": "roboco",
@@ -312,16 +312,6 @@
       "isLive": false
     },
     {
-      "talentId": "hakui_koyori",
-      "talentName": "Hakui Koyori",
-      "groupId": "holoX",
-      "startTime": "2026-02-02T19:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=LhEYb0iOHFw",
-      "thumbnail": "https://img.youtube.com/vi/LhEYb0iOHFw/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
       "talentId": "himemori_luna",
       "talentName": "Himemori Luna",
       "groupId": "gen4",
@@ -329,6 +319,26 @@
       "url": "https://www.youtube.com/watch?v=at5RyShudJI",
       "thumbnail": "https://img.youtube.com/vi/at5RyShudJI/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "nekomata_okayu",
+      "talentName": "Nekomata Okayu",
+      "groupId": "gamers",
+      "startTime": "2026-02-02T19:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=LQVtR2_Da30",
+      "thumbnail": "https://img.youtube.com/vi/LQVtR2_Da30/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "hakui_koyori",
+      "talentName": "Hakui Koyori",
+      "groupId": "holoX",
+      "startTime": "2026-02-02T19:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=LhEYb0iOHFw",
+      "thumbnail": "https://img.youtube.com/vi/LhEYb0iOHFw/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
