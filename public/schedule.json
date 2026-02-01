@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-01T18:21:14.993Z",
+  "updatedAt": "2026-02-01T18:56:56.038Z",
   "streams": [
     {
       "talentId": "roboco",
@@ -739,6 +739,16 @@
       "url": "https://www.youtube.com/watch?v=UrsTkWwaaq8",
       "thumbnail": "https://img.youtube.com/vi/UrsTkWwaaq8/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Flayon",
+      "groupId": "holostars_en",
+      "startTime": "2026-02-02T10:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=cyKmsT2xi7c",
+      "thumbnail": "https://img.youtube.com/vi/cyKmsT2xi7c/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
