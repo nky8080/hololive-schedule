@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-01T05:36:21.820Z",
+  "updatedAt": "2026-02-01T06:28:11.456Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -425,11 +425,11 @@
       "talentId": "oozora_subaru",
       "talentName": "Oozora Subaru",
       "groupId": "gen2",
-      "startTime": "2026-02-01T15:15:00+09:00",
+      "startTime": "2026-02-01T15:16:00+09:00",
       "url": "https://www.youtube.com/watch?v=CAzoqGPN9q4",
       "thumbnail": "https://img.youtube.com/vi/CAzoqGPN9q4/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "shirogane_noel",
@@ -452,16 +452,6 @@
       "isLive": false
     },
     {
-      "talentId": "shishiro_botan",
-      "talentName": "Shishiro Botan",
-      "groupId": "gen5",
-      "startTime": "2026-02-01T19:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=d96RM9iv_Xs",
-      "thumbnail": "https://img.youtube.com/vi/d96RM9iv_Xs/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
       "talentId": "yuzuki_choco",
       "talentName": "Yuzuki Choco",
       "groupId": "gen2",
@@ -469,6 +459,16 @@
       "url": "https://www.youtube.com/watch?v=y0BI9cUZ_Hg",
       "thumbnail": "https://img.youtube.com/vi/y0BI9cUZ_Hg/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "shishiro_botan",
+      "talentName": "Shishiro Botan",
+      "groupId": "gen5",
+      "startTime": "2026-02-01T19:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=d96RM9iv_Xs",
+      "thumbnail": "https://img.youtube.com/vi/d96RM9iv_Xs/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -749,7 +749,7 @@
       "url": "https://www.youtube.com/watch?v=cufpEx6M7SU",
       "thumbnail": "https://img.youtube.com/vi/cufpEx6M7SU/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "fuwamoco",
@@ -819,6 +819,16 @@
       "url": "https://www.youtube.com/watch?v=yGlXki-mU5Q",
       "thumbnail": "https://img.youtube.com/vi/yGlXki-mU5Q/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "ayunda_risu",
+      "talentName": "Ayunda Risu",
+      "groupId": "id_gen1",
+      "startTime": "2026-02-01T15:11:00+09:00",
+      "url": "https://www.youtube.com/watch?v=Txwa-RaK7H0",
+      "thumbnail": "https://img.youtube.com/vi/Txwa-RaK7H0/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -959,7 +969,7 @@
       "url": "https://www.youtube.com/watch?v=mKAVudbDSIE",
       "thumbnail": "https://img.youtube.com/vi/mKAVudbDSIE/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "unknown",
@@ -1149,6 +1159,16 @@
       "url": "https://www.youtube.com/watch?v=N1OMeFONqA0",
       "thumbnail": "https://img.youtube.com/vi/N1OMeFONqA0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Octavio",
+      "groupId": "holostars_en",
+      "startTime": "2026-02-01T21:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=UrsTkWwaaq8",
+      "thumbnail": "https://img.youtube.com/vi/UrsTkWwaaq8/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
