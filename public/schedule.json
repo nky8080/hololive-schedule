@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-01T19:18:41.288Z",
+  "updatedAt": "2026-02-01T19:42:02.580Z",
   "streams": [
     {
       "talentId": "roboco",
@@ -322,16 +322,6 @@
       "isLive": false
     },
     {
-      "talentId": "nekomata_okayu",
-      "talentName": "Nekomata Okayu",
-      "groupId": "gamers",
-      "startTime": "2026-02-02T19:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=LQVtR2_Da30",
-      "thumbnail": "https://img.youtube.com/vi/LQVtR2_Da30/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
       "talentId": "hakui_koyori",
       "talentName": "Hakui Koyori",
       "groupId": "holoX",
@@ -339,6 +329,16 @@
       "url": "https://www.youtube.com/watch?v=LhEYb0iOHFw",
       "thumbnail": "https://img.youtube.com/vi/LhEYb0iOHFw/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "nekomata_okayu",
+      "talentName": "Nekomata Okayu",
+      "groupId": "gamers",
+      "startTime": "2026-02-02T19:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=LQVtR2_Da30",
+      "thumbnail": "https://img.youtube.com/vi/LQVtR2_Da30/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -939,6 +939,16 @@
       "url": "https://www.youtube.com/watch?v=7SOKGK7ZrjM",
       "thumbnail": "https://img.youtube.com/vi/7SOKGK7ZrjM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "mizumiya_su",
+      "talentName": "Mizumiya Su",
+      "groupId": "flow_glow",
+      "startTime": "2026-02-02T22:30:00+09:00",
+      "url": "https://www.youtube.com/watch?v=oUW0oW_764k",
+      "thumbnail": "https://img.youtube.com/vi/oUW0oW_764k/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
