@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-01T14:17:08.835Z",
+  "updatedAt": "2026-02-01T14:49:05.000Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -519,7 +519,7 @@
       "url": "https://www.youtube.com/watch?v=Yk0rB3Mu788",
       "thumbnail": "https://img.youtube.com/vi/Yk0rB3Mu788/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "nekomata_okayu",
@@ -598,6 +598,16 @@
       "startTime": "2026-02-01T23:01:00+09:00",
       "url": "https://www.youtube.com/watch?v=VOWseCQp_sg",
       "thumbnail": "https://img.youtube.com/vi/VOWseCQp_sg/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "roboco",
+      "talentName": "Roboco san",
+      "groupId": "gen0",
+      "startTime": "2026-02-01T23:15:00+09:00",
+      "url": "https://www.youtube.com/watch?v=qcq06pjxhds",
+      "thumbnail": "https://img.youtube.com/vi/qcq06pjxhds/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s88-c-k-c0x00ffffff-no-rj",
       "isLive": true
     },
@@ -875,11 +885,11 @@
       "talentId": "irys",
       "talentName": "IRyS",
       "groupId": "en_promise",
-      "startTime": "2026-02-01T23:30:00+09:00",
+      "startTime": "2026-02-01T23:31:00+09:00",
       "url": "https://www.youtube.com/watch?v=4__3dh2J0eg",
       "thumbnail": "https://img.youtube.com/vi/4__3dh2J0eg/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "takanashi_kiara",
