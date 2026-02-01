@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-01T23:20:20.727Z",
+  "updatedAt": "2026-02-01T23:44:22.919Z",
   "streams": [
     {
       "talentId": "roboco",
@@ -319,7 +319,7 @@
       "url": "https://www.youtube.com/watch?v=juxh1k9m6Eg",
       "thumbnail": "https://img.youtube.com/vi/juxh1k9m6Eg/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "himemori_luna",
