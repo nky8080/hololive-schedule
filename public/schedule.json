@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-01T22:11:22.326Z",
+  "updatedAt": "2026-02-01T22:42:21.269Z",
   "streams": [
     {
       "talentId": "roboco",
@@ -319,7 +319,7 @@
       "url": "https://www.youtube.com/watch?v=juxh1k9m6Eg",
       "thumbnail": "https://img.youtube.com/vi/juxh1k9m6Eg/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "himemori_luna",
@@ -773,22 +773,22 @@
     },
     {
       "talentId": "unknown",
-      "talentName": "Flayon",
-      "groupId": "holostars_en",
-      "startTime": "2026-02-02T10:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=cyKmsT2xi7c",
-      "thumbnail": "https://img.youtube.com/vi/cyKmsT2xi7c/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
-      "talentId": "unknown",
       "talentName": "Hakka",
       "groupId": "holostars_en",
       "startTime": "2026-02-02T11:00:00+09:00",
       "url": "https://www.youtube.com/watch?v=EilJYUHFZ3Y",
       "thumbnail": "https://img.youtube.com/vi/EilJYUHFZ3Y/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Flayon",
+      "groupId": "holostars_en",
+      "startTime": "2026-02-02T11:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=cyKmsT2xi7c",
+      "thumbnail": "https://img.youtube.com/vi/cyKmsT2xi7c/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -979,6 +979,26 @@
       "url": "https://www.youtube.com/watch?v=0hTiAONu4jM",
       "thumbnail": "https://img.youtube.com/vi/0hTiAONu4jM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/auWUDx657AsLAGf8xx-NDUgiWGd9DOxM9qTYI_nMCZktK7OOdz_CT0xYSLKONO2H8IzlUkaEig=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "koseki_bijou",
+      "talentName": "Koseki Bijou",
+      "groupId": "en_advent",
+      "startTime": "2026-02-02T09:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=xL_x8nPNXI8",
+      "thumbnail": "https://img.youtube.com/vi/xL_x8nPNXI8/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "holoAN room",
+      "groupId": "official",
+      "startTime": "2026-02-02T12:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=eUsvaUfEQOg",
+      "thumbnail": "https://img.youtube.com/vi/eUsvaUfEQOg/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/bLqkQmKBq5rRp53-TLpg1wa9Bn0aFwmjsnZ6LTPgq0NjJSs2304Rm61481alRP8mTdyNLFiJ9c0=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     }
   ]
