@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-01T15:13:24.473Z",
+  "updatedAt": "2026-02-01T15:39:27.698Z",
   "streams": [
     {
       "talentId": "roboco",
@@ -299,7 +299,7 @@
       "url": "https://www.youtube.com/watch?v=lyYPQebKSkA",
       "thumbnail": "https://img.youtube.com/vi/lyYPQebKSkA/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "ookami_mio",
