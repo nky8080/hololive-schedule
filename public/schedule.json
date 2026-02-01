@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-01T13:15:36.066Z",
+  "updatedAt": "2026-02-01T13:56:17.554Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -592,6 +592,16 @@
       "isLive": true
     },
     {
+      "talentId": "roboco",
+      "talentName": "Roboco san",
+      "groupId": "gen0",
+      "startTime": "2026-02-01T23:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=VOWseCQp_sg",
+      "thumbnail": "https://img.youtube.com/vi/VOWseCQp_sg/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "kazama_iroha",
       "talentName": "Kazama Iroha",
       "groupId": "holoX",
@@ -845,11 +855,11 @@
       "talentId": "elizabeth_rose_bloodflame",
       "talentName": "Elizabeth Rose Bloodflame",
       "groupId": "en_justice",
-      "startTime": "2026-02-01T22:30:00+09:00",
+      "startTime": "2026-02-01T22:29:00+09:00",
       "url": "https://www.youtube.com/watch?v=dQZSCfAlaug",
       "thumbnail": "https://img.youtube.com/vi/dQZSCfAlaug/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "raora_panthera",
@@ -862,6 +872,16 @@
       "isLive": false
     },
     {
+      "talentId": "irys",
+      "talentName": "IRyS",
+      "groupId": "en_promise",
+      "startTime": "2026-02-01T23:30:00+09:00",
+      "url": "https://www.youtube.com/watch?v=4__3dh2J0eg",
+      "thumbnail": "https://img.youtube.com/vi/4__3dh2J0eg/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "takanashi_kiara",
       "talentName": "Takanashi Kiara",
       "groupId": "en_myth",
@@ -869,6 +889,16 @@
       "url": "https://www.youtube.com/watch?v=F1uBn-aJq6o",
       "thumbnail": "https://img.youtube.com/vi/F1uBn-aJq6o/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "mori_calliope",
+      "talentName": "Mori Calliope",
+      "groupId": "en_myth",
+      "startTime": "2026-02-02T09:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=lpX6cIrc6gE",
+      "thumbnail": "https://img.youtube.com/vi/lpX6cIrc6gE/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -959,7 +989,7 @@
       "url": "https://www.youtube.com/watch?v=btk512gdGF4",
       "thumbnail": "https://img.youtube.com/vi/btk512gdGF4/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -1679,7 +1709,7 @@
       "url": "https://www.youtube.com/watch?v=--MPvz4OtdM",
       "thumbnail": "https://img.youtube.com/vi/--MPvz4OtdM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "mizumiya_su",
@@ -1689,7 +1719,7 @@
       "url": "https://www.youtube.com/watch?v=mblFvhq6-8Y",
       "thumbnail": "https://img.youtube.com/vi/mblFvhq6-8Y/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "isaki_riona",
