@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-01T20:12:26.956Z",
+  "updatedAt": "2026-02-01T20:40:49.855Z",
   "streams": [
     {
       "talentId": "roboco",
@@ -349,6 +349,16 @@
       "url": "https://www.youtube.com/watch?v=cgyxebA4G-0",
       "thumbnail": "https://img.youtube.com/vi/cgyxebA4G-0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "inugami_korone",
+      "talentName": "Inugami Korone",
+      "groupId": "gamers",
+      "startTime": "2026-02-02T20:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=iEqeynwejQQ",
+      "thumbnail": "https://img.youtube.com/vi/iEqeynwejQQ/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
