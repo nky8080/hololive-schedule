@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-01T23:44:22.919Z",
+  "updatedAt": "2026-02-01T23:57:58.292Z",
   "streams": [
     {
       "talentId": "roboco",
@@ -492,6 +492,16 @@
       "isLive": false
     },
     {
+      "talentId": "koseki_bijou",
+      "talentName": "Koseki Bijou",
+      "groupId": "en_advent",
+      "startTime": "2026-02-02T08:54:00+09:00",
+      "url": "https://www.youtube.com/watch?v=xL_x8nPNXI8",
+      "thumbnail": "https://img.youtube.com/vi/xL_x8nPNXI8/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
+    },
+    {
       "talentId": "mori_calliope",
       "talentName": "Mori Calliope",
       "groupId": "en_myth",
@@ -499,16 +509,6 @@
       "url": "https://www.youtube.com/watch?v=lpX6cIrc6gE",
       "thumbnail": "https://img.youtube.com/vi/lpX6cIrc6gE/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
-      "talentId": "koseki_bijou",
-      "talentName": "Koseki Bijou",
-      "groupId": "en_advent",
-      "startTime": "2026-02-02T09:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=xL_x8nPNXI8",
-      "thumbnail": "https://img.youtube.com/vi/xL_x8nPNXI8/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
