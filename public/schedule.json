@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-02T15:50:22.187Z",
+  "updatedAt": "2026-02-02T16:22:17.303Z",
   "streams": [
     {
       "talentId": "kazama_iroha",
@@ -219,7 +219,7 @@
       "url": "https://www.youtube.com/watch?v=Fp9VUfm56os",
       "thumbnail": "https://img.youtube.com/vi/Fp9VUfm56os/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "azki",
@@ -629,6 +629,16 @@
       "url": "https://www.youtube.com/watch?v=DebC69NItww",
       "thumbnail": "https://img.youtube.com/vi/DebC69NItww/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Syrios",
+      "groupId": "holostars_en",
+      "startTime": "2026-02-03T00:59:00+09:00",
+      "url": "https://www.youtube.com/watch?v=qCxSvraoG5g",
+      "thumbnail": "https://img.youtube.com/vi/qCxSvraoG5g/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s88-c-k-c0x00ffffff-no-rj",
       "isLive": true
     },
     {
@@ -769,7 +779,7 @@
       "url": "https://www.youtube.com/watch?v=oUW0oW_764k",
       "thumbnail": "https://img.youtube.com/vi/oUW0oW_764k/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "ichijou_ririka",
