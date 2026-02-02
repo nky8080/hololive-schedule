@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-02T18:27:44.863Z",
+  "updatedAt": "2026-02-02T23:16:41.424Z",
   "streams": [
     {
       "talentId": "kazama_iroha",
@@ -252,6 +252,16 @@
       "isLive": false
     },
     {
+      "talentId": "tsunomaki_watame",
+      "talentName": "Tsunomaki Watame",
+      "groupId": "gen4",
+      "startTime": "2026-02-03T06:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=a0kXwkDRJjg",
+      "thumbnail": "https://img.youtube.com/vi/a0kXwkDRJjg/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "hakui_koyori",
       "talentName": "Hakui Koyori",
       "groupId": "holoX",
@@ -259,7 +269,17 @@
       "url": "https://www.youtube.com/watch?v=cjwc4dSyIVY",
       "thumbnail": "https://img.youtube.com/vi/cjwc4dSyIVY/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
+    },
+    {
+      "talentId": "roboco",
+      "talentName": "Roboco san",
+      "groupId": "gen0",
+      "startTime": "2026-02-03T07:57:00+09:00",
+      "url": "https://www.youtube.com/watch?v=XsGViUEWFLQ",
+      "thumbnail": "https://img.youtube.com/vi/XsGViUEWFLQ/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
     },
     {
       "talentId": "oozora_subaru",
@@ -379,13 +399,13 @@
       "url": "https://www.youtube.com/watch?v=ItY9K6SsGnc",
       "thumbnail": "https://img.youtube.com/vi/ItY9K6SsGnc/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "takanashi_kiara",
       "talentName": "Takanashi Kiara",
       "groupId": "en_myth",
-      "startTime": "2026-02-03T04:00:00+09:00",
+      "startTime": "2026-02-03T04:02:00+09:00",
       "url": "https://www.youtube.com/watch?v=HVJzVRHgt-U",
       "thumbnail": "https://img.youtube.com/vi/HVJzVRHgt-U/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s88-c-k-c0x00ffffff-no-rj",
@@ -405,10 +425,20 @@
       "talentId": "gigi_murin",
       "talentName": "Gigi Murin",
       "groupId": "en_justice",
-      "startTime": "2026-02-03T07:00:00+09:00",
+      "startTime": "2026-02-03T07:02:00+09:00",
       "url": "https://www.youtube.com/watch?v=W_GVdRAmaIk",
       "thumbnail": "https://img.youtube.com/vi/W_GVdRAmaIk/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
+    },
+    {
+      "talentId": "koseki_bijou",
+      "talentName": "Koseki Bijou",
+      "groupId": "en_advent",
+      "startTime": "2026-02-03T09:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=SRA-uJ-9DB0",
+      "thumbnail": "https://img.youtube.com/vi/SRA-uJ-9DB0/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -449,6 +479,26 @@
       "url": "https://www.youtube.com/watch?v=c0n7K0P-0w4",
       "thumbnail": "https://img.youtube.com/vi/c0n7K0P-0w4/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/RhkoXVesjeO80YBwpSvFz_WtaEptXbXLZ0JncX9zzI4q9eYzlgOnNapKkFd5mzjj1kVTUHytJA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "fuwamoco",
+      "talentName": "FUWAMOCO",
+      "groupId": "en_advent",
+      "startTime": "2026-02-03T14:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=F-iI4-BkwXg",
+      "thumbnail": "https://img.youtube.com/vi/F-iI4-BkwXg/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "shiori_novella",
+      "talentName": "Shiori Novella",
+      "groupId": "en_advent",
+      "startTime": "2026-02-04T06:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=ZaEPvoIn5Tc",
+      "thumbnail": "https://img.youtube.com/vi/ZaEPvoIn5Tc/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -679,16 +729,16 @@
       "url": "https://www.youtube.com/watch?v=qCxSvraoG5g",
       "thumbnail": "https://img.youtube.com/vi/qCxSvraoG5g/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
-      "talentName": "Flayon",
+      "talentName": "Bettel",
       "groupId": "holostars_en",
       "startTime": "2026-02-03T09:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=X7ABJguT0Lc",
-      "thumbnail": "https://img.youtube.com/vi/X7ABJguT0Lc/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s88-c-k-c0x00ffffff-no-rj",
+      "url": "https://www.youtube.com/watch?v=10urz3QAUjA",
+      "thumbnail": "https://img.youtube.com/vi/10urz3QAUjA/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/kv71-xuB9kzbU7Bi4qsmkRXHc3wAgEU4rhllRnmGH4H23T825BKdGqEAcagTSE9r8BdsnG4lqQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -703,9 +753,19 @@
     },
     {
       "talentId": "unknown",
+      "talentName": "Flayon",
+      "groupId": "holostars_en",
+      "startTime": "2026-02-03T09:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=X7ABJguT0Lc",
+      "thumbnail": "https://img.youtube.com/vi/X7ABJguT0Lc/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
       "talentName": "Jurard",
       "groupId": "holostars_en",
-      "startTime": "2026-02-03T10:00:00+09:00",
+      "startTime": "2026-02-04T10:00:00+09:00",
       "url": "https://www.youtube.com/watch?v=kEX3JQqmmGw",
       "thumbnail": "https://img.youtube.com/vi/kEX3JQqmmGw/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/EA7rVsjrX8vvWUcCw-tEiLj4mrTZK3pvCdRmq07ylzGLBvMRL0FyU6rnMvk6-4umPUWJm8TeNg=s88-c-k-c0x00ffffff-no-rj",
