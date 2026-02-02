@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-02T17:55:52.130Z",
+  "updatedAt": "2026-02-02T18:27:44.863Z",
   "streams": [
     {
       "talentId": "kazama_iroha",
@@ -375,11 +375,11 @@
       "talentId": "cecilia_immergreen",
       "talentName": "Cecilia Immergreen",
       "groupId": "en_justice",
-      "startTime": "2026-02-03T03:00:00+09:00",
+      "startTime": "2026-02-03T03:04:00+09:00",
       "url": "https://www.youtube.com/watch?v=ItY9K6SsGnc",
       "thumbnail": "https://img.youtube.com/vi/ItY9K6SsGnc/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "takanashi_kiara",
@@ -659,7 +659,7 @@
       "url": "https://www.youtube.com/watch?v=akEk2o2KoQo",
       "thumbnail": "https://img.youtube.com/vi/akEk2o2KoQo/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/12Y9I0cP0EqJe4Wpkm19p_MythjFqYcMZRC3vN4bYPSzE9ANTIFXOhZdfP1TQpAi4Thw741twyg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
