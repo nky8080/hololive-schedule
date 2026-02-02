@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-02T08:05:53.229Z",
+  "updatedAt": "2026-02-02T09:01:28.778Z",
   "streams": [
     {
       "talentId": "roboco",
@@ -339,6 +339,16 @@
       "url": "https://www.youtube.com/watch?v=r1TWfH1uDNk",
       "thumbnail": "https://img.youtube.com/vi/r1TWfH1uDNk/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "hoshimachi_suisei",
+      "talentName": "Hoshimachi Suisei",
+      "groupId": "gen0",
+      "startTime": "2026-02-02T18:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=1dTqw5AF12Y",
+      "thumbnail": "https://img.youtube.com/vi/1dTqw5AF12Y/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -959,7 +969,7 @@
       "url": "https://www.youtube.com/watch?v=cyKmsT2xi7c",
       "thumbnail": "https://img.youtube.com/vi/cyKmsT2xi7c/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -1159,6 +1169,16 @@
       "url": "https://www.youtube.com/watch?v=OHtTCxMeG_w",
       "thumbnail": "https://img.youtube.com/vi/OHtTCxMeG_w/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "輪堂千速",
+      "groupId": "dev_is",
+      "startTime": "2026-02-02T17:12:00+09:00",
+      "url": "https://www.youtube.com/watch?v=5wP5frYiBwk",
+      "thumbnail": "https://img.youtube.com/vi/5wP5frYiBwk/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
