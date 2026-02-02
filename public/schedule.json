@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-02T15:05:25.687Z",
+  "updatedAt": "2026-02-02T15:50:22.187Z",
   "streams": [
     {
       "talentId": "kazama_iroha",
@@ -209,7 +209,7 @@
       "url": "https://www.youtube.com/watch?v=_z3x8Qs1Wxk",
       "thumbnail": "https://img.youtube.com/vi/_z3x8Qs1Wxk/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "omaru_polka",
@@ -239,7 +239,7 @@
       "url": "https://www.youtube.com/watch?v=4j9JSlrJ6Hk",
       "thumbnail": "https://img.youtube.com/vi/4j9JSlrJ6Hk/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -249,7 +249,7 @@
       "url": "https://www.youtube.com/watch?v=L0yfTwNqqnA",
       "thumbnail": "https://img.youtube.com/vi/L0yfTwNqqnA/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "hakui_koyori",
@@ -382,6 +382,16 @@
       "isLive": false
     },
     {
+      "talentId": "gigi_murin",
+      "talentName": "Gigi Murin",
+      "groupId": "en_justice",
+      "startTime": "2026-02-03T07:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=W_GVdRAmaIk",
+      "thumbnail": "https://img.youtube.com/vi/W_GVdRAmaIk/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "hakos_baelz",
       "talentName": "Hakos Baelz",
       "groupId": "en_promise",
@@ -459,7 +469,7 @@
       "url": "https://www.youtube.com/watch?v=1IhQ9adCR-w",
       "thumbnail": "https://img.youtube.com/vi/1IhQ9adCR-w/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "pavolia_reine",
@@ -769,7 +779,7 @@
       "url": "https://www.youtube.com/watch?v=Kp8tqm7tfSk",
       "thumbnail": "https://img.youtube.com/vi/Kp8tqm7tfSk/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "isaki_riona",
