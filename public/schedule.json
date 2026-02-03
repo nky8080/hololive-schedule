@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-03T20:22:49.831Z",
+  "updatedAt": "2026-02-03T20:59:45.522Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -425,11 +425,11 @@
       "talentId": "shiori_novella",
       "talentName": "Shiori Novella",
       "groupId": "en_advent",
-      "startTime": "2026-02-04T06:00:00+09:00",
+      "startTime": "2026-02-04T05:56:00+09:00",
       "url": "https://www.youtube.com/watch?v=ZaEPvoIn5Tc",
       "thumbnail": "https://img.youtube.com/vi/ZaEPvoIn5Tc/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "gigi_murin",
