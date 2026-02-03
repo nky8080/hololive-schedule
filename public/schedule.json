@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-03T22:49:14.327Z",
+  "updatedAt": "2026-02-03T23:17:36.599Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -459,7 +459,7 @@
       "url": "https://www.youtube.com/watch?v=0E9jIamMO_o",
       "thumbnail": "https://img.youtube.com/vi/0E9jIamMO_o/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "hakos_baelz",
@@ -620,16 +620,6 @@
       "thumbnail": "https://img.youtube.com/vi/M_owcUtGgN8/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
-    },
-    {
-      "talentId": "unknown",
-      "talentName": "羽継烏有",
-      "groupId": "holostars_jp",
-      "startTime": "2026-02-04T07:01:00+09:00",
-      "url": "https://www.youtube.com/watch?v=ylndUlaRQxk",
-      "thumbnail": "https://img.youtube.com/vi/ylndUlaRQxk/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
     },
     {
       "talentId": "unknown",
