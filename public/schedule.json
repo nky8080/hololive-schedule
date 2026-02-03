@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-03T23:17:36.599Z",
+  "updatedAt": "2026-02-03T23:47:56.858Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -252,6 +252,16 @@
       "isLive": false
     },
     {
+      "talentId": "tokino_sora",
+      "talentName": "Tokino Sora",
+      "groupId": "gen0",
+      "startTime": "2026-02-04T20:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=U7e78mWDU8M",
+      "thumbnail": "https://img.youtube.com/vi/U7e78mWDU8M/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "shishiro_botan",
       "talentName": "Shishiro Botan",
       "groupId": "gen5",
@@ -259,6 +269,16 @@
       "url": "https://www.youtube.com/watch?v=yjUDlvhKi4Q",
       "thumbnail": "https://img.youtube.com/vi/yjUDlvhKi4Q/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "tokino_sora",
+      "talentName": "Tokino Sora",
+      "groupId": "gen0",
+      "startTime": "2026-02-04T20:20:00+09:00",
+      "url": "https://www.youtube.com/watch?v=3iIkHaUGgyE",
+      "thumbnail": "https://img.youtube.com/vi/3iIkHaUGgyE/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
