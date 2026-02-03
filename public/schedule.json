@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-03T19:50:34.416Z",
+  "updatedAt": "2026-02-03T20:22:49.831Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -412,6 +412,16 @@
       "isLive": false
     },
     {
+      "talentId": "elizabeth_rose_bloodflame",
+      "talentName": "Elizabeth Rose Bloodflame",
+      "groupId": "en_justice",
+      "startTime": "2026-02-04T05:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=_96hTFZgv7M",
+      "thumbnail": "https://img.youtube.com/vi/_96hTFZgv7M/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "shiori_novella",
       "talentName": "Shiori Novella",
       "groupId": "en_advent",
@@ -452,16 +462,6 @@
       "isLive": false
     },
     {
-      "talentId": "mori_calliope",
-      "talentName": "Mori Calliope",
-      "groupId": "en_myth",
-      "startTime": "2026-02-04T12:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=hRTgJbVkXj4",
-      "thumbnail": "https://img.youtube.com/vi/hRTgJbVkXj4/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
       "talentId": "elizabeth_rose_bloodflame",
       "talentName": "Elizabeth Rose Bloodflame",
       "groupId": "en_justice",
@@ -469,6 +469,16 @@
       "url": "https://www.youtube.com/watch?v=VBBy4TGnJ2w",
       "thumbnail": "https://img.youtube.com/vi/VBBy4TGnJ2w/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "mori_calliope",
+      "talentName": "Mori Calliope",
+      "groupId": "en_myth",
+      "startTime": "2026-02-04T12:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=hRTgJbVkXj4",
+      "thumbnail": "https://img.youtube.com/vi/hRTgJbVkXj4/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
