@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-03T22:02:11.316Z",
+  "updatedAt": "2026-02-03T22:49:14.327Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -409,7 +409,7 @@
       "url": "https://www.youtube.com/watch?v=mkA1QLk7lhM",
       "thumbnail": "https://img.youtube.com/vi/mkA1QLk7lhM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "koseki_bijou",
@@ -445,11 +445,11 @@
       "talentId": "gigi_murin",
       "talentName": "Gigi Murin",
       "groupId": "en_justice",
-      "startTime": "2026-02-04T07:00:00+09:00",
+      "startTime": "2026-02-04T07:03:00+09:00",
       "url": "https://www.youtube.com/watch?v=16vKtmrUe3E",
       "thumbnail": "https://img.youtube.com/vi/16vKtmrUe3E/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "ninomae_inanis",
@@ -623,6 +623,16 @@
     },
     {
       "talentId": "unknown",
+      "talentName": "羽継烏有",
+      "groupId": "holostars_jp",
+      "startTime": "2026-02-04T07:01:00+09:00",
+      "url": "https://www.youtube.com/watch?v=ylndUlaRQxk",
+      "thumbnail": "https://img.youtube.com/vi/ylndUlaRQxk/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
+    },
+    {
+      "talentId": "unknown",
       "talentName": "夜十神封魔",
       "groupId": "holostars_jp",
       "startTime": "2026-02-04T13:00:00+09:00",
@@ -745,11 +755,11 @@
       "talentId": "unknown",
       "talentName": "Octavio",
       "groupId": "holostars_en",
-      "startTime": "2026-02-04T07:00:00+09:00",
+      "startTime": "2026-02-04T07:04:00+09:00",
       "url": "https://www.youtube.com/watch?v=tervxZnRFpk",
       "thumbnail": "https://img.youtube.com/vi/tervxZnRFpk/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "unknown",
