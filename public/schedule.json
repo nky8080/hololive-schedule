@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-03T20:59:45.522Z",
+  "updatedAt": "2026-02-03T21:34:04.837Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -239,6 +239,16 @@
       "url": "https://www.youtube.com/watch?v=vULnGIXpiZ0",
       "thumbnail": "https://img.youtube.com/vi/vULnGIXpiZ0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "tsunomaki_watame",
+      "talentName": "Tsunomaki Watame",
+      "groupId": "gen4",
+      "startTime": "2026-02-04T06:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=TQMoldUC-K8",
+      "thumbnail": "https://img.youtube.com/vi/TQMoldUC-K8/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -729,6 +739,16 @@
       "url": "https://www.youtube.com/watch?v=A-inOf3EAcs",
       "thumbnail": "https://img.youtube.com/vi/A-inOf3EAcs/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/GkDmDWOfKfFkcVmG3-ECCRMeFR4bXlWBvuGO3xu3Ud68kVTWssXpn5q266BmtXvcHuzc5Ib2iFQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Octavio",
+      "groupId": "holostars_en",
+      "startTime": "2026-02-04T07:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=tervxZnRFpk",
+      "thumbnail": "https://img.youtube.com/vi/tervxZnRFpk/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
