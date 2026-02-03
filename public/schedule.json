@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-03T05:06:31.922Z",
+  "updatedAt": "2026-02-03T06:04:13.843Z",
   "streams": [
     {
       "talentId": "kazama_iroha",
@@ -152,16 +152,6 @@
       "isLive": false
     },
     {
-      "talentId": "tokino_sora",
-      "talentName": "Tokino Sora",
-      "groupId": "gen0",
-      "startTime": "2026-02-02T20:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=cgyxebA4G-0",
-      "thumbnail": "https://img.youtube.com/vi/cgyxebA4G-0/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
       "talentId": "shirakami_fubuki",
       "talentName": "Shirakami Fubuki",
       "groupId": "gen1",
@@ -169,6 +159,16 @@
       "url": "https://www.youtube.com/watch?v=ZqTW59qHZjA",
       "thumbnail": "https://img.youtube.com/vi/ZqTW59qHZjA/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "tokino_sora",
+      "talentName": "Tokino Sora",
+      "groupId": "gen0",
+      "startTime": "2026-02-02T20:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=cgyxebA4G-0",
+      "thumbnail": "https://img.youtube.com/vi/cgyxebA4G-0/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -519,7 +519,7 @@
       "url": "https://www.youtube.com/watch?v=dpW1TjtzsZc",
       "thumbnail": "https://img.youtube.com/vi/dpW1TjtzsZc/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "fuwamoco",
@@ -545,7 +545,7 @@
       "talentId": "fuwamoco",
       "talentName": "FUWAMOCO",
       "groupId": "en_advent",
-      "startTime": "2026-02-03T15:00:00+09:00",
+      "startTime": "2026-02-03T15:15:00+09:00",
       "url": "https://www.youtube.com/watch?v=F-iI4-BkwXg",
       "thumbnail": "https://img.youtube.com/vi/F-iI4-BkwXg/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s88-c-k-c0x00ffffff-no-rj",
@@ -703,13 +703,23 @@
     },
     {
       "talentId": "unknown",
+      "talentName": "夜十神封魔",
+      "groupId": "holostars_jp",
+      "startTime": "2026-02-03T14:02:00+09:00",
+      "url": "https://www.youtube.com/watch?v=SK1uAS5v4Js",
+      "thumbnail": "https://img.youtube.com/vi/SK1uAS5v4Js/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
+    },
+    {
+      "talentId": "unknown",
       "talentName": "花咲みやび",
       "groupId": "holostars_jp",
-      "startTime": "2026-02-03T14:30:00+09:00",
+      "startTime": "2026-02-03T14:33:00+09:00",
       "url": "https://www.youtube.com/watch?v=nVZmjXQ1e7c",
       "thumbnail": "https://img.youtube.com/vi/nVZmjXQ1e7c/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "unknown",
