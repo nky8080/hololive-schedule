@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-03T15:09:37.176Z",
+  "updatedAt": "2026-02-03T16:02:56.189Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -59,7 +59,7 @@
       "url": "https://www.youtube.com/watch?v=bTgN06AELCE",
       "thumbnail": "https://img.youtube.com/vi/bTgN06AELCE/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "usada_pekora",
@@ -69,7 +69,7 @@
       "url": "https://www.youtube.com/watch?v=7Q0HkTHCIUQ",
       "thumbnail": "https://img.youtube.com/vi/7Q0HkTHCIUQ/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "natsuiro_matsuri",
@@ -89,7 +89,7 @@
       "url": "https://www.youtube.com/watch?v=1kHg7WYUd7s",
       "thumbnail": "https://img.youtube.com/vi/1kHg7WYUd7s/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "nekomata_okayu",
@@ -219,7 +219,7 @@
       "url": "https://www.youtube.com/watch?v=hk1UP5r8n8s",
       "thumbnail": "https://img.youtube.com/vi/hk1UP5r8n8s/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "sakura_miko",
@@ -673,12 +673,22 @@
     },
     {
       "talentId": "unknown",
-      "talentName": "Shinri",
+      "talentName": "Altare",
+      "groupId": "holostars_en",
+      "startTime": "2026-02-04T09:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=w8u1VQZbdf8",
+      "thumbnail": "https://img.youtube.com/vi/w8u1VQZbdf8/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/12Y9I0cP0EqJe4Wpkm19p_MythjFqYcMZRC3vN4bYPSzE9ANTIFXOhZdfP1TQpAi4Thw741twyg=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Flayon",
       "groupId": "holostars_en",
       "startTime": "2026-02-04T10:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=8MjM_D_x2Ps",
-      "thumbnail": "https://img.youtube.com/vi/8MjM_D_x2Ps/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/GkDmDWOfKfFkcVmG3-ECCRMeFR4bXlWBvuGO3xu3Ud68kVTWssXpn5q266BmtXvcHuzc5Ib2iFQ=s88-c-k-c0x00ffffff-no-rj",
+      "url": "https://www.youtube.com/watch?v=3PPKwlfmDho",
+      "thumbnail": "https://img.youtube.com/vi/3PPKwlfmDho/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -689,6 +699,16 @@
       "url": "https://www.youtube.com/watch?v=kEX3JQqmmGw",
       "thumbnail": "https://img.youtube.com/vi/kEX3JQqmmGw/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/EA7rVsjrX8vvWUcCw-tEiLj4mrTZK3pvCdRmq07ylzGLBvMRL0FyU6rnMvk6-4umPUWJm8TeNg=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Shinri",
+      "groupId": "holostars_en",
+      "startTime": "2026-02-04T10:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=8MjM_D_x2Ps",
+      "thumbnail": "https://img.youtube.com/vi/8MjM_D_x2Ps/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/GkDmDWOfKfFkcVmG3-ECCRMeFR4bXlWBvuGO3xu3Ud68kVTWssXpn5q266BmtXvcHuzc5Ib2iFQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -829,7 +849,7 @@
       "url": "https://www.youtube.com/watch?v=WlDzEkIA1Ao",
       "thumbnail": "https://img.youtube.com/vi/WlDzEkIA1Ao/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "juufuutei_raden",
@@ -839,7 +859,7 @@
       "url": "https://www.youtube.com/watch?v=2pdO8HZQ7WU",
       "thumbnail": "https://img.youtube.com/vi/2pdO8HZQ7WU/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "juufuutei_raden",
