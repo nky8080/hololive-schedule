@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-04T04:55:02.198Z",
+  "updatedAt": "2026-02-04T05:39:49.441Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -255,11 +255,11 @@
       "talentId": "unknown",
       "talentName": "アキロゼ",
       "groupId": "hololive_jp",
-      "startTime": "2026-02-04T14:00:00+09:00",
+      "startTime": "2026-02-04T14:04:00+09:00",
       "url": "https://www.youtube.com/watch?v=JTQ7dx-Scps",
       "thumbnail": "https://img.youtube.com/vi/JTQ7dx-Scps/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "tokoyami_towa",
@@ -269,6 +269,16 @@
       "url": "https://www.youtube.com/watch?v=Ncb2cvN-3CU",
       "thumbnail": "https://img.youtube.com/vi/Ncb2cvN-3CU/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "himemori_luna",
+      "talentName": "Himemori Luna",
+      "groupId": "gen4",
+      "startTime": "2026-02-04T19:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=7m77s4SftmY",
+      "thumbnail": "https://img.youtube.com/vi/7m77s4SftmY/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -575,11 +585,11 @@
       "talentId": "raora_panthera",
       "talentName": "Raora Panthera",
       "groupId": "en_justice",
-      "startTime": "2026-02-04T14:00:00+09:00",
+      "startTime": "2026-02-04T14:03:00+09:00",
       "url": "https://www.youtube.com/watch?v=4hWTn_6PdtQ",
       "thumbnail": "https://img.youtube.com/vi/4hWTn_6PdtQ/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "shiori_novella",
