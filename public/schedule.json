@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-04T19:50:37.771Z",
+  "updatedAt": "2026-02-04T20:20:35.553Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -419,6 +419,16 @@
       "url": "https://www.youtube.com/watch?v=uE3u22kQw4k",
       "thumbnail": "https://img.youtube.com/vi/uE3u22kQw4k/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "ninomae_inanis",
+      "talentName": "Ninomae Ina'nis",
+      "groupId": "en_myth",
+      "startTime": "2026-02-05T08:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=H0_IcNuYRCQ",
+      "thumbnail": "https://img.youtube.com/vi/H0_IcNuYRCQ/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
