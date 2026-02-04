@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-04T15:58:37.662Z",
+  "updatedAt": "2026-02-04T16:42:07.985Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -59,7 +59,7 @@
       "url": "https://www.youtube.com/watch?v=7m77s4SftmY",
       "thumbnail": "https://img.youtube.com/vi/7m77s4SftmY/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "hakui_koyori",
@@ -235,11 +235,11 @@
       "talentId": "roboco",
       "talentName": "Roboco san",
       "groupId": "gen0",
-      "startTime": "2026-02-05T01:00:00+09:00",
+      "startTime": "2026-02-05T01:02:00+09:00",
       "url": "https://www.youtube.com/watch?v=lNQrAuy791w",
       "thumbnail": "https://img.youtube.com/vi/lNQrAuy791w/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "omaru_polka",
@@ -459,7 +459,7 @@
       "url": "https://www.youtube.com/watch?v=FHvfrfIgaEs",
       "thumbnail": "https://img.youtube.com/vi/FHvfrfIgaEs/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "airani_iofiteen",
