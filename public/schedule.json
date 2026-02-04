@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-04T05:39:49.441Z",
+  "updatedAt": "2026-02-04T06:30:30.253Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -659,6 +659,16 @@
       "url": "https://www.youtube.com/watch?v=F3eMhMOiMEg",
       "thumbnail": "https://img.youtube.com/vi/F3eMhMOiMEg/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "kureiji_ollie",
+      "talentName": "Kureiji Ollie",
+      "groupId": "id_gen2",
+      "startTime": "2026-02-04T18:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=jCziEFomUf8",
+      "thumbnail": "https://img.youtube.com/vi/jCziEFomUf8/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
