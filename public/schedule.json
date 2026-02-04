@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-03T23:47:56.858Z",
+  "updatedAt": "2026-02-04T00:56:56.748Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -252,6 +252,16 @@
       "isLive": false
     },
     {
+      "talentId": "unknown",
+      "talentName": "アキロゼ",
+      "groupId": "hololive_jp",
+      "startTime": "2026-02-04T14:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=JTQ7dx-Scps",
+      "thumbnail": "https://img.youtube.com/vi/JTQ7dx-Scps/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "tokino_sora",
       "talentName": "Tokino Sora",
       "groupId": "gen0",
@@ -469,7 +479,7 @@
       "url": "https://www.youtube.com/watch?v=16vKtmrUe3E",
       "thumbnail": "https://img.youtube.com/vi/16vKtmrUe3E/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "ninomae_inanis",
@@ -769,17 +779,27 @@
       "url": "https://www.youtube.com/watch?v=tervxZnRFpk",
       "thumbnail": "https://img.youtube.com/vi/tervxZnRFpk/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Jurard",
+      "groupId": "holostars_en",
+      "startTime": "2026-02-04T09:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=pu9GsCw5mIs",
+      "thumbnail": "https://img.youtube.com/vi/pu9GsCw5mIs/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/EA7rVsjrX8vvWUcCw-tEiLj4mrTZK3pvCdRmq07ylzGLBvMRL0FyU6rnMvk6-4umPUWJm8TeNg=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
     },
     {
       "talentId": "unknown",
       "talentName": "Altare",
       "groupId": "holostars_en",
-      "startTime": "2026-02-04T09:00:00+09:00",
+      "startTime": "2026-02-04T09:01:00+09:00",
       "url": "https://www.youtube.com/watch?v=w8u1VQZbdf8",
       "thumbnail": "https://img.youtube.com/vi/w8u1VQZbdf8/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/12Y9I0cP0EqJe4Wpkm19p_MythjFqYcMZRC3vN4bYPSzE9ANTIFXOhZdfP1TQpAi4Thw741twyg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "unknown",
