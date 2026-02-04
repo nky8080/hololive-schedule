@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-04T18:27:10.311Z",
+  "updatedAt": "2026-02-04T19:12:33.612Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -229,7 +229,7 @@
       "url": "https://www.youtube.com/watch?v=Ym_wQk7C_v4",
       "thumbnail": "https://img.youtube.com/vi/Ym_wQk7C_v4/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "roboco",
@@ -239,7 +239,7 @@
       "url": "https://www.youtube.com/watch?v=lNQrAuy791w",
       "thumbnail": "https://img.youtube.com/vi/lNQrAuy791w/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "omaru_polka",
@@ -689,6 +689,16 @@
       "url": "https://www.youtube.com/watch?v=BGsfq80F_WY",
       "thumbnail": "https://img.youtube.com/vi/BGsfq80F_WY/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/GkDmDWOfKfFkcVmG3-ECCRMeFR4bXlWBvuGO3xu3Ud68kVTWssXpn5q266BmtXvcHuzc5Ib2iFQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Syrios",
+      "groupId": "holostars_en",
+      "startTime": "2026-02-05T12:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=bWw_vTJDjPQ",
+      "thumbnail": "https://img.youtube.com/vi/bWw_vTJDjPQ/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
