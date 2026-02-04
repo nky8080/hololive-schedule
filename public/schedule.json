@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-04T16:42:07.985Z",
+  "updatedAt": "2026-02-04T17:30:35.327Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -69,7 +69,7 @@
       "url": "https://www.youtube.com/watch?v=tvcbRtlsxUE",
       "thumbnail": "https://img.youtube.com/vi/tvcbRtlsxUE/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "omaru_polka",
@@ -269,6 +269,16 @@
       "url": "https://www.youtube.com/watch?v=D5CNLhkGpG8",
       "thumbnail": "https://img.youtube.com/vi/D5CNLhkGpG8/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "hakui_koyori",
+      "talentName": "Hakui Koyori",
+      "groupId": "holoX",
+      "startTime": "2026-02-05T22:45:00+09:00",
+      "url": "https://www.youtube.com/watch?v=dmEYiC3dUmU",
+      "thumbnail": "https://img.youtube.com/vi/dmEYiC3dUmU/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -479,7 +489,7 @@
       "url": "https://www.youtube.com/watch?v=MmYnxM_AA7M",
       "thumbnail": "https://img.youtube.com/vi/MmYnxM_AA7M/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "moona_hoshinova",
@@ -639,7 +649,7 @@
       "url": "https://www.youtube.com/watch?v=mYelHyBSWdc",
       "thumbnail": "https://img.youtube.com/vi/mYelHyBSWdc/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/EA7rVsjrX8vvWUcCw-tEiLj4mrTZK3pvCdRmq07ylzGLBvMRL0FyU6rnMvk6-4umPUWJm8TeNg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -659,6 +669,16 @@
       "url": "https://www.youtube.com/watch?v=BGsfq80F_WY",
       "thumbnail": "https://img.youtube.com/vi/BGsfq80F_WY/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/GkDmDWOfKfFkcVmG3-ECCRMeFR4bXlWBvuGO3xu3Ud68kVTWssXpn5q266BmtXvcHuzc5Ib2iFQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Jurard",
+      "groupId": "holostars_en",
+      "startTime": "2026-02-05T20:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=ocys6QZRZMo",
+      "thumbnail": "https://img.youtube.com/vi/ocys6QZRZMo/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/EA7rVsjrX8vvWUcCw-tEiLj4mrTZK3pvCdRmq07ylzGLBvMRL0FyU6rnMvk6-4umPUWJm8TeNg=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -809,6 +829,26 @@
       "url": "https://www.youtube.com/watch?v=tuasbjAS0uM",
       "thumbnail": "https://img.youtube.com/vi/tuasbjAS0uM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "輪堂千速",
+      "groupId": "dev_is",
+      "startTime": "2026-02-05T07:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=Yi_6wI_hCqg",
+      "thumbnail": "https://img.youtube.com/vi/Yi_6wI_hCqg/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "虎金妃笑虎",
+      "groupId": "dev_is",
+      "startTime": "2026-02-05T20:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=ixSOcbeAEh0",
+      "thumbnail": "https://img.youtube.com/vi/ixSOcbeAEh0/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/bEDo7y7rywqDZpSqS7StN3vxPg4YPEfh_faAf2CENKsk4L9SgrsU0UeClvH-nsPq1i5xNFM89Q=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
