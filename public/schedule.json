@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-04T21:51:50.503Z",
+  "updatedAt": "2026-02-04T22:14:38.826Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -705,11 +705,11 @@
       "talentId": "unknown",
       "talentName": "Octavio",
       "groupId": "holostars_en",
-      "startTime": "2026-02-05T07:00:00+09:00",
+      "startTime": "2026-02-05T07:05:00+09:00",
       "url": "https://www.youtube.com/watch?v=N9B4PfSZc1U",
       "thumbnail": "https://img.youtube.com/vi/N9B4PfSZc1U/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "unknown",
@@ -899,7 +899,7 @@
       "url": "https://www.youtube.com/watch?v=Yi_6wI_hCqg",
       "thumbnail": "https://img.youtube.com/vi/Yi_6wI_hCqg/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "unknown",
