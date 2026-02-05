@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-05T06:09:21.569Z",
+  "updatedAt": "2026-02-05T07:14:29.544Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -265,11 +265,11 @@
       "talentId": "natsuiro_matsuri",
       "talentName": "Natsuiro Matsuri",
       "groupId": "gen1",
-      "startTime": "2026-02-05T16:00:00+09:00",
+      "startTime": "2026-02-05T15:59:00+09:00",
       "url": "https://www.youtube.com/watch?v=vJubNA0bswU",
       "thumbnail": "https://img.youtube.com/vi/vJubNA0bswU/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "shishiro_botan",
@@ -542,16 +542,6 @@
       "isLive": false
     },
     {
-      "talentId": "elizabeth_rose_bloodflame",
-      "talentName": "Elizabeth Rose Bloodflame",
-      "groupId": "en_justice",
-      "startTime": "2026-02-06T05:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=AqpUtZAZex8",
-      "thumbnail": "https://img.youtube.com/vi/AqpUtZAZex8/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
       "talentId": "shiori_novella",
       "talentName": "Shiori Novella",
       "groupId": "en_advent",
@@ -559,6 +549,16 @@
       "url": "https://www.youtube.com/watch?v=imWeOjXClMg",
       "thumbnail": "https://img.youtube.com/vi/imWeOjXClMg/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "elizabeth_rose_bloodflame",
+      "talentName": "Elizabeth Rose Bloodflame",
+      "groupId": "en_justice",
+      "startTime": "2026-02-06T05:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=AqpUtZAZex8",
+      "thumbnail": "https://img.youtube.com/vi/AqpUtZAZex8/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -630,6 +630,16 @@
       "thumbnail": "https://img.youtube.com/vi/WyGNG3Q4HNM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
+    },
+    {
+      "talentId": "pavolia_reine",
+      "talentName": "Pavolia Reine",
+      "groupId": "id_gen2",
+      "startTime": "2026-02-05T16:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=10KDdBBGsk0",
+      "thumbnail": "https://img.youtube.com/vi/10KDdBBGsk0/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
     },
     {
       "talentId": "airani_iofiteen",
@@ -1109,6 +1119,16 @@
       "url": "https://www.youtube.com/watch?v=DHLELXxhWL4",
       "thumbnail": "https://img.youtube.com/vi/DHLELXxhWL4/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "ichijou_ririka",
+      "talentName": "Ichijou Ririka",
+      "groupId": "regloss",
+      "startTime": "2026-02-05T22:50:00+09:00",
+      "url": "https://www.youtube.com/watch?v=YGNcGd9QU1o",
+      "thumbnail": "https://img.youtube.com/vi/YGNcGd9QU1o/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
