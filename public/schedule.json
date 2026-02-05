@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-05T23:38:15.402Z",
+  "updatedAt": "2026-02-05T23:55:13.619Z",
   "streams": [
     {
       "talentId": "unknown",
@@ -979,6 +979,16 @@
       "url": "https://www.youtube.com/watch?v=oL6OtOdXUU0",
       "thumbnail": "https://img.youtube.com/vi/oL6OtOdXUU0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "holoAN room",
+      "groupId": "official",
+      "startTime": "2026-02-06T12:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=uKGzWjaNi9k",
+      "thumbnail": "https://img.youtube.com/vi/uKGzWjaNi9k/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/bLqkQmKBq5rRp53-TLpg1wa9Bn0aFwmjsnZ6LTPgq0NjJSs2304Rm61481alRP8mTdyNLFiJ9c0=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     }
   ]
