@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-05T19:05:42.669Z",
+  "updatedAt": "2026-02-05T19:48:38.188Z",
   "streams": [
     {
       "talentId": "unknown",
@@ -709,6 +709,16 @@
       "url": "https://www.youtube.com/watch?v=jSJ-v1HvbzI",
       "thumbnail": "https://img.youtube.com/vi/jSJ-v1HvbzI/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Crimzon",
+      "groupId": "holostars_en",
+      "startTime": "2026-02-06T05:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=6t-E02EMRCc",
+      "thumbnail": "https://img.youtube.com/vi/6t-E02EMRCc/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
