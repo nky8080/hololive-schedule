@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-05T07:14:29.544Z",
+  "updatedAt": "2026-02-05T07:56:26.709Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -640,6 +640,16 @@
       "thumbnail": "https://img.youtube.com/vi/10KDdBBGsk0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s88-c-k-c0x00ffffff-no-rj",
       "isLive": true
+    },
+    {
+      "talentId": "ayunda_risu",
+      "talentName": "Ayunda Risu",
+      "groupId": "id_gen1",
+      "startTime": "2026-02-05T17:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=zKdflYr-AEg",
+      "thumbnail": "https://img.youtube.com/vi/zKdflYr-AEg/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
     },
     {
       "talentId": "airani_iofiteen",
