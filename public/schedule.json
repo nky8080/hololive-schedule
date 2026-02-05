@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-05T17:30:32.833Z",
+  "updatedAt": "2026-02-05T18:11:27.458Z",
   "streams": [
     {
       "talentId": "unknown",
@@ -375,11 +375,11 @@
       "talentId": "takanashi_kiara",
       "talentName": "Takanashi Kiara",
       "groupId": "en_myth",
-      "startTime": "2026-02-06T02:30:00+09:00",
+      "startTime": "2026-02-06T02:33:00+09:00",
       "url": "https://www.youtube.com/watch?v=6apz6Ttbfsw",
       "thumbnail": "https://img.youtube.com/vi/6apz6Ttbfsw/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "elizabeth_rose_bloodflame",
@@ -519,7 +519,7 @@
       "url": "https://www.youtube.com/watch?v=QDwtvEDyIpM",
       "thumbnail": "https://img.youtube.com/vi/QDwtvEDyIpM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -689,7 +689,7 @@
       "url": "https://www.youtube.com/watch?v=ocys6QZRZMo",
       "thumbnail": "https://img.youtube.com/vi/ocys6QZRZMo/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/EA7rVsjrX8vvWUcCw-tEiLj4mrTZK3pvCdRmq07ylzGLBvMRL0FyU6rnMvk6-4umPUWJm8TeNg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
