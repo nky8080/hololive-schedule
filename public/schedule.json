@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-04T23:47:33.432Z",
+  "updatedAt": "2026-02-05T00:59:51.824Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -439,7 +439,7 @@
       "url": "https://www.youtube.com/watch?v=uE3u22kQw4k",
       "thumbnail": "https://img.youtube.com/vi/uE3u22kQw4k/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "ninomae_inanis",
@@ -449,7 +449,7 @@
       "url": "https://www.youtube.com/watch?v=H0_IcNuYRCQ",
       "thumbnail": "https://img.youtube.com/vi/H0_IcNuYRCQ/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "hakos_baelz",
@@ -479,6 +479,16 @@
       "url": "https://www.youtube.com/watch?v=AqpUtZAZex8",
       "thumbnail": "https://img.youtube.com/vi/AqpUtZAZex8/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "shiori_novella",
+      "talentName": "Shiori Novella",
+      "groupId": "en_advent",
+      "startTime": "2026-02-06T05:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=imWeOjXClMg",
+      "thumbnail": "https://img.youtube.com/vi/imWeOjXClMg/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -713,12 +723,52 @@
     },
     {
       "talentId": "unknown",
+      "talentName": "Crimzon",
+      "groupId": "holostars_en",
+      "startTime": "2026-02-05T09:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=6wEX2x3h0Qs",
+      "thumbnail": "https://img.youtube.com/vi/6wEX2x3h0Qs/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Jurard",
+      "groupId": "holostars_en",
+      "startTime": "2026-02-05T09:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=IS1u2tC6ZCc",
+      "thumbnail": "https://img.youtube.com/vi/IS1u2tC6ZCc/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/EA7rVsjrX8vvWUcCw-tEiLj4mrTZK3pvCdRmq07ylzGLBvMRL0FyU6rnMvk6-4umPUWJm8TeNg=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Goldbullet",
+      "groupId": "holostars_en",
+      "startTime": "2026-02-05T09:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=RIP8SeQdrXw",
+      "thumbnail": "https://img.youtube.com/vi/RIP8SeQdrXw/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/pP_ShozRg9Hn8dyB4D8ODtdI9ShTY3AMOKui418InNDz9jwGYIRRH6bxdl7KX55SjmFMZlMUvg=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
       "talentName": "Shinri",
       "groupId": "holostars_en",
       "startTime": "2026-02-05T10:00:00+09:00",
       "url": "https://www.youtube.com/watch?v=BGsfq80F_WY",
       "thumbnail": "https://img.youtube.com/vi/BGsfq80F_WY/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/GkDmDWOfKfFkcVmG3-ECCRMeFR4bXlWBvuGO3xu3Ud68kVTWssXpn5q266BmtXvcHuzc5Ib2iFQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Altare",
+      "groupId": "holostars_en",
+      "startTime": "2026-02-05T12:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=3TJcIvQsrP0",
+      "thumbnail": "https://img.youtube.com/vi/3TJcIvQsrP0/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/12Y9I0cP0EqJe4Wpkm19p_MythjFqYcMZRC3vN4bYPSzE9ANTIFXOhZdfP1TQpAi4Thw741twyg=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -899,7 +949,7 @@
       "url": "https://www.youtube.com/watch?v=Yi_6wI_hCqg",
       "thumbnail": "https://img.youtube.com/vi/Yi_6wI_hCqg/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
