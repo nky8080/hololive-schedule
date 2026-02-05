@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-05T21:18:44.792Z",
+  "updatedAt": "2026-02-05T21:50:13.356Z",
   "streams": [
     {
       "talentId": "unknown",
@@ -259,6 +259,16 @@
       "url": "https://www.youtube.com/watch?v=tWTUyeufjBk",
       "thumbnail": "https://img.youtube.com/vi/tWTUyeufjBk/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "アキロゼ",
+      "groupId": "hololive_jp",
+      "startTime": "2026-02-06T13:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=6c3Gns05_34",
+      "thumbnail": "https://img.youtube.com/vi/6c3Gns05_34/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -929,6 +939,16 @@
       "url": "https://www.youtube.com/watch?v=YGNcGd9QU1o",
       "thumbnail": "https://img.youtube.com/vi/YGNcGd9QU1o/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "mizumiya_su",
+      "talentName": "Mizumiya Su",
+      "groupId": "flow_glow",
+      "startTime": "2026-02-06T12:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=wHXZTQsgdeE",
+      "thumbnail": "https://img.youtube.com/vi/wHXZTQsgdeE/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
