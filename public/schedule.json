@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-05T18:11:27.458Z",
+  "updatedAt": "2026-02-05T19:05:42.669Z",
   "streams": [
     {
       "talentId": "unknown",
@@ -579,7 +579,7 @@
       "url": "https://www.youtube.com/watch?v=xvJDzZP3isk",
       "thumbnail": "https://img.youtube.com/vi/xvJDzZP3isk/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -589,6 +589,16 @@
       "url": "https://www.youtube.com/watch?v=GsGWVfGTjMA",
       "thumbnail": "https://img.youtube.com/vi/GsGWVfGTjMA/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "花咲みやび",
+      "groupId": "holostars_jp",
+      "startTime": "2026-02-06T14:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=Q9fYijz2zZM",
+      "thumbnail": "https://img.youtube.com/vi/Q9fYijz2zZM/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
