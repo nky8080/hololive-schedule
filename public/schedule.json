@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-05T23:13:46.307Z",
+  "updatedAt": "2026-02-05T23:38:15.402Z",
   "streams": [
     {
       "talentId": "unknown",
@@ -769,7 +769,7 @@
       "url": "https://www.youtube.com/watch?v=jf0rIcdnrbo",
       "thumbnail": "https://img.youtube.com/vi/jf0rIcdnrbo/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/12Y9I0cP0EqJe4Wpkm19p_MythjFqYcMZRC3vN4bYPSzE9ANTIFXOhZdfP1TQpAi4Thw741twyg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
