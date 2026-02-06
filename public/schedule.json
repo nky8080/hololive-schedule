@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-06T07:11:14.048Z",
+  "updatedAt": "2026-02-06T07:54:05.107Z",
   "streams": [
     {
       "talentId": "unknown",
@@ -279,7 +279,7 @@
       "url": "https://www.youtube.com/watch?v=6c3Gns05_34",
       "thumbnail": "https://img.youtube.com/vi/6c3Gns05_34/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "shirakami_fubuki",
@@ -499,7 +499,7 @@
       "url": "https://www.youtube.com/watch?v=Ce1x-yS1Jpo",
       "thumbnail": "https://img.youtube.com/vi/Ce1x-yS1Jpo/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "raora_panthera",
@@ -1109,6 +1109,16 @@
       "url": "https://www.youtube.com/watch?v=wHXZTQsgdeE",
       "thumbnail": "https://img.youtube.com/vi/wHXZTQsgdeE/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "isaki_riona",
+      "talentName": "Isaki Riona",
+      "groupId": "flow_glow",
+      "startTime": "2026-02-06T19:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=mzV2OwU8_Og",
+      "thumbnail": "https://img.youtube.com/vi/mzV2OwU8_Og/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
