@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-06T21:49:50.470Z",
+  "updatedAt": "2026-02-06T22:10:55.032Z",
   "streams": [
     {
       "talentId": "omaru_polka",
@@ -539,7 +539,7 @@
       "url": "https://www.youtube.com/watch?v=sKa-WQsYONM",
       "thumbnail": "https://img.youtube.com/vi/sKa-WQsYONM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "gigi_murin",
@@ -819,7 +819,7 @@
       "url": "https://www.youtube.com/watch?v=X2ogbna414Y",
       "thumbnail": "https://img.youtube.com/vi/X2ogbna414Y/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/kv71-xuB9kzbU7Bi4qsmkRXHc3wAgEU4rhllRnmGH4H23T825BKdGqEAcagTSE9r8BdsnG4lqQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "unknown",
