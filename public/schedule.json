@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-06T18:03:27.352Z",
+  "updatedAt": "2026-02-06T19:06:22.211Z",
   "streams": [
     {
       "talentId": "omaru_polka",
@@ -269,6 +269,16 @@
       "url": "https://www.youtube.com/watch?v=Ax0Hb-_poD0",
       "thumbnail": "https://img.youtube.com/vi/Ax0Hb-_poD0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "アキロゼ",
+      "groupId": "hololive_jp",
+      "startTime": "2026-02-07T13:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=aUf-QHdeEeg",
+      "thumbnail": "https://img.youtube.com/vi/aUf-QHdeEeg/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -899,7 +909,7 @@
       "url": "https://www.youtube.com/watch?v=oL6OtOdXUU0",
       "thumbnail": "https://img.youtube.com/vi/oL6OtOdXUU0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
