@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-06T11:19:43.291Z",
+  "updatedAt": "2026-02-06T11:51:31.918Z",
   "streams": [
     {
       "talentId": "unknown",
@@ -369,7 +369,7 @@
       "url": "https://www.youtube.com/watch?v=-2jZQ1goWHQ",
       "thumbnail": "https://img.youtube.com/vi/-2jZQ1goWHQ/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "azki",
@@ -409,17 +409,7 @@
       "url": "https://www.youtube.com/watch?v=2rfxNo5dRhE",
       "thumbnail": "https://img.youtube.com/vi/2rfxNo5dRhE/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
-      "talentId": "oozora_subaru",
-      "talentName": "Oozora Subaru",
-      "groupId": "gen2",
-      "startTime": "2026-02-06T22:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=p6brXZCOqnU",
-      "thumbnail": "https://img.youtube.com/vi/p6brXZCOqnU/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "hakui_koyori",
@@ -432,6 +422,16 @@
       "isLive": false
     },
     {
+      "talentId": "shiranui_flare",
+      "talentName": "Shiranui Flare",
+      "groupId": "gen3",
+      "startTime": "2026-02-06T22:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=98RsCiCgDYM",
+      "thumbnail": "https://img.youtube.com/vi/98RsCiCgDYM/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "nekomata_okayu",
       "talentName": "Nekomata Okayu",
       "groupId": "gamers",
@@ -439,6 +439,16 @@
       "url": "https://www.youtube.com/watch?v=PynKLCmi16Q",
       "thumbnail": "https://img.youtube.com/vi/PynKLCmi16Q/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "oozora_subaru",
+      "talentName": "Oozora Subaru",
+      "groupId": "gen2",
+      "startTime": "2026-02-06T22:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=p6brXZCOqnU",
+      "thumbnail": "https://img.youtube.com/vi/p6brXZCOqnU/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -1329,7 +1339,7 @@
       "url": "https://www.youtube.com/watch?v=Slxy7gCZ0N0",
       "thumbnail": "https://img.youtube.com/vi/Slxy7gCZ0N0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "isaki_riona",
