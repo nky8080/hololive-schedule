@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-06T03:27:38.310Z",
+  "updatedAt": "2026-02-06T05:00:58.867Z",
   "streams": [
     {
       "talentId": "unknown",
@@ -262,16 +262,6 @@
       "isLive": false
     },
     {
-      "talentId": "unknown",
-      "talentName": "アキロゼ",
-      "groupId": "hololive_jp",
-      "startTime": "2026-02-06T13:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=6c3Gns05_34",
-      "thumbnail": "https://img.youtube.com/vi/6c3Gns05_34/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
       "talentId": "natsuiro_matsuri",
       "talentName": "Natsuiro Matsuri",
       "groupId": "gen1",
@@ -279,7 +269,17 @@
       "url": "https://www.youtube.com/watch?v=Kn-rlDKfc1M",
       "thumbnail": "https://img.youtube.com/vi/Kn-rlDKfc1M/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "アキロゼ",
+      "groupId": "hololive_jp",
+      "startTime": "2026-02-06T13:01:00+09:00",
+      "url": "https://www.youtube.com/watch?v=6c3Gns05_34",
+      "thumbnail": "https://img.youtube.com/vi/6c3Gns05_34/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
     },
     {
       "talentId": "shirakami_fubuki",
@@ -492,6 +492,16 @@
       "isLive": true
     },
     {
+      "talentId": "ouro_kronii",
+      "talentName": "Ouro Kronii",
+      "groupId": "en_promise",
+      "startTime": "2026-02-06T13:35:00+09:00",
+      "url": "https://www.youtube.com/watch?v=Ce1x-yS1Jpo",
+      "thumbnail": "https://img.youtube.com/vi/Ce1x-yS1Jpo/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
+    },
+    {
       "talentId": "raora_panthera",
       "talentName": "Raora Panthera",
       "groupId": "en_justice",
@@ -529,6 +539,16 @@
       "url": "https://www.youtube.com/watch?v=fuQ7VpAVFr4",
       "thumbnail": "https://img.youtube.com/vi/fuQ7VpAVFr4/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "holo EN",
+      "groupId": "hololive_en",
+      "startTime": "2026-02-07T13:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=Ynepn5tOqmU",
+      "thumbnail": "https://img.youtube.com/vi/Ynepn5tOqmU/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/RhkoXVesjeO80YBwpSvFz_WtaEptXbXLZ0JncX9zzI4q9eYzlgOnNapKkFd5mzjj1kVTUHytJA=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -619,7 +639,7 @@
       "url": "https://www.youtube.com/watch?v=cVxBFpkv87s",
       "thumbnail": "https://img.youtube.com/vi/cVxBFpkv87s/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "airani_iofiteen",
@@ -715,11 +735,11 @@
       "talentId": "unknown",
       "talentName": "アステル・レダ",
       "groupId": "holostars_jp",
-      "startTime": "2026-02-06T12:30:00+09:00",
+      "startTime": "2026-02-06T12:36:00+09:00",
       "url": "https://www.youtube.com/watch?v=qxYZlz_bIs0",
       "thumbnail": "https://img.youtube.com/vi/qxYZlz_bIs0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "unknown",
@@ -753,22 +773,22 @@
     },
     {
       "talentId": "unknown",
-      "talentName": "Jurard",
-      "groupId": "holostars_en",
-      "startTime": "2026-02-05T09:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=IS1u2tC6ZCc",
-      "thumbnail": "https://img.youtube.com/vi/IS1u2tC6ZCc/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/EA7rVsjrX8vvWUcCw-tEiLj4mrTZK3pvCdRmq07ylzGLBvMRL0FyU6rnMvk6-4umPUWJm8TeNg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
-      "talentId": "unknown",
       "talentName": "Crimzon",
       "groupId": "holostars_en",
       "startTime": "2026-02-05T09:00:00+09:00",
       "url": "https://www.youtube.com/watch?v=6wEX2x3h0Qs",
       "thumbnail": "https://img.youtube.com/vi/6wEX2x3h0Qs/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Jurard",
+      "groupId": "holostars_en",
+      "startTime": "2026-02-05T09:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=IS1u2tC6ZCc",
+      "thumbnail": "https://img.youtube.com/vi/IS1u2tC6ZCc/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/EA7rVsjrX8vvWUcCw-tEiLj4mrTZK3pvCdRmq07ylzGLBvMRL0FyU6rnMvk6-4umPUWJm8TeNg=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -1079,7 +1099,7 @@
       "url": "https://www.youtube.com/watch?v=wHXZTQsgdeE",
       "thumbnail": "https://img.youtube.com/vi/wHXZTQsgdeE/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "mizumiya_su",
@@ -1099,7 +1119,7 @@
       "url": "https://www.youtube.com/watch?v=uKGzWjaNi9k",
       "thumbnail": "https://img.youtube.com/vi/uKGzWjaNi9k/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/bLqkQmKBq5rRp53-TLpg1wa9Bn0aFwmjsnZ6LTPgq0NjJSs2304Rm61481alRP8mTdyNLFiJ9c0=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     }
   ]
 }
