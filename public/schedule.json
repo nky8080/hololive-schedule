@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-06T22:57:32.119Z",
+  "updatedAt": "2026-02-06T23:18:56.420Z",
   "streams": [
     {
       "talentId": "omaru_polka",
@@ -545,11 +545,11 @@
       "talentId": "gigi_murin",
       "talentName": "Gigi Murin",
       "groupId": "en_justice",
-      "startTime": "2026-02-07T08:00:00+09:00",
+      "startTime": "2026-02-07T08:12:00+09:00",
       "url": "https://www.youtube.com/watch?v=HUa0LI49mUw",
       "thumbnail": "https://img.youtube.com/vi/HUa0LI49mUw/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "hakos_baelz",
