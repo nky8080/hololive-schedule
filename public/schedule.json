@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-06T06:06:12.544Z",
+  "updatedAt": "2026-02-06T07:11:14.048Z",
   "streams": [
     {
       "talentId": "unknown",
@@ -269,7 +269,7 @@
       "url": "https://www.youtube.com/watch?v=Kn-rlDKfc1M",
       "thumbnail": "https://img.youtube.com/vi/Kn-rlDKfc1M/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -489,7 +489,7 @@
       "url": "https://www.youtube.com/watch?v=bySoKFjVOL0",
       "thumbnail": "https://img.youtube.com/vi/bySoKFjVOL0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "ouro_kronii",
@@ -519,6 +519,16 @@
       "url": "https://www.youtube.com/watch?v=sKa-WQsYONM",
       "thumbnail": "https://img.youtube.com/vi/sKa-WQsYONM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "nerissa_ravencroft",
+      "talentName": "Nerissa Ravencroft",
+      "groupId": "en_advent",
+      "startTime": "2026-02-07T10:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=BT7Qs-DVTDI",
+      "thumbnail": "https://img.youtube.com/vi/BT7Qs-DVTDI/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -1099,6 +1109,16 @@
       "url": "https://www.youtube.com/watch?v=wHXZTQsgdeE",
       "thumbnail": "https://img.youtube.com/vi/wHXZTQsgdeE/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "otonose_kanade",
+      "talentName": "Otonose Kanade",
+      "groupId": "regloss",
+      "startTime": "2026-02-06T20:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=pLCVLrEm7cs",
+      "thumbnail": "https://img.youtube.com/vi/pLCVLrEm7cs/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
