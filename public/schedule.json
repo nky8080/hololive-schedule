@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-06T11:51:31.918Z",
+  "updatedAt": "2026-02-06T12:29:32.226Z",
   "streams": [
     {
       "talentId": "unknown",
@@ -409,7 +409,7 @@
       "url": "https://www.youtube.com/watch?v=2rfxNo5dRhE",
       "thumbnail": "https://img.youtube.com/vi/2rfxNo5dRhE/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "hakui_koyori",
@@ -629,6 +629,16 @@
       "url": "https://www.youtube.com/watch?v=Ce1x-yS1Jpo",
       "thumbnail": "https://img.youtube.com/vi/Ce1x-yS1Jpo/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "holo EN",
+      "groupId": "hololive_en",
+      "startTime": "2026-02-06T21:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=9A14uibcCF8",
+      "thumbnail": "https://img.youtube.com/vi/9A14uibcCF8/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/RhkoXVesjeO80YBwpSvFz_WtaEptXbXLZ0JncX9zzI4q9eYzlgOnNapKkFd5mzjj1kVTUHytJA=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
