@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-07T21:45:58.752Z",
+  "updatedAt": "2026-02-07T22:13:41.584Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -995,11 +995,11 @@
       "talentId": "kikirara_vivi",
       "talentName": "Kikirara Vivi",
       "groupId": "flow_glow",
-      "startTime": "2026-02-08T07:00:00+09:00",
+      "startTime": "2026-02-08T07:05:00+09:00",
       "url": "https://www.youtube.com/watch?v=hrqLF796vq4",
       "thumbnail": "https://img.youtube.com/vi/hrqLF796vq4/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "ichijou_ririka",
