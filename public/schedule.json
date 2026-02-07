@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-07T16:49:20.243Z",
+  "updatedAt": "2026-02-07T17:16:26.512Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -219,7 +219,7 @@
       "url": "https://www.youtube.com/watch?v=_4Ve7REPVCQ",
       "thumbnail": "https://img.youtube.com/vi/_4Ve7REPVCQ/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "hakui_koyori",
@@ -322,16 +322,6 @@
       "isLive": false
     },
     {
-      "talentId": "usada_pekora",
-      "talentName": "Usada Pekora",
-      "groupId": "gen3",
-      "startTime": "2026-02-08T12:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=weklOUgejBQ",
-      "thumbnail": "https://img.youtube.com/vi/weklOUgejBQ/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
       "talentId": "tokoyami_towa",
       "talentName": "Tokoyami Towa",
       "groupId": "gen4",
@@ -339,6 +329,16 @@
       "url": "https://www.youtube.com/watch?v=ri3M799Dyo8",
       "thumbnail": "https://img.youtube.com/vi/ri3M799Dyo8/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "usada_pekora",
+      "talentName": "Usada Pekora",
+      "groupId": "gen3",
+      "startTime": "2026-02-08T12:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=weklOUgejBQ",
+      "thumbnail": "https://img.youtube.com/vi/weklOUgejBQ/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -409,6 +409,16 @@
       "url": "https://www.youtube.com/watch?v=LjgucwTcM1w",
       "thumbnail": "https://img.youtube.com/vi/LjgucwTcM1w/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "momosuzu_nene",
+      "talentName": "Momosuzu Nene",
+      "groupId": "gen5",
+      "startTime": "2026-02-08T20:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=31TxuKtAxF0",
+      "thumbnail": "https://img.youtube.com/vi/31TxuKtAxF0/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -679,7 +689,7 @@
       "url": "https://www.youtube.com/watch?v=-wDSdM7K_w8",
       "thumbnail": "https://img.youtube.com/vi/-wDSdM7K_w8/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "kureiji_ollie",
