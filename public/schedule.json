@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-07T18:17:27.564Z",
+  "updatedAt": "2026-02-07T18:57:15.084Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -229,7 +229,7 @@
       "url": "https://www.youtube.com/watch?v=8Bc18qDD-i0",
       "thumbnail": "https://img.youtube.com/vi/8Bc18qDD-i0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "sakura_miko",
@@ -289,7 +289,7 @@
       "url": "https://www.youtube.com/watch?v=mmZeoYHwzPY",
       "thumbnail": "https://img.youtube.com/vi/mmZeoYHwzPY/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "shishiro_botan",
@@ -379,6 +379,16 @@
       "url": "https://www.youtube.com/watch?v=2uhFOQtCq7c",
       "thumbnail": "https://img.youtube.com/vi/2uhFOQtCq7c/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "sakura_miko",
+      "talentName": "Sakura Miko",
+      "groupId": "gen0",
+      "startTime": "2026-02-08T19:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=LLj9hJkigm4",
+      "thumbnail": "https://img.youtube.com/vi/LLj9hJkigm4/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
