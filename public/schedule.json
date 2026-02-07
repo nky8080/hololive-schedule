@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-07T20:12:40.657Z",
+  "updatedAt": "2026-02-07T20:43:28.838Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -979,6 +979,16 @@
       "url": "https://www.youtube.com/watch?v=P27o43w-Tss",
       "thumbnail": "https://img.youtube.com/vi/P27o43w-Tss/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/bEDo7y7rywqDZpSqS7StN3vxPg4YPEfh_faAf2CENKsk4L9SgrsU0UeClvH-nsPq1i5xNFM89Q=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "kikirara_vivi",
+      "talentName": "Kikirara Vivi",
+      "groupId": "flow_glow",
+      "startTime": "2026-02-08T07:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=hrqLF796vq4",
+      "thumbnail": "https://img.youtube.com/vi/hrqLF796vq4/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
