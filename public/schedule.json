@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-07T06:26:44.924Z",
+  "updatedAt": "2026-02-07T07:06:01.894Z",
   "streams": [
     {
       "talentId": "omaru_polka",
@@ -299,7 +299,7 @@
       "url": "https://www.youtube.com/watch?v=Ax0Hb-_poD0",
       "thumbnail": "https://img.youtube.com/vi/Ax0Hb-_poD0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "tokino_sora",
@@ -372,6 +372,16 @@
       "isLive": false
     },
     {
+      "talentId": "kazama_iroha",
+      "talentName": "Kazama Iroha",
+      "groupId": "holoX",
+      "startTime": "2026-02-07T19:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=QxYOwE9nW0w",
+      "thumbnail": "https://img.youtube.com/vi/QxYOwE9nW0w/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "usada_pekora",
       "talentName": "Usada Pekora",
       "groupId": "gen3",
@@ -419,6 +429,16 @@
       "url": "https://www.youtube.com/watch?v=mmZeoYHwzPY",
       "thumbnail": "https://img.youtube.com/vi/mmZeoYHwzPY/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "kazama_iroha",
+      "talentName": "Kazama Iroha",
+      "groupId": "holoX",
+      "startTime": "2026-02-08T14:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=LkSGbDlfjRE",
+      "thumbnail": "https://img.youtube.com/vi/LkSGbDlfjRE/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -969,7 +989,7 @@
       "url": "https://www.youtube.com/watch?v=YIWQ1o73emc",
       "thumbnail": "https://img.youtube.com/vi/YIWQ1o73emc/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/EA7rVsjrX8vvWUcCw-tEiLj4mrTZK3pvCdRmq07ylzGLBvMRL0FyU6rnMvk6-4umPUWJm8TeNg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
