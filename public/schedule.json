@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-07T16:15:04.886Z",
+  "updatedAt": "2026-02-07T16:49:20.243Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -269,7 +269,7 @@
       "url": "https://www.youtube.com/watch?v=yKyEplfOb2Y",
       "thumbnail": "https://img.youtube.com/vi/yKyEplfOb2Y/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "shiranui_flare",
@@ -279,7 +279,7 @@
       "url": "https://www.youtube.com/watch?v=-4TihZVxnr0",
       "thumbnail": "https://img.youtube.com/vi/-4TihZVxnr0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -359,6 +359,16 @@
       "url": "https://www.youtube.com/watch?v=LkSGbDlfjRE",
       "thumbnail": "https://img.youtube.com/vi/LkSGbDlfjRE/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "shishiro_botan",
+      "talentName": "Shishiro Botan",
+      "groupId": "gen5",
+      "startTime": "2026-02-08T17:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=HB6fI8c650w",
+      "thumbnail": "https://img.youtube.com/vi/HB6fI8c650w/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -519,7 +529,7 @@
       "url": "https://www.youtube.com/watch?v=bnZXYFRU-Iw",
       "thumbnail": "https://img.youtube.com/vi/bnZXYFRU-Iw/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "takanashi_kiara",
@@ -659,7 +669,7 @@
       "url": "https://www.youtube.com/watch?v=SJVITRI7HCU",
       "thumbnail": "https://img.youtube.com/vi/SJVITRI7HCU/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "pavolia_reine",
