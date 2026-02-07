@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-07T11:52:23.295Z",
+  "updatedAt": "2026-02-07T12:20:43.646Z",
   "streams": [
     {
       "talentId": "omaru_polka",
@@ -432,14 +432,14 @@
       "isLive": true
     },
     {
-      "talentId": "sakura_miko",
-      "talentName": "Sakura Miko",
-      "groupId": "gen0",
+      "talentId": "nekomata_okayu",
+      "talentName": "Nekomata Okayu",
+      "groupId": "gamers",
       "startTime": "2026-02-07T21:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=4xN6zpBKIkg",
-      "thumbnail": "https://img.youtube.com/vi/4xN6zpBKIkg/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "url": "https://www.youtube.com/watch?v=_4Ve7REPVCQ",
+      "thumbnail": "https://img.youtube.com/vi/_4Ve7REPVCQ/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
     },
     {
       "talentId": "hakui_koyori",
@@ -449,27 +449,27 @@
       "url": "https://www.youtube.com/watch?v=8Bc18qDD-i0",
       "thumbnail": "https://img.youtube.com/vi/8Bc18qDD-i0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
+    },
+    {
+      "talentId": "sakura_miko",
+      "talentName": "Sakura Miko",
+      "groupId": "gen0",
+      "startTime": "2026-02-07T21:02:00+09:00",
+      "url": "https://www.youtube.com/watch?v=4xN6zpBKIkg",
+      "thumbnail": "https://img.youtube.com/vi/4xN6zpBKIkg/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
     },
     {
       "talentId": "shishiro_botan",
       "talentName": "Shishiro Botan",
       "groupId": "gen5",
-      "startTime": "2026-02-07T21:00:00+09:00",
+      "startTime": "2026-02-07T21:02:00+09:00",
       "url": "https://www.youtube.com/watch?v=D2_UkX9meeo",
       "thumbnail": "https://img.youtube.com/vi/D2_UkX9meeo/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
-      "talentId": "nekomata_okayu",
-      "talentName": "Nekomata Okayu",
-      "groupId": "gamers",
-      "startTime": "2026-02-07T21:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=_4Ve7REPVCQ",
-      "thumbnail": "https://img.youtube.com/vi/_4Ve7REPVCQ/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "inugami_korone",
@@ -479,6 +479,16 @@
       "url": "https://www.youtube.com/watch?v=cB4yPA_3iws",
       "thumbnail": "https://img.youtube.com/vi/cB4yPA_3iws/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "omaru_polka",
+      "talentName": "Omaru Polka",
+      "groupId": "gen5",
+      "startTime": "2026-02-07T22:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=yKyEplfOb2Y",
+      "thumbnail": "https://img.youtube.com/vi/yKyEplfOb2Y/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -915,11 +925,11 @@
       "talentId": "moona_hoshinova",
       "talentName": "Moona Hoshinova",
       "groupId": "id_gen1",
-      "startTime": "2026-02-07T21:00:00+09:00",
+      "startTime": "2026-02-07T21:01:00+09:00",
       "url": "https://www.youtube.com/watch?v=_e6RjKkEklg",
       "thumbnail": "https://img.youtube.com/vi/_e6RjKkEklg/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "kureiji_ollie",
