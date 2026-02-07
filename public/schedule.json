@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-07T07:43:37.319Z",
+  "updatedAt": "2026-02-07T07:57:56.054Z",
   "streams": [
     {
       "talentId": "omaru_polka",
@@ -629,7 +629,7 @@
       "url": "https://www.youtube.com/watch?v=BT7Qs-DVTDI",
       "thumbnail": "https://img.youtube.com/vi/BT7Qs-DVTDI/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "hakos_baelz",
@@ -809,6 +809,16 @@
       "url": "https://www.youtube.com/watch?v=_e6RjKkEklg",
       "thumbnail": "https://img.youtube.com/vi/_e6RjKkEklg/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "airani_iofiteen",
+      "talentName": "Airani Iofifteen",
+      "groupId": "id_gen1",
+      "startTime": "2026-02-07T22:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=SJVITRI7HCU",
+      "thumbnail": "https://img.youtube.com/vi/SJVITRI7HCU/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -1159,7 +1169,7 @@
       "url": "https://www.youtube.com/watch?v=k9NbaMqsFO4",
       "thumbnail": "https://img.youtube.com/vi/k9NbaMqsFO4/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "otonose_kanade",
@@ -1179,7 +1189,7 @@
       "url": "https://www.youtube.com/watch?v=qEvCxoWjXx0",
       "thumbnail": "https://img.youtube.com/vi/qEvCxoWjXx0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -1199,6 +1209,16 @@
       "url": "https://www.youtube.com/watch?v=r3a05zH84h4",
       "thumbnail": "https://img.youtube.com/vi/r3a05zH84h4/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "isaki_riona",
+      "talentName": "Isaki Riona",
+      "groupId": "flow_glow",
+      "startTime": "2026-02-07T19:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=HDKk91-p08k",
+      "thumbnail": "https://img.youtube.com/vi/HDKk91-p08k/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
