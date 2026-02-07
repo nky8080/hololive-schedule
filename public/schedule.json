@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-07T14:15:24.061Z",
+  "updatedAt": "2026-02-07T14:45:12.281Z",
   "streams": [
     {
       "talentId": "omaru_polka",
@@ -892,6 +892,16 @@
       "isLive": false
     },
     {
+      "talentId": "irys",
+      "talentName": "IRyS",
+      "groupId": "en_promise",
+      "startTime": "2026-02-08T12:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=qbZVHTHXXAM",
+      "thumbnail": "https://img.youtube.com/vi/qbZVHTHXXAM/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "mori_calliope",
       "talentName": "Mori Calliope",
       "groupId": "en_myth",
@@ -989,7 +999,7 @@
       "url": "https://www.youtube.com/watch?v=_e6RjKkEklg",
       "thumbnail": "https://img.youtube.com/vi/_e6RjKkEklg/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "kobo_kanaeru",
