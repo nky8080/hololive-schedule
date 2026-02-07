@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-07T08:24:25.612Z",
+  "updatedAt": "2026-02-07T08:53:01.288Z",
   "streams": [
     {
       "talentId": "omaru_polka",
@@ -279,7 +279,7 @@
       "url": "https://www.youtube.com/watch?v=3_XoReXYcaU",
       "thumbnail": "https://img.youtube.com/vi/3_XoReXYcaU/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -409,6 +409,16 @@
       "url": "https://www.youtube.com/watch?v=NU6xNSKOj9c",
       "thumbnail": "https://img.youtube.com/vi/NU6xNSKOj9c/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "sakura_miko",
+      "talentName": "Sakura Miko",
+      "groupId": "gen0",
+      "startTime": "2026-02-07T21:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=4xN6zpBKIkg",
+      "thumbnail": "https://img.youtube.com/vi/4xN6zpBKIkg/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -1199,7 +1209,7 @@
       "url": "https://www.youtube.com/watch?v=xMOUFcNSMko",
       "thumbnail": "https://img.youtube.com/vi/xMOUFcNSMko/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "isaki_riona",
@@ -1239,6 +1249,16 @@
       "url": "https://www.youtube.com/watch?v=r3a05zH84h4",
       "thumbnail": "https://img.youtube.com/vi/r3a05zH84h4/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "ichijou_ririka",
+      "talentName": "Ichijou Ririka",
+      "groupId": "regloss",
+      "startTime": "2026-02-07T19:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=axwAF-rfy2I",
+      "thumbnail": "https://img.youtube.com/vi/axwAF-rfy2I/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
