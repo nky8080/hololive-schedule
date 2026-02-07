@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-07T05:02:21.381Z",
+  "updatedAt": "2026-02-07T05:55:26.361Z",
   "streams": [
     {
       "talentId": "omaru_polka",
@@ -302,16 +302,6 @@
       "isLive": true
     },
     {
-      "talentId": "tokino_sora",
-      "talentName": "Tokino Sora",
-      "groupId": "gen0",
-      "startTime": "2026-02-07T14:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=kpnbNozxl1E",
-      "thumbnail": "https://img.youtube.com/vi/kpnbNozxl1E/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
       "talentId": "himemori_luna",
       "talentName": "Himemori Luna",
       "groupId": "gen4",
@@ -339,6 +329,16 @@
       "url": "https://www.youtube.com/watch?v=q8ow2eICDvM",
       "thumbnail": "https://img.youtube.com/vi/q8ow2eICDvM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "宝鐘マリン",
+      "groupId": "hololive_jp",
+      "startTime": "2026-02-07T19:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=pzLVk2MoMkQ",
+      "thumbnail": "https://img.youtube.com/vi/pzLVk2MoMkQ/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -649,7 +649,7 @@
       "url": "https://www.youtube.com/watch?v=fuQ7VpAVFr4",
       "thumbnail": "https://img.youtube.com/vi/fuQ7VpAVFr4/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "takanashi_kiara",
@@ -1169,16 +1169,6 @@
       "url": "https://www.youtube.com/watch?v=uKGzWjaNi9k",
       "thumbnail": "https://img.youtube.com/vi/uKGzWjaNi9k/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/bLqkQmKBq5rRp53-TLpg1wa9Bn0aFwmjsnZ6LTPgq0NjJSs2304Rm61481alRP8mTdyNLFiJ9c0=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
-      "talentId": "unknown",
-      "talentName": "宝鐘マリン",
-      "groupId": "other",
-      "startTime": "2026-02-07T19:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=pzLVk2MoMkQ",
-      "thumbnail": "https://img.youtube.com/vi/pzLVk2MoMkQ/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     }
   ]
