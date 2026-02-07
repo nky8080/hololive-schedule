@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-07T13:54:04.666Z",
+  "updatedAt": "2026-02-07T14:15:24.061Z",
   "streams": [
     {
       "talentId": "omaru_polka",
@@ -339,7 +339,7 @@
       "url": "https://www.youtube.com/watch?v=pzLVk2MoMkQ",
       "thumbnail": "https://img.youtube.com/vi/pzLVk2MoMkQ/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "shirakami_fubuki",
@@ -495,11 +495,11 @@
       "talentId": "shiranui_flare",
       "talentName": "Shiranui Flare",
       "groupId": "gen3",
-      "startTime": "2026-02-07T23:00:00+09:00",
+      "startTime": "2026-02-07T23:11:00+09:00",
       "url": "https://www.youtube.com/watch?v=-4TihZVxnr0",
       "thumbnail": "https://img.youtube.com/vi/-4TihZVxnr0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "unknown",
@@ -819,7 +819,7 @@
       "url": "https://www.youtube.com/watch?v=bnZXYFRU-Iw",
       "thumbnail": "https://img.youtube.com/vi/bnZXYFRU-Iw/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "takanashi_kiara",
@@ -839,6 +839,16 @@
       "url": "https://www.youtube.com/watch?v=-Eg50mJxSG8",
       "thumbnail": "https://img.youtube.com/vi/-Eg50mJxSG8/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "takanashi_kiara",
+      "talentName": "Takanashi Kiara",
+      "groupId": "en_myth",
+      "startTime": "2026-02-08T06:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=wct-qvGX1ow",
+      "thumbnail": "https://img.youtube.com/vi/wct-qvGX1ow/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
