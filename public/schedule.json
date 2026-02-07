@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-07T20:59:35.330Z",
+  "updatedAt": "2026-02-07T21:24:31.321Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -289,6 +289,16 @@
       "url": "https://www.youtube.com/watch?v=mmZeoYHwzPY",
       "thumbnail": "https://img.youtube.com/vi/mmZeoYHwzPY/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "tsunomaki_watame",
+      "talentName": "Tsunomaki Watame",
+      "groupId": "gen4",
+      "startTime": "2026-02-08T06:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=_FOU9KhU6z4",
+      "thumbnail": "https://img.youtube.com/vi/_FOU9KhU6z4/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -582,16 +592,6 @@
       "isLive": false
     },
     {
-      "talentId": "shiori_novella",
-      "talentName": "Shiori Novella",
-      "groupId": "en_advent",
-      "startTime": "2026-02-08T06:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=-Eg50mJxSG8",
-      "thumbnail": "https://img.youtube.com/vi/-Eg50mJxSG8/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
       "talentId": "takanashi_kiara",
       "talentName": "Takanashi Kiara",
       "groupId": "en_myth",
@@ -600,6 +600,16 @@
       "thumbnail": "https://img.youtube.com/vi/wct-qvGX1ow/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
+    },
+    {
+      "talentId": "shiori_novella",
+      "talentName": "Shiori Novella",
+      "groupId": "en_advent",
+      "startTime": "2026-02-08T06:01:00+09:00",
+      "url": "https://www.youtube.com/watch?v=-Eg50mJxSG8",
+      "thumbnail": "https://img.youtube.com/vi/-Eg50mJxSG8/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
     },
     {
       "talentId": "nerissa_ravencroft",
