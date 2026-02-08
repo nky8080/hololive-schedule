@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-08T06:28:55.960Z",
+  "updatedAt": "2026-02-08T07:12:18.616Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -399,7 +399,7 @@
       "url": "https://www.youtube.com/watch?v=FuGxFcUTSaw",
       "thumbnail": "https://img.youtube.com/vi/FuGxFcUTSaw/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "tokino_sora",
@@ -409,7 +409,7 @@
       "url": "https://www.youtube.com/watch?v=G2aV6S4cPrQ",
       "thumbnail": "https://img.youtube.com/vi/G2aV6S4cPrQ/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "takane_lui",
@@ -749,7 +749,7 @@
       "url": "https://www.youtube.com/watch?v=zHm5ZKnhyyo",
       "thumbnail": "https://img.youtube.com/vi/zHm5ZKnhyyo/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "hakos_baelz",
