@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-08T17:16:18.894Z",
+  "updatedAt": "2026-02-08T17:49:55.901Z",
   "streams": [
     {
       "talentId": "unknown",
@@ -279,7 +279,7 @@
       "url": "https://www.youtube.com/watch?v=LjgucwTcM1w",
       "thumbnail": "https://img.youtube.com/vi/LjgucwTcM1w/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "oozora_subaru",
@@ -349,7 +349,7 @@
       "url": "https://www.youtube.com/watch?v=92ysnBuo_-4",
       "thumbnail": "https://img.youtube.com/vi/92ysnBuo_-4/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "hakui_koyori",
@@ -590,6 +590,16 @@
       "thumbnail": "https://img.youtube.com/vi/zpuQhM-YDj4/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
+    },
+    {
+      "talentId": "kobo_kanaeru",
+      "talentName": "Kobo Kanaeru",
+      "groupId": "id_gen3",
+      "startTime": "2026-02-09T01:01:00+09:00",
+      "url": "https://www.youtube.com/watch?v=4d9Uc8ppRXs",
+      "thumbnail": "https://img.youtube.com/vi/4d9Uc8ppRXs/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
     },
     {
       "talentId": "kureiji_ollie",
@@ -909,6 +919,16 @@
       "url": "https://www.youtube.com/watch?v=ytykwbfqlWc",
       "thumbnail": "https://img.youtube.com/vi/ytykwbfqlWc/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "isaki_riona",
+      "talentName": "Isaki Riona",
+      "groupId": "flow_glow",
+      "startTime": "2026-02-09T18:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=vxOWcH4Le3I",
+      "thumbnail": "https://img.youtube.com/vi/vxOWcH4Le3I/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
