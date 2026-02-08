@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-08T15:41:41.446Z",
+  "updatedAt": "2026-02-08T15:56:47.166Z",
   "streams": [
     {
       "talentId": "unknown",
@@ -309,7 +309,7 @@
       "url": "https://www.youtube.com/watch?v=XZkhB0FEmqo",
       "thumbnail": "https://img.youtube.com/vi/XZkhB0FEmqo/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "himemori_luna",
@@ -319,7 +319,7 @@
       "url": "https://www.youtube.com/watch?v=hyytrl4ityU",
       "thumbnail": "https://img.youtube.com/vi/hyytrl4ityU/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "inugami_korone",
@@ -339,7 +339,7 @@
       "url": "https://www.youtube.com/watch?v=HmHcMkIthbw",
       "thumbnail": "https://img.youtube.com/vi/HmHcMkIthbw/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "shiranui_flare",
@@ -379,7 +379,7 @@
       "url": "https://www.youtube.com/watch?v=jqGcYdtgzZ8",
       "thumbnail": "https://img.youtube.com/vi/jqGcYdtgzZ8/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "ookami_mio",
@@ -522,6 +522,16 @@
       "isLive": false
     },
     {
+      "talentId": "koseki_bijou",
+      "talentName": "Koseki Bijou",
+      "groupId": "en_advent",
+      "startTime": "2026-02-09T09:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=x6p0N3LqWXQ",
+      "thumbnail": "https://img.youtube.com/vi/x6p0N3LqWXQ/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "cecilia_immergreen",
       "talentName": "Cecilia Immergreen",
       "groupId": "en_justice",
@@ -639,7 +649,7 @@
       "url": "https://www.youtube.com/watch?v=_pz2_hUl3Gw",
       "thumbnail": "https://img.youtube.com/vi/_pz2_hUl3Gw/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/2rchLUnoJ81nEK8W2hW6rQtpvoV_1DQ21QaViu_mYcb2MbD1eZFasEfFx4J8IbgZ4lltleWutQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
