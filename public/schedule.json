@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-08T14:22:56.458Z",
+  "updatedAt": "2026-02-08T14:51:12.308Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -979,7 +979,7 @@
       "url": "https://www.youtube.com/watch?v=zpuQhM-YDj4",
       "thumbnail": "https://img.youtube.com/vi/zpuQhM-YDj4/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "kureiji_ollie",
@@ -1049,7 +1049,7 @@
       "url": "https://www.youtube.com/watch?v=Qyovumc_NPI",
       "thumbnail": "https://img.youtube.com/vi/Qyovumc_NPI/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -1079,7 +1079,7 @@
       "url": "https://www.youtube.com/watch?v=NtELH6Og1xI",
       "thumbnail": "https://img.youtube.com/vi/NtELH6Og1xI/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -1199,6 +1199,16 @@
       "url": "https://www.youtube.com/watch?v=GOAvxBAcf4M",
       "thumbnail": "https://img.youtube.com/vi/GOAvxBAcf4M/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Jurard",
+      "groupId": "holostars_en",
+      "startTime": "2026-02-09T20:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=9iDckoHDYEk",
+      "thumbnail": "https://img.youtube.com/vi/9iDckoHDYEk/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/EA7rVsjrX8vvWUcCw-tEiLj4mrTZK3pvCdRmq07ylzGLBvMRL0FyU6rnMvk6-4umPUWJm8TeNg=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -1439,7 +1449,7 @@
       "url": "https://www.youtube.com/watch?v=k4KkyIuVzPw",
       "thumbnail": "https://img.youtube.com/vi/k4KkyIuVzPw/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "isaki_riona",
