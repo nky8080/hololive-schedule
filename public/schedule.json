@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-08T09:19:02.301Z",
+  "updatedAt": "2026-02-08T09:50:40.927Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -442,6 +442,16 @@
       "isLive": true
     },
     {
+      "talentId": "shishiro_botan",
+      "talentName": "Shishiro Botan",
+      "groupId": "gen5",
+      "startTime": "2026-02-08T18:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=530eobJcmfM",
+      "thumbnail": "https://img.youtube.com/vi/530eobJcmfM/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "kazama_iroha",
       "talentName": "Kazama Iroha",
       "groupId": "holoX",
@@ -462,6 +472,16 @@
       "isLive": true
     },
     {
+      "talentId": "unknown",
+      "talentName": "宝鐘マリン",
+      "groupId": "hololive_jp",
+      "startTime": "2026-02-08T19:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=Qmbubo9yX8w",
+      "thumbnail": "https://img.youtube.com/vi/Qmbubo9yX8w/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "shirogane_noel",
       "talentName": "Shirogane Noel",
       "groupId": "gen3",
@@ -472,23 +492,13 @@
       "isLive": false
     },
     {
-      "talentId": "natsuiro_matsuri",
-      "talentName": "Natsuiro Matsuri",
-      "groupId": "gen1",
+      "talentId": "tokoyami_towa",
+      "talentName": "Tokoyami Towa",
+      "groupId": "gen4",
       "startTime": "2026-02-08T19:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=flckxxWNoC0",
-      "thumbnail": "https://img.youtube.com/vi/flckxxWNoC0/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
-      "talentId": "unknown",
-      "talentName": "宝鐘マリン",
-      "groupId": "hololive_jp",
-      "startTime": "2026-02-08T19:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=Qmbubo9yX8w",
-      "thumbnail": "https://img.youtube.com/vi/Qmbubo9yX8w/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk=s88-c-k-c0x00ffffff-no-rj",
+      "url": "https://www.youtube.com/watch?v=0VGQ8n1nj1M",
+      "thumbnail": "https://img.youtube.com/vi/0VGQ8n1nj1M/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -509,16 +519,6 @@
       "url": "https://www.youtube.com/watch?v=HHrbZjPO56o",
       "thumbnail": "https://img.youtube.com/vi/HHrbZjPO56o/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
-      "talentId": "tokoyami_towa",
-      "talentName": "Tokoyami Towa",
-      "groupId": "gen4",
-      "startTime": "2026-02-08T19:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=0VGQ8n1nj1M",
-      "thumbnail": "https://img.youtube.com/vi/0VGQ8n1nj1M/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
