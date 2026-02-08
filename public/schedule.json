@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-08T21:00:41.549Z",
+  "updatedAt": "2026-02-08T21:40:15.977Z",
   "streams": [
     {
       "talentId": "unknown",
@@ -382,6 +382,16 @@
       "isLive": false
     },
     {
+      "talentId": "tsunomaki_watame",
+      "talentName": "Tsunomaki Watame",
+      "groupId": "gen4",
+      "startTime": "2026-02-09T06:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=sd3QxWde6_M",
+      "thumbnail": "https://img.youtube.com/vi/sd3QxWde6_M/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "ookami_mio",
       "talentName": "Ookami Mio",
       "groupId": "gamers",
@@ -599,16 +609,6 @@
       "url": "https://www.youtube.com/watch?v=zpuQhM-YDj4",
       "thumbnail": "https://img.youtube.com/vi/zpuQhM-YDj4/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
-      "talentId": "kobo_kanaeru",
-      "talentName": "Kobo Kanaeru",
-      "groupId": "id_gen3",
-      "startTime": "2026-02-09T01:01:00+09:00",
-      "url": "https://www.youtube.com/watch?v=4d9Uc8ppRXs",
-      "thumbnail": "https://img.youtube.com/vi/4d9Uc8ppRXs/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
