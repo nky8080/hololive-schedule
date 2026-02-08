@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-08T07:49:16.605Z",
+  "updatedAt": "2026-02-08T08:19:03.884Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -389,7 +389,7 @@
       "url": "https://www.youtube.com/watch?v=Yo4W6Cm9ILA",
       "thumbnail": "https://img.youtube.com/vi/Yo4W6Cm9ILA/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "omaru_polka",
@@ -419,7 +419,7 @@
       "url": "https://www.youtube.com/watch?v=8UHgbewz54Y",
       "thumbnail": "https://img.youtube.com/vi/8UHgbewz54Y/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "shishiro_botan",
@@ -429,7 +429,7 @@
       "url": "https://www.youtube.com/watch?v=HB6fI8c650w",
       "thumbnail": "https://img.youtube.com/vi/HB6fI8c650w/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "kazama_iroha",
