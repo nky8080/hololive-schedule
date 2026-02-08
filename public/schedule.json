@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-08T23:18:43.551Z",
+  "updatedAt": "2026-02-08T23:50:20.522Z",
   "streams": [
     {
       "talentId": "unknown",
@@ -399,7 +399,7 @@
       "url": "https://www.youtube.com/watch?v=g_9Yle8XawM",
       "thumbnail": "https://img.youtube.com/vi/g_9Yle8XawM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "himemori_luna",
@@ -539,7 +539,7 @@
       "url": "https://www.youtube.com/watch?v=34eON4hrK-4",
       "thumbnail": "https://img.youtube.com/vi/34eON4hrK-4/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "shiori_novella",
