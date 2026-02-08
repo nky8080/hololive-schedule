@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-08T21:56:43.564Z",
+  "updatedAt": "2026-02-08T22:17:16.648Z",
   "streams": [
     {
       "talentId": "unknown",
@@ -555,10 +555,20 @@
       "talentId": "gigi_murin",
       "talentName": "Gigi Murin",
       "groupId": "en_justice",
-      "startTime": "2026-02-09T07:00:00+09:00",
+      "startTime": "2026-02-09T07:06:00+09:00",
       "url": "https://www.youtube.com/watch?v=17sK6ySLKRo",
       "thumbnail": "https://img.youtube.com/vi/17sK6ySLKRo/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
+    },
+    {
+      "talentId": "ninomae_inanis",
+      "talentName": "Ninomae Ina'nis",
+      "groupId": "en_myth",
+      "startTime": "2026-02-09T08:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=umiYQPfGylI",
+      "thumbnail": "https://img.youtube.com/vi/umiYQPfGylI/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -695,11 +705,11 @@
       "talentId": "unknown",
       "talentName": "花咲みやび",
       "groupId": "holostars_jp",
-      "startTime": "2026-02-09T07:00:00+09:00",
+      "startTime": "2026-02-09T07:01:00+09:00",
       "url": "https://www.youtube.com/watch?v=jTWNgxqGOaA",
       "thumbnail": "https://img.youtube.com/vi/jTWNgxqGOaA/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "unknown",
@@ -929,7 +939,7 @@
       "url": "https://www.youtube.com/watch?v=ytykwbfqlWc",
       "thumbnail": "https://img.youtube.com/vi/ytykwbfqlWc/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "isaki_riona",
