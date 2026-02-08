@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-08T10:13:28.937Z",
+  "updatedAt": "2026-02-08T10:47:34.678Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -960,6 +960,26 @@
       "thumbnail": "https://img.youtube.com/vi/SMdXzD3Slwo/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "夜十神封魔",
+      "groupId": "holostars_jp",
+      "startTime": "2026-02-08T18:56:00+09:00",
+      "url": "https://www.youtube.com/watch?v=iG69pYNpUlw",
+      "thumbnail": "https://img.youtube.com/vi/iG69pYNpUlw/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "花咲みやび",
+      "groupId": "holostars_jp",
+      "startTime": "2026-02-08T18:59:00+09:00",
+      "url": "https://www.youtube.com/watch?v=2lraM_AvDuI",
+      "thumbnail": "https://img.youtube.com/vi/2lraM_AvDuI/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
     },
     {
       "talentId": "unknown",
