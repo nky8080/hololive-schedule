@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-08T19:22:38.760Z",
+  "updatedAt": "2026-02-08T19:43:09.464Z",
   "streams": [
     {
       "talentId": "unknown",
@@ -525,11 +525,11 @@
       "talentId": "elizabeth_rose_bloodflame",
       "talentName": "Elizabeth Rose Bloodflame",
       "groupId": "en_justice",
-      "startTime": "2026-02-09T04:00:00+09:00",
+      "startTime": "2026-02-09T04:33:00+09:00",
       "url": "https://www.youtube.com/watch?v=34eON4hrK-4",
       "thumbnail": "https://img.youtube.com/vi/34eON4hrK-4/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "shiori_novella",
