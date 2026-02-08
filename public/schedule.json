@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-08T11:13:25.615Z",
+  "updatedAt": "2026-02-08T11:35:21.540Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -432,16 +432,6 @@
       "isLive": true
     },
     {
-      "talentId": "himemori_luna",
-      "talentName": "Himemori Luna",
-      "groupId": "gen4",
-      "startTime": "2026-02-08T17:59:00+09:00",
-      "url": "https://www.youtube.com/watch?v=2uhFOQtCq7c",
-      "thumbnail": "https://img.youtube.com/vi/2uhFOQtCq7c/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
-    },
-    {
       "talentId": "shishiro_botan",
       "talentName": "Shishiro Botan",
       "groupId": "gen5",
@@ -509,7 +499,7 @@
       "url": "https://www.youtube.com/watch?v=0VGQ8n1nj1M",
       "thumbnail": "https://img.youtube.com/vi/0VGQ8n1nj1M/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "sakura_miko",
@@ -579,6 +569,16 @@
       "url": "https://www.youtube.com/watch?v=XZkhB0FEmqo",
       "thumbnail": "https://img.youtube.com/vi/XZkhB0FEmqo/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "nakiri_ayame",
+      "talentName": "Nakiri Ayame",
+      "groupId": "gen2",
+      "startTime": "2026-02-08T21:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=hhsGMjt_Ix0",
+      "thumbnail": "https://img.youtube.com/vi/hhsGMjt_Ix0/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/3CeLWGYb6cLUywTJzNt-UpITviNxeGNvtjhIqbV-AIybCqCoFw9onWtg91bjwpqvfEP9mfqIR4Q=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
