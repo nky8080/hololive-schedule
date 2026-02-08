@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-08T07:12:18.616Z",
+  "updatedAt": "2026-02-08T07:49:16.605Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -432,16 +432,6 @@
       "isLive": false
     },
     {
-      "talentId": "himemori_luna",
-      "talentName": "Himemori Luna",
-      "groupId": "gen4",
-      "startTime": "2026-02-08T18:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=2uhFOQtCq7c",
-      "thumbnail": "https://img.youtube.com/vi/2uhFOQtCq7c/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
       "talentId": "kazama_iroha",
       "talentName": "Kazama Iroha",
       "groupId": "holoX",
@@ -449,6 +439,26 @@
       "url": "https://www.youtube.com/watch?v=LkSGbDlfjRE",
       "thumbnail": "https://img.youtube.com/vi/LkSGbDlfjRE/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "shirakami_fubuki",
+      "talentName": "Shirakami Fubuki",
+      "groupId": "gen1",
+      "startTime": "2026-02-08T18:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=HgZtLjNj-Vo",
+      "thumbnail": "https://img.youtube.com/vi/HgZtLjNj-Vo/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "himemori_luna",
+      "talentName": "Himemori Luna",
+      "groupId": "gen4",
+      "startTime": "2026-02-08T18:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=2uhFOQtCq7c",
+      "thumbnail": "https://img.youtube.com/vi/2uhFOQtCq7c/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
