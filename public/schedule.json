@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-08T13:58:04.657Z",
+  "updatedAt": "2026-02-08T14:22:56.458Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -645,11 +645,11 @@
       "talentId": "tokino_sora",
       "talentName": "Tokino Sora",
       "groupId": "gen0",
-      "startTime": "2026-02-08T23:00:00+09:00",
+      "startTime": "2026-02-08T23:14:00+09:00",
       "url": "https://www.youtube.com/watch?v=jqGcYdtgzZ8",
       "thumbnail": "https://img.youtube.com/vi/jqGcYdtgzZ8/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "ookami_mio",
@@ -1452,34 +1452,24 @@
       "isLive": true
     },
     {
-      "talentId": "juufuutei_raden",
-      "talentName": "Juufuutei Raden",
-      "groupId": "regloss",
-      "startTime": "2026-02-08T23:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=XHg56HHisCc",
-      "thumbnail": "https://img.youtube.com/vi/XHg56HHisCc/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
-      "talentId": "mizumiya_su",
-      "talentName": "Mizumiya Su",
-      "groupId": "flow_glow",
-      "startTime": "2026-02-08T23:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=G3L4L471Q-8",
-      "thumbnail": "https://img.youtube.com/vi/G3L4L471Q-8/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
       "talentId": "kikirara_vivi",
       "talentName": "Kikirara Vivi",
       "groupId": "flow_glow",
-      "startTime": "2026-02-08T23:00:00+09:00",
+      "startTime": "2026-02-08T23:02:00+09:00",
       "url": "https://www.youtube.com/watch?v=T8F62pPGCas",
       "thumbnail": "https://img.youtube.com/vi/T8F62pPGCas/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
+    },
+    {
+      "talentId": "juufuutei_raden",
+      "talentName": "Juufuutei Raden",
+      "groupId": "regloss",
+      "startTime": "2026-02-08T23:03:00+09:00",
+      "url": "https://www.youtube.com/watch?v=XHg56HHisCc",
+      "thumbnail": "https://img.youtube.com/vi/XHg56HHisCc/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
     },
     {
       "talentId": "ichijou_ririka",
