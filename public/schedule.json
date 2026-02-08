@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-08T22:17:16.648Z",
+  "updatedAt": "2026-02-08T22:52:02.127Z",
   "streams": [
     {
       "talentId": "unknown",
@@ -395,11 +395,11 @@
       "talentId": "ookami_mio",
       "talentName": "Ookami Mio",
       "groupId": "gamers",
-      "startTime": "2026-02-09T07:30:00+09:00",
+      "startTime": "2026-02-09T07:32:00+09:00",
       "url": "https://www.youtube.com/watch?v=g_9Yle8XawM",
       "thumbnail": "https://img.youtube.com/vi/g_9Yle8XawM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "himemori_luna",
@@ -709,7 +709,17 @@
       "url": "https://www.youtube.com/watch?v=jTWNgxqGOaA",
       "thumbnail": "https://img.youtube.com/vi/jTWNgxqGOaA/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "花咲みやび",
+      "groupId": "holostars_jp",
+      "startTime": "2026-02-09T08:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=-oQVboLOO7k",
+      "thumbnail": "https://img.youtube.com/vi/-oQVboLOO7k/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
     },
     {
       "talentId": "unknown",
