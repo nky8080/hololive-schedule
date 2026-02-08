@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-08T22:52:02.127Z",
+  "updatedAt": "2026-02-08T23:18:43.551Z",
   "streams": [
     {
       "talentId": "unknown",
@@ -569,7 +569,7 @@
       "url": "https://www.youtube.com/watch?v=umiYQPfGylI",
       "thumbnail": "https://img.youtube.com/vi/umiYQPfGylI/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "cecilia_immergreen",
@@ -708,16 +708,6 @@
       "startTime": "2026-02-09T07:01:00+09:00",
       "url": "https://www.youtube.com/watch?v=jTWNgxqGOaA",
       "thumbnail": "https://img.youtube.com/vi/jTWNgxqGOaA/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
-      "talentId": "unknown",
-      "talentName": "花咲みやび",
-      "groupId": "holostars_jp",
-      "startTime": "2026-02-09T08:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=-oQVboLOO7k",
-      "thumbnail": "https://img.youtube.com/vi/-oQVboLOO7k/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
@@ -949,7 +939,7 @@
       "url": "https://www.youtube.com/watch?v=ytykwbfqlWc",
       "thumbnail": "https://img.youtube.com/vi/ytykwbfqlWc/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "isaki_riona",
