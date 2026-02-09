@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-09T23:01:46.735Z",
+  "updatedAt": "2026-02-09T23:51:22.104Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -239,7 +239,7 @@
       "url": "https://www.youtube.com/watch?v=9TAHAdCGXqk",
       "thumbnail": "https://img.youtube.com/vi/9TAHAdCGXqk/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "nekomata_okayu",
@@ -389,7 +389,7 @@
       "url": "https://www.youtube.com/watch?v=BZmUlfBZa7Q",
       "thumbnail": "https://img.youtube.com/vi/BZmUlfBZa7Q/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "mori_calliope",
@@ -609,16 +609,6 @@
       "url": "https://www.youtube.com/watch?v=c9qf8Uc0llE",
       "thumbnail": "https://img.youtube.com/vi/c9qf8Uc0llE/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
-      "talentId": "unknown",
-      "talentName": "奏手イヅル",
-      "groupId": "holostars_jp",
-      "startTime": "2026-02-10T08:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=cYbhrsJ5Q18",
-      "thumbnail": "https://img.youtube.com/vi/cYbhrsJ5Q18/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
