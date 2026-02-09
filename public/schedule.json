@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-09T18:33:56.874Z",
+  "updatedAt": "2026-02-09T19:50:37.972Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -339,6 +339,16 @@
       "url": "https://www.youtube.com/watch?v=33xjrouKs0E",
       "thumbnail": "https://img.youtube.com/vi/33xjrouKs0E/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "elizabeth_rose_bloodflame",
+      "talentName": "Elizabeth Rose Bloodflame",
+      "groupId": "en_justice",
+      "startTime": "2026-02-10T05:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=-k79d-oFtek",
+      "thumbnail": "https://img.youtube.com/vi/-k79d-oFtek/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
