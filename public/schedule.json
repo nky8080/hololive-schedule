@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-09T19:50:37.972Z",
+  "updatedAt": "2026-02-09T20:37:20.232Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -345,11 +345,11 @@
       "talentId": "elizabeth_rose_bloodflame",
       "talentName": "Elizabeth Rose Bloodflame",
       "groupId": "en_justice",
-      "startTime": "2026-02-10T05:00:00+09:00",
+      "startTime": "2026-02-10T05:04:00+09:00",
       "url": "https://www.youtube.com/watch?v=-k79d-oFtek",
       "thumbnail": "https://img.youtube.com/vi/-k79d-oFtek/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "shiori_novella",
@@ -669,6 +669,16 @@
       "url": "https://www.youtube.com/watch?v=9iDckoHDYEk",
       "thumbnail": "https://img.youtube.com/vi/9iDckoHDYEk/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/EA7rVsjrX8vvWUcCw-tEiLj4mrTZK3pvCdRmq07ylzGLBvMRL0FyU6rnMvk6-4umPUWJm8TeNg=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Bettel",
+      "groupId": "holostars_en",
+      "startTime": "2026-02-10T07:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=QWToudGN6U8",
+      "thumbnail": "https://img.youtube.com/vi/QWToudGN6U8/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/kv71-xuB9kzbU7Bi4qsmkRXHc3wAgEU4rhllRnmGH4H23T825BKdGqEAcagTSE9r8BdsnG4lqQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
