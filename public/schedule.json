@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-09T21:53:32.470Z",
+  "updatedAt": "2026-02-09T22:24:07.127Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -229,7 +229,7 @@
       "url": "https://www.youtube.com/watch?v=9TAHAdCGXqk",
       "thumbnail": "https://img.youtube.com/vi/9TAHAdCGXqk/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "nekomata_okayu",
@@ -365,11 +365,11 @@
       "talentId": "gigi_murin",
       "talentName": "Gigi Murin",
       "groupId": "en_justice",
-      "startTime": "2026-02-10T07:15:00+09:00",
+      "startTime": "2026-02-10T07:17:00+09:00",
       "url": "https://www.youtube.com/watch?v=mvTYro5kYac",
       "thumbnail": "https://img.youtube.com/vi/mvTYro5kYac/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "cecilia_immergreen",
@@ -679,7 +679,7 @@
       "url": "https://www.youtube.com/watch?v=QWToudGN6U8",
       "thumbnail": "https://img.youtube.com/vi/QWToudGN6U8/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/kv71-xuB9kzbU7Bi4qsmkRXHc3wAgEU4rhllRnmGH4H23T825BKdGqEAcagTSE9r8BdsnG4lqQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "unknown",
