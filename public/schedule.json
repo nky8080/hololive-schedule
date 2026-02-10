@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-10T21:05:18.824Z",
+  "updatedAt": "2026-02-10T21:58:01.155Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -229,6 +229,16 @@
       "url": "https://www.youtube.com/watch?v=jnoPCv8Hc1A",
       "thumbnail": "https://img.youtube.com/vi/jnoPCv8Hc1A/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "shiranui_flare",
+      "talentName": "Shiranui Flare",
+      "groupId": "gen3",
+      "startTime": "2026-02-11T07:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=bmF31NtPSFE",
+      "thumbnail": "https://img.youtube.com/vi/bmF31NtPSFE/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -485,11 +495,11 @@
       "talentId": "shiori_novella",
       "talentName": "Shiori Novella",
       "groupId": "en_advent",
-      "startTime": "2026-02-11T06:00:00+09:00",
+      "startTime": "2026-02-11T06:02:00+09:00",
       "url": "https://www.youtube.com/watch?v=uZViechsf00",
       "thumbnail": "https://img.youtube.com/vi/uZViechsf00/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "gigi_murin",
