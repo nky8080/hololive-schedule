@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-10T16:35:13.241Z",
+  "updatedAt": "2026-02-10T17:40:09.875Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -459,7 +459,7 @@
       "url": "https://www.youtube.com/watch?v=eaTdPvJLYnc",
       "thumbnail": "https://img.youtube.com/vi/eaTdPvJLYnc/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "shiori_novella",
@@ -469,6 +469,16 @@
       "url": "https://www.youtube.com/watch?v=uZViechsf00",
       "thumbnail": "https://img.youtube.com/vi/uZViechsf00/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "gigi_murin",
+      "talentName": "Gigi Murin",
+      "groupId": "en_justice",
+      "startTime": "2026-02-11T07:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=RfwohMIZqk0",
+      "thumbnail": "https://img.youtube.com/vi/RfwohMIZqk0/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -589,7 +599,7 @@
       "url": "https://www.youtube.com/watch?v=gDvv8Y1WWsc",
       "thumbnail": "https://img.youtube.com/vi/gDvv8Y1WWsc/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "vestia_zeta",
@@ -669,7 +679,7 @@
       "url": "https://www.youtube.com/watch?v=5oH-IrWQWTA",
       "thumbnail": "https://img.youtube.com/vi/5oH-IrWQWTA/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -679,7 +689,7 @@
       "url": "https://www.youtube.com/watch?v=GLvX2b1FZvo",
       "thumbnail": "https://img.youtube.com/vi/GLvX2b1FZvo/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -689,7 +699,7 @@
       "url": "https://www.youtube.com/watch?v=jrb9bG282D0",
       "thumbnail": "https://img.youtube.com/vi/jrb9bG282D0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -939,7 +949,7 @@
       "url": "https://www.youtube.com/watch?v=Xh-_QAM9sZ8",
       "thumbnail": "https://img.youtube.com/vi/Xh-_QAM9sZ8/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "mizumiya_su",
