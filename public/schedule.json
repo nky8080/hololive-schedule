@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-10T06:47:08.660Z",
+  "updatedAt": "2026-02-10T07:50:10.750Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -269,7 +269,7 @@
       "url": "https://www.youtube.com/watch?v=9Fqw_0FJA4Y",
       "thumbnail": "https://img.youtube.com/vi/9Fqw_0FJA4Y/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -279,6 +279,16 @@
       "url": "https://www.youtube.com/watch?v=RXUMOA7Ejkk",
       "thumbnail": "https://img.youtube.com/vi/RXUMOA7Ejkk/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "natsuiro_matsuri",
+      "talentName": "Natsuiro Matsuri",
+      "groupId": "gen1",
+      "startTime": "2026-02-10T19:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=yP5jEB3fVrM",
+      "thumbnail": "https://img.youtube.com/vi/yP5jEB3fVrM/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -329,6 +339,16 @@
       "url": "https://www.youtube.com/watch?v=H-m0e9Eg-ZI",
       "thumbnail": "https://img.youtube.com/vi/H-m0e9Eg-ZI/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "usada_pekora",
+      "talentName": "Usada Pekora",
+      "groupId": "gen3",
+      "startTime": "2026-02-11T20:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=RStda1RVSx8",
+      "thumbnail": "https://img.youtube.com/vi/RStda1RVSx8/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -919,6 +939,16 @@
       "url": "https://www.youtube.com/watch?v=HAWHY9JyA40",
       "thumbnail": "https://img.youtube.com/vi/HAWHY9JyA40/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Crimzon",
+      "groupId": "holostars_en",
+      "startTime": "2026-02-11T10:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=1ZRFgRNP2ss",
+      "thumbnail": "https://img.youtube.com/vi/1ZRFgRNP2ss/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
