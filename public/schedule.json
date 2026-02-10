@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-10T22:33:24.503Z",
+  "updatedAt": "2026-02-10T23:22:43.099Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -230,6 +230,26 @@
       "thumbnail": "https://img.youtube.com/vi/jnoPCv8Hc1A/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
+    },
+    {
+      "talentId": "tsunomaki_watame",
+      "talentName": "Tsunomaki Watame",
+      "groupId": "gen4",
+      "startTime": "2026-02-11T06:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=VDfpu4SRCDE",
+      "thumbnail": "https://img.youtube.com/vi/VDfpu4SRCDE/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "shiranui_flare",
+      "talentName": "Shiranui Flare",
+      "groupId": "gen3",
+      "startTime": "2026-02-11T07:01:00+09:00",
+      "url": "https://www.youtube.com/watch?v=bmF31NtPSFE",
+      "thumbnail": "https://img.youtube.com/vi/bmF31NtPSFE/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
     },
     {
       "talentId": "inugami_korone",
@@ -509,7 +529,7 @@
       "url": "https://www.youtube.com/watch?v=4z28XPBU1sY",
       "thumbnail": "https://img.youtube.com/vi/4z28XPBU1sY/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "mori_calliope",
@@ -539,6 +559,16 @@
       "url": "https://www.youtube.com/watch?v=xH6ZiQJx7sE",
       "thumbnail": "https://img.youtube.com/vi/xH6ZiQJx7sE/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "koseki_bijou",
+      "talentName": "Koseki Bijou",
+      "groupId": "en_advent",
+      "startTime": "2026-02-11T11:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=esXQLWz8_B0",
+      "thumbnail": "https://img.youtube.com/vi/esXQLWz8_B0/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
