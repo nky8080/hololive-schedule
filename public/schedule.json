@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-10T09:40:23.521Z",
+  "updatedAt": "2026-02-10T10:35:05.113Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -272,6 +272,16 @@
       "isLive": false
     },
     {
+      "talentId": "kazama_iroha",
+      "talentName": "Kazama Iroha",
+      "groupId": "holoX",
+      "startTime": "2026-02-10T17:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=B3XyMonDkX4",
+      "thumbnail": "https://img.youtube.com/vi/B3XyMonDkX4/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "tokoyami_towa",
       "talentName": "Tokoyami Towa",
       "groupId": "gen4",
@@ -312,6 +322,26 @@
       "isLive": false
     },
     {
+      "talentId": "azki",
+      "talentName": "AZKi",
+      "groupId": "gen0",
+      "startTime": "2026-02-10T18:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=RUXHfi5Gd7Q",
+      "thumbnail": "https://img.youtube.com/vi/RUXHfi5Gd7Q/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "natsuiro_matsuri",
+      "talentName": "Natsuiro Matsuri",
+      "groupId": "gen1",
+      "startTime": "2026-02-10T18:01:00+09:00",
+      "url": "https://www.youtube.com/watch?v=pWPsn8yD4KA",
+      "thumbnail": "https://img.youtube.com/vi/pWPsn8yD4KA/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "natsuiro_matsuri",
       "talentName": "Natsuiro Matsuri",
       "groupId": "gen1",
@@ -319,7 +349,7 @@
       "url": "https://www.youtube.com/watch?v=yP5jEB3fVrM",
       "thumbnail": "https://img.youtube.com/vi/yP5jEB3fVrM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "shirakami_fubuki",
@@ -1076,8 +1106,8 @@
       "talentName": "FLOW GLOW",
       "groupId": "dev_is",
       "startTime": "2026-02-09T12:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=4SVMkcrPtT8",
-      "thumbnail": "https://img.youtube.com/vi/4SVMkcrPtT8/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=JQgTOnJ17fk",
+      "thumbnail": "https://img.youtube.com/vi/JQgTOnJ17fk/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/f9oGulIUN9RbJyNpc-WT3d5aJGJ_9p1Mug3WV6ZkBBQtImvYSusfmMbW03KMY8jZf1kJsHu3jOs=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
@@ -1086,8 +1116,8 @@
       "talentName": "FLOW GLOW",
       "groupId": "dev_is",
       "startTime": "2026-02-09T12:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=JQgTOnJ17fk",
-      "thumbnail": "https://img.youtube.com/vi/JQgTOnJ17fk/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=4SVMkcrPtT8",
+      "thumbnail": "https://img.youtube.com/vi/4SVMkcrPtT8/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/f9oGulIUN9RbJyNpc-WT3d5aJGJ_9p1Mug3WV6ZkBBQtImvYSusfmMbW03KMY8jZf1kJsHu3jOs=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
@@ -1262,6 +1292,16 @@
       "isLive": false
     },
     {
+      "talentId": "ichijou_ririka",
+      "talentName": "Ichijou Ririka",
+      "groupId": "regloss",
+      "startTime": "2026-02-10T18:01:00+09:00",
+      "url": "https://www.youtube.com/watch?v=lio3iF93uhc",
+      "thumbnail": "https://img.youtube.com/vi/lio3iF93uhc/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "kikirara_vivi",
       "talentName": "Kikirara Vivi",
       "groupId": "flow_glow",
@@ -1279,6 +1319,16 @@
       "url": "https://www.youtube.com/watch?v=U88a7-zviII",
       "thumbnail": "https://img.youtube.com/vi/U88a7-zviII/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "輪堂千速",
+      "groupId": "dev_is",
+      "startTime": "2026-02-10T21:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=Xh-_QAM9sZ8",
+      "thumbnail": "https://img.youtube.com/vi/Xh-_QAM9sZ8/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
