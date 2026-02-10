@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-10T21:58:01.155Z",
+  "updatedAt": "2026-02-10T22:33:24.503Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -229,16 +229,6 @@
       "url": "https://www.youtube.com/watch?v=jnoPCv8Hc1A",
       "thumbnail": "https://img.youtube.com/vi/jnoPCv8Hc1A/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
-      "talentId": "shiranui_flare",
-      "talentName": "Shiranui Flare",
-      "groupId": "gen3",
-      "startTime": "2026-02-11T07:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=bmF31NtPSFE",
-      "thumbnail": "https://img.youtube.com/vi/bmF31NtPSFE/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -505,11 +495,11 @@
       "talentId": "gigi_murin",
       "talentName": "Gigi Murin",
       "groupId": "en_justice",
-      "startTime": "2026-02-11T07:00:00+09:00",
+      "startTime": "2026-02-11T07:03:00+09:00",
       "url": "https://www.youtube.com/watch?v=RfwohMIZqk0",
       "thumbnail": "https://img.youtube.com/vi/RfwohMIZqk0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "cecilia_immergreen",
