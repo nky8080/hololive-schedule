@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-10T07:50:10.750Z",
+  "updatedAt": "2026-02-10T08:36:06.352Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -269,6 +269,16 @@
       "url": "https://www.youtube.com/watch?v=9Fqw_0FJA4Y",
       "thumbnail": "https://img.youtube.com/vi/9Fqw_0FJA4Y/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "tokoyami_towa",
+      "talentName": "Tokoyami Towa",
+      "groupId": "gen4",
+      "startTime": "2026-02-10T17:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=Y-1HSuvn6T4",
+      "thumbnail": "https://img.youtube.com/vi/Y-1HSuvn6T4/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -789,7 +799,7 @@
       "url": "https://www.youtube.com/watch?v=6f3fzEM4ILE",
       "thumbnail": "https://img.youtube.com/vi/6f3fzEM4ILE/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -1109,6 +1119,16 @@
       "url": "https://www.youtube.com/watch?v=RCLlZmBSPFc",
       "thumbnail": "https://img.youtube.com/vi/RCLlZmBSPFc/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/f9oGulIUN9RbJyNpc-WT3d5aJGJ_9p1Mug3WV6ZkBBQtImvYSusfmMbW03KMY8jZf1kJsHu3jOs=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "kikirara_vivi",
+      "talentName": "Kikirara Vivi",
+      "groupId": "flow_glow",
+      "startTime": "2026-02-10T18:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=r1eoW5dbTS0",
+      "thumbnail": "https://img.youtube.com/vi/r1eoW5dbTS0/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
