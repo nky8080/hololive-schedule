@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-10T19:42:27.105Z",
+  "updatedAt": "2026-02-10T20:24:01.070Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -472,6 +472,16 @@
       "isLive": false
     },
     {
+      "talentId": "takanashi_kiara",
+      "talentName": "Takanashi Kiara",
+      "groupId": "en_myth",
+      "startTime": "2026-02-11T03:30:00+09:00",
+      "url": "https://www.youtube.com/watch?v=2qaI9osrwEE",
+      "thumbnail": "https://img.youtube.com/vi/2qaI9osrwEE/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "shiori_novella",
       "talentName": "Shiori Novella",
       "groupId": "en_advent",
@@ -839,7 +849,7 @@
       "url": "https://www.youtube.com/watch?v=I1hh9Gz9lgM",
       "thumbnail": "https://img.youtube.com/vi/I1hh9Gz9lgM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
