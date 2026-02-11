@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T11:06:49.402Z",
+  "updatedAt": "2026-02-11T11:55:52.617Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -319,7 +319,7 @@
       "url": "https://www.youtube.com/watch?v=H8_rE0satiI",
       "thumbnail": "https://img.youtube.com/vi/H8_rE0satiI/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "shirakami_fubuki",
@@ -1063,13 +1063,23 @@
     },
     {
       "talentId": "unknown",
+      "talentName": "夜十神封魔",
+      "groupId": "holostars_jp",
+      "startTime": "2026-02-11T19:49:00+09:00",
+      "url": "https://www.youtube.com/watch?v=DkBQPBnBdFM",
+      "thumbnail": "https://img.youtube.com/vi/DkBQPBnBdFM/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
+    },
+    {
+      "talentId": "unknown",
       "talentName": "荒咬オウガ",
       "groupId": "holostars_jp",
-      "startTime": "2026-02-11T20:00:00+09:00",
+      "startTime": "2026-02-11T20:04:00+09:00",
       "url": "https://www.youtube.com/watch?v=Br5oh-mH_10",
       "thumbnail": "https://img.youtube.com/vi/Br5oh-mH_10/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "unknown",
@@ -1469,6 +1479,16 @@
       "url": "https://www.youtube.com/watch?v=b7rdiB3DmUU",
       "thumbnail": "https://img.youtube.com/vi/b7rdiB3DmUU/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "虎金妃笑虎",
+      "groupId": "dev_is",
+      "startTime": "2026-02-11T19:30:00+09:00",
+      "url": "https://www.youtube.com/watch?v=P2ryQbbDAfY",
+      "thumbnail": "https://img.youtube.com/vi/P2ryQbbDAfY/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/bEDo7y7rywqDZpSqS7StN3vxPg4YPEfh_faAf2CENKsk4L9SgrsU0UeClvH-nsPq1i5xNFM89Q=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
