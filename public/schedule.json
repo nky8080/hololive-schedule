@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T23:21:42.201Z",
+  "updatedAt": "2026-02-11T23:50:41.489Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -272,16 +272,6 @@
       "isLive": false
     },
     {
-      "talentId": "omaru_polka",
-      "talentName": "Omaru Polka",
-      "groupId": "gen5",
-      "startTime": "2026-02-12T19:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=gp7Ax8Qi9zs",
-      "thumbnail": "https://img.youtube.com/vi/gp7Ax8Qi9zs/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
       "talentId": "himemori_luna",
       "talentName": "Himemori Luna",
       "groupId": "gen4",
@@ -289,6 +279,16 @@
       "url": "https://www.youtube.com/watch?v=zT6hqIn-2_o",
       "thumbnail": "https://img.youtube.com/vi/zT6hqIn-2_o/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "omaru_polka",
+      "talentName": "Omaru Polka",
+      "groupId": "gen5",
+      "startTime": "2026-02-12T19:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=gp7Ax8Qi9zs",
+      "thumbnail": "https://img.youtube.com/vi/gp7Ax8Qi9zs/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -539,6 +539,16 @@
       "url": "https://www.youtube.com/watch?v=UrS8riGW6RM",
       "thumbnail": "https://img.youtube.com/vi/UrS8riGW6RM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "shiori_novella",
+      "talentName": "Shiori Novella",
+      "groupId": "en_advent",
+      "startTime": "2026-02-13T07:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=J315mjbkn3I",
+      "thumbnail": "https://img.youtube.com/vi/J315mjbkn3I/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -1049,7 +1059,7 @@
       "url": "https://www.youtube.com/watch?v=yLrX2yyuYC4",
       "thumbnail": "https://img.youtube.com/vi/yLrX2yyuYC4/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "isaki_riona",
