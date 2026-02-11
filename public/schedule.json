@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T22:18:35.641Z",
+  "updatedAt": "2026-02-11T22:55:56.335Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -485,11 +485,11 @@
       "talentId": "gigi_murin",
       "talentName": "Gigi Murin",
       "groupId": "en_justice",
-      "startTime": "2026-02-12T07:15:00+09:00",
+      "startTime": "2026-02-12T07:34:00+09:00",
       "url": "https://www.youtube.com/watch?v=jONDLGbh834",
       "thumbnail": "https://img.youtube.com/vi/jONDLGbh834/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "koseki_bijou",
