@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T09:13:16.501Z",
+  "updatedAt": "2026-02-11T10:09:45.309Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -259,7 +259,7 @@
       "url": "https://www.youtube.com/watch?v=xnW-DJ4mjzg",
       "thumbnail": "https://img.youtube.com/vi/xnW-DJ4mjzg/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "azki",
@@ -332,6 +332,26 @@
       "isLive": true
     },
     {
+      "talentId": "takane_lui",
+      "talentName": "Takane Lui",
+      "groupId": "holoX",
+      "startTime": "2026-02-11T17:55:00+09:00",
+      "url": "https://www.youtube.com/watch?v=5X-szCjkOIg",
+      "thumbnail": "https://img.youtube.com/vi/5X-szCjkOIg/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "omaru_polka",
+      "talentName": "Omaru Polka",
+      "groupId": "gen5",
+      "startTime": "2026-02-11T18:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=2SoAmROFqu0",
+      "thumbnail": "https://img.youtube.com/vi/2SoAmROFqu0/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "usada_pekora",
       "talentName": "Usada Pekora",
       "groupId": "gen3",
@@ -345,61 +365,61 @@
       "talentId": "tokoyami_towa",
       "talentName": "Tokoyami Towa",
       "groupId": "gen4",
-      "startTime": "2026-02-11T18:30:00+09:00",
+      "startTime": "2026-02-11T18:39:00+09:00",
       "url": "https://www.youtube.com/watch?v=KcOOj1AQVaE",
       "thumbnail": "https://img.youtube.com/vi/KcOOj1AQVaE/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
-      "talentId": "kazama_iroha",
-      "talentName": "Kazama Iroha",
-      "groupId": "holoX",
-      "startTime": "2026-02-11T19:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=klSco-EgWNE",
-      "thumbnail": "https://img.youtube.com/vi/klSco-EgWNE/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
-      "talentId": "oozora_subaru",
-      "talentName": "Oozora Subaru",
-      "groupId": "gen2",
-      "startTime": "2026-02-11T19:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=paMijJOddvg",
-      "thumbnail": "https://img.youtube.com/vi/paMijJOddvg/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
-      "talentId": "ookami_mio",
-      "talentName": "Ookami Mio",
-      "groupId": "gamers",
-      "startTime": "2026-02-11T19:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=Ruo-VLDaeV0",
-      "thumbnail": "https://img.youtube.com/vi/Ruo-VLDaeV0/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
-      "talentId": "takane_lui",
-      "talentName": "Takane Lui",
-      "groupId": "holoX",
-      "startTime": "2026-02-11T19:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=gf_skOpqmSc",
-      "thumbnail": "https://img.youtube.com/vi/gf_skOpqmSc/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "unknown",
       "talentName": "宝鐘マリン",
       "groupId": "hololive_jp",
-      "startTime": "2026-02-11T19:00:00+09:00",
+      "startTime": "2026-02-11T18:59:00+09:00",
       "url": "https://www.youtube.com/watch?v=3ECbgGfiPh4",
       "thumbnail": "https://img.youtube.com/vi/3ECbgGfiPh4/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
+    },
+    {
+      "talentId": "kazama_iroha",
+      "talentName": "Kazama Iroha",
+      "groupId": "holoX",
+      "startTime": "2026-02-11T19:01:00+09:00",
+      "url": "https://www.youtube.com/watch?v=klSco-EgWNE",
+      "thumbnail": "https://img.youtube.com/vi/klSco-EgWNE/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
+    },
+    {
+      "talentId": "ookami_mio",
+      "talentName": "Ookami Mio",
+      "groupId": "gamers",
+      "startTime": "2026-02-11T19:01:00+09:00",
+      "url": "https://www.youtube.com/watch?v=Ruo-VLDaeV0",
+      "thumbnail": "https://img.youtube.com/vi/Ruo-VLDaeV0/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
+    },
+    {
+      "talentId": "oozora_subaru",
+      "talentName": "Oozora Subaru",
+      "groupId": "gen2",
+      "startTime": "2026-02-11T19:01:00+09:00",
+      "url": "https://www.youtube.com/watch?v=paMijJOddvg",
+      "thumbnail": "https://img.youtube.com/vi/paMijJOddvg/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
+    },
+    {
+      "talentId": "takane_lui",
+      "talentName": "Takane Lui",
+      "groupId": "holoX",
+      "startTime": "2026-02-11T19:02:00+09:00",
+      "url": "https://www.youtube.com/watch?v=gf_skOpqmSc",
+      "thumbnail": "https://img.youtube.com/vi/gf_skOpqmSc/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
     },
     {
       "talentId": "nekomata_okayu",
@@ -799,7 +819,7 @@
       "url": "https://www.youtube.com/watch?v=FhZ1IqMBRqY",
       "thumbnail": "https://img.youtube.com/vi/FhZ1IqMBRqY/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "kureiji_ollie",
@@ -983,6 +1003,16 @@
     },
     {
       "talentId": "unknown",
+      "talentName": "羽継烏有",
+      "groupId": "holostars_jp",
+      "startTime": "2026-02-11T18:01:00+09:00",
+      "url": "https://www.youtube.com/watch?v=WpStPPdLclc",
+      "thumbnail": "https://img.youtube.com/vi/WpStPPdLclc/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
+    },
+    {
+      "talentId": "unknown",
       "talentName": "アルランディス",
       "groupId": "holostars_jp",
       "startTime": "2026-02-11T18:02:00+09:00",
@@ -1009,6 +1039,16 @@
       "url": "https://www.youtube.com/watch?v=Br5oh-mH_10",
       "thumbnail": "https://img.youtube.com/vi/Br5oh-mH_10/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "夜十神封魔",
+      "groupId": "holostars_jp",
+      "startTime": "2026-02-11T20:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=DkBQPBnBdFM",
+      "thumbnail": "https://img.youtube.com/vi/DkBQPBnBdFM/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -1319,7 +1359,37 @@
       "url": "https://www.youtube.com/watch?v=T_5_QXs3AZ0",
       "thumbnail": "https://img.youtube.com/vi/T_5_QXs3AZ0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
+    },
+    {
+      "talentId": "mizumiya_su",
+      "talentName": "Mizumiya Su",
+      "groupId": "flow_glow",
+      "startTime": "2026-02-11T16:35:00+09:00",
+      "url": "https://www.youtube.com/watch?v=6LpDrVUNngM",
+      "thumbnail": "https://img.youtube.com/vi/6LpDrVUNngM/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "todoroki_hajime",
+      "talentName": "Todoroki Hajime",
+      "groupId": "regloss",
+      "startTime": "2026-02-11T17:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=CPrf6kK-B6Q",
+      "thumbnail": "https://img.youtube.com/vi/CPrf6kK-B6Q/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "isaki_riona",
+      "talentName": "Isaki Riona",
+      "groupId": "flow_glow",
+      "startTime": "2026-02-11T17:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=GA8cpj1abeg",
+      "thumbnail": "https://img.youtube.com/vi/GA8cpj1abeg/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
     },
     {
       "talentId": "kikirara_vivi",
@@ -1342,6 +1412,16 @@
       "isLive": false
     },
     {
+      "talentId": "unknown",
+      "talentName": "FLOW GLOW",
+      "groupId": "dev_is",
+      "startTime": "2026-02-11T18:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=MzOZA1DFBpE",
+      "thumbnail": "https://img.youtube.com/vi/MzOZA1DFBpE/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/f9oGulIUN9RbJyNpc-WT3d5aJGJ_9p1Mug3WV6ZkBBQtImvYSusfmMbW03KMY8jZf1kJsHu3jOs=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "mizumiya_su",
       "talentName": "Mizumiya Su",
       "groupId": "flow_glow",
@@ -1349,7 +1429,17 @@
       "url": "https://www.youtube.com/watch?v=EpooHpHSwnQ",
       "thumbnail": "https://img.youtube.com/vi/EpooHpHSwnQ/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "ReGLOSS",
+      "groupId": "dev_is",
+      "startTime": "2026-02-11T18:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=Gr0NlvgeURQ",
+      "thumbnail": "https://img.youtube.com/vi/Gr0NlvgeURQ/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
     },
     {
       "talentId": "isaki_riona",
