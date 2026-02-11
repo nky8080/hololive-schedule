@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T04:18:25.759Z",
+  "updatedAt": "2026-02-11T05:49:33.783Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -289,7 +289,7 @@
       "url": "https://www.youtube.com/watch?v=lM-_hYzdgWg",
       "thumbnail": "https://img.youtube.com/vi/lM-_hYzdgWg/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "shirogane_noel",
@@ -722,6 +722,16 @@
       "isLive": false
     },
     {
+      "talentId": "kaela_kovalskia",
+      "talentName": "Kaela Kovalskia",
+      "groupId": "id_gen3",
+      "startTime": "2026-02-12T23:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=sC00lbXsafM",
+      "thumbnail": "https://img.youtube.com/vi/sC00lbXsafM/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "unknown",
       "talentName": "奏手イヅル",
       "groupId": "holostars_jp",
@@ -979,7 +989,7 @@
       "url": "https://www.youtube.com/watch?v=F5hHqIDeamA",
       "thumbnail": "https://img.youtube.com/vi/F5hHqIDeamA/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -999,7 +1009,7 @@
       "url": "https://www.youtube.com/watch?v=S6gPMo4ZiaU",
       "thumbnail": "https://img.youtube.com/vi/S6gPMo4ZiaU/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/pP_ShozRg9Hn8dyB4D8ODtdI9ShTY3AMOKui418InNDz9jwGYIRRH6bxdl7KX55SjmFMZlMUvg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -1125,11 +1135,11 @@
       "talentId": "otonose_kanade",
       "talentName": "Otonose Kanade",
       "groupId": "regloss",
-      "startTime": "2026-02-11T14:00:00+09:00",
+      "startTime": "2026-02-11T14:01:00+09:00",
       "url": "https://www.youtube.com/watch?v=qF7kD6MbBdk",
       "thumbnail": "https://img.youtube.com/vi/qF7kD6MbBdk/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "mizumiya_su",
