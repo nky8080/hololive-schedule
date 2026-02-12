@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T17:40:36.924Z",
+  "updatedAt": "2026-02-12T18:35:38.838Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -715,11 +715,11 @@
       "talentId": "unknown",
       "talentName": "Goldbullet",
       "groupId": "holostars_en",
-      "startTime": "2026-02-13T03:00:00+09:00",
+      "startTime": "2026-02-13T02:52:00+09:00",
       "url": "https://www.youtube.com/watch?v=MgRp3TQJIHE",
       "thumbnail": "https://img.youtube.com/vi/MgRp3TQJIHE/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/pP_ShozRg9Hn8dyB4D8ODtdI9ShTY3AMOKui418InNDz9jwGYIRRH6bxdl7KX55SjmFMZlMUvg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "unknown",
