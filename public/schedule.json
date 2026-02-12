@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T07:37:28.577Z",
+  "updatedAt": "2026-02-12T08:07:12.289Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -685,27 +685,27 @@
       "talentId": "ayunda_risu",
       "talentName": "Ayunda Risu",
       "groupId": "id_gen1",
-      "startTime": "2026-02-12T17:00:00+09:00",
+      "startTime": "2026-02-12T16:58:00+09:00",
       "url": "https://www.youtube.com/watch?v=kfD3xg_irQk",
       "thumbnail": "https://img.youtube.com/vi/kfD3xg_irQk/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "airani_iofiteen",
       "talentName": "Airani Iofifteen",
       "groupId": "id_gen1",
-      "startTime": "2026-02-12T17:00:00+09:00",
+      "startTime": "2026-02-12T16:59:00+09:00",
       "url": "https://www.youtube.com/watch?v=qZ7Delpjce4",
       "thumbnail": "https://img.youtube.com/vi/qZ7Delpjce4/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "kobo_kanaeru",
       "talentName": "Kobo Kanaeru",
       "groupId": "id_gen3",
-      "startTime": "2026-02-12T22:30:00+09:00",
+      "startTime": "2026-02-12T21:00:00+09:00",
       "url": "https://www.youtube.com/watch?v=yxnWDRS6wTI",
       "thumbnail": "https://img.youtube.com/vi/yxnWDRS6wTI/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B=s88-c-k-c0x00ffffff-no-rj",
