@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T19:37:18.469Z",
+  "updatedAt": "2026-02-12T20:00:52.038Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -633,6 +633,16 @@
     },
     {
       "talentId": "unknown",
+      "talentName": "アルランディス",
+      "groupId": "holostars_jp",
+      "startTime": "2026-02-13T18:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=PcDr0c7zBnc",
+      "thumbnail": "https://img.youtube.com/vi/PcDr0c7zBnc/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
       "talentName": "Octavio",
       "groupId": "holostars_en",
       "startTime": "2026-02-12T09:00:00+09:00",
@@ -739,6 +749,16 @@
       "url": "https://www.youtube.com/watch?v=MgRp3TQJIHE",
       "thumbnail": "https://img.youtube.com/vi/MgRp3TQJIHE/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/pP_ShozRg9Hn8dyB4D8ODtdI9ShTY3AMOKui418InNDz9jwGYIRRH6bxdl7KX55SjmFMZlMUvg=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Bettel",
+      "groupId": "holostars_en",
+      "startTime": "2026-02-13T07:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=Pd7W_P5y_kE",
+      "thumbnail": "https://img.youtube.com/vi/Pd7W_P5y_kE/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/kv71-xuB9kzbU7Bi4qsmkRXHc3wAgEU4rhllRnmGH4H23T825BKdGqEAcagTSE9r8BdsnG4lqQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
