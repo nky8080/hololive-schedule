@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T16:38:35.089Z",
+  "updatedAt": "2026-02-12T17:40:36.924Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -89,7 +89,7 @@
       "url": "https://www.youtube.com/watch?v=zT6hqIn-2_o",
       "thumbnail": "https://img.youtube.com/vi/zT6hqIn-2_o/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "omaru_polka",
@@ -199,7 +199,7 @@
       "url": "https://www.youtube.com/watch?v=zdbo4Kl97io",
       "thumbnail": "https://img.youtube.com/vi/zdbo4Kl97io/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "tsunomaki_watame",
@@ -499,7 +499,7 @@
       "url": "https://www.youtube.com/watch?v=RYMuLekrTEc",
       "thumbnail": "https://img.youtube.com/vi/RYMuLekrTEc/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "kaela_kovalskia",
@@ -509,7 +509,7 @@
       "url": "https://www.youtube.com/watch?v=sC00lbXsafM",
       "thumbnail": "https://img.youtube.com/vi/sC00lbXsafM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "pavolia_reine",
@@ -519,7 +519,7 @@
       "url": "https://www.youtube.com/watch?v=cFs_QFBSVuw",
       "thumbnail": "https://img.youtube.com/vi/cFs_QFBSVuw/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "kaela_kovalskia",
@@ -549,7 +549,7 @@
       "url": "https://www.youtube.com/watch?v=dtiHL8i3AK4",
       "thumbnail": "https://img.youtube.com/vi/dtiHL8i3AK4/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -559,7 +559,7 @@
       "url": "https://www.youtube.com/watch?v=fs7V-lVtiDQ",
       "thumbnail": "https://img.youtube.com/vi/fs7V-lVtiDQ/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -579,7 +579,7 @@
       "url": "https://www.youtube.com/watch?v=o6QJ042ClE8",
       "thumbnail": "https://img.youtube.com/vi/o6QJ042ClE8/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -899,7 +899,7 @@
       "url": "https://www.youtube.com/watch?v=HsxKeI0tKik",
       "thumbnail": "https://img.youtube.com/vi/HsxKeI0tKik/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
