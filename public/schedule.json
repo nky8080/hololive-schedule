@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T22:54:19.998Z",
+  "updatedAt": "2026-02-12T23:17:39.518Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -242,6 +242,16 @@
       "isLive": true
     },
     {
+      "talentId": "shiranui_flare",
+      "talentName": "Shiranui Flare",
+      "groupId": "gen3",
+      "startTime": "2026-02-13T07:01:00+09:00",
+      "url": "https://www.youtube.com/watch?v=N1pu1tYR5CA",
+      "thumbnail": "https://img.youtube.com/vi/N1pu1tYR5CA/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
+    },
+    {
       "talentId": "natsuiro_matsuri",
       "talentName": "Natsuiro Matsuri",
       "groupId": "gen1",
@@ -412,16 +422,6 @@
       "isLive": false
     },
     {
-      "talentId": "fuwamoco",
-      "talentName": "FUWAMOCO",
-      "groupId": "en_advent",
-      "startTime": "2026-02-13T11:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=nbL_LitPcnQ",
-      "thumbnail": "https://img.youtube.com/vi/nbL_LitPcnQ/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
       "talentId": "gigi_murin",
       "talentName": "Gigi Murin",
       "groupId": "en_justice",
@@ -429,6 +429,16 @@
       "url": "https://www.youtube.com/watch?v=swmkfm_lEIc",
       "thumbnail": "https://img.youtube.com/vi/swmkfm_lEIc/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "fuwamoco",
+      "talentName": "FUWAMOCO",
+      "groupId": "en_advent",
+      "startTime": "2026-02-13T11:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=nbL_LitPcnQ",
+      "thumbnail": "https://img.youtube.com/vi/nbL_LitPcnQ/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
