@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T18:35:38.838Z",
+  "updatedAt": "2026-02-12T19:37:18.469Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -262,6 +262,16 @@
       "isLive": false
     },
     {
+      "talentId": "hakui_koyori",
+      "talentName": "Hakui Koyori",
+      "groupId": "holoX",
+      "startTime": "2026-02-14T11:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=yVgMIRzkROQ",
+      "thumbnail": "https://img.youtube.com/vi/yVgMIRzkROQ/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "yuzuki_choco",
       "talentName": "Yuzuki Choco",
       "groupId": "gen2",
@@ -289,6 +299,16 @@
       "url": "https://www.youtube.com/watch?v=59Fyb9ZpZRc",
       "thumbnail": "https://img.youtube.com/vi/59Fyb9ZpZRc/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "nekomata_okayu",
+      "talentName": "Nekomata Okayu",
+      "groupId": "gamers",
+      "startTime": "2026-02-14T22:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=gBVPv-Mi574",
+      "thumbnail": "https://img.youtube.com/vi/gBVPv-Mi574/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -709,7 +729,7 @@
       "url": "https://www.youtube.com/watch?v=ut9ksVs9sZI",
       "thumbnail": "https://img.youtube.com/vi/ut9ksVs9sZI/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -719,7 +739,7 @@
       "url": "https://www.youtube.com/watch?v=MgRp3TQJIHE",
       "thumbnail": "https://img.youtube.com/vi/MgRp3TQJIHE/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/pP_ShozRg9Hn8dyB4D8ODtdI9ShTY3AMOKui418InNDz9jwGYIRRH6bxdl7KX55SjmFMZlMUvg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
