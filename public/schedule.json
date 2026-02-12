@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T21:22:10.269Z",
+  "updatedAt": "2026-02-12T21:55:11.589Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -229,6 +229,16 @@
       "url": "https://www.youtube.com/watch?v=8jWjZaci06w",
       "thumbnail": "https://img.youtube.com/vi/8jWjZaci06w/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": true
+    },
+    {
+      "talentId": "shiranui_flare",
+      "talentName": "Shiranui Flare",
+      "groupId": "gen3",
+      "startTime": "2026-02-13T07:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=N1pu1tYR5CA",
+      "thumbnail": "https://img.youtube.com/vi/N1pu1tYR5CA/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -379,17 +389,17 @@
       "url": "https://www.youtube.com/watch?v=UrS8riGW6RM",
       "thumbnail": "https://img.youtube.com/vi/UrS8riGW6RM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "shiori_novella",
       "talentName": "Shiori Novella",
       "groupId": "en_advent",
-      "startTime": "2026-02-13T07:00:00+09:00",
+      "startTime": "2026-02-13T06:50:00+09:00",
       "url": "https://www.youtube.com/watch?v=J315mjbkn3I",
       "thumbnail": "https://img.youtube.com/vi/J315mjbkn3I/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "hakos_baelz",
@@ -399,6 +409,16 @@
       "url": "https://www.youtube.com/watch?v=WuGLFHZHrCo",
       "thumbnail": "https://img.youtube.com/vi/WuGLFHZHrCo/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "fuwamoco",
+      "talentName": "FUWAMOCO",
+      "groupId": "en_advent",
+      "startTime": "2026-02-13T11:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=nbL_LitPcnQ",
+      "thumbnail": "https://img.youtube.com/vi/nbL_LitPcnQ/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
