@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T23:17:39.518Z",
+  "updatedAt": "2026-02-12T23:50:01.834Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -239,7 +239,7 @@
       "url": "https://www.youtube.com/watch?v=8jWjZaci06w",
       "thumbnail": "https://img.youtube.com/vi/8jWjZaci06w/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "shiranui_flare",
@@ -399,7 +399,7 @@
       "url": "https://www.youtube.com/watch?v=UrS8riGW6RM",
       "thumbnail": "https://img.youtube.com/vi/UrS8riGW6RM/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "shiori_novella",
@@ -409,7 +409,7 @@
       "url": "https://www.youtube.com/watch?v=J315mjbkn3I",
       "thumbnail": "https://img.youtube.com/vi/J315mjbkn3I/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "hakos_baelz",
@@ -422,16 +422,6 @@
       "isLive": false
     },
     {
-      "talentId": "gigi_murin",
-      "talentName": "Gigi Murin",
-      "groupId": "en_justice",
-      "startTime": "2026-02-13T11:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=swmkfm_lEIc",
-      "thumbnail": "https://img.youtube.com/vi/swmkfm_lEIc/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
-    },
-    {
       "talentId": "fuwamoco",
       "talentName": "FUWAMOCO",
       "groupId": "en_advent",
@@ -439,6 +429,16 @@
       "url": "https://www.youtube.com/watch?v=nbL_LitPcnQ",
       "thumbnail": "https://img.youtube.com/vi/nbL_LitPcnQ/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "gigi_murin",
+      "talentName": "Gigi Murin",
+      "groupId": "en_justice",
+      "startTime": "2026-02-13T11:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=swmkfm_lEIc",
+      "thumbnail": "https://img.youtube.com/vi/swmkfm_lEIc/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -479,6 +479,16 @@
       "url": "https://www.youtube.com/watch?v=LFRB8LW9jMw",
       "thumbnail": "https://img.youtube.com/vi/LFRB8LW9jMw/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "shiori_novella",
+      "talentName": "Shiori Novella",
+      "groupId": "en_advent",
+      "startTime": "2026-02-14T11:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=f-eBy7EYYo0",
+      "thumbnail": "https://img.youtube.com/vi/f-eBy7EYYo0/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
