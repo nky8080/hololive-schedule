@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T11:05:06.787Z",
+  "updatedAt": "2026-02-12T11:53:13.108Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -792,6 +792,16 @@
       "isLive": false
     },
     {
+      "talentId": "kureiji_ollie",
+      "talentName": "Kureiji Ollie",
+      "groupId": "id_gen2",
+      "startTime": "2026-02-12T22:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=RYMuLekrTEc",
+      "thumbnail": "https://img.youtube.com/vi/RYMuLekrTEc/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "kaela_kovalskia",
       "talentName": "Kaela Kovalskia",
       "groupId": "id_gen3",
@@ -959,16 +969,6 @@
       "url": "https://www.youtube.com/watch?v=g4jZKu9vJp0",
       "thumbnail": "https://img.youtube.com/vi/g4jZKu9vJp0/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
-    },
-    {
-      "talentId": "unknown",
-      "talentName": "夜十神封魔",
-      "groupId": "holostars_jp",
-      "startTime": "2026-02-12T20:30:00+09:00",
-      "url": "https://www.youtube.com/watch?v=o6QJ042ClE8",
-      "thumbnail": "https://img.youtube.com/vi/o6QJ042ClE8/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
