@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T06:36:20.957Z",
+  "updatedAt": "2026-02-12T07:37:28.577Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -682,6 +682,26 @@
       "isLive": true
     },
     {
+      "talentId": "ayunda_risu",
+      "talentName": "Ayunda Risu",
+      "groupId": "id_gen1",
+      "startTime": "2026-02-12T17:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=kfD3xg_irQk",
+      "thumbnail": "https://img.youtube.com/vi/kfD3xg_irQk/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "airani_iofiteen",
+      "talentName": "Airani Iofifteen",
+      "groupId": "id_gen1",
+      "startTime": "2026-02-12T17:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=qZ7Delpjce4",
+      "thumbnail": "https://img.youtube.com/vi/qZ7Delpjce4/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "kobo_kanaeru",
       "talentName": "Kobo Kanaeru",
       "groupId": "id_gen3",
@@ -979,7 +999,7 @@
       "url": "https://www.youtube.com/watch?v=R19INiT2Ek4",
       "thumbnail": "https://img.youtube.com/vi/R19INiT2Ek4/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -989,7 +1009,7 @@
       "url": "https://www.youtube.com/watch?v=2nBZoeLlXQo",
       "thumbnail": "https://img.youtube.com/vi/2nBZoeLlXQo/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/GkDmDWOfKfFkcVmG3-ECCRMeFR4bXlWBvuGO3xu3Ud68kVTWssXpn5q266BmtXvcHuzc5Ib2iFQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -1009,7 +1029,7 @@
       "url": "https://www.youtube.com/watch?v=mWRWKpJ9vWQ",
       "thumbnail": "https://img.youtube.com/vi/mWRWKpJ9vWQ/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/12Y9I0cP0EqJe4Wpkm19p_MythjFqYcMZRC3vN4bYPSzE9ANTIFXOhZdfP1TQpAi4Thw741twyg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -1019,7 +1039,7 @@
       "url": "https://www.youtube.com/watch?v=gPADgkgg3gQ",
       "thumbnail": "https://img.youtube.com/vi/gPADgkgg3gQ/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
