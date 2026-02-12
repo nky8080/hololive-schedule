@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T23:50:41.489Z",
+  "updatedAt": "2026-02-12T01:01:55.538Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -479,7 +479,7 @@
       "url": "https://www.youtube.com/watch?v=S7orQua5JMA",
       "thumbnail": "https://img.youtube.com/vi/S7orQua5JMA/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "gigi_murin",
@@ -495,11 +495,11 @@
       "talentId": "koseki_bijou",
       "talentName": "Koseki Bijou",
       "groupId": "en_advent",
-      "startTime": "2026-02-12T09:00:00+09:00",
+      "startTime": "2026-02-12T08:55:00+09:00",
       "url": "https://www.youtube.com/watch?v=yXRG79Dqkbk",
       "thumbnail": "https://img.youtube.com/vi/yXRG79Dqkbk/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "mori_calliope",
@@ -873,13 +873,33 @@
     },
     {
       "talentId": "unknown",
-      "talentName": "Hakka",
+      "talentName": "Octavio",
       "groupId": "holostars_en",
       "startTime": "2026-02-12T09:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=0kDQB1u9iDc",
+      "thumbnail": "https://img.youtube.com/vi/0kDQB1u9iDc/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Goldbullet",
+      "groupId": "holostars_en",
+      "startTime": "2026-02-12T09:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=FxwNd7UldOg",
+      "thumbnail": "https://img.youtube.com/vi/FxwNd7UldOg/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/pP_ShozRg9Hn8dyB4D8ODtdI9ShTY3AMOKui418InNDz9jwGYIRRH6bxdl7KX55SjmFMZlMUvg=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Hakka",
+      "groupId": "holostars_en",
+      "startTime": "2026-02-12T09:02:00+09:00",
       "url": "https://www.youtube.com/watch?v=R19INiT2Ek4",
       "thumbnail": "https://img.youtube.com/vi/R19INiT2Ek4/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "unknown",
