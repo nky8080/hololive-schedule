@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T15:32:09.223Z",
+  "updatedAt": "2026-02-12T16:38:35.089Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -119,7 +119,7 @@
       "url": "https://www.youtube.com/watch?v=i3pYmxLUZOk",
       "thumbnail": "https://img.youtube.com/vi/i3pYmxLUZOk/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "hoshimachi_suisei",
@@ -382,6 +382,16 @@
       "isLive": false
     },
     {
+      "talentId": "gigi_murin",
+      "talentName": "Gigi Murin",
+      "groupId": "en_justice",
+      "startTime": "2026-02-13T11:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=swmkfm_lEIc",
+      "thumbnail": "https://img.youtube.com/vi/swmkfm_lEIc/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "mori_calliope",
       "talentName": "Mori Calliope",
       "groupId": "en_myth",
@@ -589,7 +599,7 @@
       "url": "https://www.youtube.com/watch?v=Cd70R5n5fsI",
       "thumbnail": "https://img.youtube.com/vi/Cd70R5n5fsI/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -713,12 +723,32 @@
     },
     {
       "talentId": "unknown",
+      "talentName": "Altare",
+      "groupId": "holostars_en",
+      "startTime": "2026-02-13T09:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=toSssry5lxE",
+      "thumbnail": "https://img.youtube.com/vi/toSssry5lxE/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/12Y9I0cP0EqJe4Wpkm19p_MythjFqYcMZRC3vN4bYPSzE9ANTIFXOhZdfP1TQpAi4Thw741twyg=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
       "talentName": "Crimzon",
       "groupId": "holostars_en",
       "startTime": "2026-02-13T10:00:00+09:00",
       "url": "https://www.youtube.com/watch?v=nNYqZxEeHvc",
       "thumbnail": "https://img.youtube.com/vi/nNYqZxEeHvc/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Flayon",
+      "groupId": "holostars_en",
+      "startTime": "2026-02-13T11:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=Ae0QdwVKFvo",
+      "thumbnail": "https://img.youtube.com/vi/Ae0QdwVKFvo/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -849,7 +879,7 @@
       "url": "https://www.youtube.com/watch?v=rDhCZtjfZ4k",
       "thumbnail": "https://img.youtube.com/vi/rDhCZtjfZ4k/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "unknown",
@@ -859,7 +889,7 @@
       "url": "https://www.youtube.com/watch?v=5XceSNTBQoE",
       "thumbnail": "https://img.youtube.com/vi/5XceSNTBQoE/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "mizumiya_su",
