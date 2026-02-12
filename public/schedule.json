@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T21:55:11.589Z",
+  "updatedAt": "2026-02-12T22:19:45.207Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -222,6 +222,16 @@
       "isLive": false
     },
     {
+      "talentId": "tsunomaki_watame",
+      "talentName": "Tsunomaki Watame",
+      "groupId": "gen4",
+      "startTime": "2026-02-13T06:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=nD8Ryx6pa78",
+      "thumbnail": "https://img.youtube.com/vi/nD8Ryx6pa78/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "usada_pekora",
       "talentName": "Usada Pekora",
       "groupId": "gen3",
@@ -230,16 +240,6 @@
       "thumbnail": "https://img.youtube.com/vi/8jWjZaci06w/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s88-c-k-c0x00ffffff-no-rj",
       "isLive": true
-    },
-    {
-      "talentId": "shiranui_flare",
-      "talentName": "Shiranui Flare",
-      "groupId": "gen3",
-      "startTime": "2026-02-13T07:00:00+09:00",
-      "url": "https://www.youtube.com/watch?v=N1pu1tYR5CA",
-      "thumbnail": "https://img.youtube.com/vi/N1pu1tYR5CA/mqdefault.jpg",
-      "icon": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
     },
     {
       "talentId": "natsuiro_matsuri",
@@ -775,11 +775,11 @@
       "talentId": "unknown",
       "talentName": "Bettel",
       "groupId": "holostars_en",
-      "startTime": "2026-02-13T07:00:00+09:00",
+      "startTime": "2026-02-13T06:59:00+09:00",
       "url": "https://www.youtube.com/watch?v=Pd7W_P5y_kE",
       "thumbnail": "https://img.youtube.com/vi/Pd7W_P5y_kE/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/kv71-xuB9kzbU7Bi4qsmkRXHc3wAgEU4rhllRnmGH4H23T825BKdGqEAcagTSE9r8BdsnG4lqQ=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "unknown",
