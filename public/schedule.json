@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T06:32:46.113Z",
+  "updatedAt": "2026-02-13T07:35:43.932Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -289,6 +289,16 @@
       "url": "https://www.youtube.com/watch?v=gSLLKe4Xyjo",
       "thumbnail": "https://img.youtube.com/vi/gSLLKe4Xyjo/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "shirakami_fubuki",
+      "talentName": "Shirakami Fubuki",
+      "groupId": "gen1",
+      "startTime": "2026-02-13T23:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=irYvrw9pWfY",
+      "thumbnail": "https://img.youtube.com/vi/irYvrw9pWfY/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
