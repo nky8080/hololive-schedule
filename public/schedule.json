@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T23:50:01.834Z",
+  "updatedAt": "2026-02-13T01:05:43.826Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -809,7 +809,7 @@
       "url": "https://www.youtube.com/watch?v=toSssry5lxE",
       "thumbnail": "https://img.youtube.com/vi/toSssry5lxE/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/12Y9I0cP0EqJe4Wpkm19p_MythjFqYcMZRC3vN4bYPSzE9ANTIFXOhZdfP1TQpAi4Thw741twyg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "unknown",
@@ -999,6 +999,16 @@
       "url": "https://www.youtube.com/watch?v=ake4dgc6t2o",
       "thumbnail": "https://img.youtube.com/vi/ake4dgc6t2o/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "holoAN room",
+      "groupId": "official",
+      "startTime": "2026-02-13T12:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=3vftEJ2SjaY",
+      "thumbnail": "https://img.youtube.com/vi/3vftEJ2SjaY/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/bLqkQmKBq5rRp53-TLpg1wa9Bn0aFwmjsnZ6LTPgq0NjJSs2304Rm61481alRP8mTdyNLFiJ9c0=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     }
   ]
