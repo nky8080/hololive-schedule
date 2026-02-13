@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T11:44:51.114Z",
+  "updatedAt": "2026-02-13T12:00:55.044Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -789,6 +789,16 @@
       "url": "https://www.youtube.com/watch?v=ncGzbcf6ThY",
       "thumbnail": "https://img.youtube.com/vi/ncGzbcf6ThY/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "vestia_zeta",
+      "talentName": "Vestia Zeta",
+      "groupId": "id_gen3",
+      "startTime": "2026-02-13T22:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=MhQp9UMldQs",
+      "thumbnail": "https://img.youtube.com/vi/MhQp9UMldQs/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
