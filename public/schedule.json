@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T07:35:43.932Z",
+  "updatedAt": "2026-02-13T08:08:27.658Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -249,6 +249,16 @@
       "url": "https://www.youtube.com/watch?v=N1pu1tYR5CA",
       "thumbnail": "https://img.youtube.com/vi/N1pu1tYR5CA/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "kazama_iroha",
+      "talentName": "Kazama Iroha",
+      "groupId": "holoX",
+      "startTime": "2026-02-13T17:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=jYUbK_wP9zU",
+      "thumbnail": "https://img.youtube.com/vi/jYUbK_wP9zU/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -913,6 +923,16 @@
     },
     {
       "talentId": "unknown",
+      "talentName": "Altare",
+      "groupId": "holostars_en",
+      "startTime": "2026-02-14T00:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=EilKBA2mAvA",
+      "thumbnail": "https://img.youtube.com/vi/EilKBA2mAvA/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/12Y9I0cP0EqJe4Wpkm19p_MythjFqYcMZRC3vN4bYPSzE9ANTIFXOhZdfP1TQpAi4Thw741twyg=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
       "talentName": "Crimzon",
       "groupId": "holostars_en",
       "startTime": "2026-02-14T10:00:00+09:00",
@@ -1089,6 +1109,16 @@
       "url": "https://www.youtube.com/watch?v=ake4dgc6t2o",
       "thumbnail": "https://img.youtube.com/vi/ake4dgc6t2o/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "isaki_riona",
+      "talentName": "Isaki Riona",
+      "groupId": "flow_glow",
+      "startTime": "2026-02-14T17:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=wT_YjEgMMBY",
+      "thumbnail": "https://img.youtube.com/vi/wT_YjEgMMBY/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
