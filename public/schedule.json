@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T01:05:43.826Z",
+  "updatedAt": "2026-02-13T03:46:59.949Z",
   "streams": [
     {
       "talentId": "tsunomaki_watame",
@@ -249,7 +249,7 @@
       "url": "https://www.youtube.com/watch?v=N1pu1tYR5CA",
       "thumbnail": "https://img.youtube.com/vi/N1pu1tYR5CA/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
     },
     {
       "talentId": "natsuiro_matsuri",
@@ -415,41 +415,41 @@
       "talentId": "hakos_baelz",
       "talentName": "Hakos Baelz",
       "groupId": "en_promise",
-      "startTime": "2026-02-13T10:00:00+09:00",
+      "startTime": "2026-02-13T10:20:00+09:00",
       "url": "https://www.youtube.com/watch?v=WuGLFHZHrCo",
       "thumbnail": "https://img.youtube.com/vi/WuGLFHZHrCo/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "fuwamoco",
       "talentName": "FUWAMOCO",
       "groupId": "en_advent",
-      "startTime": "2026-02-13T11:00:00+09:00",
+      "startTime": "2026-02-13T10:55:00+09:00",
       "url": "https://www.youtube.com/watch?v=nbL_LitPcnQ",
       "thumbnail": "https://img.youtube.com/vi/nbL_LitPcnQ/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "gigi_murin",
       "talentName": "Gigi Murin",
       "groupId": "en_justice",
-      "startTime": "2026-02-13T11:00:00+09:00",
+      "startTime": "2026-02-13T10:59:00+09:00",
       "url": "https://www.youtube.com/watch?v=swmkfm_lEIc",
       "thumbnail": "https://img.youtube.com/vi/swmkfm_lEIc/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "mori_calliope",
       "talentName": "Mori Calliope",
       "groupId": "en_myth",
-      "startTime": "2026-02-13T12:00:00+09:00",
+      "startTime": "2026-02-13T12:02:00+09:00",
       "url": "https://www.youtube.com/watch?v=IPcHZNDKLUY",
       "thumbnail": "https://img.youtube.com/vi/IPcHZNDKLUY/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "elizabeth_rose_bloodflame",
@@ -582,6 +582,16 @@
       "isLive": false
     },
     {
+      "talentId": "airani_iofiteen",
+      "talentName": "Airani Iofifteen",
+      "groupId": "id_gen1",
+      "startTime": "2026-02-13T21:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=asIfj_KVQc4",
+      "thumbnail": "https://img.youtube.com/vi/asIfj_KVQc4/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
       "talentId": "kaela_kovalskia",
       "talentName": "Kaela Kovalskia",
       "groupId": "id_gen3",
@@ -679,6 +689,16 @@
       "url": "https://www.youtube.com/watch?v=PcDr0c7zBnc",
       "thumbnail": "https://img.youtube.com/vi/PcDr0c7zBnc/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "奏手イヅル",
+      "groupId": "holostars_jp",
+      "startTime": "2026-02-14T18:30:00+09:00",
+      "url": "https://www.youtube.com/watch?v=jlTASjV7HGY",
+      "thumbnail": "https://img.youtube.com/vi/jlTASjV7HGY/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s88-c-k-c0x00ffffff-no-rj",
       "isLive": false
     },
     {
@@ -809,13 +829,23 @@
       "url": "https://www.youtube.com/watch?v=toSssry5lxE",
       "thumbnail": "https://img.youtube.com/vi/toSssry5lxE/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/12Y9I0cP0EqJe4Wpkm19p_MythjFqYcMZRC3vN4bYPSzE9ANTIFXOhZdfP1TQpAi4Thw741twyg=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": true
+      "isLive": false
+    },
+    {
+      "talentId": "unknown",
+      "talentName": "Jurard",
+      "groupId": "holostars_en",
+      "startTime": "2026-02-13T10:00:00+09:00",
+      "url": "https://www.youtube.com/watch?v=7-c8_2yBzgw",
+      "thumbnail": "https://img.youtube.com/vi/7-c8_2yBzgw/mqdefault.jpg",
+      "icon": "https://yt3.ggpht.com/EA7rVsjrX8vvWUcCw-tEiLj4mrTZK3pvCdRmq07ylzGLBvMRL0FyU6rnMvk6-4umPUWJm8TeNg=s88-c-k-c0x00ffffff-no-rj",
+      "isLive": false
     },
     {
       "talentId": "unknown",
       "talentName": "Crimzon",
       "groupId": "holostars_en",
-      "startTime": "2026-02-13T10:00:00+09:00",
+      "startTime": "2026-02-13T10:03:00+09:00",
       "url": "https://www.youtube.com/watch?v=nNYqZxEeHvc",
       "thumbnail": "https://img.youtube.com/vi/nNYqZxEeHvc/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s88-c-k-c0x00ffffff-no-rj",
@@ -825,11 +855,11 @@
       "talentId": "unknown",
       "talentName": "Flayon",
       "groupId": "holostars_en",
-      "startTime": "2026-02-13T11:00:00+09:00",
+      "startTime": "2026-02-13T11:04:00+09:00",
       "url": "https://www.youtube.com/watch?v=Ae0QdwVKFvo",
       "thumbnail": "https://img.youtube.com/vi/Ae0QdwVKFvo/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     },
     {
       "talentId": "unknown",
@@ -1005,11 +1035,11 @@
       "talentId": "unknown",
       "talentName": "holoAN room",
       "groupId": "official",
-      "startTime": "2026-02-13T12:00:00+09:00",
+      "startTime": "2026-02-13T11:58:00+09:00",
       "url": "https://www.youtube.com/watch?v=3vftEJ2SjaY",
       "thumbnail": "https://img.youtube.com/vi/3vftEJ2SjaY/mqdefault.jpg",
       "icon": "https://yt3.ggpht.com/bLqkQmKBq5rRp53-TLpg1wa9Bn0aFwmjsnZ6LTPgq0NjJSs2304Rm61481alRP8mTdyNLFiJ9c0=s88-c-k-c0x00ffffff-no-rj",
-      "isLive": false
+      "isLive": true
     }
   ]
 }
